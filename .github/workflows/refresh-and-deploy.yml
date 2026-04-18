@@ -1,6 +1,9 @@
 name: Refresh And Deploy
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: '17 9 * * *'
@@ -19,6 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     env:
       VITE_BASE_PATH: /${{ github.event.repository.name }}/
+      MCD_API_KEY: ${{ secrets.MCD_API_KEY }}
+      MCD_MARKET_ID: ${{ vars.MCD_MARKET_ID || 'US' }}
+      MCD_LANGUAGE_NAME: ${{ vars.MCD_LANGUAGE_NAME || 'en-US' }}
+      MCD_PLATFORM: ${{ vars.MCD_PLATFORM || 'iphone' }}
+      MCD_APPLICATION: ${{ vars.MCD_APPLICATION || 'MOT' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,17 +41,11 @@ jobs:
         run: npm ci
 
       - name: Refresh live data
-        if: ${{ secrets.MCD_API_KEY != '' }}
-        env:
-          MCD_API_KEY: ${{ secrets.MCD_API_KEY }}
-          MCD_MARKET_ID: ${{ vars.MCD_MARKET_ID || 'US' }}
-          MCD_LANGUAGE_NAME: ${{ vars.MCD_LANGUAGE_NAME || 'en-US' }}
-          MCD_PLATFORM: ${{ vars.MCD_PLATFORM || 'iphone' }}
-          MCD_APPLICATION: ${{ vars.MCD_APPLICATION || 'MOT' }}
+        if: ${{ env.MCD_API_KEY != '' }}
         run: npm run refresh-data
 
       - name: Use committed sample data
-        if: ${{ secrets.MCD_API_KEY == '' }}
+        if: ${{ env.MCD_API_KEY == '' }}
         run: echo "MCD_API_KEY is not set; building with committed sample datasets."
 
       - name: Run tests

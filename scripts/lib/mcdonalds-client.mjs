@@ -6,15 +6,130 @@ const DEFAULT_HEADERS = {
   'user-agent': 'hot-n-spicy-finder/1.0'
 };
 
-export function buildAuthHeaders(apiKey) {
-  if (!apiKey) {
-    throw new Error('MCD_API_KEY is required for live menu availability refreshes.');
+export function decodeClientIdFromBasicToken(basicToken) {
+  if (!basicToken) {
+    throw new Error('BASIC_TOKEN_US is required for live menu availability refreshes.');
   }
 
+  const decoded = Buffer.from(basicToken, 'base64').toString('utf8');
+  const [clientId] = decoded.split(':');
+
+  if (!clientId) {
+    throw new Error('Unable to derive client ID from BASIC_TOKEN_US.');
+  }
+
+  return clientId;
+}
+
+export async function fetchJson(url, options = {}) {
+  const response = await fetch(url, options);
+
+  if (!response.ok) {
+    throw new Error(`Request failed (${response.status}) for ${url}`);
+  }
+
+  return response.json();
+}
+
+export async function fetchBearerToken(basicToken) {
+  const payload = await fetchJson('https://us-prod.api.mcd.com/v1/security/auth/token', {
+    method: 'POST',
+    headers: {
+      ...DEFAULT_HEADERS,
+      authorization: `Basic ${basicToken}`,
+      'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'
+    }
+  });
+
+  const token = payload?.response?.token;
+
+  if (!token) {
+    throw new Error('Bearer token missing from US auth response.');
+  }
+
+  return token;
+}
+
+function buildUsApiHeaders({ bearerToken, clientId, marketId = 'US' }) {
   return {
     ...DEFAULT_HEADERS,
-    mcd_apikey: apiKey
+    authorization: `Bearer ${bearerToken}`,
+    'mcd-clientid': clientId,
+    'mcd-marketid': marketId,
+    'mcd-sourceapp': 'GMA',
+    'mcd-uuid': '"',
+    'accept-language': 'en-US'
   };
+}
+
+export async function fetchUsStoresNearLocation({ latitude, longitude, bearerToken, clientId }) {
+  const url = new URL('https://us-prod.api.mcd.com/exp/v1/restaurant/location');
+  url.searchParams.set('distance', process.env.LOCATOR_DISTANCE_METERS ?? '100000');
+  url.searchParams.set('filter', 'summary');
+  url.searchParams.set('pageSize', process.env.LOCATOR_PAGE_SIZE ?? '250');
+  url.searchParams.set('latitude', String(latitude));
+  url.searchParams.set('longitude', String(longitude));
+
+  return fetchJson(url, {
+    headers: buildUsApiHeaders({ bearerToken, clientId })
+  });
+}
+
+export function normalizeUsStoreSearchResponse(payload, country = 'US') {
+  const restaurants = payload?.response?.restaurants ?? [];
+
+  return restaurants
+    .map((restaurant) => {
+      const storeNumber = restaurant?.nationalStoreNumber;
+
+      if (!storeNumber) {
+        return null;
+      }
+
+      return {
+        storeId: `${country}-${storeNumber}`,
+        nationalStoreNumber: String(storeNumber),
+        name: restaurant.name ?? `McDonald's #${storeNumber}`,
+        address: restaurant.address?.addressLine1 ?? '',
+        city: restaurant.address?.cityTown ?? '',
+        state: restaurant.address?.countrySubdivision ?? '',
+        postalCode: restaurant.address?.postalZip ?? '',
+        lat: Number(restaurant.location?.latitude),
+        lng: Number(restaurant.location?.longitude)
+      };
+    })
+    .filter(Boolean);
+}
+
+export async function fetchUsRestaurantDetails(storeNumber, bearerToken, clientId, marketId = 'US') {
+  const url = new URL(`https://us-prod.api.mcd.com/exp/v1/restaurant/${storeNumber}`);
+  url.searchParams.set('filter', 'full');
+  url.searchParams.set('storeUniqueIdType', 'NatlStrNumber');
+
+  return fetchJson(url, {
+    headers: buildUsApiHeaders({ bearerToken, clientId, marketId })
+  });
+}
+
+export function getOutageProductCodes(restaurantDetailsPayload) {
+  return (restaurantDetailsPayload?.response?.restaurant?.catalog?.outageProductCodes ?? []).map((value) =>
+    String(value)
+  );
+}
+
+export function hasTargetItemFromOutages(outageProductCodes, targetProductCodes) {
+  if (targetProductCodes.length === 0) {
+    return false;
+  }
+
+  return targetProductCodes.some((code) => !outageProductCodes.includes(String(code)));
+}
+
+export function parseTargetProductCodes() {
+  return (process.env.HOT_SPICY_PRODUCT_CODES ?? process.env.MCD_TARGET_PRODUCT_CODES ?? '12345')
+    .split(',')
+    .map((value) => value.trim())
+    .filter(Boolean);
 }
 
 export function extractTargetProductCodes(categoryDetailPayloads) {
@@ -36,63 +151,6 @@ export function extractTargetProductCodes(categoryDetailPayloads) {
   return [...codes];
 }
 
-export function hasTargetItemFromStoreInfo(storeInfoPayload, targetProductCodes) {
-  const outageCodes = (storeInfoPayload?.Data?.OutageProductCodes ?? []).map((value) => String(value));
-
-  if (targetProductCodes.length === 0) {
-    return false;
-  }
-
-  return targetProductCodes.some((code) => !outageCodes.includes(String(code)));
-}
-
-export async function fetchJson(url, options = {}) {
-  const response = await fetch(url, options);
-
-  if (!response.ok) {
-    throw new Error(`Request failed (${response.status}) for ${url}`);
-  }
-
-  return response.json();
-}
-
-export async function fetchNutritionCategoryIds() {
-  const url = new URL('https://api.mcd.com/v3/nutrition/category/list');
-  url.searchParams.set('country', process.env.MCD_MARKET_ID ?? 'US');
-  url.searchParams.set('language', 'en');
-  url.searchParams.set('languageName', process.env.MCD_LANGUAGE_NAME ?? 'en-US');
-  url.searchParams.set('showLiveData', '1');
-  url.searchParams.set('categoryType', '1');
-
-  const payload = await fetchJson(url);
-  const categories = payload?.categories?.category ?? [];
-  return categories.map((category) => category.category_id).filter(Boolean);
-}
-
-export async function fetchCategoryDetail(categoryId) {
-  const url = new URL('https://api.mcd.com/v3/nutrition/category/detail');
-  url.searchParams.set('country', process.env.MCD_MARKET_ID ?? 'US');
-  url.searchParams.set('language', 'en');
-  url.searchParams.set('languageName', process.env.MCD_LANGUAGE_NAME ?? 'en-US');
-  url.searchParams.set('showLiveData', '1');
-  url.searchParams.set('categoryId', String(categoryId));
-
-  return fetchJson(url);
-}
-
-export async function fetchStoreInfo(storeNumber, apiKey) {
-  const url = new URL('https://api.mcd.com/v3/restaurant/information');
-  url.searchParams.set('application', process.env.MCD_APPLICATION ?? 'MOT');
-  url.searchParams.set('languageName', process.env.MCD_LANGUAGE_NAME ?? 'en-US');
-  url.searchParams.set('marketId', process.env.MCD_MARKET_ID ?? 'US');
-  url.searchParams.set('platform', process.env.MCD_PLATFORM ?? 'iphone');
-  url.searchParams.set('storeNumber', String(storeNumber));
-
-  return fetchJson(url, {
-    headers: buildAuthHeaders(apiKey)
-  });
-}
-
 export function buildAvailabilityDataset(stores, targetProductCodes, generatedAt, description) {
   const matchingStores = stores.filter((store) => store.hasItem);
 
@@ -112,4 +170,3 @@ export function buildAvailabilityDataset(stores, targetProductCodes, generatedAt
     stores: matchingStores
   };
 }
-

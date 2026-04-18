@@ -3,57 +3,42 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   buildAvailabilityDataset,
-  extractTargetProductCodes,
-  fetchCategoryDetail,
-  fetchNutritionCategoryIds,
-  fetchStoreInfo,
-  hasTargetItemFromStoreInfo
+  decodeClientIdFromBasicToken,
+  fetchBearerToken,
+  fetchUsRestaurantDetails,
+  fetchUsStoresNearLocation,
+  getOutageProductCodes,
+  hasTargetItemFromOutages,
+  normalizeUsStoreSearchResponse,
+  parseTargetProductCodes
 } from './lib/mcdonalds-client.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
-import { buildSweepPoints, dedupeStores, parseLocatorFeature } from './lib/store-discovery.mjs';
+import { buildSweepPoints, dedupeStores } from './lib/store-discovery.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(__dirname, '..');
 const publicDataDir = path.join(repoRoot, 'public', 'data');
 const fallbackPath = path.join(repoRoot, 'scripts', 'data', 'us-store-fallback.v1.json');
-const locatorBase = process.env.MCD_LOCATOR_BASE ?? 'https://www.mcdonalds.com/googleappsv2/geolocation';
+const DEFAULT_MARKET_ID = 'US';
 
-async function fetchJson(url, options = {}) {
-  const response = await fetch(url, options);
-
-  if (!response.ok) {
-    throw new Error(`Failed to fetch ${url}: ${response.status}`);
-  }
-
-  return response.json();
-}
-
-async function discoverStoresFromPublicLocator() {
+async function discoverStoresFromAuthenticatedSearch({ bearerToken, clientId }) {
   const sweepPoints = buildSweepPoints({
     step: Number(process.env.LOCATOR_SWEEP_STEP ?? '2')
   });
-  const radius = process.env.LOCATOR_RADIUS_KM ?? '160';
-  const maxResults = process.env.LOCATOR_MAX_RESULTS ?? '250';
   const discoveredStores = [];
 
   for (const point of sweepPoints) {
-    const url = new URL(locatorBase);
-    url.searchParams.set('latitude', String(point.lat));
-    url.searchParams.set('longitude', String(point.lng));
-    url.searchParams.set('radius', radius);
-    url.searchParams.set('maxResults', maxResults);
-    url.searchParams.set('country', 'us');
-    url.searchParams.set('language', 'en-us');
-
     try {
-      const payload = await fetchJson(url);
-      const features = payload?.features ?? [];
-      features
-        .map(parseLocatorFeature)
-        .filter(Boolean)
-        .forEach((store) => discoveredStores.push(store));
+      const payload = await fetchUsStoresNearLocation({
+        latitude: point.lat,
+        longitude: point.lng,
+        bearerToken,
+        clientId
+      });
+
+      normalizeUsStoreSearchResponse(payload, DEFAULT_MARKET_ID).forEach((store) => discoveredStores.push(store));
     } catch (error) {
-      console.warn(`Locator sweep failed for ${point.lat}, ${point.lng}:`, error.message);
+      console.warn(`Authenticated store sweep failed for ${point.lat}, ${point.lng}:`, error.message);
     }
   }
 
@@ -65,26 +50,10 @@ async function readFallbackStores() {
   return JSON.parse(raw);
 }
 
-async function resolveTargetProductCodes() {
-  const categoryIds = await fetchNutritionCategoryIds();
-  const detailPayloads = [];
-
-  for (const categoryId of categoryIds) {
-    try {
-      detailPayloads.push(await fetchCategoryDetail(categoryId));
-    } catch (error) {
-      console.warn(`Failed to fetch category detail for ${categoryId}:`, error.message);
-    }
-  }
-
-  return extractTargetProductCodes(detailPayloads);
-}
-
-async function enrichStoreAvailability(stores, targetProductCodes) {
-  const apiKey = process.env.MCD_API_KEY;
+async function enrichStoreAvailability(stores, targetProductCodes, bearerToken, clientId) {
   const lastCheckedAt = new Date().toISOString();
 
-  if (!apiKey) {
+  if (!(bearerToken && clientId)) {
     return stores.map((store) => ({
       ...store,
       hasItem: true,
@@ -96,12 +65,19 @@ async function enrichStoreAvailability(stores, targetProductCodes) {
   const results = [];
   for (const store of stores) {
     try {
-      const storeInfo = await fetchStoreInfo(store.storeId, apiKey);
+      const restaurantDetails = await fetchUsRestaurantDetails(
+        store.nationalStoreNumber ?? store.storeId,
+        bearerToken,
+        clientId,
+        DEFAULT_MARKET_ID
+      );
+      const outageProductCodes = getOutageProductCodes(restaurantDetails);
+
       results.push({
         ...store,
-        hasItem: hasTargetItemFromStoreInfo(storeInfo, targetProductCodes),
+        hasItem: hasTargetItemFromOutages(outageProductCodes, targetProductCodes),
         lastCheckedAt,
-        sourceMethod: 'store-info+nutrition'
+        sourceMethod: 'mcbroken-us-outages'
       });
     } catch (error) {
       console.warn(`Failed to refresh store ${store.storeId}:`, error.message);
@@ -124,49 +100,48 @@ async function writeDataset(fileName, payload) {
 
 async function main() {
   const generatedAt = new Date().toISOString();
-  const hasLiveApiKey = Boolean(process.env.MCD_API_KEY);
+  const basicTokenUs = process.env.BASIC_TOKEN_US;
+  const hasLiveToken = Boolean(basicTokenUs);
+  let bearerToken = '';
+  let clientId = '';
 
   let discoveredStores = [];
-  if (!hasLiveApiKey) {
-    console.warn('MCD_API_KEY is not configured; using the committed sample fallback stores.');
+  if (!hasLiveToken) {
+    console.warn('BASIC_TOKEN_US is not configured; using the committed sample fallback stores.');
     discoveredStores = await readFallbackStores();
   } else {
     try {
-      discoveredStores = await discoverStoresFromPublicLocator();
+      clientId = decodeClientIdFromBasicToken(basicTokenUs);
+      bearerToken = await fetchBearerToken(basicTokenUs);
+      discoveredStores = await discoverStoresFromAuthenticatedSearch({
+        bearerToken,
+        clientId
+      });
     } catch (error) {
-      console.warn('Public locator discovery failed:', error.message);
+      console.warn('Authenticated US store discovery failed:', error.message);
     }
 
     if (discoveredStores.length === 0) {
-      console.warn('Using fallback store seed because the public locator sweep returned no stores.');
+      console.warn('Using fallback store seed because the authenticated US store sweep returned no stores.');
       discoveredStores = await readFallbackStores();
     }
   }
 
-  let targetProductCodes = [];
-  if (hasLiveApiKey) {
-    try {
-      targetProductCodes = await resolveTargetProductCodes();
-    } catch (error) {
-      console.warn('Could not resolve target item codes from nutrition endpoints:', error.message);
-    }
-  }
+  const targetProductCodes = parseTargetProductCodes();
 
-  if (targetProductCodes.length === 0) {
-    targetProductCodes = (process.env.MCD_TARGET_PRODUCT_CODES ?? '12345')
-      .split(',')
-      .map((value) => value.trim())
-      .filter(Boolean);
-  }
-
-  const storesWithAvailability = await enrichStoreAvailability(discoveredStores, targetProductCodes);
+  const storesWithAvailability = await enrichStoreAvailability(
+    discoveredStores,
+    targetProductCodes,
+    bearerToken,
+    clientId
+  );
   const availabilityDataset = buildAvailabilityDataset(
     storesWithAvailability,
     targetProductCodes,
     generatedAt,
-    hasLiveApiKey
-      ? 'Generated from a public locator sweep plus reverse-engineered store outage data.'
-      : 'Generated from the committed sample fallback because MCD_API_KEY was not configured.'
+    hasLiveToken
+      ? "Generated from McDonald's US authenticated store search and outage data."
+      : 'Generated from the committed sample fallback because BASIC_TOKEN_US was not configured.'
   );
   const searchIndex = buildSearchIndex(discoveredStores, generatedAt);
 

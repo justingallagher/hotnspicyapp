@@ -2,42 +2,73 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   buildAvailabilityDataset,
-  extractTargetProductCodes,
-  hasTargetItemFromStoreInfo
+  decodeClientIdFromBasicToken,
+  getOutageProductCodes,
+  hasTargetItemFromOutages,
+  normalizeUsStoreSearchResponse
 } from '../scripts/lib/mcdonalds-client.mjs';
 
-test('extractTargetProductCodes finds hot n spicy items across category payloads', () => {
-  const payloads = [
-    {
-      category: {
-        items: {
-          item: [
-            {
-              item_name: "Hot 'n Spicy McChicken",
-              external_id: '4711'
-            },
-            {
-              item_name: 'Big Mac',
-              external_id: '10'
-            }
-          ]
-        }
-      }
-    }
-  ];
-
-  assert.deepEqual(extractTargetProductCodes(payloads), ['4711']);
+test('decodeClientIdFromBasicToken extracts the client id from the basic token', () => {
+  const token = Buffer.from('my-client-id:super-secret').toString('base64');
+  assert.equal(decodeClientIdFromBasicToken(token), 'my-client-id');
 });
 
-test('hasTargetItemFromStoreInfo returns true when one target code is not in outages', () => {
+test('hasTargetItemFromOutages returns true when one target code is not in outages', () => {
+  const outageCodes = ['10', '12'];
+
+  assert.equal(hasTargetItemFromOutages(outageCodes, ['4711']), true);
+  assert.equal(hasTargetItemFromOutages(outageCodes, ['10']), false);
+});
+
+test('normalizeUsStoreSearchResponse maps authenticated store search payloads', () => {
   const payload = {
-    Data: {
-      OutageProductCodes: ['10', '12']
+    response: {
+      restaurants: [
+        {
+          nationalStoreNumber: 12345,
+          name: "McDonald's #12345",
+          address: {
+            addressLine1: '1 Main St',
+            cityTown: 'Chicago',
+            countrySubdivision: 'IL',
+            postalZip: '60607'
+          },
+          location: {
+            latitude: 41.88,
+            longitude: -87.63
+          }
+        }
+      ]
     }
   };
 
-  assert.equal(hasTargetItemFromStoreInfo(payload, ['4711']), true);
-  assert.equal(hasTargetItemFromStoreInfo(payload, ['10']), false);
+  assert.deepEqual(normalizeUsStoreSearchResponse(payload), [
+    {
+      storeId: 'US-12345',
+      nationalStoreNumber: '12345',
+      name: "McDonald's #12345",
+      address: '1 Main St',
+      city: 'Chicago',
+      state: 'IL',
+      postalCode: '60607',
+      lat: 41.88,
+      lng: -87.63
+    }
+  ]);
+});
+
+test('getOutageProductCodes reads outage codes from US restaurant detail payloads', () => {
+  const payload = {
+    response: {
+      restaurant: {
+        catalog: {
+          outageProductCodes: ['101', '202']
+        }
+      }
+    }
+  };
+
+  assert.deepEqual(getOutageProductCodes(payload), ['101', '202']);
 });
 
 test('buildAvailabilityDataset serializes only matching stores', () => {
@@ -74,4 +105,3 @@ test('buildAvailabilityDataset serializes only matching stores', () => {
   assert.equal(dataset.storeCount, 1);
   assert.equal(dataset.stores[0].storeId, '1');
 });
-

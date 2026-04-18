@@ -1,0 +1,70 @@
+{
+  "version": "1",
+  "generatedAt": "2026-04-18T03:51:48.118Z",
+  "item": {
+    "name": "Hot 'n Spicy McChicken",
+    "normalizedName": "hot n spicy mcchicken",
+    "targetProductCodes": [
+      "12345"
+    ]
+  },
+  "coverage": {
+    "country": "US",
+    "description": "Generated from the committed sample fallback because MCD_API_KEY was not configured."
+  },
+  "storeCount": 4,
+  "stores": [
+    {
+      "storeId": "1001",
+      "name": "McDonald's #1001",
+      "address": "110 N Carpenter St",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60607",
+      "lat": 41.8846,
+      "lng": -87.6536,
+      "hasItem": true,
+      "lastCheckedAt": "2026-04-18T03:51:48.125Z",
+      "sourceMethod": "sample-fallback"
+    },
+    {
+      "storeId": "1002",
+      "name": "McDonald's #1002",
+      "address": "800 6th Ave",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10001",
+      "lat": 40.7456,
+      "lng": -73.9915,
+      "hasItem": true,
+      "lastCheckedAt": "2026-04-18T03:51:48.125Z",
+      "sourceMethod": "sample-fallback"
+    },
+    {
+      "storeId": "1003",
+      "name": "McDonald's #1003",
+      "address": "114 Delancey St",
+      "city": "San Antonio",
+      "state": "TX",
+      "postalCode": "78205",
+      "lat": 29.4254,
+      "lng": -98.4901,
+      "hasItem": true,
+      "lastCheckedAt": "2026-04-18T03:51:48.125Z",
+      "sourceMethod": "sample-fallback"
+    },
+    {
+      "storeId": "1004",
+      "name": "McDonald's #1004",
+      "address": "2810 Crenshaw Blvd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90016",
+      "lat": 34.0344,
+      "lng": -118.3362,
+      "hasItem": true,
+      "lastCheckedAt": "2026-04-18T03:51:48.125Z",
+      "sourceMethod": "sample-fallback"
+    }
+  ]
+}

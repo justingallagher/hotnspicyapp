@@ -1,0 +1,43 @@
+[
+  {
+    "storeId": "1001",
+    "name": "McDonald's #1001",
+    "address": "110 N Carpenter St",
+    "city": "Chicago",
+    "state": "IL",
+    "postalCode": "60607",
+    "lat": 41.8846,
+    "lng": -87.6536
+  },
+  {
+    "storeId": "1002",
+    "name": "McDonald's #1002",
+    "address": "800 6th Ave",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": "10001",
+    "lat": 40.7456,
+    "lng": -73.9915
+  },
+  {
+    "storeId": "1003",
+    "name": "McDonald's #1003",
+    "address": "114 Delancey St",
+    "city": "San Antonio",
+    "state": "TX",
+    "postalCode": "78205",
+    "lat": 29.4254,
+    "lng": -98.4901
+  },
+  {
+    "storeId": "1004",
+    "name": "McDonald's #1004",
+    "address": "2810 Crenshaw Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "postalCode": "90016",
+    "lat": 34.0344,
+    "lng": -118.3362
+  }
+]
+

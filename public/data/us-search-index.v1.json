@@ -1,0 +1,76 @@
+{
+  "version": "1",
+  "generatedAt": "2026-04-18T03:51:48.118Z",
+  "coverage": {
+    "country": "US",
+    "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
+  },
+  "postalCodes": [
+    {
+      "postalCode": "10001",
+      "city": "New York",
+      "state": "NY",
+      "lat": 40.7456,
+      "lng": -73.9915,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "60607",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.8846,
+      "lng": -87.6536,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "78205",
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.4254,
+      "lng": -98.4901,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "90016",
+      "city": "Los Angeles",
+      "state": "CA",
+      "lat": 34.0344,
+      "lng": -118.3362,
+      "storeCount": 1
+    }
+  ],
+  "cities": [
+    {
+      "slug": "chicago-il",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 41.8846,
+      "lng": -87.6536,
+      "storeCount": 1
+    },
+    {
+      "slug": "los-angeles-ca",
+      "city": "Los Angeles",
+      "state": "CA",
+      "lat": 34.0344,
+      "lng": -118.3362,
+      "storeCount": 1
+    },
+    {
+      "slug": "new-york-ny",
+      "city": "New York",
+      "state": "NY",
+      "lat": 40.7456,
+      "lng": -73.9915,
+      "storeCount": 1
+    },
+    {
+      "slug": "san-antonio-tx",
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.4254,
+      "lng": -98.4901,
+      "storeCount": 1
+    }
+  ]
+}

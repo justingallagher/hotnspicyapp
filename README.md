@@ -7,7 +7,8 @@ A static React + Vite web app that visualizes McDonald's locations in the United
 - `src/`: mobile-first React UI with Leaflet map, geolocation-first centering, ZIP/city fallback search, and a distance-sorted result list.
 - `public/data/`: deployed JSON cache consumed by the frontend.
 - `scripts/refresh-data.mjs`: generates the static datasets.
-- `.github/workflows/refresh-and-deploy.yml`: installs dependencies, optionally refreshes live data, builds the site, and deploys to GitHub Pages.
+- `.github/workflows/deploy-pages.yml`: builds the app from the committed repo state and deploys it to GitHub Pages.
+- `.github/workflows/refresh-live-data.yml`: refreshes `public/data/` on a schedule or manual trigger, commits any changed cache files, and lets the normal deploy workflow publish them.
 
 ## Data Contracts
 
@@ -80,7 +81,7 @@ Optional overrides:
 - `MCD_PLATFORM` default `iphone`
 - `MCD_APPLICATION` default `MOT`
 
-If `MCD_API_KEY` is not configured, the workflow still builds and deploys the committed sample datasets from `public/data/`.
+If `MCD_API_KEY` is not configured, the deploy workflow still builds and deploys the committed datasets from `public/data/`, while the refresh workflow becomes a no-op.
 
 ## Refresh Strategy
 

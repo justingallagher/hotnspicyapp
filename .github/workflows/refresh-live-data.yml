@@ -1,0 +1,59 @@
+name: Refresh Live Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 9 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-live-data
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      MCD_API_KEY: ${{ secrets.MCD_API_KEY }}
+      MCD_MARKET_ID: ${{ vars.MCD_MARKET_ID || 'US' }}
+      MCD_LANGUAGE_NAME: ${{ vars.MCD_LANGUAGE_NAME || 'en-US' }}
+      MCD_PLATFORM: ${{ vars.MCD_PLATFORM || 'iphone' }}
+      MCD_APPLICATION: ${{ vars.MCD_APPLICATION || 'MOT' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Skip when API key is missing
+        if: ${{ env.MCD_API_KEY == '' }}
+        run: echo "MCD_API_KEY is not set; skipping live data refresh."
+
+      - name: Refresh live data
+        if: ${{ env.MCD_API_KEY != '' }}
+        run: npm run refresh-data
+
+      - name: Check crawler tests
+        if: ${{ env.MCD_API_KEY != '' }}
+        run: npm run test:crawler
+
+      - name: Commit refreshed cache
+        if: ${{ env.MCD_API_KEY != '' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/hot-n-spicy-mcchicken.v1.json public/data/us-search-index.v1.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh live McDonald's cache"
+          git push

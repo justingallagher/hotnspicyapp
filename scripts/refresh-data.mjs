@@ -7,8 +7,7 @@ import {
   fetchBearerToken,
   fetchUsRestaurantDetails,
   fetchUsStoresNearLocation,
-  getOutageProductCodes,
-  hasTargetItemFromOutages,
+  hasTargetItemFromRestaurantDetails,
   normalizeUsStoreSearchResponse,
   parseTargetProductCodes
 } from './lib/mcdonalds-client.mjs';
@@ -71,13 +70,12 @@ async function enrichStoreAvailability(stores, targetProductCodes, bearerToken, 
         clientId,
         DEFAULT_MARKET_ID
       );
-      const outageProductCodes = getOutageProductCodes(restaurantDetails);
 
       results.push({
         ...store,
-        hasItem: hasTargetItemFromOutages(outageProductCodes, targetProductCodes),
+        hasItem: hasTargetItemFromRestaurantDetails(restaurantDetails, targetProductCodes),
         lastCheckedAt,
-        sourceMethod: 'mcbroken-us-outages'
+        sourceMethod: 'mcbroken-us-menu+outages'
       });
     } catch (error) {
       console.warn(`Failed to refresh store ${store.storeId}:`, error.message);

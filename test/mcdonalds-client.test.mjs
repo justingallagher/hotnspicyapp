@@ -3,8 +3,11 @@ import assert from 'node:assert/strict';
 import {
   buildAvailabilityDataset,
   decodeClientIdFromBasicToken,
+  getAvailableMenuProductCodes,
   getOutageProductCodes,
+  hasTargetItemFromMenuProducts,
   hasTargetItemFromOutages,
+  hasTargetItemFromRestaurantDetails,
   normalizeUsStoreSearchResponse
 } from '../scripts/lib/mcdonalds-client.mjs';
 
@@ -18,6 +21,28 @@ test('hasTargetItemFromOutages returns true when one target code is not in outag
 
   assert.equal(hasTargetItemFromOutages(outageCodes, ['4711']), true);
   assert.equal(hasTargetItemFromOutages(outageCodes, ['10']), false);
+});
+
+test('getAvailableMenuProductCodes flattens menu products across menu types', () => {
+  const payload = {
+    response: {
+      restaurant: {
+        availableMenuProducts: {
+          1: [10, 12, 15],
+          2: [15, 20]
+        }
+      }
+    }
+  };
+
+  assert.deepEqual(getAvailableMenuProductCodes(payload), ['10', '12', '15', '20']);
+});
+
+test('hasTargetItemFromMenuProducts requires the target code to be on the menu', () => {
+  const availableMenuCodes = ['10', '12', '15'];
+
+  assert.equal(hasTargetItemFromMenuProducts(availableMenuCodes, ['15']), true);
+  assert.equal(hasTargetItemFromMenuProducts(availableMenuCodes, ['99']), false);
 });
 
 test('normalizeUsStoreSearchResponse maps authenticated store search payloads', () => {
@@ -69,6 +94,51 @@ test('getOutageProductCodes reads outage codes from US restaurant detail payload
   };
 
   assert.deepEqual(getOutageProductCodes(payload), ['101', '202']);
+});
+
+test('hasTargetItemFromRestaurantDetails requires menu presence and no outage', () => {
+  const availableAndHealthyPayload = {
+    response: {
+      restaurant: {
+        availableMenuProducts: {
+          1: [4711, 123]
+        },
+        catalog: {
+          outageProductCodes: ['123']
+        }
+      }
+    }
+  };
+
+  const missingFromMenuPayload = {
+    response: {
+      restaurant: {
+        availableMenuProducts: {
+          1: [123]
+        },
+        catalog: {
+          outageProductCodes: []
+        }
+      }
+    }
+  };
+
+  const outagedPayload = {
+    response: {
+      restaurant: {
+        availableMenuProducts: {
+          1: [4711]
+        },
+        catalog: {
+          outageProductCodes: ['4711']
+        }
+      }
+    }
+  };
+
+  assert.equal(hasTargetItemFromRestaurantDetails(availableAndHealthyPayload, ['4711']), true);
+  assert.equal(hasTargetItemFromRestaurantDetails(missingFromMenuPayload, ['4711']), false);
+  assert.equal(hasTargetItemFromRestaurantDetails(outagedPayload, ['4711']), false);
 });
 
 test('buildAvailabilityDataset serializes only matching stores', () => {

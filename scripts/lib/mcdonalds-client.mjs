@@ -117,12 +117,41 @@ export function getOutageProductCodes(restaurantDetailsPayload) {
   );
 }
 
+export function getAvailableMenuProductCodes(restaurantDetailsPayload) {
+  const availableMenuProducts = restaurantDetailsPayload?.response?.restaurant?.availableMenuProducts ?? {};
+
+  return [...new Set(
+    Object.values(availableMenuProducts)
+      .flatMap((menuTypeProducts) => Array.isArray(menuTypeProducts) ? menuTypeProducts : [])
+      .map((value) => String(value))
+  )];
+}
+
 export function hasTargetItemFromOutages(outageProductCodes, targetProductCodes) {
   if (targetProductCodes.length === 0) {
     return false;
   }
 
   return targetProductCodes.some((code) => !outageProductCodes.includes(String(code)));
+}
+
+export function hasTargetItemFromMenuProducts(availableMenuProductCodes, targetProductCodes) {
+  if (targetProductCodes.length === 0) {
+    return false;
+  }
+
+  return targetProductCodes.some((code) => availableMenuProductCodes.includes(String(code)));
+}
+
+export function hasTargetItemFromRestaurantDetails(restaurantDetailsPayload, targetProductCodes) {
+  const availableMenuProductCodes = getAvailableMenuProductCodes(restaurantDetailsPayload);
+
+  if (!hasTargetItemFromMenuProducts(availableMenuProductCodes, targetProductCodes)) {
+    return false;
+  }
+
+  const outageProductCodes = getOutageProductCodes(restaurantDetailsPayload);
+  return hasTargetItemFromOutages(outageProductCodes, targetProductCodes);
 }
 
 export function parseTargetProductCodes() {

@@ -82,6 +82,44 @@ test('normalizeUsStoreSearchResponse maps authenticated store search payloads', 
   ]);
 });
 
+test('normalizeUsStoreSearchResponse falls back to alternate state fields', () => {
+  const payload = {
+    response: {
+      restaurants: [
+        {
+          nationalStoreNumber: 6101,
+          name: 'CHICAGO-DOWNTOWN',
+          address: {
+            addressLine1: '100 W Randolph St',
+            cityTown: 'Chicago',
+            subDivision: 'IL',
+            stateProvince: 'ILLINOIS',
+            postalZip: '60601'
+          },
+          location: {
+            latitude: 41.88425,
+            longitude: -87.6312
+          }
+        }
+      ]
+    }
+  };
+
+  assert.deepEqual(normalizeUsStoreSearchResponse(payload), [
+    {
+      storeId: 'US-6101',
+      nationalStoreNumber: '6101',
+      name: 'CHICAGO-DOWNTOWN',
+      address: '100 W Randolph St',
+      city: 'Chicago',
+      state: 'IL',
+      postalCode: '60601',
+      lat: 41.88425,
+      lng: -87.6312
+    }
+  ]);
+});
+
 test('getOutageProductCodes reads outage codes from US restaurant detail payloads', () => {
   const payload = {
     response: {

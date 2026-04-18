@@ -92,7 +92,11 @@ export function normalizeUsStoreSearchResponse(payload, country = 'US') {
         name: restaurant.name ?? `McDonald's #${storeNumber}`,
         address: restaurant.address?.addressLine1 ?? '',
         city: restaurant.address?.cityTown ?? '',
-        state: restaurant.address?.countrySubdivision ?? '',
+        state:
+          restaurant.address?.subDivision ??
+          restaurant.address?.countrySubdivision ??
+          restaurant.address?.stateProvince ??
+          '',
         postalCode: restaurant.address?.postalZip ?? '',
         lat: Number(restaurant.location?.latitude),
         lng: Number(restaurant.location?.longitude)

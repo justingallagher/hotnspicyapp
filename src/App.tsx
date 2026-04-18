@@ -183,14 +183,14 @@ export default function App() {
   return (
     <main className="shell">
       <section className="hero panel">
-        <div className="eyebrow">Static Cache + Daily Refresh</div>
-        <h1>{dataset.item.name}</h1>
+        <div className="eyebrow">Updated Daily</div>
+        <h1>Hot &apos;n Spicy Finder</h1>
         <p className="lede">
-          {dataset.storeCount} U.S. McDonald&apos;s locations in the current cache appear to carry this item.
+          {dataset.storeCount} U.S. McDonald&apos;s locations currently appear to have this item in stock.
         </p>
 
         <div className="hero-meta">
-          <span>Cache built {generatedDate}</span>
+          <span>Last Updated {generatedDate}</span>
           <span>{dataset.coverage.description}</span>
         </div>
       </section>

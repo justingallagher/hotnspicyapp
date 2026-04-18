@@ -101,13 +101,12 @@ describe('App', () => {
     render(<App />);
 
     await waitFor(() => {
-      expect(screen.getByText("Hot 'n Spicy McChicken")).toBeInTheDocument();
+      expect(screen.getByText("Hot 'n Spicy Finder")).toBeInTheDocument();
     });
 
     expect(screen.getByText(/Location access was denied/i)).toBeInTheDocument();
     expect(screen.getByLabelText(/ZIP code or City, State/i)).toBeInTheDocument();
-    expect(screen.getByText(/1 locations in cache/i)).toBeInTheDocument();
+    expect(screen.getByText(/1 locations in stock/i)).toBeInTheDocument();
     expect(screen.getByTestId('map-view')).toBeInTheDocument();
   });
 });
-

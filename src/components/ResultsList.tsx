@@ -29,7 +29,7 @@ export default function ResultsList({
       <div className="panel-header">
         <div>
           <div className="eyebrow">Matching Locations</div>
-          <h2>{stores.length} locations in cache</h2>
+          <h2>{stores.length} locations in stock</h2>
         </div>
       </div>
 
@@ -80,4 +80,3 @@ export default function ResultsList({
     </section>
   );
 }
-

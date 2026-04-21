@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-04-20T10:57:54.927Z",
+  "generatedAt": "2026-04-21T10:43:54.479Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -13458,9 +13458,9 @@
       "postalCode": "76065",
       "city": "Midlothian",
       "state": "",
-      "lat": 32.466281,
-      "lng": -96.987355,
-      "storeCount": 2
+      "lat": 32.473169,
+      "lng": -96.972178,
+      "storeCount": 3
     },
     {
       "postalCode": "76084",

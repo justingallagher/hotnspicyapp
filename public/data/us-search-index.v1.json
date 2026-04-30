@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-04-29T11:04:41.437Z",
+  "generatedAt": "2026-04-30T11:05:40.811Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -15322,9 +15322,9 @@
       "postalCode": "91351",
       "city": "Santa Clarita",
       "state": "",
-      "lat": 34.405066,
-      "lng": -118.464636,
-      "storeCount": 1
+      "lat": 34.413642,
+      "lng": -118.48517,
+      "storeCount": 2
     },
     {
       "postalCode": "91351-3772",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-05-07T11:18:20.793Z",
+  "generatedAt": "2026-05-08T10:48:26.024Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -3191,7 +3191,7 @@
       "storeCount": 3
     },
     {
-      "postalCode": "22043",
+      "postalCode": "22044",
       "city": "Falls Church",
       "state": "",
       "lat": 38.867723,
@@ -4186,17 +4186,9 @@
       "postalCode": "29730",
       "city": "Rock Hill",
       "state": "",
-      "lat": 34.940455,
-      "lng": -80.977331,
-      "storeCount": 1
-    },
-    {
-      "postalCode": "29731",
-      "city": "Rock Hill",
-      "state": "",
-      "lat": 34.914908,
-      "lng": -81.003688,
-      "storeCount": 1
+      "lat": 34.927681,
+      "lng": -80.99051,
+      "storeCount": 2
     },
     {
       "postalCode": "29902",
@@ -4418,9 +4410,9 @@
       "postalCode": "30721",
       "city": "Dalton",
       "state": "",
-      "lat": 34.829865,
-      "lng": -84.937554,
-      "storeCount": 2
+      "lat": 34.765892,
+      "lng": -84.929105,
+      "storeCount": 1
     },
     {
       "postalCode": "30721-5301",
@@ -4444,6 +4436,14 @@
       "state": "",
       "lat": 34.493868,
       "lng": -85.33595,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "30756",
+      "city": "Varnell",
+      "state": "",
+      "lat": 34.893838,
+      "lng": -84.946002,
       "storeCount": 1
     },
     {
@@ -5074,9 +5074,9 @@
       "postalCode": "32809",
       "city": "Orlando",
       "state": "",
-      "lat": 28.455713,
-      "lng": -81.388249,
-      "storeCount": 3
+      "lat": 28.446939,
+      "lng": -81.383821,
+      "storeCount": 2
     },
     {
       "postalCode": "32810",
@@ -5186,9 +5186,9 @@
       "postalCode": "32839",
       "city": "Orlando",
       "state": "",
-      "lat": 28.496001,
-      "lng": -81.397458,
-      "storeCount": 1
+      "lat": 28.484631,
+      "lng": -81.397281,
+      "storeCount": 2
     },
     {
       "postalCode": "32904",
@@ -7072,7 +7072,7 @@
     },
     {
       "postalCode": "43338",
-      "city": "Mt Gilead",
+      "city": "Mount Gilead",
       "state": "",
       "lat": 40.520732,
       "lng": -82.77848,
@@ -7888,7 +7888,7 @@
     },
     {
       "postalCode": "48082",
-      "city": "St. Clair Shores",
+      "city": "Saint Clair Shores",
       "state": "",
       "lat": 42.526134,
       "lng": -82.89711,
@@ -8584,7 +8584,7 @@
     },
     {
       "postalCode": "48316",
-      "city": "Shelby Twp",
+      "city": "Shelby Township",
       "state": "",
       "lat": 42.713155,
       "lng": -83.036176,
@@ -8592,7 +8592,7 @@
     },
     {
       "postalCode": "48316-4421",
-      "city": "Utica",
+      "city": "Shelby Township",
       "state": "",
       "lat": 42.669985,
       "lng": -83.037952,
@@ -12415,20 +12415,20 @@
       "storeCount": 1
     },
     {
-      "postalCode": "75040",
-      "city": "Garland",
-      "state": "",
-      "lat": 32.840376,
-      "lng": -96.597037,
-      "storeCount": 1
-    },
-    {
       "postalCode": "75041",
       "city": "Garland",
       "state": "",
-      "lat": 32.870355,
-      "lng": -96.642287,
-      "storeCount": 3
+      "lat": 32.867509,
+      "lng": -96.653958,
+      "storeCount": 2
+    },
+    {
+      "postalCode": "75043",
+      "city": "Garland",
+      "state": "",
+      "lat": 32.858211,
+      "lng": -96.607991,
+      "storeCount": 2
     },
     {
       "postalCode": "75050",
@@ -12903,14 +12903,6 @@
       "storeCount": 1
     },
     {
-      "postalCode": "75229",
-      "city": "Dallas",
-      "state": "",
-      "lat": 32.909256,
-      "lng": -96.854468,
-      "storeCount": 1
-    },
-    {
       "postalCode": "75229-3416",
       "city": "Dallas",
       "state": "",
@@ -12970,9 +12962,9 @@
       "postalCode": "75234",
       "city": "Farmers Branch",
       "state": "",
-      "lat": 32.932115,
-      "lng": -96.860277,
-      "storeCount": 2
+      "lat": 32.924806,
+      "lng": -96.882128,
+      "storeCount": 1
     },
     {
       "postalCode": "75235",
@@ -13031,6 +13023,14 @@
       "storeCount": 5
     },
     {
+      "postalCode": "75244",
+      "city": "Dallas",
+      "state": "",
+      "lat": 32.92434,
+      "lng": -96.846447,
+      "storeCount": 2
+    },
+    {
       "postalCode": "75246",
       "city": "Dallas",
       "state": "",
@@ -13064,7 +13064,7 @@
     },
     {
       "postalCode": "75261",
-      "city": "Dallas",
+      "city": "Dfw Airport",
       "state": "",
       "lat": 32.901455,
       "lng": -97.038874,
@@ -15271,7 +15271,7 @@
       "storeCount": 1
     },
     {
-      "postalCode": "91341-4928",
+      "postalCode": "91342",
       "city": "Sylmar",
       "state": "",
       "lat": 34.29501,
@@ -15375,20 +15375,12 @@
       "storeCount": 1
     },
     {
-      "postalCode": "91361",
-      "city": "Westlake Village",
-      "state": "",
-      "lat": 34.163555,
-      "lng": -118.826759,
-      "storeCount": 1
-    },
-    {
       "postalCode": "91362",
       "city": "Thousand Oaks",
       "state": "",
-      "lat": 34.210742,
-      "lng": -118.843466,
-      "storeCount": 1
+      "lat": 34.187149,
+      "lng": -118.835113,
+      "storeCount": 2
     },
     {
       "postalCode": "91364",

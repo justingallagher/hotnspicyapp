@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-05-16T10:37:43.802Z",
+  "generatedAt": "2026-05-17T10:38:59.315Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -13064,7 +13064,7 @@
     },
     {
       "postalCode": "75261",
-      "city": "Dfw Airport",
+      "city": "Dallas",
       "state": "",
       "lat": 32.901455,
       "lng": -97.038874,
@@ -14407,6 +14407,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "85350",
+      "city": "Somerton",
+      "state": "",
+      "lat": 32.597229,
+      "lng": -114.71993,
+      "storeCount": 1
+    },
+    {
       "postalCode": "85364",
       "city": "Yuma",
       "state": "",
@@ -14861,6 +14869,14 @@
       "lat": 36.25113,
       "lng": -115.170106,
       "storeCount": 2
+    },
+    {
+      "postalCode": "89032",
+      "city": "North Las Vegas",
+      "state": "",
+      "lat": 36.217096,
+      "lng": -115.178407,
+      "storeCount": 1
     },
     {
       "postalCode": "89040",

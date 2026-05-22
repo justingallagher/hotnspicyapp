@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-05-21T12:26:59.717Z",
+  "generatedAt": "2026-05-22T12:00:21.143Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -14893,6 +14893,14 @@
       "lat": 36.258235,
       "lng": -115.107994,
       "storeCount": 3
+    },
+    {
+      "postalCode": "89084",
+      "city": "North Las Vegas",
+      "state": "",
+      "lat": 36.304858,
+      "lng": -115.206709,
+      "storeCount": 1
     },
     {
       "postalCode": "89086",

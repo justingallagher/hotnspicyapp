@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-05-24T10:50:25.610Z",
+  "generatedAt": "2026-05-25T12:44:16.828Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -3597,6 +3597,14 @@
       "lat": 38.128618,
       "lng": -79.05355,
       "storeCount": 2
+    },
+    {
+      "postalCode": "24441",
+      "city": "Grottoes",
+      "state": "",
+      "lat": 38.260167,
+      "lng": -78.820012,
+      "storeCount": 1
     },
     {
       "postalCode": "24482",

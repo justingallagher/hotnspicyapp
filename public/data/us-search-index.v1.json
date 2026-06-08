@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-06-07T11:15:48.564Z",
+  "generatedAt": "2026-06-08T13:15:49.160Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -14682,9 +14682,9 @@
       "postalCode": "85747",
       "city": "Tucson",
       "state": "",
-      "lat": 32.102696,
-      "lng": -110.785751,
-      "storeCount": 2
+      "lat": 32.118222,
+      "lng": -110.781147,
+      "storeCount": 3
     },
     {
       "postalCode": "85748",

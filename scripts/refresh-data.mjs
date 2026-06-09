@@ -8,6 +8,7 @@ import {
   fetchUsRestaurantDetails,
   fetchUsStoresNearLocation,
   hasTargetItemFromRestaurantDetails,
+  normalizeUsRestaurantDetailsStoreFields,
   normalizeUsStoreSearchResponse,
   parseTargetProductCodes
 } from './lib/mcdonalds-client.mjs';
@@ -70,9 +71,11 @@ async function enrichStoreAvailability(stores, targetProductCodes, bearerToken, 
         clientId,
         DEFAULT_MARKET_ID
       );
+      const detailStoreFields = normalizeUsRestaurantDetailsStoreFields(restaurantDetails);
 
       results.push({
         ...store,
+        ...Object.fromEntries(Object.entries(detailStoreFields).filter(([, value]) => value !== undefined && value !== '')),
         hasItem: hasTargetItemFromRestaurantDetails(restaurantDetails, targetProductCodes),
         lastCheckedAt,
         sourceMethod: 'mcbroken-us-menu+outages'
@@ -141,7 +144,7 @@ async function main() {
       ? "Generated from McDonald's US authenticated store search and outage data."
       : 'Generated from the committed sample fallback because BASIC_TOKEN_US was not configured.'
   );
-  const searchIndex = buildSearchIndex(discoveredStores, generatedAt);
+  const searchIndex = buildSearchIndex(storesWithAvailability, generatedAt);
 
   await Promise.all([
     writeDataset('hot-n-spicy-mcchicken.v1.json', availabilityDataset),

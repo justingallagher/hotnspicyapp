@@ -8,6 +8,7 @@ import {
   hasTargetItemFromMenuProducts,
   hasTargetItemFromOutages,
   hasTargetItemFromRestaurantDetails,
+  normalizeUsRestaurantDetailsStoreFields,
   normalizeUsStoreSearchResponse
 } from '../scripts/lib/mcdonalds-client.mjs';
 
@@ -177,6 +178,39 @@ test('hasTargetItemFromRestaurantDetails requires menu presence and no outage', 
   assert.equal(hasTargetItemFromRestaurantDetails(availableAndHealthyPayload, ['4711']), true);
   assert.equal(hasTargetItemFromRestaurantDetails(missingFromMenuPayload, ['4711']), false);
   assert.equal(hasTargetItemFromRestaurantDetails(outagedPayload, ['4711']), false);
+});
+
+test('normalizeUsRestaurantDetailsStoreFields reads state from restaurant detail payloads', () => {
+  const payload = {
+    response: {
+      restaurant: {
+        nationalStoreNumber: 2292,
+        name: 'MANHATTAN-71ST',
+        address: {
+          addressLine1: '2049 Broadway',
+          cityTown: 'New York',
+          postalZip: '10023',
+          stateProvince: 'NEW YORK',
+          subDivision: 'NY'
+        },
+        location: {
+          latitude: 40.777901,
+          longitude: -73.982472
+        }
+      }
+    }
+  };
+
+  assert.deepEqual(normalizeUsRestaurantDetailsStoreFields(payload), {
+    nationalStoreNumber: '2292',
+    name: 'MANHATTAN-71ST',
+    address: '2049 Broadway',
+    city: 'New York',
+    state: 'NY',
+    postalCode: '10023',
+    lat: 40.777901,
+    lng: -73.982472
+  });
 });
 
 test('buildAvailabilityDataset serializes only matching stores', () => {

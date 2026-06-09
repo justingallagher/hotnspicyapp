@@ -158,6 +158,22 @@ export function hasTargetItemFromRestaurantDetails(restaurantDetailsPayload, tar
   return hasTargetItemFromOutages(outageProductCodes, targetProductCodes);
 }
 
+export function normalizeUsRestaurantDetailsStoreFields(restaurantDetailsPayload) {
+  const restaurant = restaurantDetailsPayload?.response?.restaurant ?? {};
+  const address = restaurant.address ?? {};
+
+  return {
+    nationalStoreNumber: restaurant.nationalStoreNumber ? String(restaurant.nationalStoreNumber) : undefined,
+    name: restaurant.name,
+    address: address.addressLine1,
+    city: address.cityTown,
+    state: address.subDivision ?? address.countrySubdivision ?? address.stateProvince,
+    postalCode: address.postalZip,
+    lat: restaurant.location?.latitude === undefined ? undefined : Number(restaurant.location.latitude),
+    lng: restaurant.location?.longitude === undefined ? undefined : Number(restaurant.location.longitude)
+  };
+}
+
 export function parseTargetProductCodes() {
   return (process.env.HOT_SPICY_PRODUCT_CODES ?? process.env.MCD_TARGET_PRODUCT_CODES ?? '12345')
     .split(',')

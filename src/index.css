@@ -292,6 +292,10 @@ h2 {
     padding-top: 12px;
   }
 
+  .map-column {
+    order: -1;
+  }
+
   .hero,
   .search-panel,
   .results-panel,

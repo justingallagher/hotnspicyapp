@@ -1,9 +1,6 @@
 import { useEffect, useRef } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import 'leaflet.markercluster/dist/MarkerCluster.css';
-import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
-import 'leaflet.markercluster';
 import type { Coordinate, HotSpicyAvailabilityStore } from '../types/contracts';
 
 interface MapViewProps {
@@ -30,7 +27,7 @@ export default function MapView({
 }: MapViewProps) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<L.Map | null>(null);
-  const clusterRef = useRef<L.MarkerClusterGroup | null>(null);
+  const markerLayerRef = useRef<L.LayerGroup | null>(null);
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) {
@@ -47,20 +44,17 @@ export default function MapView({
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
-    const clusterGroup = L.markerClusterGroup({
-      showCoverageOnHover: false,
-      spiderfyOnMaxZoom: true
-    });
+    const markerLayer = L.layerGroup();
 
-    clusterGroup.addTo(map);
+    markerLayer.addTo(map);
     mapRef.current = map;
-    clusterRef.current = clusterGroup;
+    markerLayerRef.current = markerLayer;
 
     return () => {
-      clusterGroup.clearLayers();
+      markerLayer.clearLayers();
       map.remove();
       mapRef.current = null;
-      clusterRef.current = null;
+      markerLayerRef.current = null;
     };
   }, [center.lat, center.lng]);
 
@@ -75,14 +69,14 @@ export default function MapView({
   }, [center.lat, center.lng]);
 
   useEffect(() => {
-    const clusterGroup = clusterRef.current;
+    const markerLayer = markerLayerRef.current;
     const map = mapRef.current;
 
-    if (!clusterGroup || !map) {
+    if (!markerLayer || !map) {
       return;
     }
 
-    clusterGroup.clearLayers();
+    markerLayer.clearLayers();
 
     stores.forEach((store) => {
       const marker = L.marker([store.lat, store.lng], {
@@ -97,7 +91,7 @@ export default function MapView({
         onSelectStore(store.storeId);
       });
 
-      clusterGroup.addLayer(marker);
+      markerLayer.addLayer(marker);
     });
 
     if (stores.length === 0) {

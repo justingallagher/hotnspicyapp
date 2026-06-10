@@ -14,6 +14,10 @@ test('buildSweepPoints covers the requested bounding box', () => {
   assert.equal(points.length, 9);
 });
 
+test('buildSweepPoints defaults to a one-degree grid for live discovery coverage', () => {
+  assert.equal(buildSweepPoints().length, 1534);
+});
+
 test('parseLocatorFeature maps locator properties to the normalized store shape', () => {
   const feature = {
     geometry: {

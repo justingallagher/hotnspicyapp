@@ -87,6 +87,7 @@ The refresh script:
 
 1. Mints a short-lived bearer token from `BASIC_TOKEN_US`.
 2. Sweeps the authenticated US restaurant-location endpoint over a configurable U.S. grid.
+   The default `LOCATOR_SWEEP_STEP` is `1`, which keeps discovery from over-sampling only around coarse grid centers.
 3. Deduplicates stores into a single catalog.
 4. Reads store outage data from the authenticated US restaurant detail endpoint.
 5. Marks Hot 'n Spicy availability by checking whether the configured product codes are absent from `catalog.outageProductCodes`.

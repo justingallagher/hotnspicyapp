@@ -23,7 +23,7 @@ const DEFAULT_MARKET_ID = 'US';
 
 async function discoverStoresFromAuthenticatedSearch({ bearerToken, clientId }) {
   const sweepPoints = buildSweepPoints({
-    step: Number(process.env.LOCATOR_SWEEP_STEP ?? '2')
+    step: Number(process.env.LOCATOR_SWEEP_STEP ?? '1')
   });
   const discoveredStores = [];
 

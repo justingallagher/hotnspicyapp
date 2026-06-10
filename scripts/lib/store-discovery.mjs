@@ -3,7 +3,7 @@ export function buildSweepPoints({
   latMax = 49.5,
   lngMin = -124.9,
   lngMax = -66.9,
-  step = 2
+  step = 1
 } = {}) {
   const points = [];
 

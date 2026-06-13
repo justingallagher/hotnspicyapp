@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-06-12T12:29:50.394Z",
+  "generatedAt": "2026-06-13T11:23:50.787Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -9,7 +9,7 @@
     {
       "postalCode": "01007",
       "city": "Belchertown",
-      "state": "",
+      "state": "MA",
       "lat": 42.28835,
       "lng": -72.406243,
       "storeCount": 1
@@ -17,7 +17,7 @@
     {
       "postalCode": "01008",
       "city": "Blandford",
-      "state": "",
+      "state": "MA",
       "lat": 42.194856,
       "lng": -72.933363,
       "storeCount": 2
@@ -25,7 +25,7 @@
     {
       "postalCode": "01013",
       "city": "Chicopee",
-      "state": "",
+      "state": "MA",
       "lat": 42.164688,
       "lng": -72.613644,
       "storeCount": 1
@@ -33,7 +33,7 @@
     {
       "postalCode": "01020",
       "city": "Chicopee",
-      "state": "",
+      "state": "MA",
       "lat": 42.170952,
       "lng": -72.56098,
       "storeCount": 2
@@ -41,7 +41,7 @@
     {
       "postalCode": "01020-3964",
       "city": "Chicopee",
-      "state": "",
+      "state": "MA",
       "lat": 42.197536,
       "lng": -72.574613,
       "storeCount": 1
@@ -49,7 +49,7 @@
     {
       "postalCode": "01027",
       "city": "Easthampton",
-      "state": "",
+      "state": "MA",
       "lat": 42.27988,
       "lng": -72.670284,
       "storeCount": 1
@@ -57,7 +57,7 @@
     {
       "postalCode": "01035",
       "city": "Hadley",
-      "state": "",
+      "state": "MA",
       "lat": 42.358839,
       "lng": -72.54972,
       "storeCount": 1
@@ -65,7 +65,7 @@
     {
       "postalCode": "01040",
       "city": "Holyoke",
-      "state": "",
+      "state": "MA",
       "lat": 42.189166,
       "lng": -72.627097,
       "storeCount": 3
@@ -73,7 +73,7 @@
     {
       "postalCode": "01060",
       "city": "Northampton",
-      "state": "",
+      "state": "MA",
       "lat": 42.328892,
       "lng": -72.633195,
       "storeCount": 1
@@ -81,7 +81,7 @@
     {
       "postalCode": "01082",
       "city": "Ware",
-      "state": "",
+      "state": "MA",
       "lat": 42.256992,
       "lng": -72.249906,
       "storeCount": 1
@@ -89,7 +89,7 @@
     {
       "postalCode": "01085",
       "city": "Westfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.123949,
       "lng": -72.734297,
       "storeCount": 2
@@ -97,7 +97,7 @@
     {
       "postalCode": "01089",
       "city": "West Springfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.115792,
       "lng": -72.623996,
       "storeCount": 1
@@ -105,7 +105,7 @@
     {
       "postalCode": "01103",
       "city": "Springfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.120846,
       "lng": -72.584841,
       "storeCount": 1
@@ -113,7 +113,7 @@
     {
       "postalCode": "01104-1170",
       "city": "Springfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.139292,
       "lng": -72.581955,
       "storeCount": 1
@@ -121,7 +121,7 @@
     {
       "postalCode": "01104-3036",
       "city": "Springfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.142832,
       "lng": -72.553449,
       "storeCount": 1
@@ -129,7 +129,7 @@
     {
       "postalCode": "01107-1906",
       "city": "Springfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.111282,
       "lng": -72.604074,
       "storeCount": 1
@@ -137,7 +137,7 @@
     {
       "postalCode": "01201",
       "city": "Pittsfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.455576,
       "lng": -73.239452,
       "storeCount": 2
@@ -145,7 +145,7 @@
     {
       "postalCode": "01220",
       "city": "Adams",
-      "state": "",
+      "state": "MA",
       "lat": 42.619229,
       "lng": -73.120178,
       "storeCount": 1
@@ -153,7 +153,7 @@
     {
       "postalCode": "01230",
       "city": "Great Barrington",
-      "state": "",
+      "state": "MA",
       "lat": 42.209996,
       "lng": -73.345374,
       "storeCount": 1
@@ -161,7 +161,7 @@
     {
       "postalCode": "01238",
       "city": "Lee",
-      "state": "",
+      "state": "MA",
       "lat": 42.298161,
       "lng": -73.263334,
       "storeCount": 3
@@ -169,7 +169,7 @@
     {
       "postalCode": "01247",
       "city": "North Adams",
-      "state": "",
+      "state": "MA",
       "lat": 42.700757,
       "lng": -73.107984,
       "storeCount": 1
@@ -177,7 +177,7 @@
     {
       "postalCode": "01301",
       "city": "Greenfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.592647,
       "lng": -72.609634,
       "storeCount": 2
@@ -185,7 +185,7 @@
     {
       "postalCode": "01331",
       "city": "Athol",
-      "state": "",
+      "state": "MA",
       "lat": 42.581505,
       "lng": -72.254883,
       "storeCount": 1
@@ -193,7 +193,7 @@
     {
       "postalCode": "01420",
       "city": "Fitchburg",
-      "state": "",
+      "state": "MA",
       "lat": 42.566681,
       "lng": -71.778901,
       "storeCount": 2
@@ -201,7 +201,7 @@
     {
       "postalCode": "01432",
       "city": "Ayer",
-      "state": "",
+      "state": "MA",
       "lat": 42.553761,
       "lng": -71.571747,
       "storeCount": 1
@@ -209,7 +209,7 @@
     {
       "postalCode": "01440",
       "city": "Gardner",
-      "state": "",
+      "state": "MA",
       "lat": 42.563297,
       "lng": -71.99086,
       "storeCount": 1
@@ -217,7 +217,7 @@
     {
       "postalCode": "01453",
       "city": "Leominster",
-      "state": "",
+      "state": "MA",
       "lat": 42.522709,
       "lng": -71.74351,
       "storeCount": 3
@@ -225,7 +225,7 @@
     {
       "postalCode": "01469",
       "city": "Townsend",
-      "state": "",
+      "state": "MA",
       "lat": 42.649975,
       "lng": -71.66217,
       "storeCount": 1
@@ -233,7 +233,7 @@
     {
       "postalCode": "01475",
       "city": "Winchendon",
-      "state": "",
+      "state": "MA",
       "lat": 42.678806,
       "lng": -72.039146,
       "storeCount": 1
@@ -241,7 +241,7 @@
     {
       "postalCode": "01501-2458",
       "city": "Auburn",
-      "state": "",
+      "state": "MA",
       "lat": 42.208801,
       "lng": -71.835716,
       "storeCount": 1
@@ -249,7 +249,7 @@
     {
       "postalCode": "01507",
       "city": "Charlton",
-      "state": "",
+      "state": "MA",
       "lat": 42.150788,
       "lng": -71.975698,
       "storeCount": 2
@@ -257,7 +257,7 @@
     {
       "postalCode": "01508",
       "city": "Charlton City",
-      "state": "",
+      "state": "MA",
       "lat": 42.139797,
       "lng": -72.024897,
       "storeCount": 1
@@ -265,7 +265,7 @@
     {
       "postalCode": "01510",
       "city": "Clinton",
-      "state": "",
+      "state": "MA",
       "lat": 42.432442,
       "lng": -71.687073,
       "storeCount": 1
@@ -273,7 +273,7 @@
     {
       "postalCode": "01520",
       "city": "Holden",
-      "state": "",
+      "state": "MA",
       "lat": 42.339478,
       "lng": -71.837723,
       "storeCount": 1
@@ -281,7 +281,7 @@
     {
       "postalCode": "01540",
       "city": "Oxford",
-      "state": "",
+      "state": "MA",
       "lat": 42.117058,
       "lng": -71.859802,
       "storeCount": 1
@@ -289,7 +289,7 @@
     {
       "postalCode": "01550",
       "city": "Southbridge",
-      "state": "",
+      "state": "MA",
       "lat": 42.06863,
       "lng": -72.009109,
       "storeCount": 1
@@ -297,7 +297,7 @@
     {
       "postalCode": "01562",
       "city": "Spencer",
-      "state": "",
+      "state": "MA",
       "lat": 42.233025,
       "lng": -72.012413,
       "storeCount": 1
@@ -305,7 +305,7 @@
     {
       "postalCode": "01566",
       "city": "Sturbridge",
-      "state": "",
+      "state": "MA",
       "lat": 42.112263,
       "lng": -72.089508,
       "storeCount": 1
@@ -313,7 +313,7 @@
     {
       "postalCode": "01570",
       "city": "Webster",
-      "state": "",
+      "state": "MA",
       "lat": 42.055595,
       "lng": -71.873451,
       "storeCount": 1
@@ -321,7 +321,7 @@
     {
       "postalCode": "01581",
       "city": "Westboro",
-      "state": "",
+      "state": "MA",
       "lat": 42.284439,
       "lng": -71.626244,
       "storeCount": 2
@@ -329,7 +329,7 @@
     {
       "postalCode": "01588",
       "city": "Whitinsville",
-      "state": "",
+      "state": "MA",
       "lat": 42.125546,
       "lng": -71.646065,
       "storeCount": 1
@@ -337,7 +337,7 @@
     {
       "postalCode": "01603",
       "city": "Worcester",
-      "state": "",
+      "state": "MA",
       "lat": 42.275879,
       "lng": -71.85363,
       "storeCount": 1
@@ -345,7 +345,7 @@
     {
       "postalCode": "01603-2418",
       "city": "Worcester",
-      "state": "",
+      "state": "MA",
       "lat": 42.247734,
       "lng": -71.826126,
       "storeCount": 1
@@ -353,7 +353,7 @@
     {
       "postalCode": "01604",
       "city": "Worcester",
-      "state": "",
+      "state": "MA",
       "lat": 42.272633,
       "lng": -71.770973,
       "storeCount": 1
@@ -361,7 +361,7 @@
     {
       "postalCode": "01604-2034",
       "city": "Worcester",
-      "state": "",
+      "state": "MA",
       "lat": 42.244755,
       "lng": -71.758957,
       "storeCount": 1
@@ -369,7 +369,7 @@
     {
       "postalCode": "01606",
       "city": "Worcester",
-      "state": "",
+      "state": "MA",
       "lat": 42.319057,
       "lng": -71.795265,
       "storeCount": 1
@@ -377,7 +377,7 @@
     {
       "postalCode": "01607",
       "city": "Worcester",
-      "state": "",
+      "state": "MA",
       "lat": 42.211311,
       "lng": -71.795837,
       "storeCount": 1
@@ -385,7 +385,7 @@
     {
       "postalCode": "01608",
       "city": "Worcester",
-      "state": "",
+      "state": "MA",
       "lat": 42.295776,
       "lng": -71.772675,
       "storeCount": 1
@@ -393,7 +393,7 @@
     {
       "postalCode": "01701",
       "city": "Framingham",
-      "state": "",
+      "state": "MA",
       "lat": 42.304607,
       "lng": -71.426007,
       "storeCount": 3
@@ -401,7 +401,7 @@
     {
       "postalCode": "01720",
       "city": "Acton",
-      "state": "",
+      "state": "MA",
       "lat": 42.476017,
       "lng": -71.409515,
       "storeCount": 1
@@ -409,7 +409,7 @@
     {
       "postalCode": "01721",
       "city": "Ashland",
-      "state": "",
+      "state": "MA",
       "lat": 42.245434,
       "lng": -71.431061,
       "storeCount": 1
@@ -417,7 +417,7 @@
     {
       "postalCode": "01730",
       "city": "Bedford",
-      "state": "",
+      "state": "MA",
       "lat": 42.485127,
       "lng": -71.26021,
       "storeCount": 1
@@ -425,7 +425,7 @@
     {
       "postalCode": "01749",
       "city": "Hudson",
-      "state": "",
+      "state": "MA",
       "lat": 42.382229,
       "lng": -71.56915,
       "storeCount": 1
@@ -433,7 +433,7 @@
     {
       "postalCode": "01752",
       "city": "Marlborough",
-      "state": "",
+      "state": "MA",
       "lat": 42.339312,
       "lng": -71.565063,
       "storeCount": 2
@@ -441,7 +441,7 @@
     {
       "postalCode": "01754",
       "city": "Maynard",
-      "state": "",
+      "state": "MA",
       "lat": 42.432533,
       "lng": -71.450134,
       "storeCount": 1
@@ -449,7 +449,7 @@
     {
       "postalCode": "01760",
       "city": "Natick",
-      "state": "",
+      "state": "MA",
       "lat": 42.306579,
       "lng": -71.350908,
       "storeCount": 2
@@ -457,7 +457,7 @@
     {
       "postalCode": "01760-1515",
       "city": "Natick",
-      "state": "",
+      "state": "MA",
       "lat": 42.30089,
       "lng": -71.383576,
       "storeCount": 1
@@ -465,7 +465,7 @@
     {
       "postalCode": "01801",
       "city": "Woburn",
-      "state": "",
+      "state": "MA",
       "lat": 42.473074,
       "lng": -71.147751,
       "storeCount": 2
@@ -473,7 +473,7 @@
     {
       "postalCode": "01803",
       "city": "Burlington",
-      "state": "",
+      "state": "MA",
       "lat": 42.473961,
       "lng": -71.212448,
       "storeCount": 1
@@ -481,7 +481,7 @@
     {
       "postalCode": "01810",
       "city": "Andover",
-      "state": "",
+      "state": "MA",
       "lat": 42.663246,
       "lng": -71.14463,
       "storeCount": 1
@@ -489,7 +489,7 @@
     {
       "postalCode": "01821",
       "city": "Billerica",
-      "state": "",
+      "state": "MA",
       "lat": 42.556295,
       "lng": -71.262645,
       "storeCount": 2
@@ -497,7 +497,7 @@
     {
       "postalCode": "01824",
       "city": "Chelmsford",
-      "state": "",
+      "state": "MA",
       "lat": 42.626106,
       "lng": -71.360703,
       "storeCount": 1
@@ -505,7 +505,7 @@
     {
       "postalCode": "01826",
       "city": "Dracut",
-      "state": "",
+      "state": "MA",
       "lat": 42.666054,
       "lng": -71.303719,
       "storeCount": 1
@@ -513,7 +513,7 @@
     {
       "postalCode": "01830",
       "city": "Haverhill",
-      "state": "",
+      "state": "MA",
       "lat": 42.809448,
       "lng": -71.103256,
       "storeCount": 1
@@ -521,7 +521,7 @@
     {
       "postalCode": "01832",
       "city": "Haverhill",
-      "state": "",
+      "state": "MA",
       "lat": 42.772648,
       "lng": -71.115494,
       "storeCount": 1
@@ -529,7 +529,7 @@
     {
       "postalCode": "01835",
       "city": "Bradford",
-      "state": "",
+      "state": "MA",
       "lat": 42.771297,
       "lng": -71.076439,
       "storeCount": 1
@@ -537,7 +537,7 @@
     {
       "postalCode": "01840",
       "city": "Lawrence",
-      "state": "",
+      "state": "MA",
       "lat": 42.697646,
       "lng": -71.170849,
       "storeCount": 2
@@ -545,7 +545,7 @@
     {
       "postalCode": "01844",
       "city": "Methuen",
-      "state": "",
+      "state": "MA",
       "lat": 42.725177,
       "lng": -71.178538,
       "storeCount": 4
@@ -553,7 +553,7 @@
     {
       "postalCode": "01845-1903",
       "city": "North Andover",
-      "state": "",
+      "state": "MA",
       "lat": 42.700012,
       "lng": -71.118622,
       "storeCount": 1
@@ -561,7 +561,7 @@
     {
       "postalCode": "01851",
       "city": "Lowell",
-      "state": "",
+      "state": "MA",
       "lat": 42.626266,
       "lng": -71.321671,
       "storeCount": 1
@@ -569,7 +569,7 @@
     {
       "postalCode": "01852",
       "city": "Lowell",
-      "state": "",
+      "state": "MA",
       "lat": 42.629357,
       "lng": -71.276613,
       "storeCount": 1
@@ -577,7 +577,7 @@
     {
       "postalCode": "01854",
       "city": "Lowell",
-      "state": "",
+      "state": "MA",
       "lat": 42.649998,
       "lng": -71.332291,
       "storeCount": 1
@@ -585,7 +585,7 @@
     {
       "postalCode": "01864",
       "city": "North Reading",
-      "state": "",
+      "state": "MA",
       "lat": 42.569408,
       "lng": -71.108475,
       "storeCount": 1
@@ -593,7 +593,7 @@
     {
       "postalCode": "01867",
       "city": "Reading",
-      "state": "",
+      "state": "MA",
       "lat": 42.520565,
       "lng": -71.102882,
       "storeCount": 1
@@ -601,7 +601,7 @@
     {
       "postalCode": "01876",
       "city": "Tewksbury",
-      "state": "",
+      "state": "MA",
       "lat": 42.616728,
       "lng": -71.216026,
       "storeCount": 2
@@ -609,7 +609,7 @@
     {
       "postalCode": "01880",
       "city": "Wakefield",
-      "state": "",
+      "state": "MA",
       "lat": 42.499073,
       "lng": -71.068779,
       "storeCount": 1
@@ -617,7 +617,7 @@
     {
       "postalCode": "01886",
       "city": "Westford",
-      "state": "",
+      "state": "MA",
       "lat": 42.569384,
       "lng": -71.42093,
       "storeCount": 1
@@ -625,7 +625,7 @@
     {
       "postalCode": "01887",
       "city": "Wilmington",
-      "state": "",
+      "state": "MA",
       "lat": 42.557571,
       "lng": -71.181206,
       "storeCount": 1
@@ -633,7 +633,7 @@
     {
       "postalCode": "01904",
       "city": "Lynn",
-      "state": "",
+      "state": "MA",
       "lat": 42.47699,
       "lng": -70.956024,
       "storeCount": 1
@@ -649,7 +649,7 @@
     {
       "postalCode": "01906",
       "city": "Saugus",
-      "state": "",
+      "state": "MA",
       "lat": 42.484535,
       "lng": -71.020142,
       "storeCount": 2
@@ -657,7 +657,7 @@
     {
       "postalCode": "01913",
       "city": "Amesbury",
-      "state": "",
+      "state": "MA",
       "lat": 42.846828,
       "lng": -70.913284,
       "storeCount": 1
@@ -665,7 +665,7 @@
     {
       "postalCode": "01915",
       "city": "Beverly",
-      "state": "",
+      "state": "MA",
       "lat": 42.57122,
       "lng": -70.886734,
       "storeCount": 2
@@ -673,7 +673,7 @@
     {
       "postalCode": "01923",
       "city": "Danvers",
-      "state": "",
+      "state": "MA",
       "lat": 42.552423,
       "lng": -70.954446,
       "storeCount": 2
@@ -681,7 +681,7 @@
     {
       "postalCode": "01923-3145",
       "city": "Danvers",
-      "state": "",
+      "state": "MA",
       "lat": 42.561226,
       "lng": -70.932739,
       "storeCount": 1
@@ -689,7 +689,7 @@
     {
       "postalCode": "01930",
       "city": "Gloucester",
-      "state": "",
+      "state": "MA",
       "lat": 42.617485,
       "lng": -70.666008,
       "storeCount": 1
@@ -697,7 +697,7 @@
     {
       "postalCode": "01949-2444",
       "city": "Middleton",
-      "state": "",
+      "state": "MA",
       "lat": 42.575791,
       "lng": -70.996709,
       "storeCount": 1
@@ -705,7 +705,7 @@
     {
       "postalCode": "01950",
       "city": "Newburyport",
-      "state": "",
+      "state": "MA",
       "lat": 42.821018,
       "lng": -70.905205,
       "storeCount": 1
@@ -713,7 +713,7 @@
     {
       "postalCode": "01960",
       "city": "Peabody",
-      "state": "",
+      "state": "MA",
       "lat": 42.531489,
       "lng": -70.931799,
       "storeCount": 2
@@ -721,7 +721,7 @@
     {
       "postalCode": "01969",
       "city": "Rowley",
-      "state": "",
+      "state": "MA",
       "lat": 42.703808,
       "lng": -70.908859,
       "storeCount": 1
@@ -729,7 +729,7 @@
     {
       "postalCode": "01970",
       "city": "Salem",
-      "state": "",
+      "state": "MA",
       "lat": 42.505081,
       "lng": -70.909916,
       "storeCount": 2
@@ -737,7 +737,7 @@
     {
       "postalCode": "02021",
       "city": "Canton",
-      "state": "",
+      "state": "MA",
       "lat": 42.139503,
       "lng": -71.14843,
       "storeCount": 1
@@ -745,7 +745,7 @@
     {
       "postalCode": "02050",
       "city": "Marshfield",
-      "state": "",
+      "state": "MA",
       "lat": 42.092793,
       "lng": -70.715767,
       "storeCount": 1
@@ -753,7 +753,7 @@
     {
       "postalCode": "02061",
       "city": "Norwell",
-      "state": "",
+      "state": "MA",
       "lat": 42.173557,
       "lng": -70.880646,
       "storeCount": 1
@@ -761,7 +761,7 @@
     {
       "postalCode": "02062",
       "city": "Norwood",
-      "state": "",
+      "state": "MA",
       "lat": 42.187668,
       "lng": -71.194364,
       "storeCount": 3
@@ -769,7 +769,7 @@
     {
       "postalCode": "02072",
       "city": "Stoughton",
-      "state": "",
+      "state": "MA",
       "lat": 42.13451,
       "lng": -71.101074,
       "storeCount": 1
@@ -777,7 +777,7 @@
     {
       "postalCode": "02081",
       "city": "Walpole",
-      "state": "",
+      "state": "MA",
       "lat": 42.156429,
       "lng": -71.24385,
       "storeCount": 1
@@ -785,7 +785,7 @@
     {
       "postalCode": "02108",
       "city": "Boston",
-      "state": "",
+      "state": "MA",
       "lat": 42.356899,
       "lng": -71.058975,
       "storeCount": 1
@@ -793,7 +793,7 @@
     {
       "postalCode": "02110",
       "city": "Boston",
-      "state": "",
+      "state": "MA",
       "lat": 42.351094,
       "lng": -71.055524,
       "storeCount": 2
@@ -801,7 +801,7 @@
     {
       "postalCode": "02111",
       "city": "Boston",
-      "state": "",
+      "state": "MA",
       "lat": 42.355236,
       "lng": -71.063069,
       "storeCount": 1
@@ -809,7 +809,7 @@
     {
       "postalCode": "02114",
       "city": "Boston",
-      "state": "",
+      "state": "MA",
       "lat": 42.366252,
       "lng": -71.062144,
       "storeCount": 1
@@ -817,7 +817,7 @@
     {
       "postalCode": "02115",
       "city": "Boston",
-      "state": "",
+      "state": "MA",
       "lat": 42.338614,
       "lng": -71.107206,
       "storeCount": 1
@@ -825,7 +825,7 @@
     {
       "postalCode": "02118",
       "city": "Boston",
-      "state": "",
+      "state": "MA",
       "lat": 42.331509,
       "lng": -71.070328,
       "storeCount": 1
@@ -833,7 +833,7 @@
     {
       "postalCode": "02119",
       "city": "Roxbury",
-      "state": "",
+      "state": "MA",
       "lat": 42.317983,
       "lng": -71.090058,
       "storeCount": 2
@@ -841,7 +841,7 @@
     {
       "postalCode": "02122",
       "city": "Dorchester",
-      "state": "",
+      "state": "MA",
       "lat": 42.299141,
       "lng": -71.060883,
       "storeCount": 1
@@ -849,7 +849,7 @@
     {
       "postalCode": "02124",
       "city": "Dorchester",
-      "state": "",
+      "state": "MA",
       "lat": 42.286411,
       "lng": -71.063468,
       "storeCount": 2
@@ -857,7 +857,7 @@
     {
       "postalCode": "02128",
       "city": "East Boston",
-      "state": "",
+      "state": "MA",
       "lat": 42.374458,
       "lng": -71.040253,
       "storeCount": 1
@@ -865,7 +865,7 @@
     {
       "postalCode": "02131",
       "city": "Roslindale",
-      "state": "",
+      "state": "MA",
       "lat": 42.282864,
       "lng": -71.113602,
       "storeCount": 1
@@ -873,7 +873,7 @@
     {
       "postalCode": "02132",
       "city": "West Roxbury",
-      "state": "",
+      "state": "MA",
       "lat": 42.264488,
       "lng": -71.16777,
       "storeCount": 1
@@ -881,7 +881,7 @@
     {
       "postalCode": "02134",
       "city": "Allston",
-      "state": "",
+      "state": "MA",
       "lat": 42.350683,
       "lng": -71.131012,
       "storeCount": 1
@@ -889,7 +889,7 @@
     {
       "postalCode": "02135",
       "city": "Brighton",
-      "state": "",
+      "state": "MA",
       "lat": 42.360714,
       "lng": -71.145908,
       "storeCount": 2
@@ -897,7 +897,7 @@
     {
       "postalCode": "02136",
       "city": "Hyde Park",
-      "state": "",
+      "state": "MA",
       "lat": 42.252857,
       "lng": -71.124496,
       "storeCount": 1
@@ -905,7 +905,7 @@
     {
       "postalCode": "02138",
       "city": "Cambridge",
-      "state": "",
+      "state": "MA",
       "lat": 42.390369,
       "lng": -71.140773,
       "storeCount": 1
@@ -913,7 +913,7 @@
     {
       "postalCode": "02139",
       "city": "Cambridge",
-      "state": "",
+      "state": "MA",
       "lat": 42.363949,
       "lng": -71.100937,
       "storeCount": 1
@@ -921,7 +921,7 @@
     {
       "postalCode": "02143",
       "city": "Somerville",
-      "state": "",
+      "state": "MA",
       "lat": 42.373703,
       "lng": -71.08284,
       "storeCount": 1
@@ -929,7 +929,7 @@
     {
       "postalCode": "02148",
       "city": "Malden",
-      "state": "",
+      "state": "MA",
       "lat": 42.427048,
       "lng": -71.041817,
       "storeCount": 1
@@ -937,7 +937,7 @@
     {
       "postalCode": "02149",
       "city": "Everett",
-      "state": "",
+      "state": "MA",
       "lat": 42.39843,
       "lng": -71.064201,
       "storeCount": 1
@@ -945,7 +945,7 @@
     {
       "postalCode": "02150",
       "city": "Chelsea",
-      "state": "",
+      "state": "MA",
       "lat": 42.400236,
       "lng": -71.03108,
       "storeCount": 3
@@ -953,7 +953,7 @@
     {
       "postalCode": "02151",
       "city": "Revere",
-      "state": "",
+      "state": "MA",
       "lat": 42.427674,
       "lng": -71.013832,
       "storeCount": 1
@@ -961,7 +961,7 @@
     {
       "postalCode": "02169",
       "city": "Quincy",
-      "state": "",
+      "state": "MA",
       "lat": 42.254364,
       "lng": -70.99633,
       "storeCount": 1
@@ -969,7 +969,7 @@
     {
       "postalCode": "02171",
       "city": "Quincy",
-      "state": "",
+      "state": "MA",
       "lat": 42.276619,
       "lng": -71.029312,
       "storeCount": 1
@@ -977,7 +977,7 @@
     {
       "postalCode": "02184",
       "city": "Braintree",
-      "state": "",
+      "state": "MA",
       "lat": 42.202579,
       "lng": -71.00444,
       "storeCount": 1
@@ -985,7 +985,7 @@
     {
       "postalCode": "02188",
       "city": "Weymouth",
-      "state": "",
+      "state": "MA",
       "lat": 42.204468,
       "lng": -70.955055,
       "storeCount": 1
@@ -993,7 +993,7 @@
     {
       "postalCode": "02191",
       "city": "North Weymouth",
-      "state": "",
+      "state": "MA",
       "lat": 42.245094,
       "lng": -70.936623,
       "storeCount": 1
@@ -1001,7 +1001,7 @@
     {
       "postalCode": "02215",
       "city": "Boston",
-      "state": "",
+      "state": "MA",
       "lat": 42.348572,
       "lng": -71.096748,
       "storeCount": 1
@@ -1009,7 +1009,7 @@
     {
       "postalCode": "02301",
       "city": "Brockton",
-      "state": "",
+      "state": "MA",
       "lat": 42.092669,
       "lng": -71.046346,
       "storeCount": 3
@@ -1017,7 +1017,7 @@
     {
       "postalCode": "02302",
       "city": "Brockton",
-      "state": "",
+      "state": "MA",
       "lat": 42.081257,
       "lng": -70.991867,
       "storeCount": 1
@@ -1033,7 +1033,7 @@
     {
       "postalCode": "02339",
       "city": "Hanover",
-      "state": "",
+      "state": "MA",
       "lat": 42.143932,
       "lng": -70.845024,
       "storeCount": 1
@@ -1041,7 +1041,7 @@
     {
       "postalCode": "02341",
       "city": "Hanson",
-      "state": "",
+      "state": "MA",
       "lat": 42.067776,
       "lng": -70.874329,
       "storeCount": 1
@@ -1057,7 +1057,7 @@
     {
       "postalCode": "02368",
       "city": "Randolph",
-      "state": "",
+      "state": "MA",
       "lat": 42.165077,
       "lng": -71.046021,
       "storeCount": 1
@@ -1065,7 +1065,7 @@
     {
       "postalCode": "02370",
       "city": "Rockland",
-      "state": "",
+      "state": "MA",
       "lat": 42.121838,
       "lng": -70.91497,
       "storeCount": 1
@@ -1073,7 +1073,7 @@
     {
       "postalCode": "02382",
       "city": "Whitman",
-      "state": "",
+      "state": "MA",
       "lat": 42.069491,
       "lng": -70.947697,
       "storeCount": 1
@@ -1081,7 +1081,7 @@
     {
       "postalCode": "02421",
       "city": "Lexington",
-      "state": "",
+      "state": "MA",
       "lat": 42.440211,
       "lng": -71.25749,
       "storeCount": 1
@@ -1089,7 +1089,7 @@
     {
       "postalCode": "02453",
       "city": "Waltham",
-      "state": "",
+      "state": "MA",
       "lat": 42.376633,
       "lng": -71.242096,
       "storeCount": 1
@@ -1097,7 +1097,7 @@
     {
       "postalCode": "02458",
       "city": "Newton",
-      "state": "",
+      "state": "MA",
       "lat": 42.365105,
       "lng": -71.196259,
       "storeCount": 1
@@ -1105,7 +1105,7 @@
     {
       "postalCode": "02462",
       "city": "Newton",
-      "state": "",
+      "state": "MA",
       "lat": 42.330185,
       "lng": -71.254808,
       "storeCount": 1
@@ -1113,7 +1113,7 @@
     {
       "postalCode": "02464",
       "city": "Newton Upper Falls",
-      "state": "",
+      "state": "MA",
       "lat": 42.313767,
       "lng": -71.212159,
       "storeCount": 1
@@ -1121,7 +1121,7 @@
     {
       "postalCode": "02492",
       "city": "Needham",
-      "state": "",
+      "state": "MA",
       "lat": 42.274288,
       "lng": -71.237457,
       "storeCount": 1
@@ -1377,7 +1377,7 @@
     {
       "postalCode": "03051",
       "city": "Hudson",
-      "state": "",
+      "state": "NH",
       "lat": 42.750063,
       "lng": -71.434219,
       "storeCount": 2
@@ -1385,7 +1385,7 @@
     {
       "postalCode": "03054",
       "city": "Merrimack",
-      "state": "",
+      "state": "NH",
       "lat": 42.838373,
       "lng": -71.49758,
       "storeCount": 1
@@ -1393,7 +1393,7 @@
     {
       "postalCode": "03055",
       "city": "Milford",
-      "state": "",
+      "state": "NH",
       "lat": 42.823624,
       "lng": -71.622513,
       "storeCount": 1
@@ -1401,7 +1401,7 @@
     {
       "postalCode": "03060",
       "city": "Nashua",
-      "state": "",
+      "state": "NH",
       "lat": 42.733564,
       "lng": -71.44968,
       "storeCount": 2
@@ -1409,7 +1409,7 @@
     {
       "postalCode": "03062",
       "city": "Nashua",
-      "state": "",
+      "state": "NH",
       "lat": 42.732502,
       "lng": -71.47554,
       "storeCount": 1
@@ -1417,7 +1417,7 @@
     {
       "postalCode": "03076",
       "city": "Pelham",
-      "state": "",
+      "state": "NH",
       "lat": 42.719288,
       "lng": -71.320358,
       "storeCount": 1
@@ -1425,7 +1425,7 @@
     {
       "postalCode": "03079",
       "city": "Salem",
-      "state": "",
+      "state": "NH",
       "lat": 42.763611,
       "lng": -71.215561,
       "storeCount": 1
@@ -1433,7 +1433,7 @@
     {
       "postalCode": "03087",
       "city": "Windham",
-      "state": "",
+      "state": "NH",
       "lat": 42.806223,
       "lng": -71.262983,
       "storeCount": 1
@@ -1521,7 +1521,7 @@
     {
       "postalCode": "03452",
       "city": "Jaffrey",
-      "state": "",
+      "state": "NH",
       "lat": 42.818123,
       "lng": -72.016541,
       "storeCount": 1
@@ -1609,7 +1609,7 @@
     {
       "postalCode": "03842",
       "city": "Hampton",
-      "state": "",
+      "state": "NH",
       "lat": 42.94595,
       "lng": -70.832588,
       "storeCount": 1
@@ -1633,7 +1633,7 @@
     {
       "postalCode": "03874",
       "city": "Seabrook",
-      "state": "",
+      "state": "NH",
       "lat": 42.895009,
       "lng": -70.870479,
       "storeCount": 1
@@ -5401,7 +5401,7 @@
     {
       "postalCode": "12043",
       "city": "Cobleskill",
-      "state": "",
+      "state": "NY",
       "lat": 42.67886,
       "lng": -74.477795,
       "storeCount": 1
@@ -5409,7 +5409,7 @@
     {
       "postalCode": "12054",
       "city": "Delmar",
-      "state": "",
+      "state": "NY",
       "lat": 42.629146,
       "lng": -73.80882,
       "storeCount": 1
@@ -5417,7 +5417,7 @@
     {
       "postalCode": "12065",
       "city": "Clifton Park",
-      "state": "",
+      "state": "NY",
       "lat": 42.840559,
       "lng": -73.763111,
       "storeCount": 3
@@ -5425,7 +5425,7 @@
     {
       "postalCode": "12077",
       "city": "Glenmont",
-      "state": "",
+      "state": "NY",
       "lat": 42.601501,
       "lng": -73.793216,
       "storeCount": 1
@@ -5433,7 +5433,7 @@
     {
       "postalCode": "12110",
       "city": "Latham",
-      "state": "",
+      "state": "NY",
       "lat": 42.755162,
       "lng": -73.759391,
       "storeCount": 1
@@ -5441,7 +5441,7 @@
     {
       "postalCode": "12118",
       "city": "Mechanicville",
-      "state": "",
+      "state": "NY",
       "lat": 42.903524,
       "lng": -73.688047,
       "storeCount": 1
@@ -5449,7 +5449,7 @@
     {
       "postalCode": "12144",
       "city": "Rensselaer",
-      "state": "",
+      "state": "NY",
       "lat": 42.645272,
       "lng": -73.697511,
       "storeCount": 1
@@ -5457,7 +5457,7 @@
     {
       "postalCode": "12180",
       "city": "Troy",
-      "state": "",
+      "state": "NY",
       "lat": 42.743155,
       "lng": -73.656572,
       "storeCount": 2
@@ -5465,7 +5465,7 @@
     {
       "postalCode": "12184",
       "city": "Valatie",
-      "state": "",
+      "state": "NY",
       "lat": 42.426744,
       "lng": -73.688506,
       "storeCount": 1
@@ -5473,7 +5473,7 @@
     {
       "postalCode": "12188",
       "city": "Waterford",
-      "state": "",
+      "state": "NY",
       "lat": 42.782615,
       "lng": -73.696252,
       "storeCount": 1
@@ -5481,7 +5481,7 @@
     {
       "postalCode": "12189",
       "city": "Watervliet",
-      "state": "",
+      "state": "NY",
       "lat": 42.727643,
       "lng": -73.700823,
       "storeCount": 1
@@ -5489,7 +5489,7 @@
     {
       "postalCode": "12192",
       "city": "West Coxsackie",
-      "state": "",
+      "state": "NY",
       "lat": 42.375429,
       "lng": -73.831646,
       "storeCount": 1
@@ -5497,7 +5497,7 @@
     {
       "postalCode": "12198",
       "city": "Wynantskill",
-      "state": "",
+      "state": "NY",
       "lat": 42.696889,
       "lng": -73.64686,
       "storeCount": 1
@@ -5505,7 +5505,7 @@
     {
       "postalCode": "12203",
       "city": "Albany",
-      "state": "",
+      "state": "NY",
       "lat": 42.684186,
       "lng": -73.848524,
       "storeCount": 1
@@ -5513,7 +5513,7 @@
     {
       "postalCode": "12205",
       "city": "Albany",
-      "state": "",
+      "state": "NY",
       "lat": 42.706735,
       "lng": -73.825439,
       "storeCount": 4
@@ -5521,7 +5521,7 @@
     {
       "postalCode": "12206",
       "city": "Albany",
-      "state": "",
+      "state": "NY",
       "lat": 42.666937,
       "lng": -73.774536,
       "storeCount": 1
@@ -5529,7 +5529,7 @@
     {
       "postalCode": "12209",
       "city": "Albany",
-      "state": "",
+      "state": "NY",
       "lat": 42.647222,
       "lng": -73.772254,
       "storeCount": 1
@@ -5537,7 +5537,7 @@
     {
       "postalCode": "12211",
       "city": "Loudonville",
-      "state": "",
+      "state": "NY",
       "lat": 42.706374,
       "lng": -73.775384,
       "storeCount": 1
@@ -5545,7 +5545,7 @@
     {
       "postalCode": "12302",
       "city": "Glenville",
-      "state": "",
+      "state": "NY",
       "lat": 42.86792,
       "lng": -73.933245,
       "storeCount": 1
@@ -5553,7 +5553,7 @@
     {
       "postalCode": "12303",
       "city": "Schenectady",
-      "state": "",
+      "state": "NY",
       "lat": 42.783005,
       "lng": -73.949989,
       "storeCount": 1
@@ -5561,7 +5561,7 @@
     {
       "postalCode": "12304",
       "city": "Schenectady",
-      "state": "",
+      "state": "NY",
       "lat": 42.78349,
       "lng": -73.908121,
       "storeCount": 2
@@ -5569,7 +5569,7 @@
     {
       "postalCode": "12306",
       "city": "Schenectady",
-      "state": "",
+      "state": "NY",
       "lat": 42.789633,
       "lng": -73.979797,
       "storeCount": 1
@@ -5577,7 +5577,7 @@
     {
       "postalCode": "12309",
       "city": "Schenectady",
-      "state": "",
+      "state": "NY",
       "lat": 42.80468,
       "lng": -73.903469,
       "storeCount": 1
@@ -5585,7 +5585,7 @@
     {
       "postalCode": "12413",
       "city": "Cairo",
-      "state": "",
+      "state": "NY",
       "lat": 42.296662,
       "lng": -73.989773,
       "storeCount": 1
@@ -5593,7 +5593,7 @@
     {
       "postalCode": "12414",
       "city": "Catskill",
-      "state": "",
+      "state": "NY",
       "lat": 42.217575,
       "lng": -73.875662,
       "storeCount": 1
@@ -5609,7 +5609,7 @@
     {
       "postalCode": "12477",
       "city": "Saugerties",
-      "state": "",
+      "state": "NY",
       "lat": 42.084244,
       "lng": -73.970894,
       "storeCount": 1
@@ -5641,7 +5641,7 @@
     {
       "postalCode": "12534",
       "city": "Hudson",
-      "state": "",
+      "state": "NY",
       "lat": 42.254637,
       "lng": -73.767986,
       "storeCount": 1
@@ -5857,7 +5857,7 @@
     {
       "postalCode": "13035",
       "city": "Cazenovia",
-      "state": "",
+      "state": "NY",
       "lat": 42.926132,
       "lng": -75.840573,
       "storeCount": 1
@@ -5881,7 +5881,7 @@
     {
       "postalCode": "13045",
       "city": "Cortland",
-      "state": "",
+      "state": "NY",
       "lat": 42.5903,
       "lng": -76.193281,
       "storeCount": 2
@@ -5889,7 +5889,7 @@
     {
       "postalCode": "13053",
       "city": "Dryden",
-      "state": "",
+      "state": "NY",
       "lat": 42.495936,
       "lng": -76.298605,
       "storeCount": 1
@@ -5905,7 +5905,7 @@
     {
       "postalCode": "13084",
       "city": "Lafayette",
-      "state": "",
+      "state": "NY",
       "lat": 42.893619,
       "lng": -76.111861,
       "storeCount": 1
@@ -5953,7 +5953,7 @@
     {
       "postalCode": "13165",
       "city": "Waterloo",
-      "state": "",
+      "state": "NY",
       "lat": 42.903988,
       "lng": -76.837294,
       "storeCount": 1
@@ -5977,7 +5977,7 @@
     {
       "postalCode": "13326",
       "city": "Cooperstown",
-      "state": "",
+      "state": "NY",
       "lat": 42.650661,
       "lng": -74.963887,
       "storeCount": 1
@@ -5985,7 +5985,7 @@
     {
       "postalCode": "13346",
       "city": "Hamilton",
-      "state": "",
+      "state": "NY",
       "lat": 42.834359,
       "lng": -75.549619,
       "storeCount": 1
@@ -6001,7 +6001,7 @@
     {
       "postalCode": "13439",
       "city": "Richfield Springs",
-      "state": "",
+      "state": "NY",
       "lat": 42.858979,
       "lng": -74.998699,
       "storeCount": 1
@@ -6073,7 +6073,7 @@
     {
       "postalCode": "13753",
       "city": "Delhi",
-      "state": "",
+      "state": "NY",
       "lat": 42.267543,
       "lng": -74.922149,
       "storeCount": 1
@@ -6081,7 +6081,7 @@
     {
       "postalCode": "13760",
       "city": "Endicott",
-      "state": "",
+      "state": "NY",
       "lat": 42.09602,
       "lng": -76.05462,
       "storeCount": 1
@@ -6089,7 +6089,7 @@
     {
       "postalCode": "13790",
       "city": "Johnson City",
-      "state": "",
+      "state": "NY",
       "lat": 42.120009,
       "lng": -75.965557,
       "storeCount": 2
@@ -6097,7 +6097,7 @@
     {
       "postalCode": "13815",
       "city": "Norwich",
-      "state": "",
+      "state": "NY",
       "lat": 42.520043,
       "lng": -75.522286,
       "storeCount": 1
@@ -6105,7 +6105,7 @@
     {
       "postalCode": "13820",
       "city": "Oneonta",
-      "state": "",
+      "state": "NY",
       "lat": 42.447224,
       "lng": -75.050091,
       "storeCount": 1
@@ -6113,7 +6113,7 @@
     {
       "postalCode": "13838",
       "city": "Sidney",
-      "state": "",
+      "state": "NY",
       "lat": 42.300021,
       "lng": -75.408226,
       "storeCount": 1
@@ -6121,7 +6121,7 @@
     {
       "postalCode": "13850",
       "city": "Vestal",
-      "state": "",
+      "state": "NY",
       "lat": 42.095181,
       "lng": -76.001091,
       "storeCount": 1
@@ -6129,7 +6129,7 @@
     {
       "postalCode": "13856",
       "city": "Walton",
-      "state": "",
+      "state": "NY",
       "lat": 42.168508,
       "lng": -75.132882,
       "storeCount": 1
@@ -6137,7 +6137,7 @@
     {
       "postalCode": "13862",
       "city": "Whitney Point",
-      "state": "",
+      "state": "NY",
       "lat": 42.337941,
       "lng": -75.975991,
       "storeCount": 1
@@ -6145,7 +6145,7 @@
     {
       "postalCode": "13865",
       "city": "Windsor",
-      "state": "",
+      "state": "NY",
       "lat": 42.095983,
       "lng": -75.756503,
       "storeCount": 1
@@ -6153,7 +6153,7 @@
     {
       "postalCode": "13904",
       "city": "Binghamton",
-      "state": "",
+      "state": "NY",
       "lat": 42.104209,
       "lng": -75.876978,
       "storeCount": 1
@@ -6161,7 +6161,7 @@
     {
       "postalCode": "13905",
       "city": "Binghamton",
-      "state": "",
+      "state": "NY",
       "lat": 42.11467,
       "lng": -75.919415,
       "storeCount": 2
@@ -6169,7 +6169,7 @@
     {
       "postalCode": "14009",
       "city": "Arcade",
-      "state": "",
+      "state": "NY",
       "lat": 42.532222,
       "lng": -78.449347,
       "storeCount": 1
@@ -6177,7 +6177,7 @@
     {
       "postalCode": "14043",
       "city": "Depew",
-      "state": "",
+      "state": "NY",
       "lat": 42.89264,
       "lng": -78.690052,
       "storeCount": 2
@@ -6185,7 +6185,7 @@
     {
       "postalCode": "14047",
       "city": "Derby",
-      "state": "",
+      "state": "NY",
       "lat": 42.699616,
       "lng": -78.984939,
       "storeCount": 1
@@ -6193,7 +6193,7 @@
     {
       "postalCode": "14052",
       "city": "East Aurora",
-      "state": "",
+      "state": "NY",
       "lat": 42.767718,
       "lng": -78.629887,
       "storeCount": 1
@@ -6201,7 +6201,7 @@
     {
       "postalCode": "14063",
       "city": "Fredonia",
-      "state": "",
+      "state": "NY",
       "lat": 42.450888,
       "lng": -79.308726,
       "storeCount": 1
@@ -6209,7 +6209,7 @@
     {
       "postalCode": "14070",
       "city": "Gowanda",
-      "state": "",
+      "state": "NY",
       "lat": 42.473286,
       "lng": -78.935226,
       "storeCount": 1
@@ -6217,7 +6217,7 @@
     {
       "postalCode": "14075",
       "city": "Hamburg",
-      "state": "",
+      "state": "NY",
       "lat": 42.739885,
       "lng": -78.83982,
       "storeCount": 2
@@ -6225,7 +6225,7 @@
     {
       "postalCode": "14081",
       "city": "Irving",
-      "state": "",
+      "state": "NY",
       "lat": 42.560596,
       "lng": -79.121958,
       "storeCount": 1
@@ -6257,7 +6257,7 @@
     {
       "postalCode": "14127",
       "city": "Orchard Park",
-      "state": "",
+      "state": "NY",
       "lat": 42.797079,
       "lng": -78.752365,
       "storeCount": 1
@@ -6265,7 +6265,7 @@
     {
       "postalCode": "14141",
       "city": "Springville",
-      "state": "",
+      "state": "NY",
       "lat": 42.502471,
       "lng": -78.68899,
       "storeCount": 1
@@ -6273,7 +6273,7 @@
     {
       "postalCode": "14201",
       "city": "Buffalo",
-      "state": "",
+      "state": "NY",
       "lat": 42.894436,
       "lng": -78.886367,
       "storeCount": 1
@@ -6281,7 +6281,7 @@
     {
       "postalCode": "14204",
       "city": "Buffalo",
-      "state": "",
+      "state": "NY",
       "lat": 42.884762,
       "lng": -78.854327,
       "storeCount": 1
@@ -6289,7 +6289,7 @@
     {
       "postalCode": "14206",
       "city": "Buffalo",
-      "state": "",
+      "state": "NY",
       "lat": 42.87191,
       "lng": -78.793704,
       "storeCount": 1
@@ -6297,7 +6297,7 @@
     {
       "postalCode": "14207",
       "city": "Buffalo",
-      "state": "",
+      "state": "NY",
       "lat": 42.943137,
       "lng": -78.907031,
       "storeCount": 1
@@ -6305,7 +6305,7 @@
     {
       "postalCode": "14209",
       "city": "Buffalo",
-      "state": "",
+      "state": "NY",
       "lat": 42.910112,
       "lng": -78.86694,
       "storeCount": 1
@@ -6313,7 +6313,7 @@
     {
       "postalCode": "14215",
       "city": "Buffalo",
-      "state": "",
+      "state": "NY",
       "lat": 42.921673,
       "lng": -78.82962,
       "storeCount": 1
@@ -6321,7 +6321,7 @@
     {
       "postalCode": "14218",
       "city": "Lackawanna",
-      "state": "",
+      "state": "NY",
       "lat": 42.830988,
       "lng": -78.804607,
       "storeCount": 1
@@ -6329,7 +6329,7 @@
     {
       "postalCode": "14219-2129",
       "city": "Blasdell",
-      "state": "",
+      "state": "NY",
       "lat": 42.792065,
       "lng": -78.81166,
       "storeCount": 1
@@ -6337,7 +6337,7 @@
     {
       "postalCode": "14220",
       "city": "Buffalo",
-      "state": "",
+      "state": "NY",
       "lat": 42.857957,
       "lng": -78.825013,
       "storeCount": 1
@@ -6345,7 +6345,7 @@
     {
       "postalCode": "14224",
       "city": "West Seneca",
-      "state": "",
+      "state": "NY",
       "lat": 42.831235,
       "lng": -78.754092,
       "storeCount": 1
@@ -6353,7 +6353,7 @@
     {
       "postalCode": "14225",
       "city": "Cheektowaga",
-      "state": "",
+      "state": "NY",
       "lat": 42.919178,
       "lng": -78.752433,
       "storeCount": 3
@@ -6361,7 +6361,7 @@
     {
       "postalCode": "14227",
       "city": "Cheektowaga",
-      "state": "",
+      "state": "NY",
       "lat": 42.88279,
       "lng": -78.753482,
       "storeCount": 1
@@ -6393,7 +6393,7 @@
     {
       "postalCode": "14414",
       "city": "Avon",
-      "state": "",
+      "state": "NY",
       "lat": 42.910756,
       "lng": -77.735061,
       "storeCount": 1
@@ -6409,7 +6409,7 @@
     {
       "postalCode": "14437",
       "city": "Dansville",
-      "state": "",
+      "state": "NY",
       "lat": 42.56578,
       "lng": -77.712905,
       "storeCount": 1
@@ -6417,7 +6417,7 @@
     {
       "postalCode": "14454",
       "city": "Geneseo",
-      "state": "",
+      "state": "NY",
       "lat": 42.795081,
       "lng": -77.794502,
       "storeCount": 1
@@ -6425,7 +6425,7 @@
     {
       "postalCode": "14456",
       "city": "Geneva",
-      "state": "",
+      "state": "NY",
       "lat": 42.858215,
       "lng": -76.99588,
       "storeCount": 1
@@ -6441,7 +6441,7 @@
     {
       "postalCode": "14480",
       "city": "Lakeville",
-      "state": "",
+      "state": "NY",
       "lat": 42.833156,
       "lng": -77.695378,
       "storeCount": 1
@@ -6457,7 +6457,7 @@
     {
       "postalCode": "14510",
       "city": "Mount Morris",
-      "state": "",
+      "state": "NY",
       "lat": 42.728028,
       "lng": -77.86909,
       "storeCount": 1
@@ -6473,7 +6473,7 @@
     {
       "postalCode": "14521",
       "city": "Ovid",
-      "state": "",
+      "state": "NY",
       "lat": 42.680318,
       "lng": -76.8195,
       "storeCount": 1
@@ -6481,7 +6481,7 @@
     {
       "postalCode": "14527",
       "city": "Penn Yan",
-      "state": "",
+      "state": "NY",
       "lat": 42.654734,
       "lng": -77.058359,
       "storeCount": 1
@@ -6497,7 +6497,7 @@
     {
       "postalCode": "14569",
       "city": "Warsaw",
-      "state": "",
+      "state": "NY",
       "lat": 42.766172,
       "lng": -78.126882,
       "storeCount": 1
@@ -6625,7 +6625,7 @@
     {
       "postalCode": "14727",
       "city": "Cuba",
-      "state": "",
+      "state": "NY",
       "lat": 42.22267,
       "lng": -78.278719,
       "storeCount": 1
@@ -6633,7 +6633,7 @@
     {
       "postalCode": "14779",
       "city": "Salamanca",
-      "state": "",
+      "state": "NY",
       "lat": 42.158974,
       "lng": -78.74409,
       "storeCount": 1
@@ -6641,7 +6641,7 @@
     {
       "postalCode": "14787",
       "city": "Westfield",
-      "state": "",
+      "state": "NY",
       "lat": 42.323517,
       "lng": -79.575045,
       "storeCount": 1
@@ -6649,7 +6649,7 @@
     {
       "postalCode": "14810",
       "city": "Bath",
-      "state": "",
+      "state": "NY",
       "lat": 42.341797,
       "lng": -77.33646,
       "storeCount": 1
@@ -6657,7 +6657,7 @@
     {
       "postalCode": "14830",
       "city": "Corning",
-      "state": "",
+      "state": "NY",
       "lat": 42.142918,
       "lng": -77.057837,
       "storeCount": 1
@@ -6665,7 +6665,7 @@
     {
       "postalCode": "14843",
       "city": "Hornell",
-      "state": "",
+      "state": "NY",
       "lat": 42.345283,
       "lng": -77.666655,
       "storeCount": 1
@@ -6673,7 +6673,7 @@
     {
       "postalCode": "14845",
       "city": "Horseheads",
-      "state": "",
+      "state": "NY",
       "lat": 42.158562,
       "lng": -76.849705,
       "storeCount": 2
@@ -6681,7 +6681,7 @@
     {
       "postalCode": "14850",
       "city": "Ithaca",
-      "state": "",
+      "state": "NY",
       "lat": 42.453396,
       "lng": -76.502295,
       "storeCount": 2
@@ -6689,7 +6689,7 @@
     {
       "postalCode": "14870",
       "city": "Painted Post",
-      "state": "",
+      "state": "NY",
       "lat": 42.159118,
       "lng": -77.089803,
       "storeCount": 1
@@ -6697,7 +6697,7 @@
     {
       "postalCode": "14895",
       "city": "Wellsville",
-      "state": "",
+      "state": "NY",
       "lat": 42.126904,
       "lng": -77.967227,
       "storeCount": 1
@@ -6705,7 +6705,7 @@
     {
       "postalCode": "14901",
       "city": "Elmira",
-      "state": "",
+      "state": "NY",
       "lat": 42.092562,
       "lng": -76.809243,
       "storeCount": 1
@@ -6713,7 +6713,7 @@
     {
       "postalCode": "14904",
       "city": "Elmira",
-      "state": "",
+      "state": "NY",
       "lat": 42.057302,
       "lng": -76.79519,
       "storeCount": 1
@@ -7433,7 +7433,7 @@
     {
       "postalCode": "16428",
       "city": "North East",
-      "state": "",
+      "state": "PA",
       "lat": 42.231782,
       "lng": -79.783128,
       "storeCount": 1
@@ -7449,7 +7449,7 @@
     {
       "postalCode": "16501",
       "city": "Erie",
-      "state": "",
+      "state": "PA",
       "lat": 42.122881,
       "lng": -80.064156,
       "storeCount": 2
@@ -7457,7 +7457,7 @@
     {
       "postalCode": "16505",
       "city": "Erie",
-      "state": "",
+      "state": "PA",
       "lat": 42.102353,
       "lng": -80.146746,
       "storeCount": 1
@@ -7465,7 +7465,7 @@
     {
       "postalCode": "16506",
       "city": "Erie",
-      "state": "",
+      "state": "PA",
       "lat": 42.08933,
       "lng": -80.133073,
       "storeCount": 1
@@ -7473,7 +7473,7 @@
     {
       "postalCode": "16509",
       "city": "Erie",
-      "state": "",
+      "state": "PA",
       "lat": 42.080236,
       "lng": -80.062719,
       "storeCount": 2
@@ -7481,7 +7481,7 @@
     {
       "postalCode": "16510",
       "city": "Erie",
-      "state": "",
+      "state": "PA",
       "lat": 42.146042,
       "lng": -80.004448,
       "storeCount": 1
@@ -30345,7 +30345,7 @@
     {
       "postalCode": "48003",
       "city": "Almont",
-      "state": "",
+      "state": "MI",
       "lat": 42.929111,
       "lng": -83.050133,
       "storeCount": 1
@@ -30545,7 +30545,7 @@
     {
       "postalCode": "48079",
       "city": "Saint Clair",
-      "state": "",
+      "state": "MI",
       "lat": 42.841905,
       "lng": -82.531754,
       "storeCount": 2
@@ -30913,7 +30913,7 @@
     {
       "postalCode": "48174",
       "city": "Romulus",
-      "state": "",
+      "state": "MI",
       "lat": 42.206322,
       "lng": -83.306568,
       "storeCount": 2
@@ -30921,7 +30921,7 @@
     {
       "postalCode": "48174-1550",
       "city": "Romulus",
-      "state": "",
+      "state": "MI",
       "lat": 42.233105,
       "lng": -83.385193,
       "storeCount": 1
@@ -30929,7 +30929,7 @@
     {
       "postalCode": "48174-2510",
       "city": "Romulus",
-      "state": "",
+      "state": "MI",
       "lat": 42.237766,
       "lng": -83.326973,
       "storeCount": 1
@@ -30953,7 +30953,7 @@
     {
       "postalCode": "48180",
       "city": "Taylor",
-      "state": "",
+      "state": "MI",
       "lat": 42.197144,
       "lng": -83.260262,
       "storeCount": 1
@@ -30969,7 +30969,7 @@
     {
       "postalCode": "48180-3330",
       "city": "Taylor",
-      "state": "",
+      "state": "MI",
       "lat": 42.232105,
       "lng": -83.270233,
       "storeCount": 1
@@ -30977,7 +30977,7 @@
     {
       "postalCode": "48180-4833",
       "city": "Taylor",
-      "state": "",
+      "state": "MI",
       "lat": 42.197037,
       "lng": -83.299942,
       "storeCount": 1
@@ -30985,7 +30985,7 @@
     {
       "postalCode": "48183",
       "city": "Woodhaven",
-      "state": "",
+      "state": "MI",
       "lat": 42.139004,
       "lng": -83.248604,
       "storeCount": 1
@@ -30993,7 +30993,7 @@
     {
       "postalCode": "48183-2343",
       "city": "Trenton",
-      "state": "",
+      "state": "MI",
       "lat": 42.140526,
       "lng": -83.210083,
       "storeCount": 1
@@ -31321,7 +31321,7 @@
     {
       "postalCode": "48242",
       "city": "Detroit",
-      "state": "",
+      "state": "MI",
       "lat": 42.216879,
       "lng": -83.352539,
       "storeCount": 2
@@ -31593,7 +31593,7 @@
     {
       "postalCode": "48371",
       "city": "Oxford",
-      "state": "",
+      "state": "MI",
       "lat": 42.837318,
       "lng": -83.273404,
       "storeCount": 1
@@ -33625,7 +33625,7 @@
     {
       "postalCode": "50401",
       "city": "Mason City",
-      "state": "",
+      "state": "IA",
       "lat": 43.132119,
       "lng": -93.201971,
       "storeCount": 1
@@ -33633,7 +33633,7 @@
     {
       "postalCode": "50401-1602",
       "city": "Mason City",
-      "state": "",
+      "state": "IA",
       "lat": 43.14785,
       "lng": -93.227002,
       "storeCount": 1
@@ -33841,7 +33841,7 @@
     {
       "postalCode": "51201",
       "city": "Sheldon",
-      "state": "",
+      "state": "IA",
       "lat": 43.185589,
       "lng": -95.816067,
       "storeCount": 1
@@ -33849,7 +33849,7 @@
     {
       "postalCode": "51301",
       "city": "Spencer",
-      "state": "",
+      "state": "IA",
       "lat": 43.127266,
       "lng": -95.1548,
       "storeCount": 1
@@ -33857,7 +33857,7 @@
     {
       "postalCode": "51355",
       "city": "Okoboji",
-      "state": "",
+      "state": "IA",
       "lat": 43.387731,
       "lng": -95.126244,
       "storeCount": 1
@@ -33961,7 +33961,7 @@
     {
       "postalCode": "52101-2412",
       "city": "Decorah",
-      "state": "",
+      "state": "IA",
       "lat": 43.290721,
       "lng": -91.796785,
       "storeCount": 1
@@ -34929,7 +34929,7 @@
     {
       "postalCode": "53581-2919",
       "city": "Richland Center",
-      "state": "",
+      "state": "WI",
       "lat": 43.320278,
       "lng": -90.374878,
       "storeCount": 1
@@ -34937,7 +34937,7 @@
     {
       "postalCode": "53583",
       "city": "Sauk City",
-      "state": "",
+      "state": "WI",
       "lat": 43.271693,
       "lng": -89.731013,
       "storeCount": 1
@@ -34993,7 +34993,7 @@
     {
       "postalCode": "53901-9223",
       "city": "Portage",
-      "state": "",
+      "state": "WI",
       "lat": 43.567802,
       "lng": -89.470661,
       "storeCount": 1
@@ -35001,7 +35001,7 @@
     {
       "postalCode": "53913",
       "city": "Baraboo",
-      "state": "",
+      "state": "WI",
       "lat": 43.574759,
       "lng": -89.779485,
       "storeCount": 1
@@ -35009,7 +35009,7 @@
     {
       "postalCode": "53913-1174",
       "city": "Baraboo",
-      "state": "",
+      "state": "WI",
       "lat": 43.4725,
       "lng": -89.768373,
       "storeCount": 1
@@ -35033,7 +35033,7 @@
     {
       "postalCode": "53948",
       "city": "Mauston",
-      "state": "",
+      "state": "WI",
       "lat": 43.796049,
       "lng": -90.061847,
       "storeCount": 1
@@ -35057,7 +35057,7 @@
     {
       "postalCode": "53959-1458",
       "city": "Reedsburg",
-      "state": "",
+      "state": "WI",
       "lat": 43.531942,
       "lng": -89.986894,
       "storeCount": 1
@@ -35073,7 +35073,7 @@
     {
       "postalCode": "53965",
       "city": "Wisconsin Dells",
-      "state": "",
+      "state": "WI",
       "lat": 43.605877,
       "lng": -89.79988,
       "storeCount": 2
@@ -35449,7 +35449,7 @@
     {
       "postalCode": "54601",
       "city": "La Crosse",
-      "state": "",
+      "state": "WI",
       "lat": 43.820087,
       "lng": -91.230071,
       "storeCount": 2
@@ -35473,7 +35473,7 @@
     {
       "postalCode": "54650",
       "city": "Onalaska",
-      "state": "",
+      "state": "WI",
       "lat": 43.872256,
       "lng": -91.195033,
       "storeCount": 1
@@ -35481,7 +35481,7 @@
     {
       "postalCode": "54656-2216",
       "city": "Sparta",
-      "state": "",
+      "state": "WI",
       "lat": 43.938201,
       "lng": -90.821412,
       "storeCount": 1
@@ -35489,7 +35489,7 @@
     {
       "postalCode": "54665",
       "city": "Viroqua",
-      "state": "",
+      "state": "WI",
       "lat": 43.573043,
       "lng": -90.89,
       "storeCount": 1
@@ -36345,7 +36345,7 @@
     {
       "postalCode": "55912",
       "city": "Austin",
-      "state": "",
+      "state": "MN",
       "lat": 43.678434,
       "lng": -92.992517,
       "storeCount": 1
@@ -36353,7 +36353,7 @@
     {
       "postalCode": "55912-2217",
       "city": "Austin",
-      "state": "",
+      "state": "MN",
       "lat": 43.666332,
       "lng": -92.986843,
       "storeCount": 1
@@ -36393,7 +36393,7 @@
     {
       "postalCode": "56007",
       "city": "Albert Lea",
-      "state": "",
+      "state": "MN",
       "lat": 43.656843,
       "lng": -93.317394,
       "storeCount": 1
@@ -36401,7 +36401,7 @@
     {
       "postalCode": "56007-2082",
       "city": "Albert Lea",
-      "state": "",
+      "state": "MN",
       "lat": 43.686463,
       "lng": -93.358436,
       "storeCount": 1
@@ -36409,7 +36409,7 @@
     {
       "postalCode": "56007-2936",
       "city": "Albert Lea",
-      "state": "",
+      "state": "MN",
       "lat": 43.650281,
       "lng": -93.362167,
       "storeCount": 1
@@ -36417,7 +36417,7 @@
     {
       "postalCode": "56013",
       "city": "Blue Earth",
-      "state": "",
+      "state": "MN",
       "lat": 43.652787,
       "lng": -94.093059,
       "storeCount": 1
@@ -36425,7 +36425,7 @@
     {
       "postalCode": "56031-3633",
       "city": "Fairmont",
-      "state": "",
+      "state": "MN",
       "lat": 43.677005,
       "lng": -94.448684,
       "storeCount": 1
@@ -36457,7 +36457,7 @@
     {
       "postalCode": "56101-1916",
       "city": "Windom",
-      "state": "",
+      "state": "MN",
       "lat": 43.862787,
       "lng": -95.114545,
       "storeCount": 1
@@ -36465,7 +36465,7 @@
     {
       "postalCode": "56156",
       "city": "Luverne",
-      "state": "",
+      "state": "MN",
       "lat": 43.641296,
       "lng": -96.212329,
       "storeCount": 1
@@ -36473,7 +36473,7 @@
     {
       "postalCode": "56187",
       "city": "Worthington",
-      "state": "",
+      "state": "MN",
       "lat": 43.63261,
       "lng": -95.594379,
       "storeCount": 1
@@ -36713,7 +36713,7 @@
     {
       "postalCode": "57005",
       "city": "Brandon",
-      "state": "",
+      "state": "SD",
       "lat": 43.60519,
       "lng": -96.571382,
       "storeCount": 1
@@ -36729,7 +36729,7 @@
     {
       "postalCode": "57032",
       "city": "Harrisburg",
-      "state": "",
+      "state": "SD",
       "lat": 43.433955,
       "lng": -96.707055,
       "storeCount": 1
@@ -36753,7 +36753,7 @@
     {
       "postalCode": "57103",
       "city": "Sioux Falls",
-      "state": "",
+      "state": "SD",
       "lat": 43.530814,
       "lng": -96.744776,
       "storeCount": 2
@@ -36761,7 +36761,7 @@
     {
       "postalCode": "57103-4033",
       "city": "Sioux Falls",
-      "state": "",
+      "state": "SD",
       "lat": 43.528929,
       "lng": -96.687043,
       "storeCount": 1
@@ -36769,7 +36769,7 @@
     {
       "postalCode": "57104",
       "city": "Sioux Falls",
-      "state": "",
+      "state": "SD",
       "lat": 43.600945,
       "lng": -96.71232,
       "storeCount": 1
@@ -36777,7 +36777,7 @@
     {
       "postalCode": "57104-3813",
       "city": "Sioux Falls",
-      "state": "",
+      "state": "SD",
       "lat": 43.544734,
       "lng": -96.759311,
       "storeCount": 1
@@ -36785,7 +36785,7 @@
     {
       "postalCode": "57105-5651",
       "city": "Sioux Falls",
-      "state": "",
+      "state": "SD",
       "lat": 43.515547,
       "lng": -96.73074,
       "storeCount": 1
@@ -36793,7 +36793,7 @@
     {
       "postalCode": "57106",
       "city": "Sioux Falls",
-      "state": "",
+      "state": "SD",
       "lat": 43.515168,
       "lng": -96.829202,
       "storeCount": 1
@@ -36801,7 +36801,7 @@
     {
       "postalCode": "57108",
       "city": "Sioux Falls",
-      "state": "",
+      "state": "SD",
       "lat": 43.487605,
       "lng": -96.749191,
       "storeCount": 2
@@ -36817,7 +36817,7 @@
     {
       "postalCode": "57301-1119",
       "city": "Mitchell",
-      "state": "",
+      "state": "SD",
       "lat": 43.726072,
       "lng": -98.024923,
       "storeCount": 1
@@ -36825,7 +36825,7 @@
     {
       "postalCode": "57301-4770",
       "city": "Mitchell",
-      "state": "",
+      "state": "SD",
       "lat": 43.695134,
       "lng": -98.016173,
       "storeCount": 1
@@ -36833,7 +36833,7 @@
     {
       "postalCode": "57325-1520",
       "city": "Chamberlain",
-      "state": "",
+      "state": "SD",
       "lat": 43.809138,
       "lng": -99.331829,
       "storeCount": 1
@@ -36873,7 +36873,7 @@
     {
       "postalCode": "57580-1355",
       "city": "Winner",
-      "state": "",
+      "state": "SD",
       "lat": 43.377045,
       "lng": -99.849949,
       "storeCount": 1
@@ -53529,7 +53529,7 @@
     {
       "postalCode": "82443",
       "city": "Thermopolis",
-      "state": "",
+      "state": "WY",
       "lat": 43.638083,
       "lng": -108.212844,
       "storeCount": 1
@@ -53617,7 +53617,7 @@
     {
       "postalCode": "83001",
       "city": "Jackson",
-      "state": "",
+      "state": "WY",
       "lat": 43.47323,
       "lng": -110.786832,
       "storeCount": 1
@@ -53673,7 +53673,7 @@
     {
       "postalCode": "83333",
       "city": "Hailey",
-      "state": "",
+      "state": "ID",
       "lat": 43.526588,
       "lng": -114.319897,
       "storeCount": 1
@@ -53689,7 +53689,7 @@
     {
       "postalCode": "83401",
       "city": "Idaho Falls",
-      "state": "",
+      "state": "ID",
       "lat": 43.501205,
       "lng": -112.000793,
       "storeCount": 3
@@ -53697,7 +53697,7 @@
     {
       "postalCode": "83402",
       "city": "Idaho Falls",
-      "state": "",
+      "state": "ID",
       "lat": 43.46641,
       "lng": -112.088842,
       "storeCount": 2
@@ -53705,7 +53705,7 @@
     {
       "postalCode": "83406",
       "city": "Ammon",
-      "state": "",
+      "state": "ID",
       "lat": 43.480217,
       "lng": -111.984058,
       "storeCount": 1
@@ -53713,7 +53713,7 @@
     {
       "postalCode": "83440",
       "city": "Rexburg",
-      "state": "",
+      "state": "ID",
       "lat": 43.818897,
       "lng": -111.793328,
       "storeCount": 2
@@ -53737,7 +53737,7 @@
     {
       "postalCode": "83605",
       "city": "Caldwell",
-      "state": "",
+      "state": "ID",
       "lat": 43.658758,
       "lng": -116.672621,
       "storeCount": 2
@@ -53745,7 +53745,7 @@
     {
       "postalCode": "83616",
       "city": "Eagle",
-      "state": "",
+      "state": "ID",
       "lat": 43.693359,
       "lng": -116.353603,
       "storeCount": 1
@@ -53753,7 +53753,7 @@
     {
       "postalCode": "83634",
       "city": "Kuna",
-      "state": "",
+      "state": "ID",
       "lat": 43.500153,
       "lng": -116.394511,
       "storeCount": 1
@@ -53761,7 +53761,7 @@
     {
       "postalCode": "83642",
       "city": "Meridian",
-      "state": "",
+      "state": "ID",
       "lat": 43.599509,
       "lng": -116.382725,
       "storeCount": 5
@@ -53769,7 +53769,7 @@
     {
       "postalCode": "83646",
       "city": "Eagle",
-      "state": "",
+      "state": "ID",
       "lat": 43.648452,
       "lng": -116.382342,
       "storeCount": 2
@@ -53777,7 +53777,7 @@
     {
       "postalCode": "83647",
       "city": "Mountain Home",
-      "state": "",
+      "state": "ID",
       "lat": 43.131557,
       "lng": -115.682522,
       "storeCount": 2
@@ -53785,7 +53785,7 @@
     {
       "postalCode": "83651-2333",
       "city": "Nampa",
-      "state": "",
+      "state": "ID",
       "lat": 43.586641,
       "lng": -116.574762,
       "storeCount": 1
@@ -53801,7 +53801,7 @@
     {
       "postalCode": "83669",
       "city": "Star",
-      "state": "",
+      "state": "ID",
       "lat": 43.692411,
       "lng": -116.484995,
       "storeCount": 1
@@ -53817,7 +53817,7 @@
     {
       "postalCode": "83686-5739",
       "city": "Nampa",
-      "state": "",
+      "state": "ID",
       "lat": 43.55806,
       "lng": -116.572272,
       "storeCount": 1
@@ -53825,7 +53825,7 @@
     {
       "postalCode": "83687",
       "city": "Nampa",
-      "state": "",
+      "state": "ID",
       "lat": 43.60488,
       "lng": -116.555528,
       "storeCount": 2
@@ -53833,7 +53833,7 @@
     {
       "postalCode": "83702",
       "city": "Boise",
-      "state": "",
+      "state": "ID",
       "lat": 43.621202,
       "lng": -116.221531,
       "storeCount": 1
@@ -53841,7 +53841,7 @@
     {
       "postalCode": "83704",
       "city": "Boise",
-      "state": "",
+      "state": "ID",
       "lat": 43.616234,
       "lng": -116.275791,
       "storeCount": 3
@@ -53849,7 +53849,7 @@
     {
       "postalCode": "83705-2430",
       "city": "Boise",
-      "state": "",
+      "state": "ID",
       "lat": 43.593863,
       "lng": -116.214174,
       "storeCount": 1
@@ -53857,7 +53857,7 @@
     {
       "postalCode": "83706-3703",
       "city": "Boise",
-      "state": "",
+      "state": "ID",
       "lat": 43.59621,
       "lng": -116.194206,
       "storeCount": 1
@@ -53865,7 +53865,7 @@
     {
       "postalCode": "83709",
       "city": "Boise",
-      "state": "",
+      "state": "ID",
       "lat": 43.5808,
       "lng": -116.291368,
       "storeCount": 3
@@ -53873,7 +53873,7 @@
     {
       "postalCode": "83714-1323",
       "city": "Boise",
-      "state": "",
+      "state": "ID",
       "lat": 43.648824,
       "lng": -116.280325,
       "storeCount": 1
@@ -53881,7 +53881,7 @@
     {
       "postalCode": "83716",
       "city": "Boise",
-      "state": "",
+      "state": "ID",
       "lat": 43.542299,
       "lng": -116.154909,
       "storeCount": 1
@@ -63505,7 +63505,7 @@
     {
       "postalCode": "97420-1542",
       "city": "Coos Bay",
-      "state": "",
+      "state": "OR",
       "lat": 43.361385,
       "lng": -124.212791,
       "storeCount": 1
@@ -63513,7 +63513,7 @@
     {
       "postalCode": "97424-1262",
       "city": "Cottage Grove",
-      "state": "",
+      "state": "OR",
       "lat": 43.803506,
       "lng": -123.044917,
       "storeCount": 1
@@ -63521,7 +63521,7 @@
     {
       "postalCode": "97426",
       "city": "Creswell",
-      "state": "",
+      "state": "OR",
       "lat": 43.917625,
       "lng": -123.014403,
       "storeCount": 1
@@ -63537,7 +63537,7 @@
     {
       "postalCode": "97459-2201",
       "city": "North Bend",
-      "state": "",
+      "state": "OR",
       "lat": 43.392261,
       "lng": -124.238837,
       "storeCount": 1
@@ -63545,7 +63545,7 @@
     {
       "postalCode": "97467",
       "city": "Reedsport",
-      "state": "",
+      "state": "OR",
       "lat": 43.699863,
       "lng": -124.110501,
       "storeCount": 1
@@ -63553,7 +63553,7 @@
     {
       "postalCode": "97470",
       "city": "Roseburg",
-      "state": "",
+      "state": "OR",
       "lat": 43.237878,
       "lng": -123.369593,
       "storeCount": 1
@@ -63561,7 +63561,7 @@
     {
       "postalCode": "97470-2081",
       "city": "Roseburg",
-      "state": "",
+      "state": "OR",
       "lat": 43.226461,
       "lng": -123.350006,
       "storeCount": 1
@@ -63585,7 +63585,7 @@
     {
       "postalCode": "97479",
       "city": "Sutherlin",
-      "state": "",
+      "state": "OR",
       "lat": 43.386798,
       "lng": -123.335088,
       "storeCount": 1
@@ -63665,7 +63665,7 @@
     {
       "postalCode": "97738",
       "city": "Hines",
-      "state": "",
+      "state": "OR",
       "lat": 43.573647,
       "lng": -119.074162,
       "storeCount": 1
@@ -63673,7 +63673,7 @@
     {
       "postalCode": "97739",
       "city": "La Pine",
-      "state": "",
+      "state": "OR",
       "lat": 43.674047,
       "lng": -121.49987,
       "storeCount": 1
@@ -65449,6 +65449,14 @@
       "storeCount": 1
     },
     {
+      "slug": "acton-ma",
+      "city": "Acton",
+      "state": "MA",
+      "lat": 42.476017,
+      "lng": -71.409515,
+      "storeCount": 1
+    },
+    {
       "slug": "ada-oh",
       "city": "Ada",
       "state": "OH",
@@ -65470,6 +65478,14 @@
       "state": "GA",
       "lat": 34.376415,
       "lng": -84.914924,
+      "storeCount": 1
+    },
+    {
+      "slug": "adams-ma",
+      "city": "Adams",
+      "state": "MA",
+      "lat": 42.619229,
+      "lng": -73.120178,
       "storeCount": 1
     },
     {
@@ -65609,12 +65625,28 @@
       "storeCount": 1
     },
     {
+      "slug": "albany-ny",
+      "city": "Albany",
+      "state": "NY",
+      "lat": 42.689326,
+      "lng": -73.813867,
+      "storeCount": 7
+    },
+    {
       "slug": "albemarle-nc",
       "city": "Albemarle",
       "state": "NC",
       "lat": 35.367677,
       "lng": -80.18005,
       "storeCount": 2
+    },
+    {
+      "slug": "albert-lea-mn",
+      "city": "Albert Lea",
+      "state": "MN",
+      "lat": 43.664529,
+      "lng": -93.345999,
+      "storeCount": 3
     },
     {
       "slug": "albertville-al",
@@ -65785,6 +65817,14 @@
       "storeCount": 2
     },
     {
+      "slug": "allston-ma",
+      "city": "Allston",
+      "state": "MA",
+      "lat": 42.350683,
+      "lng": -71.131012,
+      "storeCount": 1
+    },
+    {
       "slug": "alma-ar",
       "city": "Alma",
       "state": "AR",
@@ -65798,6 +65838,14 @@
       "state": "GA",
       "lat": 31.538834,
       "lng": -82.462049,
+      "storeCount": 1
+    },
+    {
+      "slug": "almont-mi",
+      "city": "Almont",
+      "state": "MI",
+      "lat": 42.929111,
+      "lng": -83.050133,
       "storeCount": 1
     },
     {
@@ -65921,6 +65969,14 @@
       "storeCount": 1
     },
     {
+      "slug": "amesbury-ma",
+      "city": "Amesbury",
+      "state": "MA",
+      "lat": 42.846828,
+      "lng": -70.913284,
+      "storeCount": 1
+    },
+    {
       "slug": "amherst-oh",
       "city": "Amherst",
       "state": "OH",
@@ -65950,6 +66006,14 @@
       "state": "NY",
       "lat": 40.702637,
       "lng": -73.427681,
+      "storeCount": 1
+    },
+    {
+      "slug": "ammon-id",
+      "city": "Ammon",
+      "state": "ID",
+      "lat": 43.480217,
+      "lng": -111.984058,
       "storeCount": 1
     },
     {
@@ -65998,6 +66062,14 @@
       "state": "KS",
       "lat": 37.693558,
       "lng": -97.136163,
+      "storeCount": 1
+    },
+    {
+      "slug": "andover-ma",
+      "city": "Andover",
+      "state": "MA",
+      "lat": 42.663246,
+      "lng": -71.14463,
       "storeCount": 1
     },
     {
@@ -66158,6 +66230,14 @@
       "state": "AL",
       "lat": 34.326745,
       "lng": -86.5024,
+      "storeCount": 1
+    },
+    {
+      "slug": "arcade-ny",
+      "city": "Arcade",
+      "state": "NY",
+      "lat": 42.532222,
+      "lng": -78.449347,
       "storeCount": 1
     },
     {
@@ -66401,6 +66481,14 @@
       "storeCount": 5
     },
     {
+      "slug": "ashland-ma",
+      "city": "Ashland",
+      "state": "MA",
+      "lat": 42.245434,
+      "lng": -71.431061,
+      "storeCount": 1
+    },
+    {
       "slug": "ashland-mo",
       "city": "Ashland",
       "state": "MO",
@@ -66478,6 +66566,14 @@
       "state": "TX",
       "lat": 32.206286,
       "lng": -95.836249,
+      "storeCount": 1
+    },
+    {
+      "slug": "athol-ma",
+      "city": "Athol",
+      "state": "MA",
+      "lat": 42.581505,
+      "lng": -72.254883,
       "storeCount": 1
     },
     {
@@ -66601,6 +66697,14 @@
       "storeCount": 1
     },
     {
+      "slug": "auburn-ma",
+      "city": "Auburn",
+      "state": "MA",
+      "lat": 42.208801,
+      "lng": -71.835716,
+      "storeCount": 1
+    },
+    {
       "slug": "auburndale-fl",
       "city": "Auburndale",
       "state": "FL",
@@ -66662,6 +66766,14 @@
       "state": "GA",
       "lat": 33.860667,
       "lng": -84.613822,
+      "storeCount": 2
+    },
+    {
+      "slug": "austin-mn",
+      "city": "Austin",
+      "state": "MN",
+      "lat": 43.672383,
+      "lng": -92.98968,
       "storeCount": 2
     },
     {
@@ -66737,6 +66849,14 @@
       "storeCount": 1
     },
     {
+      "slug": "avon-ny",
+      "city": "Avon",
+      "state": "NY",
+      "lat": 42.910756,
+      "lng": -77.735061,
+      "storeCount": 1
+    },
+    {
       "slug": "avon-oh",
       "city": "Avon",
       "state": "OH",
@@ -66766,6 +66886,14 @@
       "state": "NC",
       "lat": 35.475181,
       "lng": -77.435923,
+      "storeCount": 1
+    },
+    {
+      "slug": "ayer-ma",
+      "city": "Ayer",
+      "state": "MA",
+      "lat": 42.553761,
+      "lng": -71.571747,
       "storeCount": 1
     },
     {
@@ -66921,6 +67049,14 @@
       "storeCount": 1
     },
     {
+      "slug": "baraboo-wi",
+      "city": "Baraboo",
+      "state": "WI",
+      "lat": 43.523629,
+      "lng": -89.773929,
+      "storeCount": 2
+    },
+    {
       "slug": "barboursville-wv",
       "city": "Barboursville",
       "state": "WV",
@@ -67039,6 +67175,14 @@
       "lat": 34.331288,
       "lng": -89.929518,
       "storeCount": 2
+    },
+    {
+      "slug": "bath-ny",
+      "city": "Bath",
+      "state": "NY",
+      "lat": 42.341797,
+      "lng": -77.33646,
+      "storeCount": 1
     },
     {
       "slug": "baton-rouge-la",
@@ -67257,6 +67401,14 @@
       "storeCount": 1
     },
     {
+      "slug": "bedford-ma",
+      "city": "Bedford",
+      "state": "MA",
+      "lat": 42.485127,
+      "lng": -71.26021,
+      "storeCount": 1
+    },
+    {
       "slug": "bedford-oh",
       "city": "Bedford",
       "state": "OH",
@@ -67334,6 +67486,14 @@
       "state": "MD",
       "lat": 39.47925,
       "lng": -76.248023,
+      "storeCount": 1
+    },
+    {
+      "slug": "belchertown-ma",
+      "city": "Belchertown",
+      "state": "MA",
+      "lat": 42.28835,
+      "lng": -72.406243,
       "storeCount": 1
     },
     {
@@ -67777,6 +67937,14 @@
       "storeCount": 1
     },
     {
+      "slug": "beverly-ma",
+      "city": "Beverly",
+      "state": "MA",
+      "lat": 42.57122,
+      "lng": -70.886734,
+      "storeCount": 2
+    },
+    {
       "slug": "beverly-oh",
       "city": "Beverly",
       "state": "OH",
@@ -67817,11 +67985,27 @@
       "storeCount": 1
     },
     {
+      "slug": "billerica-ma",
+      "city": "Billerica",
+      "state": "MA",
+      "lat": 42.556295,
+      "lng": -71.262645,
+      "storeCount": 2
+    },
+    {
       "slug": "biloxi-ms",
       "city": "Biloxi",
       "state": "MS",
       "lat": 30.409715,
       "lng": -88.937034,
+      "storeCount": 3
+    },
+    {
+      "slug": "binghamton-ny",
+      "city": "Binghamton",
+      "state": "NY",
+      "lat": 42.111183,
+      "lng": -75.905269,
       "storeCount": 3
     },
     {
@@ -67937,6 +68121,22 @@
       "storeCount": 1
     },
     {
+      "slug": "blandford-ma",
+      "city": "Blandford",
+      "state": "MA",
+      "lat": 42.194856,
+      "lng": -72.933363,
+      "storeCount": 2
+    },
+    {
+      "slug": "blasdell-ny",
+      "city": "Blasdell",
+      "state": "NY",
+      "lat": 42.792065,
+      "lng": -78.81166,
+      "storeCount": 1
+    },
+    {
       "slug": "bliss-id",
       "city": "Bliss",
       "state": "ID",
@@ -68007,6 +68207,14 @@
       "lat": 36.528883,
       "lng": -82.350789,
       "storeCount": 2
+    },
+    {
+      "slug": "blue-earth-mn",
+      "city": "Blue Earth",
+      "state": "MN",
+      "lat": 43.652787,
+      "lng": -94.093059,
+      "storeCount": 1
     },
     {
       "slug": "blue-island-il",
@@ -68135,6 +68343,14 @@
       "lat": 35.246162,
       "lng": -81.665746,
       "storeCount": 1
+    },
+    {
+      "slug": "boise-id",
+      "city": "Boise",
+      "state": "ID",
+      "lat": 43.599409,
+      "lng": -116.251511,
+      "storeCount": 11
     },
     {
       "slug": "bolingbrook-il",
@@ -68281,6 +68497,14 @@
       "storeCount": 4
     },
     {
+      "slug": "boston-ma",
+      "city": "Boston",
+      "state": "MA",
+      "lat": 42.349909,
+      "lng": -71.07119,
+      "storeCount": 8
+    },
+    {
       "slug": "bourbonnais-il",
       "city": "Bourbonnais",
       "state": "IL",
@@ -68353,6 +68577,14 @@
       "storeCount": 10
     },
     {
+      "slug": "bradford-ma",
+      "city": "Bradford",
+      "state": "MA",
+      "lat": 42.771297,
+      "lng": -71.076439,
+      "storeCount": 1
+    },
+    {
       "slug": "bradley-il",
       "city": "Bradley",
       "state": "IL",
@@ -68366,6 +68598,14 @@
       "state": "IL",
       "lat": 41.265692,
       "lng": -88.208465,
+      "storeCount": 1
+    },
+    {
+      "slug": "braintree-ma",
+      "city": "Braintree",
+      "state": "MA",
+      "lat": 42.202579,
+      "lng": -71.00444,
       "storeCount": 1
     },
     {
@@ -68383,6 +68623,14 @@
       "lat": 32.332002,
       "lng": -90.039534,
       "storeCount": 2
+    },
+    {
+      "slug": "brandon-sd",
+      "city": "Brandon",
+      "state": "SD",
+      "lat": 43.60519,
+      "lng": -96.571382,
+      "storeCount": 1
     },
     {
       "slug": "brandywine-md",
@@ -68617,6 +68865,14 @@
       "storeCount": 1
     },
     {
+      "slug": "brighton-ma",
+      "city": "Brighton",
+      "state": "MA",
+      "lat": 42.360714,
+      "lng": -71.145908,
+      "storeCount": 2
+    },
+    {
       "slug": "brighton-mi",
       "city": "Brighton",
       "state": "MI",
@@ -68671,6 +68927,14 @@
       "lat": 41.850458,
       "lng": -87.851813,
       "storeCount": 1
+    },
+    {
+      "slug": "brockton-ma",
+      "city": "Brockton",
+      "state": "MA",
+      "lat": 42.089816,
+      "lng": -71.032726,
+      "storeCount": 4
     },
     {
       "slug": "brockway-pa",
@@ -68969,6 +69233,14 @@
       "storeCount": 1
     },
     {
+      "slug": "buffalo-ny",
+      "city": "Buffalo",
+      "state": "NY",
+      "lat": 42.897712,
+      "lng": -78.851857,
+      "storeCount": 7
+    },
+    {
       "slug": "buffalo-tx",
       "city": "Buffalo",
       "state": "TX",
@@ -69071,6 +69343,14 @@
       "lat": 40.813332,
       "lng": -91.142072,
       "storeCount": 2
+    },
+    {
+      "slug": "burlington-ma",
+      "city": "Burlington",
+      "state": "MA",
+      "lat": 42.473961,
+      "lng": -71.212448,
+      "storeCount": 1
     },
     {
       "slug": "burlington-nj",
@@ -69225,12 +69505,28 @@
       "storeCount": 1
     },
     {
+      "slug": "cairo-ny",
+      "city": "Cairo",
+      "state": "NY",
+      "lat": 42.296662,
+      "lng": -73.989773,
+      "storeCount": 1
+    },
+    {
       "slug": "calabasas-ca",
       "city": "Calabasas",
       "state": "CA",
       "lat": 34.14431,
       "lng": -118.698608,
       "storeCount": 1
+    },
+    {
+      "slug": "caldwell-id",
+      "city": "Caldwell",
+      "state": "ID",
+      "lat": 43.658758,
+      "lng": -116.672621,
+      "storeCount": 2
     },
     {
       "slug": "caldwell-oh",
@@ -69359,6 +69655,14 @@
       "lat": 39.8505,
       "lng": -85.143211,
       "storeCount": 1
+    },
+    {
+      "slug": "cambridge-ma",
+      "city": "Cambridge",
+      "state": "MA",
+      "lat": 42.377159,
+      "lng": -71.120855,
+      "storeCount": 2
     },
     {
       "slug": "cambridge-md",
@@ -69510,6 +69814,14 @@
       "state": "IL",
       "lat": 40.56609,
       "lng": -90.034206,
+      "storeCount": 1
+    },
+    {
+      "slug": "canton-ma",
+      "city": "Canton",
+      "state": "MA",
+      "lat": 42.139503,
+      "lng": -71.14843,
       "storeCount": 1
     },
     {
@@ -69993,6 +70305,14 @@
       "storeCount": 1
     },
     {
+      "slug": "catskill-ny",
+      "city": "Catskill",
+      "state": "NY",
+      "lat": 42.217575,
+      "lng": -73.875662,
+      "storeCount": 1
+    },
+    {
       "slug": "cave-city-ky",
       "city": "Cave City",
       "state": "KY",
@@ -70006,6 +70326,14 @@
       "state": "AZ",
       "lat": 33.799843,
       "lng": -111.965543,
+      "storeCount": 1
+    },
+    {
+      "slug": "cazenovia-ny",
+      "city": "Cazenovia",
+      "state": "NY",
+      "lat": 42.926132,
+      "lng": -75.840573,
       "storeCount": 1
     },
     {
@@ -70225,6 +70553,14 @@
       "storeCount": 1
     },
     {
+      "slug": "chamberlain-sd",
+      "city": "Chamberlain",
+      "state": "SD",
+      "lat": 43.809138,
+      "lng": -99.331829,
+      "storeCount": 1
+    },
+    {
       "slug": "champaign-il",
       "city": "Champaign",
       "state": "IL",
@@ -70385,6 +70721,22 @@
       "storeCount": 34
     },
     {
+      "slug": "charlton-city-ma",
+      "city": "Charlton City",
+      "state": "MA",
+      "lat": 42.139797,
+      "lng": -72.024897,
+      "storeCount": 1
+    },
+    {
+      "slug": "charlton-ma",
+      "city": "Charlton",
+      "state": "MA",
+      "lat": 42.150788,
+      "lng": -71.975698,
+      "storeCount": 2
+    },
+    {
       "slug": "chatham-il",
       "city": "Chatham",
       "state": "IL",
@@ -70417,12 +70769,36 @@
       "storeCount": 1
     },
     {
+      "slug": "cheektowaga-ny",
+      "city": "Cheektowaga",
+      "state": "NY",
+      "lat": 42.910081,
+      "lng": -78.752696,
+      "storeCount": 4
+    },
+    {
+      "slug": "chelmsford-ma",
+      "city": "Chelmsford",
+      "state": "MA",
+      "lat": 42.626106,
+      "lng": -71.360703,
+      "storeCount": 1
+    },
+    {
       "slug": "chelsea-al",
       "city": "Chelsea",
       "state": "AL",
       "lat": 33.348849,
       "lng": -86.632255,
       "storeCount": 1
+    },
+    {
+      "slug": "chelsea-ma",
+      "city": "Chelsea",
+      "state": "MA",
+      "lat": 42.400236,
+      "lng": -71.03108,
+      "storeCount": 3
     },
     {
       "slug": "chelsea-mi",
@@ -70630,6 +71006,14 @@
       "state": "CA",
       "lat": 39.743868,
       "lng": -121.827183,
+      "storeCount": 4
+    },
+    {
+      "slug": "chicopee-ma",
+      "city": "Chicopee",
+      "state": "MA",
+      "lat": 42.176032,
+      "lng": -72.577554,
       "storeCount": 4
     },
     {
@@ -71033,6 +71417,14 @@
       "storeCount": 1
     },
     {
+      "slug": "clifton-park-ny",
+      "city": "Clifton Park",
+      "state": "NY",
+      "lat": 42.840559,
+      "lng": -73.763111,
+      "storeCount": 3
+    },
+    {
       "slug": "clifton-tx",
       "city": "Clifton",
       "state": "TX",
@@ -71078,6 +71470,14 @@
       "state": "IN",
       "lat": 39.657554,
       "lng": -87.430306,
+      "storeCount": 1
+    },
+    {
+      "slug": "clinton-ma",
+      "city": "Clinton",
+      "state": "MA",
+      "lat": 42.432442,
+      "lng": -71.687073,
       "storeCount": 1
     },
     {
@@ -71230,6 +71630,14 @@
       "state": "CA",
       "lat": 36.253913,
       "lng": -120.249507,
+      "storeCount": 1
+    },
+    {
+      "slug": "cobleskill-ny",
+      "city": "Cobleskill",
+      "state": "NY",
+      "lat": 42.67886,
+      "lng": -74.477795,
       "storeCount": 1
     },
     {
@@ -71633,6 +72041,22 @@
       "storeCount": 1
     },
     {
+      "slug": "cooperstown-ny",
+      "city": "Cooperstown",
+      "state": "NY",
+      "lat": 42.650661,
+      "lng": -74.963887,
+      "storeCount": 1
+    },
+    {
+      "slug": "coos-bay-or",
+      "city": "Coos Bay",
+      "state": "OR",
+      "lat": 43.361385,
+      "lng": -124.212791,
+      "storeCount": 1
+    },
+    {
       "slug": "copperas-cove-tx",
       "city": "Copperas Cove",
       "state": "TX",
@@ -71721,6 +72145,14 @@
       "storeCount": 1
     },
     {
+      "slug": "corning-ny",
+      "city": "Corning",
+      "state": "NY",
+      "lat": 42.142918,
+      "lng": -77.057837,
+      "storeCount": 1
+    },
+    {
       "slug": "corona-ca",
       "city": "Corona",
       "state": "CA",
@@ -71751,6 +72183,14 @@
       "lat": 37.349253,
       "lng": -108.567972,
       "storeCount": 1
+    },
+    {
+      "slug": "cortland-ny",
+      "city": "Cortland",
+      "state": "NY",
+      "lat": 42.5903,
+      "lng": -76.193281,
+      "storeCount": 2
     },
     {
       "slug": "cortland-oh",
@@ -71791,6 +72231,14 @@
       "lat": 33.667332,
       "lng": -117.906316,
       "storeCount": 5
+    },
+    {
+      "slug": "cottage-grove-or",
+      "city": "Cottage Grove",
+      "state": "OR",
+      "lat": 43.803506,
+      "lng": -123.044917,
+      "storeCount": 1
     },
     {
       "slug": "cottonwood-az",
@@ -72033,6 +72481,14 @@
       "storeCount": 1
     },
     {
+      "slug": "creswell-or",
+      "city": "Creswell",
+      "state": "OR",
+      "lat": 43.917625,
+      "lng": -123.014403,
+      "storeCount": 1
+    },
+    {
       "slug": "crete-il",
       "city": "Crete",
       "state": "IL",
@@ -72119,6 +72575,14 @@
       "lat": 42.240569,
       "lng": -88.315378,
       "storeCount": 3
+    },
+    {
+      "slug": "cuba-ny",
+      "city": "Cuba",
+      "state": "NY",
+      "lat": 42.22267,
+      "lng": -78.278719,
+      "storeCount": 1
     },
     {
       "slug": "cudahy-wi",
@@ -72335,6 +72799,22 @@
       "lat": 41.799622,
       "lng": -71.902709,
       "storeCount": 1
+    },
+    {
+      "slug": "dansville-ny",
+      "city": "Dansville",
+      "state": "NY",
+      "lat": 42.56578,
+      "lng": -77.712905,
+      "storeCount": 1
+    },
+    {
+      "slug": "danvers-ma",
+      "city": "Danvers",
+      "state": "MA",
+      "lat": 42.555357,
+      "lng": -70.947211,
+      "storeCount": 3
     },
     {
       "slug": "danville-ca",
@@ -72585,6 +73065,14 @@
       "storeCount": 1
     },
     {
+      "slug": "decorah-ia",
+      "city": "Decorah",
+      "state": "IA",
+      "lat": 43.290721,
+      "lng": -91.796785,
+      "storeCount": 1
+    },
+    {
       "slug": "deer-park-tx",
       "city": "Deer Park",
       "state": "TX",
@@ -72673,11 +73161,27 @@
       "storeCount": 5
     },
     {
+      "slug": "delhi-ny",
+      "city": "Delhi",
+      "state": "NY",
+      "lat": 42.267543,
+      "lng": -74.922149,
+      "storeCount": 1
+    },
+    {
       "slug": "delmar-de",
       "city": "Delmar",
       "state": "DE",
       "lat": 38.456926,
       "lng": -75.55745,
+      "storeCount": 1
+    },
+    {
+      "slug": "delmar-ny",
+      "city": "Delmar",
+      "state": "NY",
+      "lat": 42.629146,
+      "lng": -73.80882,
       "storeCount": 1
     },
     {
@@ -72809,6 +73313,14 @@
       "storeCount": 2
     },
     {
+      "slug": "depew-ny",
+      "city": "Depew",
+      "state": "NY",
+      "lat": 42.89264,
+      "lng": -78.690052,
+      "storeCount": 2
+    },
+    {
       "slug": "dequincy-la",
       "city": "Dequincy",
       "state": "LA",
@@ -72831,6 +73343,14 @@
       "lat": 37.550661,
       "lng": -97.257875,
       "storeCount": 2
+    },
+    {
+      "slug": "derby-ny",
+      "city": "Derby",
+      "state": "NY",
+      "lat": 42.699616,
+      "lng": -78.984939,
+      "storeCount": 1
     },
     {
       "slug": "derwood-md",
@@ -72868,9 +73388,9 @@
       "slug": "detroit-mi",
       "city": "Detroit",
       "state": "MI",
-      "lat": 42.386484,
-      "lng": -83.105307,
-      "storeCount": 21
+      "lat": 42.371736,
+      "lng": -83.126805,
+      "storeCount": 23
     },
     {
       "slug": "devine-tx",
@@ -73049,6 +73569,14 @@
       "storeCount": 1
     },
     {
+      "slug": "dorchester-ma",
+      "city": "Dorchester",
+      "state": "MA",
+      "lat": 42.290655,
+      "lng": -71.062606,
+      "storeCount": 3
+    },
+    {
       "slug": "dothan-al",
       "city": "Dothan",
       "state": "AL",
@@ -73137,6 +73665,14 @@
       "storeCount": 1
     },
     {
+      "slug": "dracut-ma",
+      "city": "Dracut",
+      "state": "MA",
+      "lat": 42.666054,
+      "lng": -71.303719,
+      "storeCount": 1
+    },
+    {
       "slug": "draper-ut",
       "city": "Draper",
       "state": "UT",
@@ -73182,6 +73718,14 @@
       "state": "KY",
       "lat": 38.683255,
       "lng": -84.600204,
+      "storeCount": 1
+    },
+    {
+      "slug": "dryden-ny",
+      "city": "Dryden",
+      "state": "NY",
+      "lat": 42.495936,
+      "lng": -76.298605,
       "storeCount": 1
     },
     {
@@ -73393,6 +73937,14 @@
       "storeCount": 1
     },
     {
+      "slug": "eagle-id",
+      "city": "Eagle",
+      "state": "ID",
+      "lat": 43.67837,
+      "lng": -116.382357,
+      "storeCount": 2
+    },
+    {
       "slug": "eagle-mountain-ut",
       "city": "Eagle Mountain",
       "state": "UT",
@@ -73441,11 +73993,27 @@
       "storeCount": 1
     },
     {
+      "slug": "east-aurora-ny",
+      "city": "East Aurora",
+      "state": "NY",
+      "lat": 42.767718,
+      "lng": -78.629887,
+      "storeCount": 1
+    },
+    {
       "slug": "east-bernard-tx",
       "city": "East Bernard",
       "state": "TX",
       "lat": 29.392143,
       "lng": -96.076928,
+      "storeCount": 1
+    },
+    {
+      "slug": "east-boston-ma",
+      "city": "East Boston",
+      "state": "MA",
+      "lat": 42.374458,
+      "lng": -71.040253,
       "storeCount": 1
     },
     {
@@ -73638,6 +74206,14 @@
       "state": "NJ",
       "lat": 40.268568,
       "lng": -74.542982,
+      "storeCount": 1
+    },
+    {
+      "slug": "easthampton-ma",
+      "city": "Easthampton",
+      "state": "MA",
+      "lat": 42.27988,
+      "lng": -72.670284,
       "storeCount": 1
     },
     {
@@ -74257,6 +74833,14 @@
       "storeCount": 1
     },
     {
+      "slug": "elmira-ny",
+      "city": "Elmira",
+      "state": "NY",
+      "lat": 42.074932,
+      "lng": -76.802217,
+      "storeCount": 2
+    },
+    {
       "slug": "elmont-ny",
       "city": "Elmont",
       "state": "NY",
@@ -74369,6 +74953,14 @@
       "storeCount": 1
     },
     {
+      "slug": "endicott-ny",
+      "city": "Endicott",
+      "state": "NY",
+      "lat": 42.09602,
+      "lng": -76.05462,
+      "storeCount": 1
+    },
+    {
       "slug": "englewood-co",
       "city": "Englewood",
       "state": "CO",
@@ -74439,6 +75031,14 @@
       "lat": 40.176338,
       "lng": -76.17096,
       "storeCount": 2
+    },
+    {
+      "slug": "erie-pa",
+      "city": "Erie",
+      "state": "PA",
+      "lat": 42.10628,
+      "lng": -80.07686,
+      "storeCount": 7
     },
     {
       "slug": "erwinville-la",
@@ -74633,6 +75233,14 @@
       "storeCount": 1
     },
     {
+      "slug": "everett-ma",
+      "city": "Everett",
+      "state": "MA",
+      "lat": 42.39843,
+      "lng": -71.064201,
+      "storeCount": 1
+    },
+    {
       "slug": "evergreen-al",
       "city": "Evergreen",
       "state": "AL",
@@ -74790,6 +75398,14 @@
       "state": "PA",
       "lat": 40.171549,
       "lng": -74.851537,
+      "storeCount": 1
+    },
+    {
+      "slug": "fairmont-mn",
+      "city": "Fairmont",
+      "state": "MN",
+      "lat": 43.677005,
+      "lng": -94.448684,
       "storeCount": 1
     },
     {
@@ -75151,6 +75767,14 @@
       "lat": 41.518574,
       "lng": -73.890228,
       "storeCount": 1
+    },
+    {
+      "slug": "fitchburg-ma",
+      "city": "Fitchburg",
+      "state": "MA",
+      "lat": 42.566681,
+      "lng": -71.778901,
+      "storeCount": 2
     },
     {
       "slug": "fitzgerald-ga",
@@ -75713,6 +76337,14 @@
       "storeCount": 1
     },
     {
+      "slug": "framingham-ma",
+      "city": "Framingham",
+      "state": "MA",
+      "lat": 42.304607,
+      "lng": -71.426007,
+      "storeCount": 3
+    },
+    {
       "slug": "frankfort-il",
       "city": "Frankfort",
       "state": "IL",
@@ -75862,6 +76494,14 @@
       "state": "MO",
       "lat": 37.559645,
       "lng": -90.315909,
+      "storeCount": 1
+    },
+    {
+      "slug": "fredonia-ny",
+      "city": "Fredonia",
+      "state": "NY",
+      "lat": 42.450888,
+      "lng": -79.308726,
       "storeCount": 1
     },
     {
@@ -76209,6 +76849,14 @@
       "storeCount": 1
     },
     {
+      "slug": "gardner-ma",
+      "city": "Gardner",
+      "state": "MA",
+      "lat": 42.563297,
+      "lng": -71.99086,
+      "storeCount": 1
+    },
+    {
       "slug": "garfield-heights-oh",
       "city": "Garfield Heights",
       "state": "OH",
@@ -76318,6 +76966,22 @@
       "state": "IL",
       "lat": 41.439589,
       "lng": -90.153638,
+      "storeCount": 1
+    },
+    {
+      "slug": "geneseo-ny",
+      "city": "Geneseo",
+      "state": "NY",
+      "lat": 42.795081,
+      "lng": -77.794502,
+      "storeCount": 1
+    },
+    {
+      "slug": "geneva-ny",
+      "city": "Geneva",
+      "state": "NY",
+      "lat": 42.858215,
+      "lng": -76.99588,
       "storeCount": 1
     },
     {
@@ -76633,6 +77297,14 @@
       "storeCount": 2
     },
     {
+      "slug": "glenmont-ny",
+      "city": "Glenmont",
+      "state": "NY",
+      "lat": 42.601501,
+      "lng": -73.793216,
+      "storeCount": 1
+    },
+    {
       "slug": "glennville-ga",
       "city": "Glennville",
       "state": "GA",
@@ -76655,6 +77327,14 @@
       "lat": 42.061929,
       "lng": -87.821032,
       "storeCount": 2
+    },
+    {
+      "slug": "glenville-ny",
+      "city": "Glenville",
+      "state": "NY",
+      "lat": 42.86792,
+      "lng": -73.933245,
+      "storeCount": 1
     },
     {
       "slug": "glenville-wv",
@@ -76686,6 +77366,14 @@
       "state": "AZ",
       "lat": 33.39323,
       "lng": -110.767656,
+      "storeCount": 1
+    },
+    {
+      "slug": "gloucester-ma",
+      "city": "Gloucester",
+      "state": "MA",
+      "lat": 42.617485,
+      "lng": -70.666008,
       "storeCount": 1
     },
     {
@@ -76814,6 +77502,14 @@
       "state": "OH",
       "lat": 39.232688,
       "lng": -84.160312,
+      "storeCount": 1
+    },
+    {
+      "slug": "gowanda-ny",
+      "city": "Gowanda",
+      "state": "NY",
+      "lat": 42.473286,
+      "lng": -78.935226,
       "storeCount": 1
     },
     {
@@ -77025,6 +77721,14 @@
       "storeCount": 1
     },
     {
+      "slug": "great-barrington-ma",
+      "city": "Great Barrington",
+      "state": "MA",
+      "lat": 42.209996,
+      "lng": -73.345374,
+      "storeCount": 1
+    },
+    {
       "slug": "great-bend-ks",
       "city": "Great Bend",
       "state": "KS",
@@ -77134,6 +77838,14 @@
       "state": "IN",
       "lat": 39.810339,
       "lng": -85.843125,
+      "storeCount": 2
+    },
+    {
+      "slug": "greenfield-ma",
+      "city": "Greenfield",
+      "state": "MA",
+      "lat": 42.592647,
+      "lng": -72.609634,
       "storeCount": 2
     },
     {
@@ -77553,12 +78265,28 @@
       "storeCount": 1
     },
     {
+      "slug": "hadley-ma",
+      "city": "Hadley",
+      "state": "MA",
+      "lat": 42.358839,
+      "lng": -72.54972,
+      "storeCount": 1
+    },
+    {
       "slug": "hagerstown-md",
       "city": "Hagerstown",
       "state": "MD",
       "lat": 39.639785,
       "lng": -77.734547,
       "storeCount": 8
+    },
+    {
+      "slug": "hailey-id",
+      "city": "Hailey",
+      "state": "ID",
+      "lat": 43.526588,
+      "lng": -114.319897,
+      "storeCount": 1
     },
     {
       "slug": "haines-city-fl",
@@ -77625,6 +78353,14 @@
       "storeCount": 1
     },
     {
+      "slug": "hamburg-ny",
+      "city": "Hamburg",
+      "state": "NY",
+      "lat": 42.739885,
+      "lng": -78.83982,
+      "storeCount": 2
+    },
+    {
       "slug": "hamburg-pa",
       "city": "Hamburg",
       "state": "PA",
@@ -77654,6 +78390,14 @@
       "state": "AL",
       "lat": 34.123882,
       "lng": -87.990296,
+      "storeCount": 1
+    },
+    {
+      "slug": "hamilton-ny",
+      "city": "Hamilton",
+      "state": "NY",
+      "lat": 42.834359,
+      "lng": -75.549619,
       "storeCount": 1
     },
     {
@@ -77729,6 +78473,14 @@
       "storeCount": 1
     },
     {
+      "slug": "hampton-nh",
+      "city": "Hampton",
+      "state": "NH",
+      "lat": 42.94595,
+      "lng": -70.832588,
+      "storeCount": 1
+    },
+    {
       "slug": "hampton-nj",
       "city": "Hampton",
       "state": "NJ",
@@ -77793,6 +78545,14 @@
       "storeCount": 1
     },
     {
+      "slug": "hanover-ma",
+      "city": "Hanover",
+      "state": "MA",
+      "lat": 42.143932,
+      "lng": -70.845024,
+      "storeCount": 1
+    },
+    {
       "slug": "hanover-md",
       "city": "Hanover",
       "state": "MD",
@@ -77814,6 +78574,14 @@
       "state": "KY",
       "lat": 37.418059,
       "lng": -87.474394,
+      "storeCount": 1
+    },
+    {
+      "slug": "hanson-ma",
+      "city": "Hanson",
+      "state": "MA",
+      "lat": 42.067776,
+      "lng": -70.874329,
       "storeCount": 1
     },
     {
@@ -77911,6 +78679,14 @@
       "lat": 40.290024,
       "lng": -76.821883,
       "storeCount": 10
+    },
+    {
+      "slug": "harrisburg-sd",
+      "city": "Harrisburg",
+      "state": "SD",
+      "lat": 43.433955,
+      "lng": -96.707055,
+      "storeCount": 1
     },
     {
       "slug": "harrison-ar",
@@ -78119,6 +78895,14 @@
       "lat": 34.888934,
       "lng": -76.913599,
       "storeCount": 3
+    },
+    {
+      "slug": "haverhill-ma",
+      "city": "Haverhill",
+      "state": "MA",
+      "lat": 42.791048,
+      "lng": -71.109375,
+      "storeCount": 2
     },
     {
       "slug": "haverstraw-ny",
@@ -78713,6 +79497,14 @@
       "storeCount": 2
     },
     {
+      "slug": "hines-or",
+      "city": "Hines",
+      "state": "OR",
+      "lat": 43.573647,
+      "lng": -119.074162,
+      "storeCount": 1
+    },
+    {
       "slug": "hinesville-ga",
       "city": "Hinesville",
       "state": "GA",
@@ -78798,6 +79590,14 @@
       "state": "TN",
       "lat": 35.551104,
       "lng": -87.541535,
+      "storeCount": 1
+    },
+    {
+      "slug": "holden-ma",
+      "city": "Holden",
+      "state": "MA",
+      "lat": 42.339478,
+      "lng": -71.837723,
       "storeCount": 1
     },
     {
@@ -78895,6 +79695,14 @@
       "lat": 38.655451,
       "lng": -92.113771,
       "storeCount": 1
+    },
+    {
+      "slug": "holyoke-ma",
+      "city": "Holyoke",
+      "state": "MA",
+      "lat": 42.189166,
+      "lng": -72.627097,
+      "storeCount": 3
     },
     {
       "slug": "homer-glen-il",
@@ -79025,12 +79833,28 @@
       "storeCount": 2
     },
     {
+      "slug": "hornell-ny",
+      "city": "Hornell",
+      "state": "NY",
+      "lat": 42.345283,
+      "lng": -77.666655,
+      "storeCount": 1
+    },
+    {
       "slug": "horse-cave-ky",
       "city": "Horse Cave",
       "state": "KY",
       "lat": 37.201323,
       "lng": -85.935417,
       "storeCount": 1
+    },
+    {
+      "slug": "horseheads-ny",
+      "city": "Horseheads",
+      "state": "NY",
+      "lat": 42.158562,
+      "lng": -76.849705,
+      "storeCount": 2
     },
     {
       "slug": "horsham-pa",
@@ -79134,6 +79958,30 @@
       "state": "FL",
       "lat": 28.331619,
       "lng": -82.658396,
+      "storeCount": 1
+    },
+    {
+      "slug": "hudson-ma",
+      "city": "Hudson",
+      "state": "MA",
+      "lat": 42.382229,
+      "lng": -71.56915,
+      "storeCount": 1
+    },
+    {
+      "slug": "hudson-nh",
+      "city": "Hudson",
+      "state": "NH",
+      "lat": 42.750063,
+      "lng": -71.434219,
+      "storeCount": 2
+    },
+    {
+      "slug": "hudson-ny",
+      "city": "Hudson",
+      "state": "NY",
+      "lat": 42.254637,
+      "lng": -73.767986,
       "storeCount": 1
     },
     {
@@ -79345,6 +80193,14 @@
       "storeCount": 3
     },
     {
+      "slug": "hyde-park-ma",
+      "city": "Hyde Park",
+      "state": "MA",
+      "lat": 42.252857,
+      "lng": -71.124496,
+      "storeCount": 1
+    },
+    {
       "slug": "hyde-park-ny",
       "city": "Hyde Park",
       "state": "NY",
@@ -79375,6 +80231,14 @@
       "lat": 33.894115,
       "lng": -94.790895,
       "storeCount": 1
+    },
+    {
+      "slug": "idaho-falls-id",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "lat": 43.487287,
+      "lng": -112.036012,
+      "storeCount": 5
     },
     {
       "slug": "idaho-springs-co",
@@ -79545,6 +80409,14 @@
       "storeCount": 1
     },
     {
+      "slug": "irving-ny",
+      "city": "Irving",
+      "state": "NY",
+      "lat": 42.560596,
+      "lng": -79.121958,
+      "storeCount": 1
+    },
+    {
       "slug": "irving-tx",
       "city": "Irving",
       "state": "TX",
@@ -79615,6 +80487,14 @@
       "lat": 32.195925,
       "lng": -96.898438,
       "storeCount": 1
+    },
+    {
+      "slug": "ithaca-ny",
+      "city": "Ithaca",
+      "state": "NY",
+      "lat": 42.453396,
+      "lng": -76.502295,
+      "storeCount": 2
     },
     {
       "slug": "iuka-ms",
@@ -79705,6 +80585,14 @@
       "storeCount": 6
     },
     {
+      "slug": "jackson-wy",
+      "city": "Jackson",
+      "state": "WY",
+      "lat": 43.47323,
+      "lng": -110.786832,
+      "storeCount": 1
+    },
+    {
       "slug": "jacksonville-al",
       "city": "Jacksonville",
       "state": "AL",
@@ -79742,6 +80630,14 @@
       "state": "NC",
       "lat": 34.717068,
       "lng": -77.323897,
+      "storeCount": 1
+    },
+    {
+      "slug": "jaffrey-nh",
+      "city": "Jaffrey",
+      "state": "NH",
+      "lat": 42.818123,
+      "lng": -72.016541,
       "storeCount": 1
     },
     {
@@ -79967,6 +80863,14 @@
       "lat": 32.720753,
       "lng": -80.080698,
       "storeCount": 1
+    },
+    {
+      "slug": "johnson-city-ny",
+      "city": "Johnson City",
+      "state": "NY",
+      "lat": 42.120009,
+      "lng": -75.965557,
+      "storeCount": 2
     },
     {
       "slug": "johnson-city-tn",
@@ -80609,6 +81513,14 @@
       "storeCount": 5
     },
     {
+      "slug": "kuna-id",
+      "city": "Kuna",
+      "state": "ID",
+      "lat": 43.500153,
+      "lng": -116.394511,
+      "storeCount": 1
+    },
+    {
       "slug": "la-canada-flintridge-ca",
       "city": "La Canada Flintridge",
       "state": "CA",
@@ -80623,6 +81535,14 @@
       "lat": 36.7481,
       "lng": -78.098706,
       "storeCount": 1
+    },
+    {
+      "slug": "la-crosse-wi",
+      "city": "La Crosse",
+      "state": "WI",
+      "lat": 43.820087,
+      "lng": -91.230071,
+      "storeCount": 2
     },
     {
       "slug": "la-fayette-ga",
@@ -80705,6 +81625,14 @@
       "storeCount": 1
     },
     {
+      "slug": "la-pine-or",
+      "city": "La Pine",
+      "state": "OR",
+      "lat": 43.674047,
+      "lng": -121.49987,
+      "storeCount": 1
+    },
+    {
       "slug": "la-plata-md",
       "city": "La Plata",
       "state": "MD",
@@ -80761,6 +81689,14 @@
       "storeCount": 1
     },
     {
+      "slug": "lackawanna-ny",
+      "city": "Lackawanna",
+      "state": "NY",
+      "lat": 42.830988,
+      "lng": -78.804607,
+      "storeCount": 1
+    },
+    {
       "slug": "lacy-lakeview-tx",
       "city": "Lacy Lakeview",
       "state": "TX",
@@ -80807,6 +81743,14 @@
       "lat": 30.209015,
       "lng": -92.037251,
       "storeCount": 9
+    },
+    {
+      "slug": "lafayette-ny",
+      "city": "Lafayette",
+      "state": "NY",
+      "lat": 42.893619,
+      "lng": -76.111861,
+      "storeCount": 1
     },
     {
       "slug": "lafayette-tn",
@@ -81105,6 +82049,14 @@
       "storeCount": 1
     },
     {
+      "slug": "lakeville-ny",
+      "city": "Lakeville",
+      "state": "NY",
+      "lat": 42.833156,
+      "lng": -77.695378,
+      "storeCount": 1
+    },
+    {
       "slug": "lakewood-ca",
       "city": "Lakewood",
       "state": "CA",
@@ -81337,6 +82289,14 @@
       "storeCount": 48
     },
     {
+      "slug": "latham-ny",
+      "city": "Latham",
+      "state": "NY",
+      "lat": 42.755162,
+      "lng": -73.759391,
+      "storeCount": 1
+    },
+    {
       "slug": "lathrop-ca",
       "city": "Lathrop",
       "state": "CA",
@@ -81423,6 +82383,14 @@
       "lat": 34.44629,
       "lng": -83.119651,
       "storeCount": 1
+    },
+    {
+      "slug": "lawrence-ma",
+      "city": "Lawrence",
+      "state": "MA",
+      "lat": 42.697646,
+      "lng": -71.170849,
+      "storeCount": 2
     },
     {
       "slug": "lawrence-ny",
@@ -81625,6 +82593,14 @@
       "storeCount": 1
     },
     {
+      "slug": "lee-ma",
+      "city": "Lee",
+      "state": "MA",
+      "lat": 42.298161,
+      "lng": -73.263334,
+      "storeCount": 3
+    },
+    {
       "slug": "leechburg-pa",
       "city": "Leechburg",
       "state": "PA",
@@ -81753,6 +82729,14 @@
       "storeCount": 1
     },
     {
+      "slug": "leominster-ma",
+      "city": "Leominster",
+      "state": "MA",
+      "lat": 42.522709,
+      "lng": -71.74351,
+      "storeCount": 3
+    },
+    {
       "slug": "leonard-tx",
       "city": "Leonard",
       "state": "TX",
@@ -81831,6 +82815,14 @@
       "lat": 33.068044,
       "lng": -96.956409,
       "storeCount": 2
+    },
+    {
+      "slug": "lexington-ma",
+      "city": "Lexington",
+      "state": "MA",
+      "lat": 42.440211,
+      "lng": -71.25749,
+      "storeCount": 1
     },
     {
       "slug": "lexington-mo",
@@ -82577,6 +83569,14 @@
       "storeCount": 1
     },
     {
+      "slug": "loudonville-ny",
+      "city": "Loudonville",
+      "state": "NY",
+      "lat": 42.706374,
+      "lng": -73.775384,
+      "storeCount": 1
+    },
+    {
       "slug": "loudonville-oh",
       "city": "Loudonville",
       "state": "OH",
@@ -82697,6 +83697,14 @@
       "storeCount": 1
     },
     {
+      "slug": "lowell-ma",
+      "city": "Lowell",
+      "state": "MA",
+      "lat": 42.635207,
+      "lng": -71.310192,
+      "storeCount": 3
+    },
+    {
       "slug": "lower-burrell-pa",
       "city": "Lower Burrell",
       "state": "PA",
@@ -82777,6 +83785,14 @@
       "storeCount": 1
     },
     {
+      "slug": "luverne-mn",
+      "city": "Luverne",
+      "state": "MN",
+      "lat": 43.641296,
+      "lng": -96.212329,
+      "storeCount": 1
+    },
+    {
       "slug": "luzerne-pa",
       "city": "Luzerne",
       "state": "PA",
@@ -82815,6 +83831,14 @@
       "lat": 30.232222,
       "lng": -85.649571,
       "storeCount": 1
+    },
+    {
+      "slug": "lynn-ma",
+      "city": "Lynn",
+      "state": "MA",
+      "lat": 42.462858,
+      "lng": -70.958414,
+      "storeCount": 2
     },
     {
       "slug": "lyons-il",
@@ -83134,6 +84158,14 @@
       "state": "TX",
       "lat": 32.171131,
       "lng": -96.012555,
+      "storeCount": 1
+    },
+    {
+      "slug": "malden-ma",
+      "city": "Malden",
+      "state": "MA",
+      "lat": 42.427048,
+      "lng": -71.041817,
       "storeCount": 1
     },
     {
@@ -83529,6 +84561,14 @@
       "storeCount": 1
     },
     {
+      "slug": "marlborough-ma",
+      "city": "Marlborough",
+      "state": "MA",
+      "lat": 42.339312,
+      "lng": -71.565063,
+      "storeCount": 2
+    },
+    {
       "slug": "marlin-tx",
       "city": "Marlin",
       "state": "TX",
@@ -83590,6 +84630,14 @@
       "state": "VA",
       "lat": 38.862108,
       "lng": -77.848083,
+      "storeCount": 1
+    },
+    {
+      "slug": "marshfield-ma",
+      "city": "Marshfield",
+      "state": "MA",
+      "lat": 42.092793,
+      "lng": -70.715767,
       "storeCount": 1
     },
     {
@@ -83713,6 +84761,14 @@
       "storeCount": 1
     },
     {
+      "slug": "mason-city-ia",
+      "city": "Mason City",
+      "state": "IA",
+      "lat": 43.139984,
+      "lng": -93.214486,
+      "storeCount": 2
+    },
+    {
       "slug": "mason-mi",
       "city": "Mason",
       "state": "MI",
@@ -83809,6 +84865,14 @@
       "storeCount": 2
     },
     {
+      "slug": "mauston-wi",
+      "city": "Mauston",
+      "state": "WI",
+      "lat": 43.796049,
+      "lng": -90.061847,
+      "storeCount": 1
+    },
+    {
       "slug": "max-meadows-va",
       "city": "Max Meadows",
       "state": "VA",
@@ -83838,6 +84902,14 @@
       "state": "KY",
       "lat": 36.728785,
       "lng": -88.63135,
+      "storeCount": 1
+    },
+    {
+      "slug": "maynard-ma",
+      "city": "Maynard",
+      "state": "MA",
+      "lat": 42.432533,
+      "lng": -71.450134,
       "storeCount": 1
     },
     {
@@ -84097,6 +85169,14 @@
       "storeCount": 2
     },
     {
+      "slug": "mechanicville-ny",
+      "city": "Mechanicville",
+      "state": "NY",
+      "lat": 42.903524,
+      "lng": -73.688047,
+      "storeCount": 1
+    },
+    {
       "slug": "medford-nj",
       "city": "Medford",
       "state": "NJ",
@@ -84273,6 +85353,14 @@
       "storeCount": 3
     },
     {
+      "slug": "meridian-id",
+      "city": "Meridian",
+      "state": "ID",
+      "lat": 43.605178,
+      "lng": -116.377866,
+      "storeCount": 6
+    },
+    {
       "slug": "meridian-ms",
       "city": "Meridian",
       "state": "MS",
@@ -84305,6 +85393,14 @@
       "storeCount": 4
     },
     {
+      "slug": "merrimack-nh",
+      "city": "Merrimack",
+      "state": "NH",
+      "lat": 42.838373,
+      "lng": -71.49758,
+      "storeCount": 1
+    },
+    {
       "slug": "merritt-island-fl",
       "city": "Merritt Island",
       "state": "FL",
@@ -84335,6 +85431,14 @@
       "lat": 32.78189,
       "lng": -96.610626,
       "storeCount": 7
+    },
+    {
+      "slug": "methuen-ma",
+      "city": "Methuen",
+      "state": "MA",
+      "lat": 42.725177,
+      "lng": -71.178538,
+      "storeCount": 4
     },
     {
       "slug": "metropolis-il",
@@ -84494,6 +85598,14 @@
       "state": "NJ",
       "lat": 40.586348,
       "lng": -74.476188,
+      "storeCount": 1
+    },
+    {
+      "slug": "middleton-ma",
+      "city": "Middleton",
+      "state": "MA",
+      "lat": 42.575791,
+      "lng": -70.996709,
       "storeCount": 1
     },
     {
@@ -84678,6 +85790,14 @@
       "state": "MI",
       "lat": 42.581921,
       "lng": -83.611923,
+      "storeCount": 1
+    },
+    {
+      "slug": "milford-nh",
+      "city": "Milford",
+      "state": "NH",
+      "lat": 42.823624,
+      "lng": -71.622513,
       "storeCount": 1
     },
     {
@@ -84951,6 +86071,14 @@
       "lat": 38.724724,
       "lng": -86.478688,
       "storeCount": 1
+    },
+    {
+      "slug": "mitchell-sd",
+      "city": "Mitchell",
+      "state": "SD",
+      "lat": 43.710603,
+      "lng": -98.020548,
+      "storeCount": 2
     },
     {
       "slug": "moab-ut",
@@ -85665,6 +86793,14 @@
       "storeCount": 1
     },
     {
+      "slug": "mount-morris-ny",
+      "city": "Mount Morris",
+      "state": "NY",
+      "lat": 42.728028,
+      "lng": -77.86909,
+      "storeCount": 1
+    },
+    {
       "slug": "mount-olive-nc",
       "city": "Mount Olive",
       "state": "NC",
@@ -85806,6 +86942,14 @@
       "state": "AR",
       "lat": 36.355154,
       "lng": -92.353386,
+      "storeCount": 2
+    },
+    {
+      "slug": "mountain-home-id",
+      "city": "Mountain Home",
+      "state": "ID",
+      "lat": 43.131557,
+      "lng": -115.682522,
       "storeCount": 2
     },
     {
@@ -86033,6 +87177,14 @@
       "storeCount": 2
     },
     {
+      "slug": "nampa-id",
+      "city": "Nampa",
+      "state": "ID",
+      "lat": 43.588615,
+      "lng": -116.564523,
+      "storeCount": 4
+    },
+    {
       "slug": "nanuet-ny",
       "city": "Nanuet",
       "state": "NY",
@@ -86079,6 +87231,14 @@
       "lat": 41.443035,
       "lng": -85.984625,
       "storeCount": 1
+    },
+    {
+      "slug": "nashua-nh",
+      "city": "Nashua",
+      "state": "NH",
+      "lat": 42.73321,
+      "lng": -71.4583,
+      "storeCount": 3
     },
     {
       "slug": "nashville-ar",
@@ -86145,6 +87305,14 @@
       "storeCount": 2
     },
     {
+      "slug": "natick-ma",
+      "city": "Natick",
+      "state": "MA",
+      "lat": 42.304683,
+      "lng": -71.361797,
+      "storeCount": 3
+    },
+    {
       "slug": "national-city-ca",
       "city": "National City",
       "state": "CA",
@@ -86190,6 +87358,14 @@
       "state": "NE",
       "lat": 40.663444,
       "lng": -95.859662,
+      "storeCount": 1
+    },
+    {
+      "slug": "needham-ma",
+      "city": "Needham",
+      "state": "MA",
+      "lat": 42.274288,
+      "lng": -71.237457,
       "storeCount": 1
     },
     {
@@ -86641,6 +87817,14 @@
       "storeCount": 1
     },
     {
+      "slug": "newburyport-ma",
+      "city": "Newburyport",
+      "state": "MA",
+      "lat": 42.821018,
+      "lng": -70.905205,
+      "storeCount": 1
+    },
+    {
       "slug": "newcastle-ok",
       "city": "Newcastle",
       "state": "OK",
@@ -86729,6 +87913,14 @@
       "storeCount": 2
     },
     {
+      "slug": "newton-ma",
+      "city": "Newton",
+      "state": "MA",
+      "lat": 42.347645,
+      "lng": -71.225533,
+      "storeCount": 2
+    },
+    {
       "slug": "newton-ms",
       "city": "Newton",
       "state": "MS",
@@ -86742,6 +87934,14 @@
       "state": "NJ",
       "lat": 41.06805,
       "lng": -74.744499,
+      "storeCount": 1
+    },
+    {
+      "slug": "newton-upper-falls-ma",
+      "city": "Newton Upper Falls",
+      "state": "MA",
+      "lat": 42.313767,
+      "lng": -71.212159,
       "storeCount": 1
     },
     {
@@ -86825,6 +88025,22 @@
       "storeCount": 2
     },
     {
+      "slug": "north-adams-ma",
+      "city": "North Adams",
+      "state": "MA",
+      "lat": 42.700757,
+      "lng": -73.107984,
+      "storeCount": 1
+    },
+    {
+      "slug": "north-andover-ma",
+      "city": "North Andover",
+      "state": "MA",
+      "lat": 42.700012,
+      "lng": -71.118622,
+      "storeCount": 1
+    },
+    {
       "slug": "north-augusta-sc",
       "city": "North Augusta",
       "state": "SC",
@@ -86846,6 +88062,14 @@
       "state": "OH",
       "lat": 41.173281,
       "lng": -83.645599,
+      "storeCount": 1
+    },
+    {
+      "slug": "north-bend-or",
+      "city": "North Bend",
+      "state": "OR",
+      "lat": 43.392261,
+      "lng": -124.238837,
       "storeCount": 1
     },
     {
@@ -86910,6 +88134,14 @@
       "state": "MD",
       "lat": 39.607939,
       "lng": -75.947167,
+      "storeCount": 1
+    },
+    {
+      "slug": "north-east-pa",
+      "city": "North East",
+      "state": "PA",
+      "lat": 42.231782,
+      "lng": -79.783128,
       "storeCount": 1
     },
     {
@@ -87049,6 +88281,14 @@
       "storeCount": 1
     },
     {
+      "slug": "north-reading-ma",
+      "city": "North Reading",
+      "state": "MA",
+      "lat": 42.569408,
+      "lng": -71.108475,
+      "storeCount": 1
+    },
+    {
       "slug": "north-richland-hills-tx",
       "city": "North Richland Hills",
       "state": "TX",
@@ -87089,11 +88329,27 @@
       "storeCount": 2
     },
     {
+      "slug": "north-weymouth-ma",
+      "city": "North Weymouth",
+      "state": "MA",
+      "lat": 42.245094,
+      "lng": -70.936623,
+      "storeCount": 1
+    },
+    {
       "slug": "north-wilkesboro-nc",
       "city": "North Wilkesboro",
       "state": "NC",
       "lat": 36.177789,
       "lng": -81.144892,
+      "storeCount": 1
+    },
+    {
+      "slug": "northampton-ma",
+      "city": "Northampton",
+      "state": "MA",
+      "lat": 42.328892,
+      "lng": -72.633195,
       "storeCount": 1
     },
     {
@@ -87193,12 +88449,36 @@
       "storeCount": 2
     },
     {
+      "slug": "norwell-ma",
+      "city": "Norwell",
+      "state": "MA",
+      "lat": 42.173557,
+      "lng": -70.880646,
+      "storeCount": 1
+    },
+    {
       "slug": "norwich-ct",
       "city": "Norwich",
       "state": "CT",
       "lat": 41.529742,
       "lng": -72.104754,
       "storeCount": 2
+    },
+    {
+      "slug": "norwich-ny",
+      "city": "Norwich",
+      "state": "NY",
+      "lat": 42.520043,
+      "lng": -75.522286,
+      "storeCount": 1
+    },
+    {
+      "slug": "norwood-ma",
+      "city": "Norwood",
+      "state": "MA",
+      "lat": 42.187668,
+      "lng": -71.194364,
+      "storeCount": 3
     },
     {
       "slug": "nottingham-md",
@@ -87617,6 +88897,14 @@
       "storeCount": 1
     },
     {
+      "slug": "okoboji-ia",
+      "city": "Okoboji",
+      "state": "IA",
+      "lat": 43.387731,
+      "lng": -95.126244,
+      "storeCount": 1
+    },
+    {
       "slug": "olathe-ks",
       "city": "Olathe",
       "state": "KS",
@@ -87713,6 +89001,14 @@
       "storeCount": 23
     },
     {
+      "slug": "onalaska-wi",
+      "city": "Onalaska",
+      "state": "WI",
+      "lat": 43.872256,
+      "lng": -91.195033,
+      "storeCount": 1
+    },
+    {
       "slug": "oneida-tn",
       "city": "Oneida",
       "state": "TN",
@@ -87726,6 +89022,14 @@
       "state": "NE",
       "lat": 42.45608,
       "lng": -98.632822,
+      "storeCount": 1
+    },
+    {
+      "slug": "oneonta-ny",
+      "city": "Oneonta",
+      "state": "NY",
+      "lat": 42.447224,
+      "lng": -75.050091,
       "storeCount": 1
     },
     {
@@ -87815,6 +89119,14 @@
       "lat": 33.522434,
       "lng": -80.855089,
       "storeCount": 3
+    },
+    {
+      "slug": "orchard-park-ny",
+      "city": "Orchard Park",
+      "state": "NY",
+      "lat": 42.797079,
+      "lng": -78.752365,
+      "storeCount": 1
     },
     {
       "slug": "oregon-oh",
@@ -87977,6 +89289,14 @@
       "storeCount": 1
     },
     {
+      "slug": "ovid-ny",
+      "city": "Ovid",
+      "state": "NY",
+      "lat": 42.680318,
+      "lng": -76.8195,
+      "storeCount": 1
+    },
+    {
       "slug": "oviedo-fl",
       "city": "Oviedo",
       "state": "FL",
@@ -88046,6 +89366,22 @@
       "state": "AL",
       "lat": 33.607049,
       "lng": -85.828266,
+      "storeCount": 1
+    },
+    {
+      "slug": "oxford-ma",
+      "city": "Oxford",
+      "state": "MA",
+      "lat": 42.117058,
+      "lng": -71.859802,
+      "storeCount": 1
+    },
+    {
+      "slug": "oxford-mi",
+      "city": "Oxford",
+      "state": "MI",
+      "lat": 42.837318,
+      "lng": -83.273404,
       "storeCount": 1
     },
     {
@@ -88175,6 +89511,14 @@
       "lat": 41.711969,
       "lng": -81.263297,
       "storeCount": 2
+    },
+    {
+      "slug": "painted-post-ny",
+      "city": "Painted Post",
+      "state": "NY",
+      "lat": 42.159118,
+      "lng": -77.089803,
+      "storeCount": 1
     },
     {
       "slug": "paintsville-ky",
@@ -88649,6 +89993,14 @@
       "storeCount": 1
     },
     {
+      "slug": "peabody-ma",
+      "city": "Peabody",
+      "state": "MA",
+      "lat": 42.531489,
+      "lng": -70.931799,
+      "storeCount": 2
+    },
+    {
       "slug": "peachtree-city-ga",
       "city": "Peachtree City",
       "state": "GA",
@@ -88729,6 +90081,14 @@
       "storeCount": 1
     },
     {
+      "slug": "pelham-nh",
+      "city": "Pelham",
+      "state": "NH",
+      "lat": 42.719288,
+      "lng": -71.320358,
+      "storeCount": 1
+    },
+    {
       "slug": "pell-city-al",
       "city": "Pell City",
       "state": "AL",
@@ -88774,6 +90134,14 @@
       "state": "PA",
       "lat": 40.477237,
       "lng": -79.788099,
+      "storeCount": 1
+    },
+    {
+      "slug": "penn-yan-ny",
+      "city": "Penn Yan",
+      "state": "NY",
+      "lat": 42.654734,
+      "lng": -77.058359,
       "storeCount": 1
     },
     {
@@ -89321,6 +90689,14 @@
       "storeCount": 1
     },
     {
+      "slug": "pittsfield-ma",
+      "city": "Pittsfield",
+      "state": "MA",
+      "lat": 42.455576,
+      "lng": -73.239452,
+      "storeCount": 2
+    },
+    {
       "slug": "pittston-pa",
       "city": "Pittston",
       "state": "PA",
@@ -89753,6 +91129,14 @@
       "storeCount": 1
     },
     {
+      "slug": "portage-wi",
+      "city": "Portage",
+      "state": "WI",
+      "lat": 43.567802,
+      "lng": -89.470661,
+      "storeCount": 1
+    },
+    {
       "slug": "portageville-mo",
       "city": "Portageville",
       "state": "MO",
@@ -90129,6 +91513,14 @@
       "storeCount": 1
     },
     {
+      "slug": "quincy-ma",
+      "city": "Quincy",
+      "state": "MA",
+      "lat": 42.265491,
+      "lng": -71.012821,
+      "storeCount": 2
+    },
+    {
       "slug": "quincy-mi",
       "city": "Quincy",
       "state": "MI",
@@ -90249,6 +91641,14 @@
       "storeCount": 1
     },
     {
+      "slug": "randolph-ma",
+      "city": "Randolph",
+      "state": "MA",
+      "lat": 42.165077,
+      "lng": -71.046021,
+      "storeCount": 1
+    },
+    {
       "slug": "ranson-wv",
       "city": "Ranson",
       "state": "WV",
@@ -90310,6 +91710,14 @@
       "state": "LA",
       "lat": 32.457659,
       "lng": -91.757978,
+      "storeCount": 1
+    },
+    {
+      "slug": "reading-ma",
+      "city": "Reading",
+      "state": "MA",
+      "lat": 42.520565,
+      "lng": -71.102882,
       "storeCount": 1
     },
     {
@@ -90401,6 +91809,22 @@
       "storeCount": 1
     },
     {
+      "slug": "reedsburg-wi",
+      "city": "Reedsburg",
+      "state": "WI",
+      "lat": 43.531942,
+      "lng": -89.986894,
+      "storeCount": 1
+    },
+    {
+      "slug": "reedsport-or",
+      "city": "Reedsport",
+      "state": "OR",
+      "lat": 43.699863,
+      "lng": -124.110501,
+      "storeCount": 1
+    },
+    {
       "slug": "refugio-tx",
       "city": "Refugio",
       "state": "TX",
@@ -90449,12 +91873,36 @@
       "storeCount": 13
     },
     {
+      "slug": "rensselaer-ny",
+      "city": "Rensselaer",
+      "state": "NY",
+      "lat": 42.645272,
+      "lng": -73.697511,
+      "storeCount": 1
+    },
+    {
       "slug": "reseda-ca",
       "city": "Reseda",
       "state": "CA",
       "lat": 34.201477,
       "lng": -118.542305,
       "storeCount": 1
+    },
+    {
+      "slug": "revere-ma",
+      "city": "Revere",
+      "state": "MA",
+      "lat": 42.427674,
+      "lng": -71.013832,
+      "storeCount": 1
+    },
+    {
+      "slug": "rexburg-id",
+      "city": "Rexburg",
+      "state": "ID",
+      "lat": 43.818897,
+      "lng": -111.793328,
+      "storeCount": 2
     },
     {
       "slug": "reynoldsburg-oh",
@@ -90505,11 +91953,27 @@
       "storeCount": 1
     },
     {
+      "slug": "richfield-springs-ny",
+      "city": "Richfield Springs",
+      "state": "NY",
+      "lat": 42.858979,
+      "lng": -74.998699,
+      "storeCount": 1
+    },
+    {
       "slug": "richfield-ut",
       "city": "Richfield",
       "state": "UT",
       "lat": 38.753709,
       "lng": -112.086648,
+      "storeCount": 1
+    },
+    {
+      "slug": "richland-center-wi",
+      "city": "Richland Center",
+      "state": "WI",
+      "lat": 43.320278,
+      "lng": -90.374878,
       "storeCount": 1
     },
     {
@@ -90961,6 +92425,14 @@
       "storeCount": 1
     },
     {
+      "slug": "rockland-ma",
+      "city": "Rockland",
+      "state": "MA",
+      "lat": 42.121838,
+      "lng": -70.91497,
+      "storeCount": 1
+    },
+    {
       "slug": "rockledge-fl",
       "city": "Rockledge",
       "state": "FL",
@@ -91145,6 +92617,14 @@
       "storeCount": 1
     },
     {
+      "slug": "romulus-mi",
+      "city": "Romulus",
+      "state": "MI",
+      "lat": 42.220878,
+      "lng": -83.331326,
+      "storeCount": 4
+    },
+    {
       "slug": "ronceverte-wv",
       "city": "Ronceverte",
       "state": "WV",
@@ -91182,6 +92662,14 @@
       "state": "IL",
       "lat": 42.442065,
       "lng": -89.02131,
+      "storeCount": 2
+    },
+    {
+      "slug": "roseburg-or",
+      "city": "Roseburg",
+      "state": "OR",
+      "lat": 43.232169,
+      "lng": -123.359799,
       "storeCount": 2
     },
     {
@@ -91249,6 +92737,14 @@
       "storeCount": 1
     },
     {
+      "slug": "roslindale-ma",
+      "city": "Roslindale",
+      "state": "MA",
+      "lat": 42.282864,
+      "lng": -71.113602,
+      "storeCount": 1
+    },
+    {
       "slug": "rossford-oh",
       "city": "Rossford",
       "state": "OH",
@@ -91281,12 +92777,28 @@
       "storeCount": 7
     },
     {
+      "slug": "rowley-ma",
+      "city": "Rowley",
+      "state": "MA",
+      "lat": 42.703808,
+      "lng": -70.908859,
+      "storeCount": 1
+    },
+    {
       "slug": "roxboro-nc",
       "city": "Roxboro",
       "state": "NC",
       "lat": 36.405233,
       "lng": -78.978733,
       "storeCount": 1
+    },
+    {
+      "slug": "roxbury-ma",
+      "city": "Roxbury",
+      "state": "MA",
+      "lat": 42.317983,
+      "lng": -71.090058,
+      "storeCount": 2
     },
     {
       "slug": "roy-ut",
@@ -91465,6 +92977,14 @@
       "storeCount": 5
     },
     {
+      "slug": "saint-clair-mi",
+      "city": "Saint Clair",
+      "state": "MI",
+      "lat": 42.841905,
+      "lng": -82.531754,
+      "storeCount": 2
+    },
+    {
       "slug": "saint-clair-mo",
       "city": "Saint Clair",
       "state": "MO",
@@ -91609,6 +93129,14 @@
       "storeCount": 1
     },
     {
+      "slug": "salamanca-ny",
+      "city": "Salamanca",
+      "state": "NY",
+      "lat": 42.158974,
+      "lng": -78.74409,
+      "storeCount": 1
+    },
+    {
       "slug": "salem-il",
       "city": "Salem",
       "state": "IL",
@@ -91625,11 +93153,27 @@
       "storeCount": 1
     },
     {
+      "slug": "salem-ma",
+      "city": "Salem",
+      "state": "MA",
+      "lat": 42.505081,
+      "lng": -70.909916,
+      "storeCount": 2
+    },
+    {
       "slug": "salem-mo",
       "city": "Salem",
       "state": "MO",
       "lat": 37.636188,
       "lng": -91.53494,
+      "storeCount": 1
+    },
+    {
+      "slug": "salem-nh",
+      "city": "Salem",
+      "state": "NH",
+      "lat": 42.763611,
+      "lng": -71.215561,
       "storeCount": 1
     },
     {
@@ -92201,6 +93745,30 @@
       "storeCount": 1
     },
     {
+      "slug": "saugerties-ny",
+      "city": "Saugerties",
+      "state": "NY",
+      "lat": 42.084244,
+      "lng": -73.970894,
+      "storeCount": 1
+    },
+    {
+      "slug": "saugus-ma",
+      "city": "Saugus",
+      "state": "MA",
+      "lat": 42.484535,
+      "lng": -71.020142,
+      "storeCount": 2
+    },
+    {
+      "slug": "sauk-city-wi",
+      "city": "Sauk City",
+      "state": "WI",
+      "lat": 43.271693,
+      "lng": -89.731013,
+      "storeCount": 1
+    },
+    {
       "slug": "savanna-il",
       "city": "Savanna",
       "state": "IL",
@@ -92223,6 +93791,14 @@
       "lat": 42.072966,
       "lng": -88.059955,
       "storeCount": 1
+    },
+    {
+      "slug": "schenectady-ny",
+      "city": "Schenectady",
+      "state": "NY",
+      "lat": 42.78886,
+      "lng": -73.929899,
+      "storeCount": 5
     },
     {
       "slug": "schererville-in",
@@ -92335,6 +93911,14 @@
       "lat": 41.422108,
       "lng": -75.664518,
       "storeCount": 3
+    },
+    {
+      "slug": "seabrook-nh",
+      "city": "Seabrook",
+      "state": "NH",
+      "lat": 42.895009,
+      "lng": -70.870479,
+      "storeCount": 1
     },
     {
       "slug": "seabrook-tx",
@@ -92769,6 +94353,14 @@
       "storeCount": 2
     },
     {
+      "slug": "sheldon-ia",
+      "city": "Sheldon",
+      "state": "IA",
+      "lat": 43.185589,
+      "lng": -95.816067,
+      "storeCount": 1
+    },
+    {
       "slug": "shelton-ct",
       "city": "Shelton",
       "state": "CT",
@@ -92897,6 +94489,14 @@
       "storeCount": 1
     },
     {
+      "slug": "sidney-ny",
+      "city": "Sidney",
+      "state": "NY",
+      "lat": 42.300021,
+      "lng": -75.408226,
+      "storeCount": 1
+    },
+    {
       "slug": "sidney-oh",
       "city": "Sidney",
       "state": "OH",
@@ -93007,6 +94607,14 @@
       "lat": 42.487498,
       "lng": -96.378215,
       "storeCount": 7
+    },
+    {
+      "slug": "sioux-falls-sd",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "lat": 43.526907,
+      "lng": -96.745172,
+      "storeCount": 9
     },
     {
       "slug": "skiatook-ok",
@@ -93166,6 +94774,14 @@
       "state": "AZ",
       "lat": 32.597229,
       "lng": -114.71993,
+      "storeCount": 1
+    },
+    {
+      "slug": "somerville-ma",
+      "city": "Somerville",
+      "state": "MA",
+      "lat": 42.373703,
+      "lng": -71.08284,
       "storeCount": 1
     },
     {
@@ -93497,6 +95113,14 @@
       "storeCount": 1
     },
     {
+      "slug": "southbridge-ma",
+      "city": "Southbridge",
+      "state": "MA",
+      "lat": 42.06863,
+      "lng": -72.009109,
+      "storeCount": 1
+    },
+    {
       "slug": "southbury-ct",
       "city": "Southbury",
       "state": "CT",
@@ -93561,6 +95185,14 @@
       "storeCount": 1
     },
     {
+      "slug": "sparta-wi",
+      "city": "Sparta",
+      "state": "WI",
+      "lat": 43.938201,
+      "lng": -90.821412,
+      "storeCount": 1
+    },
+    {
       "slug": "spartanburg-sc",
       "city": "Spartanburg",
       "state": "SC",
@@ -93569,11 +95201,27 @@
       "storeCount": 3
     },
     {
+      "slug": "spencer-ia",
+      "city": "Spencer",
+      "state": "IA",
+      "lat": 43.127266,
+      "lng": -95.1548,
+      "storeCount": 1
+    },
+    {
       "slug": "spencer-in",
       "city": "Spencer",
       "state": "IN",
       "lat": 39.286789,
       "lng": -86.756885,
+      "storeCount": 1
+    },
+    {
+      "slug": "spencer-ma",
+      "city": "Spencer",
+      "state": "MA",
+      "lat": 42.233025,
+      "lng": -72.012413,
       "storeCount": 1
     },
     {
@@ -93729,6 +95377,14 @@
       "storeCount": 1
     },
     {
+      "slug": "springfield-ma",
+      "city": "Springfield",
+      "state": "MA",
+      "lat": 42.128563,
+      "lng": -72.58108,
+      "storeCount": 4
+    },
+    {
       "slug": "springfield-mo",
       "city": "Springfield",
       "state": "MO",
@@ -93766,6 +95422,14 @@
       "state": "AL",
       "lat": 33.769412,
       "lng": -86.468139,
+      "storeCount": 1
+    },
+    {
+      "slug": "springville-ny",
+      "city": "Springville",
+      "state": "NY",
+      "lat": 42.502471,
+      "lng": -78.68899,
       "storeCount": 1
     },
     {
@@ -93862,6 +95526,14 @@
       "state": "AR",
       "lat": 33.94296,
       "lng": -91.844414,
+      "storeCount": 1
+    },
+    {
+      "slug": "star-id",
+      "city": "Star",
+      "state": "ID",
+      "lat": 43.692411,
+      "lng": -116.484995,
       "storeCount": 1
     },
     {
@@ -94065,6 +95737,14 @@
       "storeCount": 1
     },
     {
+      "slug": "stoughton-ma",
+      "city": "Stoughton",
+      "state": "MA",
+      "lat": 42.13451,
+      "lng": -71.101074,
+      "storeCount": 1
+    },
+    {
       "slug": "stow-oh",
       "city": "Stow",
       "state": "OH",
@@ -94142,6 +95822,14 @@
       "state": "IA",
       "lat": 41.49554,
       "lng": -94.317481,
+      "storeCount": 1
+    },
+    {
+      "slug": "sturbridge-ma",
+      "city": "Sturbridge",
+      "state": "MA",
+      "lat": 42.112263,
+      "lng": -72.089508,
       "storeCount": 1
     },
     {
@@ -94374,6 +96062,14 @@
       "state": "CA",
       "lat": 40.40529,
       "lng": -120.633054,
+      "storeCount": 1
+    },
+    {
+      "slug": "sutherlin-or",
+      "city": "Sutherlin",
+      "state": "OR",
+      "lat": 43.386798,
+      "lng": -123.335088,
       "storeCount": 1
     },
     {
@@ -94660,9 +96356,9 @@
       "slug": "taylor-mi",
       "city": "Taylor",
       "state": "MI",
-      "lat": 42.256657,
-      "lng": -83.245888,
-      "storeCount": 1
+      "lat": 42.220736,
+      "lng": -83.269081,
+      "storeCount": 4
     },
     {
       "slug": "taylor-tx",
@@ -94785,6 +96481,14 @@
       "storeCount": 1
     },
     {
+      "slug": "tewksbury-ma",
+      "city": "Tewksbury",
+      "state": "MA",
+      "lat": 42.616728,
+      "lng": -71.216026,
+      "storeCount": 2
+    },
+    {
       "slug": "texarkana-ar",
       "city": "Texarkana",
       "state": "AR",
@@ -94847,6 +96551,14 @@
       "lat": 30.55781,
       "lng": -88.1889,
       "storeCount": 2
+    },
+    {
+      "slug": "thermopolis-wy",
+      "city": "Thermopolis",
+      "state": "WY",
+      "lat": 43.638083,
+      "lng": -108.212844,
+      "storeCount": 1
     },
     {
       "slug": "thibodaux-la",
@@ -95081,6 +96793,14 @@
       "storeCount": 1
     },
     {
+      "slug": "townsend-ma",
+      "city": "Townsend",
+      "state": "MA",
+      "lat": 42.649975,
+      "lng": -71.66217,
+      "storeCount": 1
+    },
+    {
       "slug": "towson-md",
       "city": "Towson",
       "state": "MD",
@@ -95118,6 +96838,14 @@
       "state": "FL",
       "lat": 29.613631,
       "lng": -82.816792,
+      "storeCount": 1
+    },
+    {
+      "slug": "trenton-mi",
+      "city": "Trenton",
+      "state": "MI",
+      "lat": 42.140526,
+      "lng": -83.210083,
       "storeCount": 1
     },
     {
@@ -95215,6 +96943,14 @@
       "lat": 35.356589,
       "lng": -79.899931,
       "storeCount": 1
+    },
+    {
+      "slug": "troy-ny",
+      "city": "Troy",
+      "state": "NY",
+      "lat": 42.743155,
+      "lng": -73.656572,
+      "storeCount": 2
     },
     {
       "slug": "troy-pa",
@@ -95705,6 +97441,14 @@
       "storeCount": 1
     },
     {
+      "slug": "valatie-ny",
+      "city": "Valatie",
+      "state": "NY",
+      "lat": 42.426744,
+      "lng": -73.688506,
+      "storeCount": 1
+    },
+    {
       "slug": "valdese-nc",
       "city": "Valdese",
       "state": "NC",
@@ -95937,6 +97681,14 @@
       "storeCount": 1
     },
     {
+      "slug": "vestal-ny",
+      "city": "Vestal",
+      "state": "NY",
+      "lat": 42.095181,
+      "lng": -76.001091,
+      "storeCount": 1
+    },
+    {
       "slug": "vestavia-hills-al",
       "city": "Vestavia Hills",
       "state": "AL",
@@ -96081,6 +97833,14 @@
       "storeCount": 15
     },
     {
+      "slug": "viroqua-wi",
+      "city": "Viroqua",
+      "state": "WI",
+      "lat": 43.573043,
+      "lng": -90.89,
+      "storeCount": 1
+    },
+    {
       "slug": "visalia-ca",
       "city": "Visalia",
       "state": "CA",
@@ -96158,6 +97918,14 @@
       "state": "IN",
       "lat": 41.536648,
       "lng": -86.000552,
+      "storeCount": 1
+    },
+    {
+      "slug": "wakefield-ma",
+      "city": "Wakefield",
+      "state": "MA",
+      "lat": 42.499073,
+      "lng": -71.068779,
       "storeCount": 1
     },
     {
@@ -96265,6 +98033,14 @@
       "storeCount": 1
     },
     {
+      "slug": "walpole-ma",
+      "city": "Walpole",
+      "state": "MA",
+      "lat": 42.156429,
+      "lng": -71.24385,
+      "storeCount": 1
+    },
+    {
       "slug": "walterboro-sc",
       "city": "Walterboro",
       "state": "SC",
@@ -96273,11 +98049,27 @@
       "storeCount": 1
     },
     {
+      "slug": "waltham-ma",
+      "city": "Waltham",
+      "state": "MA",
+      "lat": 42.376633,
+      "lng": -71.242096,
+      "storeCount": 1
+    },
+    {
       "slug": "walton-ky",
       "city": "Walton",
       "state": "KY",
       "lat": 38.858595,
       "lng": -84.618628,
+      "storeCount": 1
+    },
+    {
+      "slug": "walton-ny",
+      "city": "Walton",
+      "state": "NY",
+      "lat": 42.168508,
+      "lng": -75.132882,
       "storeCount": 1
     },
     {
@@ -96311,6 +98103,14 @@
       "lat": 41.601506,
       "lng": -73.873411,
       "storeCount": 2
+    },
+    {
+      "slug": "ware-ma",
+      "city": "Ware",
+      "state": "MA",
+      "lat": 42.256992,
+      "lng": -72.249906,
+      "storeCount": 1
     },
     {
       "slug": "warner-ok",
@@ -96446,6 +98246,14 @@
       "state": "MO",
       "lat": 38.264747,
       "lng": -93.3702,
+      "storeCount": 1
+    },
+    {
+      "slug": "warsaw-ny",
+      "city": "Warsaw",
+      "state": "NY",
+      "lat": 42.766172,
+      "lng": -78.126882,
       "storeCount": 1
     },
     {
@@ -96585,6 +98393,14 @@
       "storeCount": 5
     },
     {
+      "slug": "waterford-ny",
+      "city": "Waterford",
+      "state": "NY",
+      "lat": 42.782615,
+      "lng": -73.696252,
+      "storeCount": 1
+    },
+    {
       "slug": "waterford-wi",
       "city": "Waterford",
       "state": "WI",
@@ -96609,6 +98425,14 @@
       "storeCount": 1
     },
     {
+      "slug": "waterloo-ny",
+      "city": "Waterloo",
+      "state": "NY",
+      "lat": 42.903988,
+      "lng": -76.837294,
+      "storeCount": 1
+    },
+    {
       "slug": "watertown-ct",
       "city": "Watertown",
       "state": "CT",
@@ -96622,6 +98446,14 @@
       "state": "OH",
       "lat": 41.522551,
       "lng": -83.716842,
+      "storeCount": 1
+    },
+    {
+      "slug": "watervliet-ny",
+      "city": "Watervliet",
+      "state": "NY",
+      "lat": 42.727643,
+      "lng": -73.700823,
       "storeCount": 1
     },
     {
@@ -96857,6 +98689,14 @@
       "storeCount": 1
     },
     {
+      "slug": "webster-ma",
+      "city": "Webster",
+      "state": "MA",
+      "lat": 42.055595,
+      "lng": -71.873451,
+      "storeCount": 1
+    },
+    {
       "slug": "webster-tx",
       "city": "Webster",
       "state": "TX",
@@ -96942,6 +98782,14 @@
       "state": "PA",
       "lat": 41.750745,
       "lng": -77.296578,
+      "storeCount": 1
+    },
+    {
+      "slug": "wellsville-ny",
+      "city": "Wellsville",
+      "state": "NY",
+      "lat": 42.126904,
+      "lng": -77.967227,
       "storeCount": 1
     },
     {
@@ -97039,6 +98887,14 @@
       "lat": 34.07047,
       "lng": -117.904811,
       "storeCount": 3
+    },
+    {
+      "slug": "west-coxsackie-ny",
+      "city": "West Coxsackie",
+      "state": "NY",
+      "lat": 42.375429,
+      "lng": -73.831646,
+      "storeCount": 1
     },
     {
       "slug": "west-des-moines-ia",
@@ -97249,6 +99105,14 @@
       "storeCount": 1
     },
     {
+      "slug": "west-roxbury-ma",
+      "city": "West Roxbury",
+      "state": "MA",
+      "lat": 42.264488,
+      "lng": -71.16777,
+      "storeCount": 1
+    },
+    {
       "slug": "west-sacramento-ca",
       "city": "West Sacramento",
       "state": "CA",
@@ -97257,11 +99121,27 @@
       "storeCount": 4
     },
     {
+      "slug": "west-seneca-ny",
+      "city": "West Seneca",
+      "state": "NY",
+      "lat": 42.831235,
+      "lng": -78.754092,
+      "storeCount": 1
+    },
+    {
       "slug": "west-simsbury-ct",
       "city": "West Simsbury",
       "state": "CT",
       "lat": 41.817951,
       "lng": -72.868365,
+      "storeCount": 1
+    },
+    {
+      "slug": "west-springfield-ma",
+      "city": "West Springfield",
+      "state": "MA",
+      "lat": 42.115792,
+      "lng": -72.623996,
       "storeCount": 1
     },
     {
@@ -97313,6 +99193,14 @@
       "storeCount": 1
     },
     {
+      "slug": "westboro-ma",
+      "city": "Westboro",
+      "state": "MA",
+      "lat": 42.284439,
+      "lng": -71.626244,
+      "storeCount": 2
+    },
+    {
       "slug": "westbury-ny",
       "city": "Westbury",
       "state": "NY",
@@ -97351,6 +99239,30 @@
       "lat": 40.116192,
       "lng": -82.922939,
       "storeCount": 4
+    },
+    {
+      "slug": "westfield-ma",
+      "city": "Westfield",
+      "state": "MA",
+      "lat": 42.123949,
+      "lng": -72.734297,
+      "storeCount": 2
+    },
+    {
+      "slug": "westfield-ny",
+      "city": "Westfield",
+      "state": "NY",
+      "lat": 42.323517,
+      "lng": -79.575045,
+      "storeCount": 1
+    },
+    {
+      "slug": "westford-ma",
+      "city": "Westford",
+      "state": "MA",
+      "lat": 42.569384,
+      "lng": -71.42093,
+      "storeCount": 1
     },
     {
       "slug": "westlake-la",
@@ -97454,6 +99366,14 @@
       "state": "PA",
       "lat": 40.610166,
       "lng": -80.054025,
+      "storeCount": 1
+    },
+    {
+      "slug": "weymouth-ma",
+      "city": "Weymouth",
+      "state": "MA",
+      "lat": 42.204468,
+      "lng": -70.955055,
       "storeCount": 1
     },
     {
@@ -97649,6 +99569,14 @@
       "storeCount": 1
     },
     {
+      "slug": "whitinsville-ma",
+      "city": "Whitinsville",
+      "state": "MA",
+      "lat": 42.125546,
+      "lng": -71.646065,
+      "storeCount": 1
+    },
+    {
       "slug": "whitley-city-ky",
       "city": "Whitley City",
       "state": "KY",
@@ -97657,11 +99585,27 @@
       "storeCount": 1
     },
     {
+      "slug": "whitman-ma",
+      "city": "Whitman",
+      "state": "MA",
+      "lat": 42.069491,
+      "lng": -70.947697,
+      "storeCount": 1
+    },
+    {
       "slug": "whitmore-lake-mi",
       "city": "Whitmore Lake",
       "state": "MI",
       "lat": 42.441994,
       "lng": -83.75618,
+      "storeCount": 1
+    },
+    {
+      "slug": "whitney-point-ny",
+      "city": "Whitney Point",
+      "state": "NY",
+      "lat": 42.337941,
+      "lng": -75.975991,
       "storeCount": 1
     },
     {
@@ -97945,6 +99889,14 @@
       "storeCount": 1
     },
     {
+      "slug": "wilmington-ma",
+      "city": "Wilmington",
+      "state": "MA",
+      "lat": 42.557571,
+      "lng": -71.181206,
+      "storeCount": 1
+    },
+    {
       "slug": "wilmington-nc",
       "city": "Wilmington",
       "state": "NC",
@@ -97967,6 +99919,14 @@
       "lat": 35.739879,
       "lng": -77.944246,
       "storeCount": 5
+    },
+    {
+      "slug": "winchendon-ma",
+      "city": "Winchendon",
+      "state": "MA",
+      "lat": 42.678806,
+      "lng": -72.039146,
+      "storeCount": 1
     },
     {
       "slug": "winchester-ca",
@@ -98017,6 +99977,22 @@
       "storeCount": 1
     },
     {
+      "slug": "windham-nh",
+      "city": "Windham",
+      "state": "NH",
+      "lat": 42.806223,
+      "lng": -71.262983,
+      "storeCount": 1
+    },
+    {
+      "slug": "windom-mn",
+      "city": "Windom",
+      "state": "MN",
+      "lat": 43.862787,
+      "lng": -95.114545,
+      "storeCount": 1
+    },
+    {
       "slug": "window-rock-az",
       "city": "Window Rock",
       "state": "AZ",
@@ -98057,6 +100033,14 @@
       "storeCount": 1
     },
     {
+      "slug": "windsor-ny",
+      "city": "Windsor",
+      "state": "NY",
+      "lat": 42.095983,
+      "lng": -75.756503,
+      "storeCount": 1
+    },
+    {
       "slug": "winfield-al",
       "city": "Winfield",
       "state": "AL",
@@ -98086,6 +100070,14 @@
       "state": "IL",
       "lat": 42.280262,
       "lng": -89.243077,
+      "storeCount": 1
+    },
+    {
+      "slug": "winner-sd",
+      "city": "Winner",
+      "state": "SD",
+      "lat": 43.377045,
+      "lng": -99.849949,
       "storeCount": 1
     },
     {
@@ -98193,12 +100185,28 @@
       "storeCount": 1
     },
     {
+      "slug": "wisconsin-dells-wi",
+      "city": "Wisconsin Dells",
+      "state": "WI",
+      "lat": 43.605877,
+      "lng": -89.79988,
+      "storeCount": 2
+    },
+    {
       "slug": "wixom-mi",
       "city": "Wixom",
       "state": "MI",
       "lat": 42.494816,
       "lng": -83.536789,
       "storeCount": 1
+    },
+    {
+      "slug": "woburn-ma",
+      "city": "Woburn",
+      "state": "MA",
+      "lat": 42.473074,
+      "lng": -71.147751,
+      "storeCount": 2
     },
     {
       "slug": "womelsdorf-pa",
@@ -98278,6 +100286,14 @@
       "state": "TN",
       "lat": 35.82724,
       "lng": -86.068427,
+      "storeCount": 1
+    },
+    {
+      "slug": "woodhaven-mi",
+      "city": "Woodhaven",
+      "state": "MI",
+      "lat": 42.139004,
+      "lng": -83.248604,
       "storeCount": 1
     },
     {
@@ -98401,6 +100417,22 @@
       "storeCount": 3
     },
     {
+      "slug": "worcester-ma",
+      "city": "Worcester",
+      "state": "MA",
+      "lat": 42.266735,
+      "lng": -71.796209,
+      "storeCount": 7
+    },
+    {
+      "slug": "worthington-mn",
+      "city": "Worthington",
+      "state": "MN",
+      "lat": 43.63261,
+      "lng": -95.594379,
+      "storeCount": 1
+    },
+    {
       "slug": "worthington-oh",
       "city": "Worthington",
       "state": "OH",
@@ -98422,6 +100454,14 @@
       "state": "MI",
       "lat": 42.198521,
       "lng": -83.150742,
+      "storeCount": 1
+    },
+    {
+      "slug": "wynantskill-ny",
+      "city": "Wynantskill",
+      "state": "NY",
+      "lat": 42.696889,
+      "lng": -73.64686,
       "storeCount": 1
     },
     {

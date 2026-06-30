@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-06-29T13:15:05.885Z",
+  "generatedAt": "2026-06-30T11:50:03.863Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -15233,7 +15233,7 @@
     {
       "postalCode": "30052",
       "city": "Loganville",
-      "state": "GA",
+      "state": "",
       "lat": 33.834634,
       "lng": -83.890793,
       "storeCount": 1
@@ -21561,7 +21561,7 @@
     {
       "postalCode": "37058",
       "city": "Dover",
-      "state": "",
+      "state": "TN",
       "lat": 36.479749,
       "lng": -87.888301,
       "storeCount": 1
@@ -22817,7 +22817,7 @@
     {
       "postalCode": "38225",
       "city": "Dresden",
-      "state": "",
+      "state": "TN",
       "lat": 36.278166,
       "lng": -88.712702,
       "storeCount": 1
@@ -22825,7 +22825,7 @@
     {
       "postalCode": "38230",
       "city": "Greenfield",
-      "state": "",
+      "state": "TN",
       "lat": 36.153625,
       "lng": -88.801042,
       "storeCount": 1
@@ -22833,7 +22833,7 @@
     {
       "postalCode": "38237-1627",
       "city": "Martin",
-      "state": "",
+      "state": "TN",
       "lat": 36.348437,
       "lng": -88.873455,
       "storeCount": 1
@@ -22841,7 +22841,7 @@
     {
       "postalCode": "38242-4901",
       "city": "Paris",
-      "state": "",
+      "state": "TN",
       "lat": 36.289822,
       "lng": -88.313584,
       "storeCount": 1
@@ -22849,7 +22849,7 @@
     {
       "postalCode": "38261-5528",
       "city": "Union City",
-      "state": "",
+      "state": "TN",
       "lat": 36.414702,
       "lng": -89.071025,
       "storeCount": 1
@@ -24721,7 +24721,7 @@
     {
       "postalCode": "42041-8220",
       "city": "Fulton",
-      "state": "",
+      "state": "KY",
       "lat": 36.513225,
       "lng": -88.890356,
       "storeCount": 1
@@ -24737,7 +24737,7 @@
     {
       "postalCode": "42066-3268",
       "city": "Mayfield",
-      "state": "",
+      "state": "KY",
       "lat": 36.728785,
       "lng": -88.63135,
       "storeCount": 1
@@ -24745,7 +24745,7 @@
     {
       "postalCode": "42071",
       "city": "Murray",
-      "state": "",
+      "state": "KY",
       "lat": 36.638643,
       "lng": -88.309065,
       "storeCount": 1
@@ -24753,7 +24753,7 @@
     {
       "postalCode": "42071-1911",
       "city": "Murray",
-      "state": "",
+      "state": "KY",
       "lat": 36.611615,
       "lng": -88.315739,
       "storeCount": 1
@@ -41457,7 +41457,7 @@
     {
       "postalCode": "63801",
       "city": "Sikeston",
-      "state": "",
+      "state": "MO",
       "lat": 36.858516,
       "lng": -89.583752,
       "storeCount": 1
@@ -41465,7 +41465,7 @@
     {
       "postalCode": "63841",
       "city": "Dexter",
-      "state": "",
+      "state": "MO",
       "lat": 36.803355,
       "lng": -89.971671,
       "storeCount": 1
@@ -41473,7 +41473,7 @@
     {
       "postalCode": "63851-9700",
       "city": "Hayti",
-      "state": "",
+      "state": "MO",
       "lat": 36.229358,
       "lng": -89.726271,
       "storeCount": 1
@@ -41481,7 +41481,7 @@
     {
       "postalCode": "63857-2517",
       "city": "Kennett",
-      "state": "",
+      "state": "MO",
       "lat": 36.236088,
       "lng": -90.0334,
       "storeCount": 1
@@ -41489,7 +41489,7 @@
     {
       "postalCode": "63863",
       "city": "Malden",
-      "state": "",
+      "state": "MO",
       "lat": 36.572557,
       "lng": -89.970188,
       "storeCount": 1
@@ -41497,7 +41497,7 @@
     {
       "postalCode": "63873",
       "city": "Portageville",
-      "state": "",
+      "state": "MO",
       "lat": 36.423862,
       "lng": -89.689605,
       "storeCount": 1
@@ -41505,7 +41505,7 @@
     {
       "postalCode": "63935",
       "city": "Doniphan",
-      "state": "",
+      "state": "MO",
       "lat": 36.631189,
       "lng": -90.825517,
       "storeCount": 1
@@ -41841,7 +41841,7 @@
     {
       "postalCode": "64856",
       "city": "Pineville",
-      "state": "",
+      "state": "MO",
       "lat": 36.509178,
       "lng": -94.280388,
       "storeCount": 1
@@ -42089,7 +42089,7 @@
     {
       "postalCode": "65616",
       "city": "Branson",
-      "state": "",
+      "state": "MO",
       "lat": 36.672812,
       "lng": -93.227736,
       "storeCount": 1
@@ -42097,7 +42097,7 @@
     {
       "postalCode": "65616-1602",
       "city": "Branson",
-      "state": "",
+      "state": "MO",
       "lat": 36.640856,
       "lng": -93.261841,
       "storeCount": 1
@@ -42105,7 +42105,7 @@
     {
       "postalCode": "65616-8620",
       "city": "Branson",
-      "state": "",
+      "state": "MO",
       "lat": 36.663377,
       "lng": -93.239852,
       "storeCount": 1
@@ -42113,7 +42113,7 @@
     {
       "postalCode": "65616-9100",
       "city": "Branson",
-      "state": "",
+      "state": "MO",
       "lat": 36.644671,
       "lng": -93.222904,
       "storeCount": 1
@@ -42129,7 +42129,7 @@
     {
       "postalCode": "65625",
       "city": "Cassville",
-      "state": "",
+      "state": "MO",
       "lat": 36.674145,
       "lng": -93.871013,
       "storeCount": 1
@@ -42137,7 +42137,7 @@
     {
       "postalCode": "65653",
       "city": "Forsyth",
-      "state": "",
+      "state": "MO",
       "lat": 36.694832,
       "lng": -93.1228,
       "storeCount": 1
@@ -42145,7 +42145,7 @@
     {
       "postalCode": "65672",
       "city": "Hollister",
-      "state": "",
+      "state": "MO",
       "lat": 36.609121,
       "lng": -93.234022,
       "storeCount": 1
@@ -42161,7 +42161,7 @@
     {
       "postalCode": "65708",
       "city": "Monett",
-      "state": "",
+      "state": "MO",
       "lat": 36.913636,
       "lng": -93.912719,
       "storeCount": 1
@@ -42177,7 +42177,7 @@
     {
       "postalCode": "65737",
       "city": "Branson West",
-      "state": "",
+      "state": "MO",
       "lat": 36.696523,
       "lng": -93.365805,
       "storeCount": 1
@@ -42209,7 +42209,7 @@
     {
       "postalCode": "65775",
       "city": "West Plains",
-      "state": "",
+      "state": "MO",
       "lat": 36.742259,
       "lng": -91.871356,
       "storeCount": 1
@@ -42217,7 +42217,7 @@
     {
       "postalCode": "65775-2939",
       "city": "West Plains",
-      "state": "",
+      "state": "MO",
       "lat": 36.714592,
       "lng": -91.874793,
       "storeCount": 1
@@ -42233,7 +42233,7 @@
     {
       "postalCode": "65791",
       "city": "Thayer",
-      "state": "",
+      "state": "MO",
       "lat": 36.523208,
       "lng": -91.534486,
       "storeCount": 1
@@ -45129,7 +45129,7 @@
     {
       "postalCode": "72422",
       "city": "Corning",
-      "state": "",
+      "state": "AR",
       "lat": 36.412708,
       "lng": -90.586853,
       "storeCount": 1
@@ -45145,7 +45145,7 @@
     {
       "postalCode": "72455-4001",
       "city": "Pocahontas",
-      "state": "",
+      "state": "AR",
       "lat": 36.250891,
       "lng": -90.961388,
       "storeCount": 1
@@ -45161,7 +45161,7 @@
     {
       "postalCode": "72476",
       "city": "Walnut Ridge",
-      "state": "",
+      "state": "AR",
       "lat": 36.073709,
       "lng": -90.954785,
       "storeCount": 1
@@ -45177,7 +45177,7 @@
     {
       "postalCode": "72513",
       "city": "Ash Flat",
-      "state": "",
+      "state": "AR",
       "lat": 36.241092,
       "lng": -91.596029,
       "storeCount": 1
@@ -45185,7 +45185,7 @@
     {
       "postalCode": "72542",
       "city": "Hardy",
-      "state": "",
+      "state": "AR",
       "lat": 36.317943,
       "lng": -91.486663,
       "storeCount": 1
@@ -45209,7 +45209,7 @@
     {
       "postalCode": "72601",
       "city": "Harrison",
-      "state": "",
+      "state": "AR",
       "lat": 36.256202,
       "lng": -93.127275,
       "storeCount": 2
@@ -45217,7 +45217,7 @@
     {
       "postalCode": "72616",
       "city": "Berryville",
-      "state": "",
+      "state": "AR",
       "lat": 36.378522,
       "lng": -93.587411,
       "storeCount": 1
@@ -45225,7 +45225,7 @@
     {
       "postalCode": "72632",
       "city": "Eureka Springs",
-      "state": "",
+      "state": "AR",
       "lat": 36.391258,
       "lng": -93.737883,
       "storeCount": 1
@@ -45233,7 +45233,7 @@
     {
       "postalCode": "72635",
       "city": "Gassville",
-      "state": "",
+      "state": "AR",
       "lat": 36.288062,
       "lng": -92.480538,
       "storeCount": 1
@@ -45241,7 +45241,7 @@
     {
       "postalCode": "72653",
       "city": "Mountain Home",
-      "state": "",
+      "state": "AR",
       "lat": 36.359876,
       "lng": -92.337191,
       "storeCount": 1
@@ -45249,7 +45249,7 @@
     {
       "postalCode": "72653-3215",
       "city": "Mountain Home",
-      "state": "",
+      "state": "AR",
       "lat": 36.350432,
       "lng": -92.369582,
       "storeCount": 1
@@ -45257,7 +45257,7 @@
     {
       "postalCode": "72703",
       "city": "Fayetteville",
-      "state": "",
+      "state": "AR",
       "lat": 36.124199,
       "lng": -94.149307,
       "storeCount": 1
@@ -45265,7 +45265,7 @@
     {
       "postalCode": "72712",
       "city": "Bentonville",
-      "state": "",
+      "state": "AR",
       "lat": 36.370661,
       "lng": -94.208478,
       "storeCount": 3
@@ -45273,7 +45273,7 @@
     {
       "postalCode": "72712-5701",
       "city": "Bentonville",
-      "state": "",
+      "state": "AR",
       "lat": 36.37141,
       "lng": -94.220936,
       "storeCount": 1
@@ -45281,7 +45281,7 @@
     {
       "postalCode": "72719",
       "city": "Centerton",
-      "state": "",
+      "state": "AR",
       "lat": 36.358063,
       "lng": -94.284473,
       "storeCount": 1
@@ -45289,7 +45289,7 @@
     {
       "postalCode": "72734",
       "city": "Gentry",
-      "state": "",
+      "state": "AR",
       "lat": 36.263406,
       "lng": -94.482545,
       "storeCount": 1
@@ -45297,7 +45297,7 @@
     {
       "postalCode": "72740",
       "city": "Huntsville",
-      "state": "",
+      "state": "AR",
       "lat": 36.113303,
       "lng": -93.708296,
       "storeCount": 1
@@ -45305,7 +45305,7 @@
     {
       "postalCode": "72745",
       "city": "Lowell",
-      "state": "",
+      "state": "AR",
       "lat": 36.253881,
       "lng": -94.146076,
       "storeCount": 1
@@ -45313,7 +45313,7 @@
     {
       "postalCode": "72751",
       "city": "Pea Ridge",
-      "state": "",
+      "state": "AR",
       "lat": 36.443718,
       "lng": -94.116543,
       "storeCount": 1
@@ -45321,7 +45321,7 @@
     {
       "postalCode": "72756",
       "city": "Rogers",
-      "state": "",
+      "state": "AR",
       "lat": 36.345596,
       "lng": -94.149107,
       "storeCount": 2
@@ -45329,7 +45329,7 @@
     {
       "postalCode": "72756-3539",
       "city": "Rogers",
-      "state": "",
+      "state": "AR",
       "lat": 36.334008,
       "lng": -94.1273,
       "storeCount": 1
@@ -45337,7 +45337,7 @@
     {
       "postalCode": "72758",
       "city": "Rogers",
-      "state": "",
+      "state": "AR",
       "lat": 36.282924,
       "lng": -94.152216,
       "storeCount": 1
@@ -45345,7 +45345,7 @@
     {
       "postalCode": "72761",
       "city": "Siloam Springs",
-      "state": "",
+      "state": "AR",
       "lat": 36.175843,
       "lng": -94.559548,
       "storeCount": 1
@@ -45353,7 +45353,7 @@
     {
       "postalCode": "72762",
       "city": "Springdale",
-      "state": "",
+      "state": "AR",
       "lat": 36.193939,
       "lng": -94.182777,
       "storeCount": 1
@@ -45361,7 +45361,7 @@
     {
       "postalCode": "72764",
       "city": "Springdale",
-      "state": "",
+      "state": "AR",
       "lat": 36.168891,
       "lng": -94.146059,
       "storeCount": 4
@@ -45369,7 +45369,7 @@
     {
       "postalCode": "72770",
       "city": "Tontitown",
-      "state": "",
+      "state": "AR",
       "lat": 36.175515,
       "lng": -94.217104,
       "storeCount": 1
@@ -45570,9 +45570,9 @@
       "postalCode": "73034",
       "city": "Edmond",
       "state": "OK",
-      "lat": 35.647652,
-      "lng": -97.448163,
-      "storeCount": 3
+      "lat": 35.667147,
+      "lng": -97.442094,
+      "storeCount": 4
     },
     {
       "postalCode": "73036-5813",
@@ -45633,7 +45633,7 @@
     {
       "postalCode": "73077",
       "city": "Perry",
-      "state": "",
+      "state": "OK",
       "lat": 36.289138,
       "lng": -97.323895,
       "storeCount": 1
@@ -46049,7 +46049,7 @@
     {
       "postalCode": "73703",
       "city": "Enid",
-      "state": "",
+      "state": "OK",
       "lat": 36.401777,
       "lng": -97.904188,
       "storeCount": 3
@@ -46057,7 +46057,7 @@
     {
       "postalCode": "73717",
       "city": "Alva",
-      "state": "",
+      "state": "OK",
       "lat": 36.798008,
       "lng": -98.667417,
       "storeCount": 1
@@ -46073,7 +46073,7 @@
     {
       "postalCode": "73801-4012",
       "city": "Woodward",
-      "state": "",
+      "state": "OK",
       "lat": 36.434136,
       "lng": -99.415912,
       "storeCount": 1
@@ -46081,7 +46081,7 @@
     {
       "postalCode": "73942",
       "city": "Guymon",
-      "state": "",
+      "state": "OK",
       "lat": 36.698557,
       "lng": -101.48381,
       "storeCount": 1
@@ -46089,7 +46089,7 @@
     {
       "postalCode": "74003",
       "city": "Bartlesville",
-      "state": "",
+      "state": "OK",
       "lat": 36.746394,
       "lng": -95.934694,
       "storeCount": 1
@@ -46097,7 +46097,7 @@
     {
       "postalCode": "74006",
       "city": "Bartlesville",
-      "state": "",
+      "state": "OK",
       "lat": 36.7139,
       "lng": -95.935844,
       "storeCount": 1
@@ -46113,7 +46113,7 @@
     {
       "postalCode": "74012",
       "city": "Broken Arrow",
-      "state": "",
+      "state": "OK",
       "lat": 36.068181,
       "lng": -95.788251,
       "storeCount": 2
@@ -46121,7 +46121,7 @@
     {
       "postalCode": "74012-1153",
       "city": "Broken Arrow",
-      "state": "",
+      "state": "OK",
       "lat": 36.076705,
       "lng": -95.81462,
       "storeCount": 1
@@ -46129,7 +46129,7 @@
     {
       "postalCode": "74014",
       "city": "Broken Arrow",
-      "state": "",
+      "state": "OK",
       "lat": 36.104024,
       "lng": -95.744457,
       "storeCount": 1
@@ -46137,7 +46137,7 @@
     {
       "postalCode": "74015-2854",
       "city": "Catoosa",
-      "state": "",
+      "state": "OK",
       "lat": 36.164772,
       "lng": -95.762158,
       "storeCount": 1
@@ -46145,7 +46145,7 @@
     {
       "postalCode": "74017",
       "city": "Claremore",
-      "state": "",
+      "state": "OK",
       "lat": 36.291529,
       "lng": -95.631386,
       "storeCount": 1
@@ -46153,7 +46153,7 @@
     {
       "postalCode": "74017-3448",
       "city": "Claremore",
-      "state": "",
+      "state": "OK",
       "lat": 36.316809,
       "lng": -95.625088,
       "storeCount": 1
@@ -46161,7 +46161,7 @@
     {
       "postalCode": "74020",
       "city": "Cleveland",
-      "state": "",
+      "state": "OK",
       "lat": 36.306065,
       "lng": -96.46359,
       "storeCount": 1
@@ -46169,7 +46169,7 @@
     {
       "postalCode": "74021",
       "city": "Collinsville",
-      "state": "",
+      "state": "OK",
       "lat": 36.322705,
       "lng": -95.82457,
       "storeCount": 1
@@ -46177,7 +46177,7 @@
     {
       "postalCode": "74055",
       "city": "Owasso",
-      "state": "",
+      "state": "OK",
       "lat": 36.294353,
       "lng": -95.842775,
       "storeCount": 2
@@ -46185,7 +46185,7 @@
     {
       "postalCode": "74055-3445",
       "city": "Owasso",
-      "state": "",
+      "state": "OK",
       "lat": 36.263207,
       "lng": -95.850409,
       "storeCount": 1
@@ -46193,7 +46193,7 @@
     {
       "postalCode": "74056",
       "city": "Pawhuska",
-      "state": "",
+      "state": "OK",
       "lat": 36.668073,
       "lng": -96.315714,
       "storeCount": 1
@@ -46201,7 +46201,7 @@
     {
       "postalCode": "74058",
       "city": "Pawnee",
-      "state": "",
+      "state": "OK",
       "lat": 36.22493,
       "lng": -96.795364,
       "storeCount": 1
@@ -46209,7 +46209,7 @@
     {
       "postalCode": "74063",
       "city": "Sand Springs",
-      "state": "",
+      "state": "OK",
       "lat": 36.135834,
       "lng": -96.114655,
       "storeCount": 1
@@ -46217,7 +46217,7 @@
     {
       "postalCode": "74070",
       "city": "Skiatook",
-      "state": "",
+      "state": "OK",
       "lat": 36.369049,
       "lng": -96.009823,
       "storeCount": 1
@@ -46225,7 +46225,7 @@
     {
       "postalCode": "74074",
       "city": "Stillwater",
-      "state": "",
+      "state": "OK",
       "lat": 36.11629,
       "lng": -97.070408,
       "storeCount": 1
@@ -46233,7 +46233,7 @@
     {
       "postalCode": "74076",
       "city": "Stillwater",
-      "state": "",
+      "state": "OK",
       "lat": 36.131128,
       "lng": -97.060122,
       "storeCount": 1
@@ -46249,7 +46249,7 @@
     {
       "postalCode": "74101",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.15619,
       "lng": -95.832514,
       "storeCount": 1
@@ -46257,7 +46257,7 @@
     {
       "postalCode": "74104",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.176594,
       "lng": -95.975081,
       "storeCount": 1
@@ -46265,7 +46265,7 @@
     {
       "postalCode": "74104-1401",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.158247,
       "lng": -95.96668,
       "storeCount": 1
@@ -46273,7 +46273,7 @@
     {
       "postalCode": "74107",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.07846,
       "lng": -96.046855,
       "storeCount": 1
@@ -46281,7 +46281,7 @@
     {
       "postalCode": "74107-2706",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.130199,
       "lng": -96.006304,
       "storeCount": 1
@@ -46289,7 +46289,7 @@
     {
       "postalCode": "74112",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.143878,
       "lng": -95.940069,
       "storeCount": 1
@@ -46297,7 +46297,7 @@
     {
       "postalCode": "74115-8116",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.161195,
       "lng": -95.886174,
       "storeCount": 1
@@ -46305,7 +46305,7 @@
     {
       "postalCode": "74120",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.140317,
       "lng": -95.975941,
       "storeCount": 1
@@ -46313,7 +46313,7 @@
     {
       "postalCode": "74127-6537",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.157697,
       "lng": -96.019835,
       "storeCount": 1
@@ -46321,7 +46321,7 @@
     {
       "postalCode": "74128-1832",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.13549,
       "lng": -95.850557,
       "storeCount": 1
@@ -46329,7 +46329,7 @@
     {
       "postalCode": "74132",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.060481,
       "lng": -96.003564,
       "storeCount": 1
@@ -46337,7 +46337,7 @@
     {
       "postalCode": "74133",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.132952,
       "lng": -95.905088,
       "storeCount": 1
@@ -46345,7 +46345,7 @@
     {
       "postalCode": "74135",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.105655,
       "lng": -95.913946,
       "storeCount": 2
@@ -46353,7 +46353,7 @@
     {
       "postalCode": "74135-6004",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.101291,
       "lng": -95.92183,
       "storeCount": 1
@@ -46361,7 +46361,7 @@
     {
       "postalCode": "74136",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.062155,
       "lng": -95.921667,
       "storeCount": 1
@@ -46369,7 +46369,7 @@
     {
       "postalCode": "74136-5037",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.060258,
       "lng": -95.9731,
       "storeCount": 1
@@ -46377,7 +46377,7 @@
     {
       "postalCode": "74145",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.061383,
       "lng": -95.87001,
       "storeCount": 1
@@ -46385,7 +46385,7 @@
     {
       "postalCode": "74145-6914",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.091512,
       "lng": -95.885968,
       "storeCount": 1
@@ -46393,7 +46393,7 @@
     {
       "postalCode": "74146",
       "city": "Tulsa",
-      "state": "",
+      "state": "OK",
       "lat": 36.103384,
       "lng": -95.851635,
       "storeCount": 1
@@ -46401,7 +46401,7 @@
     {
       "postalCode": "74301",
       "city": "Vinita",
-      "state": "",
+      "state": "OK",
       "lat": 36.630748,
       "lng": -95.151027,
       "storeCount": 2
@@ -46409,7 +46409,7 @@
     {
       "postalCode": "74344-3203",
       "city": "Grove",
-      "state": "",
+      "state": "OK",
       "lat": 36.593777,
       "lng": -94.77282,
       "storeCount": 1
@@ -46417,7 +46417,7 @@
     {
       "postalCode": "74346",
       "city": "Jay",
-      "state": "",
+      "state": "OK",
       "lat": 36.425741,
       "lng": -94.785774,
       "storeCount": 1
@@ -46425,7 +46425,7 @@
     {
       "postalCode": "74354",
       "city": "Miami",
-      "state": "",
+      "state": "OK",
       "lat": 36.888327,
       "lng": -94.878113,
       "storeCount": 1
@@ -46433,7 +46433,7 @@
     {
       "postalCode": "74361-6021",
       "city": "Pryor",
-      "state": "",
+      "state": "OK",
       "lat": 36.293227,
       "lng": -95.32371,
       "storeCount": 1
@@ -46537,7 +46537,7 @@
     {
       "postalCode": "74601-1829",
       "city": "Ponca City",
-      "state": "",
+      "state": "OK",
       "lat": 36.729006,
       "lng": -97.067762,
       "storeCount": 1
@@ -49274,9 +49274,9 @@
       "postalCode": "77301",
       "city": "Conroe",
       "state": "TX",
-      "lat": 30.335622,
-      "lng": -95.467964,
-      "storeCount": 1
+      "lat": 30.337848,
+      "lng": -95.447648,
+      "storeCount": 2
     },
     {
       "postalCode": "77301-2708",
@@ -49650,9 +49650,9 @@
       "postalCode": "77504",
       "city": "Pasadena",
       "state": "TX",
-      "lat": 29.711186,
-      "lng": -95.200891,
-      "storeCount": 1
+      "lat": 29.681398,
+      "lng": -95.203503,
+      "storeCount": 2
     },
     {
       "postalCode": "77504-1103",
@@ -51673,7 +51673,7 @@
     {
       "postalCode": "79070",
       "city": "Perryton",
-      "state": "",
+      "state": "TX",
       "lat": 36.388509,
       "lng": -100.802299,
       "storeCount": 1
@@ -56113,7 +56113,7 @@
     {
       "postalCode": "86033",
       "city": "Kayenta",
-      "state": "",
+      "state": "AZ",
       "lat": 36.707947,
       "lng": -110.250396,
       "storeCount": 1
@@ -56385,7 +56385,7 @@
     {
       "postalCode": "87401",
       "city": "Farmington",
-      "state": "",
+      "state": "NM",
       "lat": 36.749086,
       "lng": -108.194802,
       "storeCount": 3
@@ -56393,7 +56393,7 @@
     {
       "postalCode": "87401-7717",
       "city": "Farmington",
-      "state": "",
+      "state": "NM",
       "lat": 36.738465,
       "lng": -108.177762,
       "storeCount": 1
@@ -56401,7 +56401,7 @@
     {
       "postalCode": "87410",
       "city": "Aztec",
-      "state": "",
+      "state": "NM",
       "lat": 36.825359,
       "lng": -107.995546,
       "storeCount": 1
@@ -56409,7 +56409,7 @@
     {
       "postalCode": "87413",
       "city": "Bloomfield",
-      "state": "",
+      "state": "NM",
       "lat": 36.711559,
       "lng": -107.993009,
       "storeCount": 1
@@ -56417,7 +56417,7 @@
     {
       "postalCode": "87417",
       "city": "Kirtland",
-      "state": "",
+      "state": "NM",
       "lat": 36.743156,
       "lng": -108.360385,
       "storeCount": 1
@@ -56425,7 +56425,7 @@
     {
       "postalCode": "87420",
       "city": "Shiprock",
-      "state": "",
+      "state": "NM",
       "lat": 36.77638,
       "lng": -108.696102,
       "storeCount": 1
@@ -56473,7 +56473,7 @@
     {
       "postalCode": "87571",
       "city": "Taos",
-      "state": "",
+      "state": "NM",
       "lat": 36.404656,
       "lng": -105.573863,
       "storeCount": 1
@@ -56641,7 +56641,7 @@
     {
       "postalCode": "89011",
       "city": "Henderson",
-      "state": "",
+      "state": "NV",
       "lat": 36.065356,
       "lng": -115.013006,
       "storeCount": 1
@@ -56657,7 +56657,7 @@
     {
       "postalCode": "89027",
       "city": "Mesquite",
-      "state": "",
+      "state": "NV",
       "lat": 36.808583,
       "lng": -114.086064,
       "storeCount": 2
@@ -56673,7 +56673,7 @@
     {
       "postalCode": "89030",
       "city": "North Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.203509,
       "lng": -115.11788,
       "storeCount": 4
@@ -56681,7 +56681,7 @@
     {
       "postalCode": "89031",
       "city": "North Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.25113,
       "lng": -115.170106,
       "storeCount": 2
@@ -56689,7 +56689,7 @@
     {
       "postalCode": "89032",
       "city": "North Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.217096,
       "lng": -115.178407,
       "storeCount": 1
@@ -56697,7 +56697,7 @@
     {
       "postalCode": "89040",
       "city": "Overton",
-      "state": "",
+      "state": "NV",
       "lat": 36.538711,
       "lng": -114.442661,
       "storeCount": 1
@@ -56713,7 +56713,7 @@
     {
       "postalCode": "89048",
       "city": "Pahrump",
-      "state": "",
+      "state": "NV",
       "lat": 36.209146,
       "lng": -115.986045,
       "storeCount": 1
@@ -56721,7 +56721,7 @@
     {
       "postalCode": "89081",
       "city": "North Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.258235,
       "lng": -115.107994,
       "storeCount": 3
@@ -56729,7 +56729,7 @@
     {
       "postalCode": "89084",
       "city": "North Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.304858,
       "lng": -115.206709,
       "storeCount": 1
@@ -56737,7 +56737,7 @@
     {
       "postalCode": "89086",
       "city": "North Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.281425,
       "lng": -115.134532,
       "storeCount": 1
@@ -56745,7 +56745,7 @@
     {
       "postalCode": "89102",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.144379,
       "lng": -115.188709,
       "storeCount": 2
@@ -56761,7 +56761,7 @@
     {
       "postalCode": "89102-2977",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.145722,
       "lng": -115.242584,
       "storeCount": 1
@@ -56769,7 +56769,7 @@
     {
       "postalCode": "89104",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.152404,
       "lng": -115.127618,
       "storeCount": 4
@@ -56777,7 +56777,7 @@
     {
       "postalCode": "89106",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.195286,
       "lng": -115.161168,
       "storeCount": 1
@@ -56785,7 +56785,7 @@
     {
       "postalCode": "89107",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.174173,
       "lng": -115.202951,
       "storeCount": 3
@@ -56793,7 +56793,7 @@
     {
       "postalCode": "89108",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.196368,
       "lng": -115.223587,
       "storeCount": 2
@@ -56801,7 +56801,7 @@
     {
       "postalCode": "89109",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.12554,
       "lng": -115.15657,
       "storeCount": 5
@@ -56809,7 +56809,7 @@
     {
       "postalCode": "89109-4605",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.122028,
       "lng": -115.154446,
       "storeCount": 1
@@ -56817,7 +56817,7 @@
     {
       "postalCode": "89110",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.173775,
       "lng": -115.097762,
       "storeCount": 1
@@ -56825,7 +56825,7 @@
     {
       "postalCode": "89110-5308",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.174877,
       "lng": -115.061658,
       "storeCount": 1
@@ -56833,7 +56833,7 @@
     {
       "postalCode": "89115",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.21614,
       "lng": -115.070772,
       "storeCount": 2
@@ -56841,7 +56841,7 @@
     {
       "postalCode": "89117",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.158616,
       "lng": -115.263073,
       "storeCount": 1
@@ -56849,7 +56849,7 @@
     {
       "postalCode": "89119",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.108002,
       "lng": -115.128525,
       "storeCount": 2
@@ -56857,7 +56857,7 @@
     {
       "postalCode": "89121",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.119293,
       "lng": -115.086499,
       "storeCount": 2
@@ -56865,7 +56865,7 @@
     {
       "postalCode": "89121-3016",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.113822,
       "lng": -115.066655,
       "storeCount": 1
@@ -56873,7 +56873,7 @@
     {
       "postalCode": "89121-7328",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.099634,
       "lng": -115.105034,
       "storeCount": 1
@@ -56881,7 +56881,7 @@
     {
       "postalCode": "89122",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.125084,
       "lng": -115.063547,
       "storeCount": 2
@@ -56889,7 +56889,7 @@
     {
       "postalCode": "89128",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.189161,
       "lng": -115.25912,
       "storeCount": 2
@@ -56897,7 +56897,7 @@
     {
       "postalCode": "89129",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.230003,
       "lng": -115.265842,
       "storeCount": 2
@@ -56905,7 +56905,7 @@
     {
       "postalCode": "89130",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.249485,
       "lng": -115.228263,
       "storeCount": 3
@@ -56913,7 +56913,7 @@
     {
       "postalCode": "89130-3302",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.216749,
       "lng": -115.212438,
       "storeCount": 1
@@ -56921,7 +56921,7 @@
     {
       "postalCode": "89131",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.290926,
       "lng": -115.244283,
       "storeCount": 2
@@ -56929,7 +56929,7 @@
     {
       "postalCode": "89134",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.191859,
       "lng": -115.305963,
       "storeCount": 1
@@ -56937,7 +56937,7 @@
     {
       "postalCode": "89142",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.159053,
       "lng": -115.047034,
       "storeCount": 1
@@ -56945,7 +56945,7 @@
     {
       "postalCode": "89146",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.159499,
       "lng": -115.233748,
       "storeCount": 1
@@ -56953,7 +56953,7 @@
     {
       "postalCode": "89149",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.277015,
       "lng": -115.279315,
       "storeCount": 1
@@ -56961,7 +56961,7 @@
     {
       "postalCode": "89156",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.196246,
       "lng": -115.027075,
       "storeCount": 1
@@ -56969,7 +56969,7 @@
     {
       "postalCode": "89166",
       "city": "Las Vegas",
-      "state": "",
+      "state": "NV",
       "lat": 36.314258,
       "lng": -115.305003,
       "storeCount": 1
@@ -59721,7 +59721,7 @@
     {
       "postalCode": "93210-9723",
       "city": "Coalinga",
-      "state": "",
+      "state": "CA",
       "lat": 36.253913,
       "lng": -120.249507,
       "storeCount": 1
@@ -59745,7 +59745,7 @@
     {
       "postalCode": "93221-2204",
       "city": "Exeter",
-      "state": "",
+      "state": "CA",
       "lat": 36.29771,
       "lng": -119.156275,
       "storeCount": 1
@@ -59753,7 +59753,7 @@
     {
       "postalCode": "93223",
       "city": "Farmersville",
-      "state": "",
+      "state": "CA",
       "lat": 36.325856,
       "lng": -119.209968,
       "storeCount": 1
@@ -59761,7 +59761,7 @@
     {
       "postalCode": "93230",
       "city": "Hanford",
-      "state": "",
+      "state": "CA",
       "lat": 36.333072,
       "lng": -119.664976,
       "storeCount": 2
@@ -59769,7 +59769,7 @@
     {
       "postalCode": "93230-4435",
       "city": "Hanford",
-      "state": "",
+      "state": "CA",
       "lat": 36.327702,
       "lng": -119.650453,
       "storeCount": 1
@@ -59801,7 +59801,7 @@
     {
       "postalCode": "93246",
       "city": "Lemoore",
-      "state": "",
+      "state": "CA",
       "lat": 36.263491,
       "lng": -119.90002,
       "storeCount": 1
@@ -59809,7 +59809,7 @@
     {
       "postalCode": "93247-2701",
       "city": "Lindsay",
-      "state": "",
+      "state": "CA",
       "lat": 36.202981,
       "lng": -119.103064,
       "storeCount": 1
@@ -59833,7 +59833,7 @@
     {
       "postalCode": "93257-1456",
       "city": "Porterville",
-      "state": "",
+      "state": "CA",
       "lat": 36.079948,
       "lng": -119.047267,
       "storeCount": 1
@@ -59841,7 +59841,7 @@
     {
       "postalCode": "93257-4871",
       "city": "Porterville",
-      "state": "",
+      "state": "CA",
       "lat": 36.064889,
       "lng": -119.008622,
       "storeCount": 1
@@ -59857,7 +59857,7 @@
     {
       "postalCode": "93274",
       "city": "Tulare",
-      "state": "",
+      "state": "CA",
       "lat": 36.226309,
       "lng": -119.325357,
       "storeCount": 2
@@ -59865,7 +59865,7 @@
     {
       "postalCode": "93277",
       "city": "Visalia",
-      "state": "",
+      "state": "CA",
       "lat": 36.320282,
       "lng": -119.339996,
       "storeCount": 2
@@ -59873,7 +59873,7 @@
     {
       "postalCode": "93277-8019",
       "city": "Visalia",
-      "state": "",
+      "state": "CA",
       "lat": 36.297756,
       "lng": -119.313118,
       "storeCount": 1
@@ -59889,7 +59889,7 @@
     {
       "postalCode": "93291",
       "city": "Visalia",
-      "state": "",
+      "state": "CA",
       "lat": 36.349268,
       "lng": -119.322778,
       "storeCount": 2
@@ -59897,7 +59897,7 @@
     {
       "postalCode": "93292-3042",
       "city": "Visalia",
-      "state": "",
+      "state": "CA",
       "lat": 36.325245,
       "lng": -119.276599,
       "storeCount": 1
@@ -60153,7 +60153,7 @@
     {
       "postalCode": "93545",
       "city": "Lone Pine",
-      "state": "",
+      "state": "CA",
       "lat": 36.60227,
       "lng": -118.061971,
       "storeCount": 1
@@ -60209,7 +60209,7 @@
     {
       "postalCode": "93611",
       "city": "Clovis",
-      "state": "",
+      "state": "CA",
       "lat": 36.848692,
       "lng": -119.696525,
       "storeCount": 2
@@ -60217,7 +60217,7 @@
     {
       "postalCode": "93612",
       "city": "Clovis",
-      "state": "",
+      "state": "CA",
       "lat": 36.808076,
       "lng": -119.700686,
       "storeCount": 1
@@ -60225,7 +60225,7 @@
     {
       "postalCode": "93612-0316",
       "city": "Clovis",
-      "state": "",
+      "state": "CA",
       "lat": 36.837912,
       "lng": -119.698531,
       "storeCount": 1
@@ -60233,7 +60233,7 @@
     {
       "postalCode": "93612-3208",
       "city": "Clovis",
-      "state": "",
+      "state": "CA",
       "lat": 36.808842,
       "lng": -119.718755,
       "storeCount": 1
@@ -60241,7 +60241,7 @@
     {
       "postalCode": "93618",
       "city": "Dinuba",
-      "state": "",
+      "state": "CA",
       "lat": 36.543685,
       "lng": -119.40193,
       "storeCount": 1
@@ -60249,7 +60249,7 @@
     {
       "postalCode": "93618-9317",
       "city": "Dinuba",
-      "state": "",
+      "state": "CA",
       "lat": 36.545885,
       "lng": -119.376627,
       "storeCount": 1
@@ -60257,7 +60257,7 @@
     {
       "postalCode": "93619",
       "city": "Clovis",
-      "state": "",
+      "state": "CA",
       "lat": 36.808069,
       "lng": -119.639451,
       "storeCount": 1
@@ -60281,7 +60281,7 @@
     {
       "postalCode": "93630-1019",
       "city": "Kerman",
-      "state": "",
+      "state": "CA",
       "lat": 36.735243,
       "lng": -120.061264,
       "storeCount": 1
@@ -60289,7 +60289,7 @@
     {
       "postalCode": "93631-1710",
       "city": "Kingsburg",
-      "state": "",
+      "state": "CA",
       "lat": 36.51753,
       "lng": -119.562045,
       "storeCount": 1
@@ -60321,7 +60321,7 @@
     {
       "postalCode": "93647",
       "city": "Orosi",
-      "state": "",
+      "state": "CA",
       "lat": 36.543332,
       "lng": -119.286335,
       "storeCount": 1
@@ -60329,7 +60329,7 @@
     {
       "postalCode": "93650",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.83755,
       "lng": -119.802354,
       "storeCount": 1
@@ -60337,7 +60337,7 @@
     {
       "postalCode": "93654-2434",
       "city": "Reedley",
-      "state": "",
+      "state": "CA",
       "lat": 36.603653,
       "lng": -119.458217,
       "storeCount": 1
@@ -60345,7 +60345,7 @@
     {
       "postalCode": "93657",
       "city": "Sanger",
-      "state": "",
+      "state": "CA",
       "lat": 36.705587,
       "lng": -119.577721,
       "storeCount": 1
@@ -60353,7 +60353,7 @@
     {
       "postalCode": "93657-2128",
       "city": "Sanger",
-      "state": "",
+      "state": "CA",
       "lat": 36.71186,
       "lng": -119.557583,
       "storeCount": 1
@@ -60361,7 +60361,7 @@
     {
       "postalCode": "93662-2604",
       "city": "Selma",
-      "state": "",
+      "state": "CA",
       "lat": 36.576711,
       "lng": -119.626045,
       "storeCount": 1
@@ -60369,7 +60369,7 @@
     {
       "postalCode": "93701-1920",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.743553,
       "lng": -119.789776,
       "storeCount": 1
@@ -60377,7 +60377,7 @@
     {
       "postalCode": "93702-3708",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.736211,
       "lng": -119.74939,
       "storeCount": 1
@@ -60385,7 +60385,7 @@
     {
       "postalCode": "93703",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.7688,
       "lng": -119.790521,
       "storeCount": 2
@@ -60393,7 +60393,7 @@
     {
       "postalCode": "93703-3532",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.76554,
       "lng": -119.736059,
       "storeCount": 1
@@ -60401,7 +60401,7 @@
     {
       "postalCode": "93705-2026",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.793486,
       "lng": -119.825997,
       "storeCount": 1
@@ -60409,7 +60409,7 @@
     {
       "postalCode": "93706-5113",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.706472,
       "lng": -119.771263,
       "storeCount": 1
@@ -60417,7 +60417,7 @@
     {
       "postalCode": "93710-4403",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.836756,
       "lng": -119.753712,
       "storeCount": 1
@@ -60425,7 +60425,7 @@
     {
       "postalCode": "93710-5004",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.820433,
       "lng": -119.789939,
       "storeCount": 1
@@ -60433,7 +60433,7 @@
     {
       "postalCode": "93710-7610",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.808978,
       "lng": -119.782453,
       "storeCount": 1
@@ -60441,7 +60441,7 @@
     {
       "postalCode": "93710-8101",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.808092,
       "lng": -119.756681,
       "storeCount": 1
@@ -60449,7 +60449,7 @@
     {
       "postalCode": "93711-0261",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.838329,
       "lng": -119.847932,
       "storeCount": 1
@@ -60457,7 +60457,7 @@
     {
       "postalCode": "93711-3225",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.807881,
       "lng": -119.849869,
       "storeCount": 1
@@ -60465,7 +60465,7 @@
     {
       "postalCode": "93720-2106",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.851696,
       "lng": -119.773007,
       "storeCount": 1
@@ -60473,7 +60473,7 @@
     {
       "postalCode": "93722",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.835821,
       "lng": -119.912931,
       "storeCount": 1
@@ -60481,7 +60481,7 @@
     {
       "postalCode": "93722-5030",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.808602,
       "lng": -119.884193,
       "storeCount": 1
@@ -60489,7 +60489,7 @@
     {
       "postalCode": "93722-6702",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.779447,
       "lng": -119.861777,
       "storeCount": 1
@@ -60497,7 +60497,7 @@
     {
       "postalCode": "93726",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.786488,
       "lng": -119.755479,
       "storeCount": 1
@@ -60505,7 +60505,7 @@
     {
       "postalCode": "93727",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.738188,
       "lng": -119.721807,
       "storeCount": 1
@@ -60513,7 +60513,7 @@
     {
       "postalCode": "93727-3809",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.735556,
       "lng": -119.732212,
       "storeCount": 1
@@ -60521,7 +60521,7 @@
     {
       "postalCode": "93727-4641",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.736322,
       "lng": -119.697542,
       "storeCount": 1
@@ -60529,7 +60529,7 @@
     {
       "postalCode": "93727-7216",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.792975,
       "lng": -119.699551,
       "storeCount": 1
@@ -60537,7 +60537,7 @@
     {
       "postalCode": "93728-2642",
       "city": "Fresno",
-      "state": "",
+      "state": "CA",
       "lat": 36.757864,
       "lng": -119.832016,
       "storeCount": 1
@@ -62698,9 +62698,9 @@
       "postalCode": "95973",
       "city": "Chico",
       "state": "",
-      "lat": 39.761724,
-      "lng": -121.821165,
-      "storeCount": 1
+      "lat": 39.765322,
+      "lng": -121.826596,
+      "storeCount": 2
     },
     {
       "postalCode": "95987",
@@ -65625,6 +65625,14 @@
       "storeCount": 1
     },
     {
+      "slug": "alva-ok",
+      "city": "Alva",
+      "state": "OK",
+      "lat": 36.798008,
+      "lng": -98.667417,
+      "storeCount": 1
+    },
+    {
       "slug": "alvarado-tx",
       "city": "Alvarado",
       "state": "TX",
@@ -65857,6 +65865,14 @@
       "storeCount": 1
     },
     {
+      "slug": "ash-flat-ar",
+      "city": "Ash Flat",
+      "state": "AR",
+      "lat": 36.241092,
+      "lng": -91.596029,
+      "storeCount": 1
+    },
+    {
       "slug": "ashburn-ga",
       "city": "Ashburn",
       "state": "GA",
@@ -66041,6 +66057,14 @@
       "storeCount": 1
     },
     {
+      "slug": "aztec-nm",
+      "city": "Aztec",
+      "state": "NM",
+      "lat": 36.825359,
+      "lng": -107.995546,
+      "storeCount": 1
+    },
+    {
       "slug": "azusa-ca",
       "city": "Azusa",
       "state": "CA",
@@ -66126,6 +66150,14 @@
       "state": "CA",
       "lat": 34.873198,
       "lng": -117.042519,
+      "storeCount": 2
+    },
+    {
+      "slug": "bartlesville-ok",
+      "city": "Bartlesville",
+      "state": "OK",
+      "lat": 36.730147,
+      "lng": -95.935269,
       "storeCount": 2
     },
     {
@@ -66361,12 +66393,28 @@
       "storeCount": 3
     },
     {
+      "slug": "bentonville-ar",
+      "city": "Bentonville",
+      "state": "AR",
+      "lat": 36.370848,
+      "lng": -94.211593,
+      "storeCount": 4
+    },
+    {
       "slug": "bernalillo-nm",
       "city": "Bernalillo",
       "state": "NM",
       "lat": 35.320011,
       "lng": -106.557466,
       "storeCount": 2
+    },
+    {
+      "slug": "berryville-ar",
+      "city": "Berryville",
+      "state": "AR",
+      "lat": 36.378522,
+      "lng": -93.587411,
+      "storeCount": 1
     },
     {
       "slug": "bessemer-al",
@@ -66486,6 +66534,14 @@
       "state": "GA",
       "lat": 31.375067,
       "lng": -84.936573,
+      "storeCount": 1
+    },
+    {
+      "slug": "bloomfield-nm",
+      "city": "Bloomfield",
+      "state": "NM",
+      "lat": 36.711559,
+      "lng": -107.993009,
       "storeCount": 1
     },
     {
@@ -66705,6 +66761,22 @@
       "storeCount": 2
     },
     {
+      "slug": "branson-mo",
+      "city": "Branson",
+      "state": "MO",
+      "lat": 36.655429,
+      "lng": -93.238083,
+      "storeCount": 4
+    },
+    {
+      "slug": "branson-west-mo",
+      "city": "Branson West",
+      "state": "MO",
+      "lat": 36.696523,
+      "lng": -93.365805,
+      "storeCount": 1
+    },
+    {
       "slug": "braselton-ga",
       "city": "Braselton",
       "state": "GA",
@@ -66767,6 +66839,14 @@
       "lat": 33.223992,
       "lng": -97.76329,
       "storeCount": 1
+    },
+    {
+      "slug": "broken-arrow-ok",
+      "city": "Broken Arrow",
+      "state": "OK",
+      "lat": 36.079273,
+      "lng": -95.783895,
+      "storeCount": 4
     },
     {
       "slug": "brookhaven-ms",
@@ -67273,6 +67353,14 @@
       "storeCount": 2
     },
     {
+      "slug": "cassville-mo",
+      "city": "Cassville",
+      "state": "MO",
+      "lat": 36.674145,
+      "lng": -93.871013,
+      "storeCount": 1
+    },
+    {
       "slug": "castaic-ca",
       "city": "Castaic",
       "state": "CA",
@@ -67294,6 +67382,14 @@
       "state": "AZ",
       "lat": 32.494239,
       "lng": -110.926274,
+      "storeCount": 1
+    },
+    {
+      "slug": "catoosa-ok",
+      "city": "Catoosa",
+      "state": "OK",
+      "lat": 36.164772,
+      "lng": -95.762158,
       "storeCount": 1
     },
     {
@@ -67334,6 +67430,14 @@
       "state": "TX",
       "lat": 31.802557,
       "lng": -94.191891,
+      "storeCount": 1
+    },
+    {
+      "slug": "centerton-ar",
+      "city": "Centerton",
+      "state": "AR",
+      "lat": 36.358063,
+      "lng": -94.284473,
       "storeCount": 1
     },
     {
@@ -67561,6 +67665,14 @@
       "storeCount": 1
     },
     {
+      "slug": "claremore-ok",
+      "city": "Claremore",
+      "state": "OK",
+      "lat": 36.304169,
+      "lng": -95.628237,
+      "storeCount": 2
+    },
+    {
       "slug": "clarkesville-ga",
       "city": "Clarkesville",
       "state": "GA",
@@ -67649,6 +67761,14 @@
       "storeCount": 1
     },
     {
+      "slug": "cleveland-ok",
+      "city": "Cleveland",
+      "state": "OK",
+      "lat": 36.306065,
+      "lng": -96.46359,
+      "storeCount": 1
+    },
+    {
       "slug": "cleveland-tn",
       "city": "Cleveland",
       "state": "TN",
@@ -67713,6 +67833,14 @@
       "storeCount": 2
     },
     {
+      "slug": "clovis-ca",
+      "city": "Clovis",
+      "state": "CA",
+      "lat": 36.826714,
+      "lng": -119.691746,
+      "storeCount": 6
+    },
+    {
       "slug": "clovis-nm",
       "city": "Clovis",
       "state": "NM",
@@ -67735,6 +67863,14 @@
       "lat": 33.691954,
       "lng": -116.197561,
       "storeCount": 2
+    },
+    {
+      "slug": "coalinga-ca",
+      "city": "Coalinga",
+      "state": "CA",
+      "lat": 36.253913,
+      "lng": -120.249507,
+      "storeCount": 1
     },
     {
       "slug": "cochran-ga",
@@ -67798,6 +67934,14 @@
       "state": "MS",
       "lat": 31.6499,
       "lng": -89.570579,
+      "storeCount": 1
+    },
+    {
+      "slug": "collinsville-ok",
+      "city": "Collinsville",
+      "state": "OK",
+      "lat": 36.322705,
+      "lng": -95.82457,
       "storeCount": 1
     },
     {
@@ -67908,9 +68052,9 @@
       "slug": "conroe-tx",
       "city": "Conroe",
       "state": "TX",
-      "lat": 30.323852,
-      "lng": -95.476525,
-      "storeCount": 5
+      "lat": 30.326556,
+      "lng": -95.468326,
+      "storeCount": 6
     },
     {
       "slug": "converse-tx",
@@ -67990,6 +68134,14 @@
       "state": "TN",
       "lat": 35.30937,
       "lng": -86.879597,
+      "storeCount": 1
+    },
+    {
+      "slug": "corning-ar",
+      "city": "Corning",
+      "state": "AR",
+      "lat": 36.412708,
+      "lng": -90.586853,
       "storeCount": 1
     },
     {
@@ -68529,6 +68681,14 @@
       "storeCount": 1
     },
     {
+      "slug": "dexter-mo",
+      "city": "Dexter",
+      "state": "MO",
+      "lat": 36.803355,
+      "lng": -89.971671,
+      "storeCount": 1
+    },
+    {
       "slug": "diberville-ms",
       "city": "D'Iberville",
       "state": "MS",
@@ -68553,6 +68713,14 @@
       "storeCount": 1
     },
     {
+      "slug": "dinuba-ca",
+      "city": "Dinuba",
+      "state": "CA",
+      "lat": 36.544785,
+      "lng": -119.389278,
+      "storeCount": 2
+    },
+    {
       "slug": "dodge-city-al",
       "city": "Dodge City",
       "state": "AL",
@@ -68566,6 +68734,14 @@
       "state": "LA",
       "lat": 30.099057,
       "lng": -90.990829,
+      "storeCount": 1
+    },
+    {
+      "slug": "doniphan-mo",
+      "city": "Doniphan",
+      "state": "MO",
+      "lat": 36.631189,
+      "lng": -90.825517,
       "storeCount": 1
     },
     {
@@ -68615,6 +68791,22 @@
       "lat": 33.735383,
       "lng": -84.743534,
       "storeCount": 3
+    },
+    {
+      "slug": "dover-tn",
+      "city": "Dover",
+      "state": "TN",
+      "lat": 36.479749,
+      "lng": -87.888301,
+      "storeCount": 1
+    },
+    {
+      "slug": "dresden-tn",
+      "city": "Dresden",
+      "state": "TN",
+      "lat": 36.278166,
+      "lng": -88.712702,
+      "storeCount": 1
     },
     {
       "slug": "dripping-springs-tx",
@@ -68804,9 +68996,9 @@
       "slug": "edmond-ok",
       "city": "Edmond",
       "state": "OK",
-      "lat": 35.644259,
-      "lng": -97.486503,
-      "storeCount": 7
+      "lat": 35.65443,
+      "lng": -97.478676,
+      "storeCount": 8
     },
     {
       "slug": "el-cajon-ca",
@@ -68977,6 +69169,14 @@
       "storeCount": 1
     },
     {
+      "slug": "enid-ok",
+      "city": "Enid",
+      "state": "OK",
+      "lat": 36.401777,
+      "lng": -97.904188,
+      "storeCount": 3
+    },
+    {
       "slug": "ennis-tx",
       "city": "Ennis",
       "state": "TX",
@@ -69065,6 +69265,14 @@
       "storeCount": 1
     },
     {
+      "slug": "eureka-springs-ar",
+      "city": "Eureka Springs",
+      "state": "AR",
+      "lat": 36.391258,
+      "lng": -93.737883,
+      "storeCount": 1
+    },
+    {
       "slug": "eustis-fl",
       "city": "Eustis",
       "state": "FL",
@@ -69094,6 +69302,14 @@
       "state": "TX",
       "lat": 32.623971,
       "lng": -97.286815,
+      "storeCount": 1
+    },
+    {
+      "slug": "exeter-ca",
+      "city": "Exeter",
+      "state": "CA",
+      "lat": 36.29771,
+      "lng": -119.156275,
       "storeCount": 1
     },
     {
@@ -69169,6 +69385,22 @@
       "storeCount": 2
     },
     {
+      "slug": "farmersville-ca",
+      "city": "Farmersville",
+      "state": "CA",
+      "lat": 36.325856,
+      "lng": -119.209968,
+      "storeCount": 1
+    },
+    {
+      "slug": "farmington-nm",
+      "city": "Farmington",
+      "state": "NM",
+      "lat": 36.746431,
+      "lng": -108.190542,
+      "storeCount": 4
+    },
+    {
       "slug": "farmville-nc",
       "city": "Farmville",
       "state": "NC",
@@ -69190,6 +69422,14 @@
       "state": "AL",
       "lat": 33.703996,
       "lng": -87.826674,
+      "storeCount": 1
+    },
+    {
+      "slug": "fayetteville-ar",
+      "city": "Fayetteville",
+      "state": "AR",
+      "lat": 36.124199,
+      "lng": -94.149307,
       "storeCount": 1
     },
     {
@@ -69401,6 +69641,14 @@
       "storeCount": 2
     },
     {
+      "slug": "forsyth-mo",
+      "city": "Forsyth",
+      "state": "MO",
+      "lat": 36.694832,
+      "lng": -93.1228,
+      "storeCount": 1
+    },
+    {
       "slug": "fort-gibson-ok",
       "city": "Fort Gibson",
       "state": "OK",
@@ -69569,6 +69817,14 @@
       "storeCount": 1
     },
     {
+      "slug": "fresno-ca",
+      "city": "Fresno",
+      "state": "CA",
+      "lat": 36.785993,
+      "lng": -119.787791,
+      "storeCount": 24
+    },
+    {
       "slug": "friendswood-tx",
       "city": "Friendswood",
       "state": "TX",
@@ -69607,6 +69863,14 @@
       "lat": 29.72623,
       "lng": -95.866239,
       "storeCount": 2
+    },
+    {
+      "slug": "fulton-ky",
+      "city": "Fulton",
+      "state": "KY",
+      "lat": 36.513225,
+      "lng": -88.890356,
+      "storeCount": 1
     },
     {
       "slug": "fultondale-al",
@@ -69713,6 +69977,14 @@
       "storeCount": 4
     },
     {
+      "slug": "gassville-ar",
+      "city": "Gassville",
+      "state": "AR",
+      "lat": 36.288062,
+      "lng": -92.480538,
+      "storeCount": 1
+    },
+    {
       "slug": "gastonia-nc",
       "city": "Gastonia",
       "state": "NC",
@@ -69750,6 +70022,14 @@
       "state": "LA",
       "lat": 30.266708,
       "lng": -90.987427,
+      "storeCount": 1
+    },
+    {
+      "slug": "gentry-ar",
+      "city": "Gentry",
+      "state": "AR",
+      "lat": 36.263406,
+      "lng": -94.482545,
       "storeCount": 1
     },
     {
@@ -70033,6 +70313,14 @@
       "storeCount": 1
     },
     {
+      "slug": "greenfield-tn",
+      "city": "Greenfield",
+      "state": "TN",
+      "lat": 36.153625,
+      "lng": -88.801042,
+      "storeCount": 1
+    },
+    {
       "slug": "greensboro-ga",
       "city": "Greensboro",
       "state": "GA",
@@ -70145,6 +70433,14 @@
       "storeCount": 1
     },
     {
+      "slug": "grove-ok",
+      "city": "Grove",
+      "state": "OK",
+      "lat": 36.593777,
+      "lng": -94.77282,
+      "storeCount": 1
+    },
+    {
       "slug": "groveland-fl",
       "city": "Groveland",
       "state": "FL",
@@ -70222,6 +70518,14 @@
       "state": "AL",
       "lat": 34.340973,
       "lng": -86.308682,
+      "storeCount": 1
+    },
+    {
+      "slug": "guymon-ok",
+      "city": "Guymon",
+      "state": "OK",
+      "lat": 36.698557,
+      "lng": -101.48381,
       "storeCount": 1
     },
     {
@@ -70305,11 +70609,27 @@
       "storeCount": 1
     },
     {
+      "slug": "hanford-ca",
+      "city": "Hanford",
+      "state": "CA",
+      "lat": 36.331282,
+      "lng": -119.660135,
+      "storeCount": 3
+    },
+    {
       "slug": "hardeeville-sc",
       "city": "Hardeeville",
       "state": "SC",
       "lat": 32.3119,
       "lng": -81.054458,
+      "storeCount": 1
+    },
+    {
+      "slug": "hardy-ar",
+      "city": "Hardy",
+      "state": "AR",
+      "lat": 36.317943,
+      "lng": -91.486663,
       "storeCount": 1
     },
     {
@@ -70343,6 +70663,14 @@
       "lat": 35.322953,
       "lng": -80.645915,
       "storeCount": 1
+    },
+    {
+      "slug": "harrison-ar",
+      "city": "Harrison",
+      "state": "AR",
+      "lat": 36.256202,
+      "lng": -93.127275,
+      "storeCount": 2
     },
     {
       "slug": "hartselle-al",
@@ -70433,6 +70761,14 @@
       "storeCount": 1
     },
     {
+      "slug": "hayti-mo",
+      "city": "Hayti",
+      "state": "MO",
+      "lat": 36.229358,
+      "lng": -89.726271,
+      "storeCount": 1
+    },
+    {
       "slug": "hazlehurst-ga",
       "city": "Hazlehurst",
       "state": "GA",
@@ -70502,6 +70838,14 @@
       "state": "AL",
       "lat": 34.62459,
       "lng": -85.752761,
+      "storeCount": 1
+    },
+    {
+      "slug": "henderson-nv",
+      "city": "Henderson",
+      "state": "NV",
+      "lat": 36.065356,
+      "lng": -115.013006,
       "storeCount": 1
     },
     {
@@ -70670,6 +71014,14 @@
       "state": "FL",
       "lat": 28.20105,
       "lng": -82.740409,
+      "storeCount": 1
+    },
+    {
+      "slug": "hollister-mo",
+      "city": "Hollister",
+      "state": "MO",
+      "lat": 36.609121,
+      "lng": -93.234022,
       "storeCount": 1
     },
     {
@@ -70879,6 +71231,14 @@
       "lat": 34.712844,
       "lng": -86.608189,
       "storeCount": 8
+    },
+    {
+      "slug": "huntsville-ar",
+      "city": "Huntsville",
+      "state": "AR",
+      "lat": 36.113303,
+      "lng": -93.708296,
+      "storeCount": 1
     },
     {
       "slug": "huntsville-tx",
@@ -71129,6 +71489,14 @@
       "storeCount": 1
     },
     {
+      "slug": "jay-ok",
+      "city": "Jay",
+      "state": "OK",
+      "lat": 36.425741,
+      "lng": -94.785774,
+      "storeCount": 1
+    },
+    {
       "slug": "jean-nv",
       "city": "Jean",
       "state": "NV",
@@ -71257,6 +71625,14 @@
       "storeCount": 1
     },
     {
+      "slug": "kayenta-az",
+      "city": "Kayenta",
+      "state": "AZ",
+      "lat": 36.707947,
+      "lng": -110.250396,
+      "storeCount": 1
+    },
+    {
       "slug": "kenedy-tx",
       "city": "Kenedy",
       "state": "TX",
@@ -71270,6 +71646,22 @@
       "state": "NC",
       "lat": 35.5935,
       "lng": -78.129084,
+      "storeCount": 1
+    },
+    {
+      "slug": "kennett-mo",
+      "city": "Kennett",
+      "state": "MO",
+      "lat": 36.236088,
+      "lng": -90.0334,
+      "storeCount": 1
+    },
+    {
+      "slug": "kerman-ca",
+      "city": "Kerman",
+      "state": "CA",
+      "lat": 36.735243,
+      "lng": -120.061264,
       "storeCount": 1
     },
     {
@@ -71361,6 +71753,14 @@
       "storeCount": 1
     },
     {
+      "slug": "kingsburg-ca",
+      "city": "Kingsburg",
+      "state": "CA",
+      "lat": 36.51753,
+      "lng": -119.562045,
+      "storeCount": 1
+    },
+    {
       "slug": "kingsland-ga",
       "city": "Kingsland",
       "state": "GA",
@@ -71391,6 +71791,14 @@
       "lat": 35.255827,
       "lng": -77.601355,
       "storeCount": 3
+    },
+    {
+      "slug": "kirtland-nm",
+      "city": "Kirtland",
+      "state": "NM",
+      "lat": 36.743156,
+      "lng": -108.360385,
+      "storeCount": 1
     },
     {
       "slug": "kissimmee-fl",
@@ -71817,6 +72225,14 @@
       "storeCount": 1
     },
     {
+      "slug": "las-vegas-nv",
+      "city": "Las Vegas",
+      "state": "NV",
+      "lat": 36.175947,
+      "lng": -115.171077,
+      "storeCount": 48
+    },
+    {
       "slug": "latta-sc",
       "city": "Latta",
       "state": "SC",
@@ -71988,9 +72404,9 @@
       "slug": "lemoore-ca",
       "city": "Lemoore",
       "state": "CA",
-      "lat": 36.313003,
-      "lng": -119.781325,
-      "storeCount": 1
+      "lat": 36.288247,
+      "lng": -119.840672,
+      "storeCount": 2
     },
     {
       "slug": "lenoir-city-tn",
@@ -72102,6 +72518,14 @@
       "state": "TX",
       "lat": 32.469579,
       "lng": -95.388903,
+      "storeCount": 1
+    },
+    {
+      "slug": "lindsay-ca",
+      "city": "Lindsay",
+      "state": "CA",
+      "lat": 36.202981,
+      "lng": -119.103064,
       "storeCount": 1
     },
     {
@@ -72225,19 +72649,19 @@
       "storeCount": 1
     },
     {
-      "slug": "loganville-ga",
-      "city": "Loganville",
-      "state": "GA",
-      "lat": 33.834634,
-      "lng": -83.890793,
-      "storeCount": 1
-    },
-    {
       "slug": "lompoc-ca",
       "city": "Lompoc",
       "state": "CA",
       "lat": 34.651564,
       "lng": -120.458235,
+      "storeCount": 1
+    },
+    {
+      "slug": "lone-pine-ca",
+      "city": "Lone Pine",
+      "state": "CA",
+      "lat": 36.60227,
+      "lng": -118.061971,
       "storeCount": 1
     },
     {
@@ -72350,6 +72774,14 @@
       "state": "GA",
       "lat": 33.446883,
       "lng": -84.325217,
+      "storeCount": 1
+    },
+    {
+      "slug": "lowell-ar",
+      "city": "Lowell",
+      "state": "AR",
+      "lat": 36.253881,
+      "lng": -94.146076,
       "storeCount": 1
     },
     {
@@ -72561,6 +72993,14 @@
       "storeCount": 1
     },
     {
+      "slug": "malden-mo",
+      "city": "Malden",
+      "state": "MO",
+      "lat": 36.572557,
+      "lng": -89.970188,
+      "storeCount": 1
+    },
+    {
       "slug": "malvern-ar",
       "city": "Malvern",
       "state": "AR",
@@ -72753,6 +73193,14 @@
       "storeCount": 2
     },
     {
+      "slug": "martin-tn",
+      "city": "Martin",
+      "state": "TN",
+      "lat": 36.348437,
+      "lng": -88.873455,
+      "storeCount": 1
+    },
+    {
       "slug": "martinez-ga",
       "city": "Martinez",
       "state": "GA",
@@ -72814,6 +73262,14 @@
       "state": "AZ",
       "lat": 34.326371,
       "lng": -112.119695,
+      "storeCount": 1
+    },
+    {
+      "slug": "mayfield-ky",
+      "city": "Mayfield",
+      "state": "KY",
+      "lat": 36.728785,
+      "lng": -88.63135,
       "storeCount": 1
     },
     {
@@ -73001,6 +73457,14 @@
       "storeCount": 24
     },
     {
+      "slug": "mesquite-nv",
+      "city": "Mesquite",
+      "state": "NV",
+      "lat": 36.808583,
+      "lng": -114.086064,
+      "storeCount": 2
+    },
+    {
       "slug": "mesquite-tx",
       "city": "Mesquite",
       "state": "TX",
@@ -73039,6 +73503,14 @@
       "lat": 25.731902,
       "lng": -80.284764,
       "storeCount": 23
+    },
+    {
+      "slug": "miami-ok",
+      "city": "Miami",
+      "state": "OK",
+      "lat": 36.888327,
+      "lng": -94.878113,
+      "storeCount": 1
     },
     {
       "slug": "middleburg-fl",
@@ -73223,6 +73695,14 @@
       "lat": 33.146915,
       "lng": -80.011558,
       "storeCount": 2
+    },
+    {
+      "slug": "monett-mo",
+      "city": "Monett",
+      "state": "MO",
+      "lat": 36.913636,
+      "lng": -93.912719,
+      "storeCount": 1
     },
     {
       "slug": "monroe-ga",
@@ -73529,6 +74009,14 @@
       "storeCount": 1
     },
     {
+      "slug": "mountain-home-ar",
+      "city": "Mountain Home",
+      "state": "AR",
+      "lat": 36.355154,
+      "lng": -92.353386,
+      "storeCount": 2
+    },
+    {
       "slug": "mountain-view-ar",
       "city": "Mountain View",
       "state": "AR",
@@ -73559,6 +74047,14 @@
       "lat": 35.080663,
       "lng": -84.03575,
       "storeCount": 1
+    },
+    {
+      "slug": "murray-ky",
+      "city": "Murray",
+      "state": "KY",
+      "lat": 36.625129,
+      "lng": -88.312402,
+      "storeCount": 2
     },
     {
       "slug": "murrells-inlet-sc",
@@ -73897,6 +74393,14 @@
       "storeCount": 3
     },
     {
+      "slug": "north-las-vegas-nv",
+      "city": "North Las Vegas",
+      "state": "NV",
+      "lat": 36.241198,
+      "lng": -115.137947,
+      "storeCount": 12
+    },
+    {
       "slug": "north-lauderdale-fl",
       "city": "North Lauderdale",
       "state": "FL",
@@ -74177,11 +74681,27 @@
       "storeCount": 1
     },
     {
+      "slug": "orosi-ca",
+      "city": "Orosi",
+      "state": "CA",
+      "lat": 36.543332,
+      "lng": -119.286335,
+      "storeCount": 1
+    },
+    {
       "slug": "osceola-ar",
       "city": "Osceola",
       "state": "AR",
       "lat": 35.698541,
       "lng": -90.01222,
+      "storeCount": 1
+    },
+    {
+      "slug": "overton-nv",
+      "city": "Overton",
+      "state": "NV",
+      "lat": 36.538711,
+      "lng": -114.442661,
       "storeCount": 1
     },
     {
@@ -74191,6 +74711,14 @@
       "lat": 28.642679,
       "lng": -81.219221,
       "storeCount": 4
+    },
+    {
+      "slug": "owasso-ok",
+      "city": "Owasso",
+      "state": "OK",
+      "lat": 36.283971,
+      "lng": -95.84532,
+      "storeCount": 3
     },
     {
       "slug": "owens-cross-roads-al",
@@ -74247,6 +74775,14 @@
       "lat": 30.597453,
       "lng": -87.145434,
       "storeCount": 2
+    },
+    {
+      "slug": "pahrump-nv",
+      "city": "Pahrump",
+      "state": "NV",
+      "lat": 36.209146,
+      "lng": -115.986045,
+      "storeCount": 1
     },
     {
       "slug": "palatka-fl",
@@ -74393,6 +74929,14 @@
       "storeCount": 1
     },
     {
+      "slug": "paris-tn",
+      "city": "Paris",
+      "state": "TN",
+      "lat": 36.289822,
+      "lng": -88.313584,
+      "storeCount": 1
+    },
+    {
       "slug": "paris-tx",
       "city": "Paris",
       "state": "TX",
@@ -74420,9 +74964,9 @@
       "slug": "pasadena-tx",
       "city": "Pasadena",
       "state": "TX",
-      "lat": 29.670817,
-      "lng": -95.178538,
-      "storeCount": 9
+      "lat": 29.668897,
+      "lng": -95.181296,
+      "storeCount": 10
     },
     {
       "slug": "pascagoula-ms",
@@ -74449,6 +74993,14 @@
       "storeCount": 1
     },
     {
+      "slug": "pawhuska-ok",
+      "city": "Pawhuska",
+      "state": "OK",
+      "lat": 36.668073,
+      "lng": -96.315714,
+      "storeCount": 1
+    },
+    {
       "slug": "pawleys-island-sc",
       "city": "Pawleys Island",
       "state": "SC",
@@ -74457,11 +75009,27 @@
       "storeCount": 1
     },
     {
+      "slug": "pawnee-ok",
+      "city": "Pawnee",
+      "state": "OK",
+      "lat": 36.22493,
+      "lng": -96.795364,
+      "storeCount": 1
+    },
+    {
       "slug": "payson-az",
       "city": "Payson",
       "state": "AZ",
       "lat": 34.240227,
       "lng": -111.322383,
+      "storeCount": 1
+    },
+    {
+      "slug": "pea-ridge-ar",
+      "city": "Pea Ridge",
+      "state": "AR",
+      "lat": 36.443718,
+      "lng": -94.116543,
       "storeCount": 1
     },
     {
@@ -74575,6 +75143,22 @@
       "lat": 32.470769,
       "lng": -83.722894,
       "storeCount": 2
+    },
+    {
+      "slug": "perry-ok",
+      "city": "Perry",
+      "state": "OK",
+      "lat": 36.289138,
+      "lng": -97.323895,
+      "storeCount": 1
+    },
+    {
+      "slug": "perryton-tx",
+      "city": "Perryton",
+      "state": "TX",
+      "lat": 36.388509,
+      "lng": -100.802299,
+      "storeCount": 1
     },
     {
       "slug": "petal-ms",
@@ -74737,6 +75321,14 @@
       "storeCount": 1
     },
     {
+      "slug": "pineville-mo",
+      "city": "Pineville",
+      "state": "MO",
+      "lat": 36.509178,
+      "lng": -94.280388,
+      "storeCount": 1
+    },
+    {
       "slug": "pinson-al",
       "city": "Pinson",
       "state": "AL",
@@ -74801,6 +75393,14 @@
       "storeCount": 1
     },
     {
+      "slug": "pocahontas-ar",
+      "city": "Pocahontas",
+      "state": "AR",
+      "lat": 36.250891,
+      "lng": -90.961388,
+      "storeCount": 1
+    },
+    {
       "slug": "polk-city-fl",
       "city": "Polk City",
       "state": "FL",
@@ -74823,6 +75423,14 @@
       "lat": 26.25178,
       "lng": -80.130659,
       "storeCount": 6
+    },
+    {
+      "slug": "ponca-city-ok",
+      "city": "Ponca City",
+      "state": "OK",
+      "lat": 36.729006,
+      "lng": -97.067762,
+      "storeCount": 1
     },
     {
       "slug": "ponce-de-leon-fl",
@@ -74921,6 +75529,22 @@
       "storeCount": 1
     },
     {
+      "slug": "portageville-mo",
+      "city": "Portageville",
+      "state": "MO",
+      "lat": 36.423862,
+      "lng": -89.689605,
+      "storeCount": 1
+    },
+    {
+      "slug": "porterville-ca",
+      "city": "Porterville",
+      "state": "CA",
+      "lat": 36.072418,
+      "lng": -119.027945,
+      "storeCount": 2
+    },
+    {
       "slug": "powder-springs-ga",
       "city": "Powder Springs",
       "state": "GA",
@@ -74975,6 +75599,14 @@
       "lat": 33.240855,
       "lng": -96.845033,
       "storeCount": 2
+    },
+    {
+      "slug": "pryor-ok",
+      "city": "Pryor",
+      "state": "OK",
+      "lat": 36.293227,
+      "lng": -95.32371,
+      "storeCount": 1
     },
     {
       "slug": "pulaski-tn",
@@ -75126,6 +75758,14 @@
       "state": "NC",
       "lat": 34.811155,
       "lng": -79.173732,
+      "storeCount": 1
+    },
+    {
+      "slug": "reedley-ca",
+      "city": "Reedley",
+      "state": "CA",
+      "lat": 36.603653,
+      "lng": -119.458217,
       "storeCount": 1
     },
     {
@@ -75367,6 +76007,14 @@
       "lat": 34.440093,
       "lng": -77.878239,
       "storeCount": 1
+    },
+    {
+      "slug": "rogers-ar",
+      "city": "Rogers",
+      "state": "AR",
+      "lat": 36.327031,
+      "lng": -94.144432,
+      "storeCount": 4
     },
     {
       "slug": "roland-ok",
@@ -75745,6 +76393,14 @@
       "storeCount": 1
     },
     {
+      "slug": "sand-springs-ok",
+      "city": "Sand Springs",
+      "state": "OK",
+      "lat": 36.135834,
+      "lng": -96.114655,
+      "storeCount": 1
+    },
+    {
       "slug": "sandersville-ms",
       "city": "Sandersville",
       "state": "MS",
@@ -75767,6 +76423,14 @@
       "lat": 35.462719,
       "lng": -79.187146,
       "storeCount": 3
+    },
+    {
+      "slug": "sanger-ca",
+      "city": "Sanger",
+      "state": "CA",
+      "lat": 36.708724,
+      "lng": -119.567652,
+      "storeCount": 2
     },
     {
       "slug": "sanger-tx",
@@ -76025,6 +76689,14 @@
       "storeCount": 1
     },
     {
+      "slug": "selma-ca",
+      "city": "Selma",
+      "state": "CA",
+      "lat": 36.576711,
+      "lng": -119.626045,
+      "storeCount": 1
+    },
+    {
       "slug": "selma-nc",
       "city": "Selma",
       "state": "NC",
@@ -76193,6 +76865,14 @@
       "storeCount": 2
     },
     {
+      "slug": "shiprock-nm",
+      "city": "Shiprock",
+      "state": "NM",
+      "lat": 36.77638,
+      "lng": -108.696102,
+      "storeCount": 1
+    },
+    {
       "slug": "shorter-al",
       "city": "Shorter",
       "state": "AL",
@@ -76233,11 +76913,27 @@
       "storeCount": 1
     },
     {
+      "slug": "sikeston-mo",
+      "city": "Sikeston",
+      "state": "MO",
+      "lat": 36.858516,
+      "lng": -89.583752,
+      "storeCount": 1
+    },
+    {
       "slug": "siler-city-nc",
       "city": "Siler City",
       "state": "NC",
       "lat": 35.734052,
       "lng": -79.438422,
+      "storeCount": 1
+    },
+    {
+      "slug": "siloam-springs-ar",
+      "city": "Siloam Springs",
+      "state": "AR",
+      "lat": 36.175843,
+      "lng": -94.559548,
       "storeCount": 1
     },
     {
@@ -76271,6 +76967,14 @@
       "lat": 34.727726,
       "lng": -82.260233,
       "storeCount": 3
+    },
+    {
+      "slug": "skiatook-ok",
+      "city": "Skiatook",
+      "state": "OK",
+      "lat": 36.369049,
+      "lng": -96.009823,
+      "storeCount": 1
     },
     {
       "slug": "slaton-tx",
@@ -76513,6 +77217,14 @@
       "storeCount": 1
     },
     {
+      "slug": "springdale-ar",
+      "city": "Springdale",
+      "state": "AR",
+      "lat": 36.1739,
+      "lng": -94.153403,
+      "storeCount": 5
+    },
+    {
       "slug": "springville-al",
       "city": "Springville",
       "state": "AL",
@@ -76631,6 +77343,14 @@
       "lat": 35.254179,
       "lng": -95.10949,
       "storeCount": 1
+    },
+    {
+      "slug": "stillwater-ok",
+      "city": "Stillwater",
+      "state": "OK",
+      "lat": 36.123709,
+      "lng": -97.065265,
+      "storeCount": 2
     },
     {
       "slug": "stilwell-ok",
@@ -76913,6 +77633,14 @@
       "storeCount": 2
     },
     {
+      "slug": "taos-nm",
+      "city": "Taos",
+      "state": "NM",
+      "lat": 36.404656,
+      "lng": -105.573863,
+      "storeCount": 1
+    },
+    {
       "slug": "tarpon-springs-fl",
       "city": "Tarpon Springs",
       "state": "FL",
@@ -77014,6 +77742,14 @@
       "state": "TX",
       "lat": 29.394889,
       "lng": -94.949705,
+      "storeCount": 1
+    },
+    {
+      "slug": "thayer-mo",
+      "city": "Thayer",
+      "state": "MO",
+      "lat": 36.523208,
+      "lng": -91.534486,
       "storeCount": 1
     },
     {
@@ -77137,6 +77873,14 @@
       "storeCount": 1
     },
     {
+      "slug": "tontitown-ar",
+      "city": "Tontitown",
+      "state": "AR",
+      "lat": 36.175515,
+      "lng": -94.217104,
+      "storeCount": 1
+    },
+    {
       "slug": "trenton-fl",
       "city": "Trenton",
       "state": "FL",
@@ -77225,6 +77969,14 @@
       "storeCount": 1
     },
     {
+      "slug": "tulare-ca",
+      "city": "Tulare",
+      "state": "CA",
+      "lat": 36.226309,
+      "lng": -119.325357,
+      "storeCount": 2
+    },
+    {
       "slug": "tulia-tx",
       "city": "Tulia",
       "state": "TX",
@@ -77239,6 +77991,14 @@
       "lat": 35.373313,
       "lng": -86.221118,
       "storeCount": 1
+    },
+    {
+      "slug": "tulsa-ok",
+      "city": "Tulsa",
+      "state": "OK",
+      "lat": 36.11615,
+      "lng": -95.933038,
+      "storeCount": 20
     },
     {
       "slug": "tunica-ms",
@@ -77326,6 +78086,14 @@
       "state": "GA",
       "lat": 33.568592,
       "lng": -84.538147,
+      "storeCount": 1
+    },
+    {
+      "slug": "union-city-tn",
+      "city": "Union City",
+      "state": "TN",
+      "lat": 36.414702,
+      "lng": -89.071025,
       "storeCount": 1
     },
     {
@@ -77529,6 +78297,22 @@
       "storeCount": 1
     },
     {
+      "slug": "vinita-ok",
+      "city": "Vinita",
+      "state": "OK",
+      "lat": 36.630748,
+      "lng": -95.151027,
+      "storeCount": 2
+    },
+    {
+      "slug": "visalia-ca",
+      "city": "Visalia",
+      "state": "CA",
+      "lat": 36.327017,
+      "lng": -119.319211,
+      "storeCount": 6
+    },
+    {
       "slug": "vista-ca",
       "city": "Vista",
       "state": "CA",
@@ -77574,6 +78358,14 @@
       "state": "NC",
       "lat": 34.73963,
       "lng": -77.976136,
+      "storeCount": 1
+    },
+    {
+      "slug": "walnut-ridge-ar",
+      "city": "Walnut Ridge",
+      "state": "AR",
+      "lat": 36.073709,
+      "lng": -90.954785,
       "storeCount": 1
     },
     {
@@ -77855,6 +78647,14 @@
       "lat": 26.705613,
       "lng": -80.11903,
       "storeCount": 13
+    },
+    {
+      "slug": "west-plains-mo",
+      "city": "West Plains",
+      "state": "MO",
+      "lat": 36.728426,
+      "lng": -91.873075,
+      "storeCount": 2
     },
     {
       "slug": "west-point-ms",
@@ -78222,6 +79022,14 @@
       "state": "SC",
       "lat": 34.751602,
       "lng": -82.046288,
+      "storeCount": 1
+    },
+    {
+      "slug": "woodward-ok",
+      "city": "Woodward",
+      "state": "OK",
+      "lat": 36.434136,
+      "lng": -99.415912,
       "storeCount": 1
     },
     {

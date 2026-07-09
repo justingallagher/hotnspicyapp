@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-07-08T11:16:04.931Z",
+  "generatedAt": "2026-07-09T12:15:31.038Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -12401,7 +12401,7 @@
     {
       "postalCode": "27292",
       "city": "Lexington",
-      "state": "",
+      "state": "NC",
       "lat": 35.777075,
       "lng": -80.259145,
       "storeCount": 1
@@ -19580,14 +19580,6 @@
       "state": "FL",
       "lat": 27.462064,
       "lng": -82.598545,
-      "storeCount": 1
-    },
-    {
-      "postalCode": "34211",
-      "city": "Bradenton",
-      "state": "FL",
-      "lat": 27.475188,
-      "lng": -82.371604,
       "storeCount": 1
     },
     {
@@ -42585,7 +42577,7 @@
     {
       "postalCode": "67002",
       "city": "Andover",
-      "state": "",
+      "state": "KS",
       "lat": 37.693558,
       "lng": -97.136163,
       "storeCount": 1
@@ -42593,7 +42585,7 @@
     {
       "postalCode": "67005-3851",
       "city": "Arkansas City",
-      "state": "",
+      "state": "KS",
       "lat": 37.085057,
       "lng": -97.03967,
       "storeCount": 1
@@ -42601,7 +42593,7 @@
     {
       "postalCode": "67010",
       "city": "Augusta",
-      "state": "",
+      "state": "KS",
       "lat": 37.679853,
       "lng": -96.984165,
       "storeCount": 1
@@ -42609,7 +42601,7 @@
     {
       "postalCode": "67013",
       "city": "Belle Plaine",
-      "state": "",
+      "state": "KS",
       "lat": 37.367372,
       "lng": -97.322312,
       "storeCount": 1
@@ -42617,7 +42609,7 @@
     {
       "postalCode": "67037",
       "city": "Derby",
-      "state": "",
+      "state": "KS",
       "lat": 37.549188,
       "lng": -97.243575,
       "storeCount": 1
@@ -42625,7 +42617,7 @@
     {
       "postalCode": "67037-1818",
       "city": "Derby",
-      "state": "",
+      "state": "KS",
       "lat": 37.552134,
       "lng": -97.272175,
       "storeCount": 1
@@ -42633,7 +42625,7 @@
     {
       "postalCode": "67042-3201",
       "city": "El Dorado",
-      "state": "",
+      "state": "KS",
       "lat": 37.817727,
       "lng": -96.876941,
       "storeCount": 1
@@ -42641,7 +42633,7 @@
     {
       "postalCode": "67052",
       "city": "Goddard",
-      "state": "",
+      "state": "KS",
       "lat": 37.663631,
       "lng": -97.572344,
       "storeCount": 1
@@ -42649,7 +42641,7 @@
     {
       "postalCode": "67060",
       "city": "Haysville",
-      "state": "",
+      "state": "KS",
       "lat": 37.566768,
       "lng": -97.351501,
       "storeCount": 1
@@ -42657,7 +42649,7 @@
     {
       "postalCode": "67101",
       "city": "Maize",
-      "state": "",
+      "state": "KS",
       "lat": 37.752825,
       "lng": -97.463366,
       "storeCount": 1
@@ -42665,7 +42657,7 @@
     {
       "postalCode": "67124-2075",
       "city": "Pratt",
-      "state": "",
+      "state": "KS",
       "lat": 37.645195,
       "lng": -98.71549,
       "storeCount": 1
@@ -42673,7 +42665,7 @@
     {
       "postalCode": "67152",
       "city": "Wellington",
-      "state": "",
+      "state": "KS",
       "lat": 37.27472,
       "lng": -97.375631,
       "storeCount": 1
@@ -42681,7 +42673,7 @@
     {
       "postalCode": "67156-5448",
       "city": "Winfield",
-      "state": "",
+      "state": "KS",
       "lat": 37.227612,
       "lng": -96.995585,
       "storeCount": 1
@@ -42689,7 +42681,7 @@
     {
       "postalCode": "67202-3909",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.681863,
       "lng": -97.335882,
       "storeCount": 1
@@ -42697,7 +42689,7 @@
     {
       "postalCode": "67203",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.723672,
       "lng": -97.363672,
       "storeCount": 1
@@ -42705,7 +42697,7 @@
     {
       "postalCode": "67206",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.708405,
       "lng": -97.344703,
       "storeCount": 2
@@ -42713,7 +42705,7 @@
     {
       "postalCode": "67207",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.671075,
       "lng": -97.212937,
       "storeCount": 2
@@ -42721,7 +42713,7 @@
     {
       "postalCode": "67207-3319",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.665946,
       "lng": -97.245036,
       "storeCount": 1
@@ -42729,7 +42721,7 @@
     {
       "postalCode": "67208",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.684771,
       "lng": -97.352443,
       "storeCount": 1
@@ -42737,7 +42729,7 @@
     {
       "postalCode": "67209-2330",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.673364,
       "lng": -97.415982,
       "storeCount": 1
@@ -42745,7 +42737,7 @@
     {
       "postalCode": "67211-4019",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.664004,
       "lng": -97.298349,
       "storeCount": 1
@@ -42753,7 +42745,7 @@
     {
       "postalCode": "67212",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.715706,
       "lng": -97.426142,
       "storeCount": 2
@@ -42761,7 +42753,7 @@
     {
       "postalCode": "67212-3633",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.691512,
       "lng": -97.4439,
       "storeCount": 1
@@ -42769,7 +42761,7 @@
     {
       "postalCode": "67213-2108",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.676953,
       "lng": -97.389001,
       "storeCount": 1
@@ -42777,7 +42769,7 @@
     {
       "postalCode": "67214",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.694987,
       "lng": -97.299505,
       "storeCount": 1
@@ -42785,7 +42777,7 @@
     {
       "postalCode": "67214-2317",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.715974,
       "lng": -97.299363,
       "storeCount": 1
@@ -42793,7 +42785,7 @@
     {
       "postalCode": "67216",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.641027,
       "lng": -97.334328,
       "storeCount": 2
@@ -42801,7 +42793,7 @@
     {
       "postalCode": "67216-3713",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.60753,
       "lng": -97.333487,
       "storeCount": 1
@@ -42809,7 +42801,7 @@
     {
       "postalCode": "67217",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.650044,
       "lng": -97.389642,
       "storeCount": 1
@@ -42825,7 +42817,7 @@
     {
       "postalCode": "67226",
       "city": "Wichita",
-      "state": "",
+      "state": "KS",
       "lat": 37.731568,
       "lng": -97.232483,
       "storeCount": 3
@@ -42929,7 +42921,7 @@
     {
       "postalCode": "67801",
       "city": "Dodge City",
-      "state": "",
+      "state": "KS",
       "lat": 37.778941,
       "lng": -100.016656,
       "storeCount": 1
@@ -42937,7 +42929,7 @@
     {
       "postalCode": "67801-4249",
       "city": "Dodge City",
-      "state": "",
+      "state": "KS",
       "lat": 37.752869,
       "lng": -100.023973,
       "storeCount": 1
@@ -42945,7 +42937,7 @@
     {
       "postalCode": "67880",
       "city": "Ulysses",
-      "state": "",
+      "state": "KS",
       "lat": 37.576103,
       "lng": -101.358468,
       "storeCount": 1
@@ -42953,7 +42945,7 @@
     {
       "postalCode": "67901",
       "city": "Liberal",
-      "state": "",
+      "state": "KS",
       "lat": 37.058181,
       "lng": -100.922922,
       "storeCount": 1
@@ -53313,7 +53305,7 @@
     {
       "postalCode": "81101-2272",
       "city": "Alamosa",
-      "state": "",
+      "state": "CO",
       "lat": 37.475429,
       "lng": -105.894045,
       "storeCount": 1
@@ -53321,7 +53313,7 @@
     {
       "postalCode": "81147",
       "city": "Pagosa Springs",
-      "state": "",
+      "state": "CO",
       "lat": 37.256661,
       "lng": -107.074283,
       "storeCount": 1
@@ -53353,7 +53345,7 @@
     {
       "postalCode": "81301",
       "city": "Durango",
-      "state": "",
+      "state": "CO",
       "lat": 37.229935,
       "lng": -107.840112,
       "storeCount": 1
@@ -53361,7 +53353,7 @@
     {
       "postalCode": "81301-5464",
       "city": "Durango",
-      "state": "",
+      "state": "CO",
       "lat": 37.270055,
       "lng": -107.883028,
       "storeCount": 1
@@ -53369,7 +53361,7 @@
     {
       "postalCode": "81321-2914",
       "city": "Cortez",
-      "state": "",
+      "state": "CO",
       "lat": 37.349253,
       "lng": -108.567972,
       "storeCount": 1
@@ -54577,7 +54569,7 @@
     {
       "postalCode": "84720",
       "city": "Cedar City",
-      "state": "",
+      "state": "UT",
       "lat": 37.660331,
       "lng": -113.072036,
       "storeCount": 1
@@ -54585,7 +54577,7 @@
     {
       "postalCode": "84720-2306",
       "city": "Cedar City",
-      "state": "",
+      "state": "UT",
       "lat": 37.681128,
       "lng": -113.076528,
       "storeCount": 1
@@ -54593,7 +54585,7 @@
     {
       "postalCode": "84770",
       "city": "Saint George",
-      "state": "",
+      "state": "UT",
       "lat": 37.122378,
       "lng": -113.624195,
       "storeCount": 1
@@ -60089,7 +60081,7 @@
     {
       "postalCode": "93514-2745",
       "city": "Bishop",
-      "state": "",
+      "state": "CA",
       "lat": 37.365234,
       "lng": -118.39502,
       "storeCount": 1
@@ -60289,7 +60281,7 @@
     {
       "postalCode": "93635",
       "city": "Los Banos",
-      "state": "",
+      "state": "CA",
       "lat": 37.057552,
       "lng": -120.879001,
       "storeCount": 1
@@ -60297,7 +60289,7 @@
     {
       "postalCode": "93635-4928",
       "city": "Los Banos",
-      "state": "",
+      "state": "CA",
       "lat": 37.056537,
       "lng": -120.834854,
       "storeCount": 1
@@ -60305,7 +60297,7 @@
     {
       "postalCode": "93644-8802",
       "city": "Oakhurst",
-      "state": "",
+      "state": "CA",
       "lat": 37.332005,
       "lng": -119.654974,
       "storeCount": 1
@@ -60649,7 +60641,7 @@
     {
       "postalCode": "94002-2121",
       "city": "Belmont",
-      "state": "",
+      "state": "CA",
       "lat": 37.524906,
       "lng": -122.281845,
       "storeCount": 1
@@ -60657,7 +60649,7 @@
     {
       "postalCode": "94014-1521",
       "city": "Daly City",
-      "state": "",
+      "state": "CA",
       "lat": 37.706612,
       "lng": -122.415321,
       "storeCount": 1
@@ -60665,7 +60657,7 @@
     {
       "postalCode": "94015-1632",
       "city": "Daly City",
-      "state": "",
+      "state": "CA",
       "lat": 37.692028,
       "lng": -122.471275,
       "storeCount": 1
@@ -60673,7 +60665,7 @@
     {
       "postalCode": "94015-4372",
       "city": "Daly City",
-      "state": "",
+      "state": "CA",
       "lat": 37.668903,
       "lng": -122.469986,
       "storeCount": 1
@@ -60681,7 +60673,7 @@
     {
       "postalCode": "94019-1609",
       "city": "Half Moon Bay",
-      "state": "",
+      "state": "CA",
       "lat": 37.470356,
       "lng": -122.434441,
       "storeCount": 1
@@ -60689,7 +60681,7 @@
     {
       "postalCode": "94025-4308",
       "city": "Menlo Park",
-      "state": "",
+      "state": "CA",
       "lat": 37.453926,
       "lng": -122.183139,
       "storeCount": 1
@@ -60697,7 +60689,7 @@
     {
       "postalCode": "94030",
       "city": "Millbrae",
-      "state": "",
+      "state": "CA",
       "lat": 37.606554,
       "lng": -122.398421,
       "storeCount": 1
@@ -60705,7 +60697,7 @@
     {
       "postalCode": "94040-2355",
       "city": "Mountain View",
-      "state": "",
+      "state": "CA",
       "lat": 37.391403,
       "lng": -122.096405,
       "storeCount": 1
@@ -60713,7 +60705,7 @@
     {
       "postalCode": "94043",
       "city": "Mountain View",
-      "state": "",
+      "state": "CA",
       "lat": 37.41941,
       "lng": -122.093608,
       "storeCount": 1
@@ -60721,7 +60713,7 @@
     {
       "postalCode": "94044",
       "city": "Pacifica",
-      "state": "",
+      "state": "CA",
       "lat": 37.594349,
       "lng": -122.50216,
       "storeCount": 1
@@ -60729,7 +60721,7 @@
     {
       "postalCode": "94044-1332",
       "city": "Pacifica",
-      "state": "",
+      "state": "CA",
       "lat": 37.65226,
       "lng": -122.491196,
       "storeCount": 1
@@ -60737,7 +60729,7 @@
     {
       "postalCode": "94063",
       "city": "Redwood City",
-      "state": "",
+      "state": "CA",
       "lat": 37.467598,
       "lng": -122.22363,
       "storeCount": 1
@@ -60745,7 +60737,7 @@
     {
       "postalCode": "94063-2105",
       "city": "Redwood City",
-      "state": "",
+      "state": "CA",
       "lat": 37.479259,
       "lng": -122.224258,
       "storeCount": 1
@@ -60753,7 +60745,7 @@
     {
       "postalCode": "94070-2404",
       "city": "San Carlos",
-      "state": "",
+      "state": "CA",
       "lat": 37.511166,
       "lng": -122.265778,
       "storeCount": 1
@@ -60761,7 +60753,7 @@
     {
       "postalCode": "94080",
       "city": "South San Francisco",
-      "state": "",
+      "state": "CA",
       "lat": 37.643961,
       "lng": -122.40362,
       "storeCount": 1
@@ -60769,7 +60761,7 @@
     {
       "postalCode": "94080-4402",
       "city": "South San Francisco",
-      "state": "",
+      "state": "CA",
       "lat": 37.648029,
       "lng": -122.429626,
       "storeCount": 1
@@ -60777,7 +60769,7 @@
     {
       "postalCode": "94080-5411",
       "city": "South San Francisco",
-      "state": "",
+      "state": "CA",
       "lat": 37.643787,
       "lng": -122.453667,
       "storeCount": 1
@@ -60785,7 +60777,7 @@
     {
       "postalCode": "94085",
       "city": "Sunnyvale",
-      "state": "",
+      "state": "CA",
       "lat": 37.389489,
       "lng": -122.012111,
       "storeCount": 2
@@ -60793,7 +60785,7 @@
     {
       "postalCode": "94086",
       "city": "Sunnyvale",
-      "state": "",
+      "state": "CA",
       "lat": 37.362938,
       "lng": -122.027153,
       "storeCount": 1
@@ -60801,7 +60793,7 @@
     {
       "postalCode": "94110",
       "city": "San Francisco",
-      "state": "",
+      "state": "CA",
       "lat": 37.713135,
       "lng": -122.444542,
       "storeCount": 1
@@ -60809,7 +60801,7 @@
     {
       "postalCode": "94112-1830",
       "city": "San Francisco",
-      "state": "",
+      "state": "CA",
       "lat": 37.723492,
       "lng": -122.45546,
       "storeCount": 1
@@ -60817,7 +60809,7 @@
     {
       "postalCode": "94303",
       "city": "East Palo Alto",
-      "state": "",
+      "state": "CA",
       "lat": 37.466054,
       "lng": -122.138959,
       "storeCount": 2
@@ -60825,7 +60817,7 @@
     {
       "postalCode": "94304",
       "city": "Palo Alto",
-      "state": "",
+      "state": "CA",
       "lat": 37.44293,
       "lng": -122.171203,
       "storeCount": 1
@@ -60833,7 +60825,7 @@
     {
       "postalCode": "94404",
       "city": "San Mateo",
-      "state": "",
+      "state": "CA",
       "lat": 37.553954,
       "lng": -122.316364,
       "storeCount": 1
@@ -60841,7 +60833,7 @@
     {
       "postalCode": "94404-1213",
       "city": "Foster City",
-      "state": "",
+      "state": "CA",
       "lat": 37.563316,
       "lng": -122.271698,
       "storeCount": 1
@@ -60849,7 +60841,7 @@
     {
       "postalCode": "94501-3818",
       "city": "Alameda",
-      "state": "",
+      "state": "CA",
       "lat": 37.771774,
       "lng": -122.276077,
       "storeCount": 1
@@ -60857,7 +60849,7 @@
     {
       "postalCode": "94501-6227",
       "city": "Alameda",
-      "state": "",
+      "state": "CA",
       "lat": 37.755219,
       "lng": -122.252029,
       "storeCount": 1
@@ -60865,7 +60857,7 @@
     {
       "postalCode": "94513",
       "city": "Brentwood",
-      "state": "",
+      "state": "CA",
       "lat": 37.925691,
       "lng": -121.736362,
       "storeCount": 1
@@ -60873,7 +60865,7 @@
     {
       "postalCode": "94514",
       "city": "Discovery Bay",
-      "state": "",
+      "state": "CA",
       "lat": 37.889664,
       "lng": -121.620674,
       "storeCount": 1
@@ -60881,7 +60873,7 @@
     {
       "postalCode": "94526",
       "city": "Danville",
-      "state": "",
+      "state": "CA",
       "lat": 37.798991,
       "lng": -121.922941,
       "storeCount": 1
@@ -60913,7 +60905,7 @@
     {
       "postalCode": "94536",
       "city": "Fremont",
-      "state": "",
+      "state": "CA",
       "lat": 37.531052,
       "lng": -121.990582,
       "storeCount": 2
@@ -60921,7 +60913,7 @@
     {
       "postalCode": "94536-4828",
       "city": "Fremont",
-      "state": "",
+      "state": "CA",
       "lat": 37.556797,
       "lng": -122.014076,
       "storeCount": 1
@@ -60929,7 +60921,7 @@
     {
       "postalCode": "94536-6909",
       "city": "Fremont",
-      "state": "",
+      "state": "CA",
       "lat": 37.54932,
       "lng": -121.98912,
       "storeCount": 1
@@ -60937,7 +60929,7 @@
     {
       "postalCode": "94538-2845",
       "city": "Fremont",
-      "state": "",
+      "state": "CA",
       "lat": 37.534321,
       "lng": -121.966749,
       "storeCount": 1
@@ -60945,7 +60937,7 @@
     {
       "postalCode": "94539-5301",
       "city": "Fremont",
-      "state": "",
+      "state": "CA",
       "lat": 37.539711,
       "lng": -121.923195,
       "storeCount": 1
@@ -60953,7 +60945,7 @@
     {
       "postalCode": "94541",
       "city": "Hayward",
-      "state": "",
+      "state": "CA",
       "lat": 37.666771,
       "lng": -122.106169,
       "storeCount": 1
@@ -60961,7 +60953,7 @@
     {
       "postalCode": "94541-2248",
       "city": "Hayward",
-      "state": "",
+      "state": "CA",
       "lat": 37.670784,
       "lng": -122.120697,
       "storeCount": 1
@@ -60969,7 +60961,7 @@
     {
       "postalCode": "94544-1028",
       "city": "Hayward",
-      "state": "",
+      "state": "CA",
       "lat": 37.667244,
       "lng": -122.081131,
       "storeCount": 1
@@ -60977,7 +60969,7 @@
     {
       "postalCode": "94544-3030",
       "city": "Hayward",
-      "state": "",
+      "state": "CA",
       "lat": 37.64901,
       "lng": -122.06591,
       "storeCount": 1
@@ -60985,7 +60977,7 @@
     {
       "postalCode": "94544-6905",
       "city": "Hayward",
-      "state": "",
+      "state": "CA",
       "lat": 37.608723,
       "lng": -122.066391,
       "storeCount": 1
@@ -60993,7 +60985,7 @@
     {
       "postalCode": "94545-4233",
       "city": "Hayward",
-      "state": "",
+      "state": "CA",
       "lat": 37.631363,
       "lng": -122.096474,
       "storeCount": 1
@@ -61001,7 +60993,7 @@
     {
       "postalCode": "94546",
       "city": "Castro Valley",
-      "state": "",
+      "state": "CA",
       "lat": 37.690605,
       "lng": -122.076332,
       "storeCount": 2
@@ -61009,7 +61001,7 @@
     {
       "postalCode": "94549",
       "city": "Lafayette",
-      "state": "",
+      "state": "CA",
       "lat": 37.892375,
       "lng": -122.113998,
       "storeCount": 1
@@ -61017,7 +61009,7 @@
     {
       "postalCode": "94550",
       "city": "Livermore",
-      "state": "",
+      "state": "CA",
       "lat": 37.705235,
       "lng": -121.73309,
       "storeCount": 2
@@ -61025,7 +61017,7 @@
     {
       "postalCode": "94550-3013",
       "city": "Livermore",
-      "state": "",
+      "state": "CA",
       "lat": 37.682648,
       "lng": -121.778091,
       "storeCount": 1
@@ -61049,7 +61041,7 @@
     {
       "postalCode": "94560-1220",
       "city": "Newark",
-      "state": "",
+      "state": "CA",
       "lat": 37.549561,
       "lng": -122.04644,
       "storeCount": 1
@@ -61057,7 +61049,7 @@
     {
       "postalCode": "94560-5204",
       "city": "Newark",
-      "state": "",
+      "state": "CA",
       "lat": 37.525716,
       "lng": -122.00552,
       "storeCount": 1
@@ -61065,7 +61057,7 @@
     {
       "postalCode": "94566",
       "city": "Pleasanton",
-      "state": "",
+      "state": "CA",
       "lat": 37.669865,
       "lng": -121.858222,
       "storeCount": 1
@@ -61073,7 +61065,7 @@
     {
       "postalCode": "94568",
       "city": "Dublin",
-      "state": "",
+      "state": "CA",
       "lat": 37.706203,
       "lng": -121.924286,
       "storeCount": 1
@@ -61089,7 +61081,7 @@
     {
       "postalCode": "94577",
       "city": "San Leandro",
-      "state": "",
+      "state": "CA",
       "lat": 37.714534,
       "lng": -122.177842,
       "storeCount": 1
@@ -61097,7 +61089,7 @@
     {
       "postalCode": "94577-3646",
       "city": "San Leandro",
-      "state": "",
+      "state": "CA",
       "lat": 37.724882,
       "lng": -122.157056,
       "storeCount": 1
@@ -61105,7 +61097,7 @@
     {
       "postalCode": "94578",
       "city": "Ashland",
-      "state": "",
+      "state": "CA",
       "lat": 37.690897,
       "lng": -122.124677,
       "storeCount": 2
@@ -61113,7 +61105,7 @@
     {
       "postalCode": "94578-2921",
       "city": "San Leandro",
-      "state": "",
+      "state": "CA",
       "lat": 37.707821,
       "lng": -122.132957,
       "storeCount": 1
@@ -61121,7 +61113,7 @@
     {
       "postalCode": "94583",
       "city": "San Ramon",
-      "state": "",
+      "state": "CA",
       "lat": 37.724595,
       "lng": -121.943196,
       "storeCount": 1
@@ -61129,7 +61121,7 @@
     {
       "postalCode": "94583-1601",
       "city": "San Ramon",
-      "state": "",
+      "state": "CA",
       "lat": 37.774364,
       "lng": -121.97654,
       "storeCount": 1
@@ -61145,7 +61137,7 @@
     {
       "postalCode": "94587",
       "city": "Union City",
-      "state": "",
+      "state": "CA",
       "lat": 37.604668,
       "lng": -122.067257,
       "storeCount": 1
@@ -61153,7 +61145,7 @@
     {
       "postalCode": "94587-3557",
       "city": "Union City",
-      "state": "",
+      "state": "CA",
       "lat": 37.590275,
       "lng": -122.020042,
       "storeCount": 1
@@ -61161,7 +61153,7 @@
     {
       "postalCode": "94588",
       "city": "Pleasanton",
-      "state": "",
+      "state": "CA",
       "lat": 37.70066,
       "lng": -121.871405,
       "storeCount": 1
@@ -61185,7 +61177,7 @@
     {
       "postalCode": "94601",
       "city": "Oakland",
-      "state": "",
+      "state": "CA",
       "lat": 37.768325,
       "lng": -122.223462,
       "storeCount": 1
@@ -61193,7 +61185,7 @@
     {
       "postalCode": "94601-1502",
       "city": "Oakland",
-      "state": "",
+      "state": "CA",
       "lat": 37.781475,
       "lng": -122.234238,
       "storeCount": 1
@@ -61201,7 +61193,7 @@
     {
       "postalCode": "94603-2509",
       "city": "Oakland",
-      "state": "",
+      "state": "CA",
       "lat": 37.744392,
       "lng": -122.171135,
       "storeCount": 1
@@ -61209,7 +61201,7 @@
     {
       "postalCode": "94605",
       "city": "Oakland",
-      "state": "",
+      "state": "CA",
       "lat": 37.768189,
       "lng": -122.174145,
       "storeCount": 1
@@ -61217,7 +61209,7 @@
     {
       "postalCode": "94607-3116",
       "city": "Oakland",
-      "state": "",
+      "state": "CA",
       "lat": 37.803181,
       "lng": -122.282188,
       "storeCount": 1
@@ -61225,7 +61217,7 @@
     {
       "postalCode": "94609-2020",
       "city": "Oakland",
-      "state": "",
+      "state": "CA",
       "lat": 37.833454,
       "lng": -122.262955,
       "storeCount": 1
@@ -61233,7 +61225,7 @@
     {
       "postalCode": "94621-1914",
       "city": "Oakland",
-      "state": "",
+      "state": "CA",
       "lat": 37.745892,
       "lng": -122.195553,
       "storeCount": 1
@@ -61241,7 +61233,7 @@
     {
       "postalCode": "94621-3826",
       "city": "Oakland",
-      "state": "",
+      "state": "CA",
       "lat": 37.763855,
       "lng": -122.196098,
       "storeCount": 1
@@ -61281,7 +61273,7 @@
     {
       "postalCode": "95014",
       "city": "Cupertino",
-      "state": "",
+      "state": "CA",
       "lat": 37.337227,
       "lng": -122.040985,
       "storeCount": 1
@@ -61289,7 +61281,7 @@
     {
       "postalCode": "95032-2501",
       "city": "Los Gatos",
-      "state": "",
+      "state": "CA",
       "lat": 37.243828,
       "lng": -121.959808,
       "storeCount": 1
@@ -61297,7 +61289,7 @@
     {
       "postalCode": "95035",
       "city": "Milpitas",
-      "state": "",
+      "state": "CA",
       "lat": 37.419957,
       "lng": -121.909711,
       "storeCount": 2
@@ -61305,7 +61297,7 @@
     {
       "postalCode": "95035-2714",
       "city": "Milpitas",
-      "state": "",
+      "state": "CA",
       "lat": 37.457391,
       "lng": -121.911057,
       "storeCount": 1
@@ -61313,7 +61305,7 @@
     {
       "postalCode": "95035-4402",
       "city": "Milpitas",
-      "state": "",
+      "state": "CA",
       "lat": 37.434448,
       "lng": -121.901329,
       "storeCount": 1
@@ -61321,7 +61313,7 @@
     {
       "postalCode": "95035-7033",
       "city": "Milpitas",
-      "state": "",
+      "state": "CA",
       "lat": 37.417843,
       "lng": -121.871582,
       "storeCount": 1
@@ -61329,7 +61321,7 @@
     {
       "postalCode": "95037",
       "city": "Morgan Hill",
-      "state": "",
+      "state": "CA",
       "lat": 37.133223,
       "lng": -121.631362,
       "storeCount": 1
@@ -61337,7 +61329,7 @@
     {
       "postalCode": "95037-2812",
       "city": "Morgan Hill",
-      "state": "",
+      "state": "CA",
       "lat": 37.150625,
       "lng": -121.655269,
       "storeCount": 1
@@ -61345,7 +61337,7 @@
     {
       "postalCode": "95037-5445",
       "city": "Morgan Hill",
-      "state": "",
+      "state": "CA",
       "lat": 37.11129,
       "lng": -121.641953,
       "storeCount": 1
@@ -61353,7 +61345,7 @@
     {
       "postalCode": "95050",
       "city": "Santa Clara",
-      "state": "",
+      "state": "CA",
       "lat": 37.356895,
       "lng": -121.936514,
       "storeCount": 1
@@ -61361,7 +61353,7 @@
     {
       "postalCode": "95051-5116",
       "city": "Santa Clara",
-      "state": "",
+      "state": "CA",
       "lat": 37.338303,
       "lng": -121.993866,
       "storeCount": 1
@@ -61369,7 +61361,7 @@
     {
       "postalCode": "95051-7336",
       "city": "Santa Clara",
-      "state": "",
+      "state": "CA",
       "lat": 37.323669,
       "lng": -121.96904,
       "storeCount": 1
@@ -61377,7 +61369,7 @@
     {
       "postalCode": "95054-2801",
       "city": "Santa Clara",
-      "state": "",
+      "state": "CA",
       "lat": 37.381836,
       "lng": -121.978859,
       "storeCount": 1
@@ -61385,7 +61377,7 @@
     {
       "postalCode": "95070",
       "city": "Saratoga",
-      "state": "",
+      "state": "CA",
       "lat": 37.29185,
       "lng": -121.996793,
       "storeCount": 1
@@ -61409,7 +61401,7 @@
     {
       "postalCode": "95112-1920",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.307709,
       "lng": -121.848877,
       "storeCount": 1
@@ -61417,7 +61409,7 @@
     {
       "postalCode": "95116-1609",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.367015,
       "lng": -121.848498,
       "storeCount": 1
@@ -61425,7 +61417,7 @@
     {
       "postalCode": "95116-2370",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.34875,
       "lng": -121.865073,
       "storeCount": 1
@@ -61433,7 +61425,7 @@
     {
       "postalCode": "95118-3804",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.245586,
       "lng": -121.888138,
       "storeCount": 1
@@ -61441,7 +61433,7 @@
     {
       "postalCode": "95119",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.231623,
       "lng": -121.773126,
       "storeCount": 1
@@ -61449,7 +61441,7 @@
     {
       "postalCode": "95121-2415",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.299934,
       "lng": -121.822433,
       "storeCount": 1
@@ -61457,7 +61449,7 @@
     {
       "postalCode": "95122",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.327844,
       "lng": -121.841748,
       "storeCount": 2
@@ -61465,7 +61457,7 @@
     {
       "postalCode": "95122-1063",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.349842,
       "lng": -121.82766,
       "storeCount": 1
@@ -61473,7 +61465,7 @@
     {
       "postalCode": "95123-3301",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.250969,
       "lng": -121.831841,
       "storeCount": 1
@@ -61481,7 +61473,7 @@
     {
       "postalCode": "95124",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.272849,
       "lng": -121.933524,
       "storeCount": 1
@@ -61497,7 +61489,7 @@
     {
       "postalCode": "95125",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.304719,
       "lng": -121.862853,
       "storeCount": 1
@@ -61505,7 +61497,7 @@
     {
       "postalCode": "95125-2108",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.289906,
       "lng": -121.880569,
       "storeCount": 1
@@ -61513,7 +61505,7 @@
     {
       "postalCode": "95126",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.32322,
       "lng": -121.913297,
       "storeCount": 1
@@ -61521,7 +61513,7 @@
     {
       "postalCode": "95128-2605",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.310993,
       "lng": -121.931313,
       "storeCount": 1
@@ -61529,7 +61521,7 @@
     {
       "postalCode": "95128-4331",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.298073,
       "lng": -121.950347,
       "storeCount": 1
@@ -61537,7 +61529,7 @@
     {
       "postalCode": "95129",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.322662,
       "lng": -121.992832,
       "storeCount": 1
@@ -61545,7 +61537,7 @@
     {
       "postalCode": "95129-3629",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.303898,
       "lng": -122.031822,
       "storeCount": 1
@@ -61553,7 +61545,7 @@
     {
       "postalCode": "95131",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.383211,
       "lng": -121.895673,
       "storeCount": 1
@@ -61561,7 +61553,7 @@
     {
       "postalCode": "95132-2522",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.387286,
       "lng": -121.860566,
       "storeCount": 1
@@ -61569,7 +61561,7 @@
     {
       "postalCode": "95135",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.300922,
       "lng": -121.772301,
       "storeCount": 1
@@ -61577,7 +61569,7 @@
     {
       "postalCode": "95136",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.268014,
       "lng": -121.870567,
       "storeCount": 2
@@ -61585,7 +61577,7 @@
     {
       "postalCode": "95136-2300",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.266437,
       "lng": -121.832239,
       "storeCount": 1
@@ -61593,7 +61585,7 @@
     {
       "postalCode": "95138",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.254614,
       "lng": -121.79978,
       "storeCount": 1
@@ -61601,7 +61593,7 @@
     {
       "postalCode": "95148-4056",
       "city": "San Jose",
-      "state": "",
+      "state": "CA",
       "lat": 37.315996,
       "lng": -121.793639,
       "storeCount": 1
@@ -61609,7 +61601,7 @@
     {
       "postalCode": "95301",
       "city": "Atwater",
-      "state": "",
+      "state": "CA",
       "lat": 37.35213,
       "lng": -120.605272,
       "storeCount": 2
@@ -61617,7 +61609,7 @@
     {
       "postalCode": "95307",
       "city": "Ceres",
-      "state": "",
+      "state": "CA",
       "lat": 37.608764,
       "lng": -120.938393,
       "storeCount": 1
@@ -61625,7 +61617,7 @@
     {
       "postalCode": "95320",
       "city": "Escalon",
-      "state": "",
+      "state": "CA",
       "lat": 37.790193,
       "lng": -120.996015,
       "storeCount": 1
@@ -61633,7 +61625,7 @@
     {
       "postalCode": "95322",
       "city": "Gustine",
-      "state": "",
+      "state": "CA",
       "lat": 37.179845,
       "lng": -121.007512,
       "storeCount": 2
@@ -61641,7 +61633,7 @@
     {
       "postalCode": "95324",
       "city": "Hilmar",
-      "state": "",
+      "state": "CA",
       "lat": 37.40402,
       "lng": -120.849405,
       "storeCount": 1
@@ -61649,7 +61641,7 @@
     {
       "postalCode": "95330",
       "city": "Lathrop",
-      "state": "",
+      "state": "CA",
       "lat": 37.811403,
       "lng": -121.291176,
       "storeCount": 1
@@ -61657,7 +61649,7 @@
     {
       "postalCode": "95334",
       "city": "Livingston",
-      "state": "",
+      "state": "CA",
       "lat": 37.388992,
       "lng": -120.737693,
       "storeCount": 1
@@ -61665,7 +61657,7 @@
     {
       "postalCode": "95336",
       "city": "Manteca",
-      "state": "",
+      "state": "CA",
       "lat": 37.807031,
       "lng": -121.221526,
       "storeCount": 3
@@ -61673,7 +61665,7 @@
     {
       "postalCode": "95337",
       "city": "Manteca",
-      "state": "",
+      "state": "CA",
       "lat": 37.786,
       "lng": -121.251729,
       "storeCount": 1
@@ -61681,7 +61673,7 @@
     {
       "postalCode": "95340",
       "city": "Merced",
-      "state": "",
+      "state": "CA",
       "lat": 37.27516,
       "lng": -120.430998,
       "storeCount": 1
@@ -61689,7 +61681,7 @@
     {
       "postalCode": "95340-5327",
       "city": "Merced",
-      "state": "",
+      "state": "CA",
       "lat": 37.288848,
       "lng": -120.45485,
       "storeCount": 1
@@ -61697,7 +61689,7 @@
     {
       "postalCode": "95340-5817",
       "city": "Merced",
-      "state": "",
+      "state": "CA",
       "lat": 37.300042,
       "lng": -120.494352,
       "storeCount": 1
@@ -61705,7 +61697,7 @@
     {
       "postalCode": "95348-3136",
       "city": "Merced",
-      "state": "",
+      "state": "CA",
       "lat": 37.318696,
       "lng": -120.473458,
       "storeCount": 1
@@ -61713,7 +61705,7 @@
     {
       "postalCode": "95350-0815",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.68909,
       "lng": -121.012182,
       "storeCount": 1
@@ -61721,7 +61713,7 @@
     {
       "postalCode": "95350-2561",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.672233,
       "lng": -121.030921,
       "storeCount": 1
@@ -61729,7 +61721,7 @@
     {
       "postalCode": "95350-3213",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.674223,
       "lng": -120.993638,
       "storeCount": 1
@@ -61737,7 +61729,7 @@
     {
       "postalCode": "95351",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.62104,
       "lng": -121.003643,
       "storeCount": 2
@@ -61745,7 +61737,7 @@
     {
       "postalCode": "95351-1182",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.646463,
       "lng": -121.030666,
       "storeCount": 1
@@ -61753,7 +61745,7 @@
     {
       "postalCode": "95351-5011",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.608942,
       "lng": -120.973958,
       "storeCount": 1
@@ -61761,7 +61753,7 @@
     {
       "postalCode": "95354",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.63915,
       "lng": -121.000082,
       "storeCount": 1
@@ -61769,7 +61761,7 @@
     {
       "postalCode": "95355",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.672243,
       "lng": -120.966085,
       "storeCount": 2
@@ -61777,7 +61769,7 @@
     {
       "postalCode": "95355-2254",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.678395,
       "lng": -120.958164,
       "storeCount": 1
@@ -61785,7 +61777,7 @@
     {
       "postalCode": "95356-9240",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.69993,
       "lng": -121.049394,
       "storeCount": 1
@@ -61793,7 +61785,7 @@
     {
       "postalCode": "95357",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.638614,
       "lng": -120.926279,
       "storeCount": 1
@@ -61801,7 +61793,7 @@
     {
       "postalCode": "95358",
       "city": "Modesto",
-      "state": "",
+      "state": "CA",
       "lat": 37.594538,
       "lng": -120.975605,
       "storeCount": 1
@@ -61809,7 +61801,7 @@
     {
       "postalCode": "95361-4115",
       "city": "Oakdale",
-      "state": "",
+      "state": "CA",
       "lat": 37.771355,
       "lng": -120.835898,
       "storeCount": 1
@@ -61817,7 +61809,7 @@
     {
       "postalCode": "95363",
       "city": "Patterson",
-      "state": "",
+      "state": "CA",
       "lat": 37.464824,
       "lng": -121.141562,
       "storeCount": 1
@@ -61825,7 +61817,7 @@
     {
       "postalCode": "95366-9617",
       "city": "Ripon",
-      "state": "",
+      "state": "CA",
       "lat": 37.753736,
       "lng": -121.138683,
       "storeCount": 1
@@ -61833,7 +61825,7 @@
     {
       "postalCode": "95367",
       "city": "Riverbank",
-      "state": "",
+      "state": "CA",
       "lat": 37.733041,
       "lng": -120.959323,
       "storeCount": 1
@@ -61841,7 +61833,7 @@
     {
       "postalCode": "95368-9320",
       "city": "Salida",
-      "state": "",
+      "state": "CA",
       "lat": 37.700806,
       "lng": -121.073973,
       "storeCount": 1
@@ -61849,7 +61841,7 @@
     {
       "postalCode": "95376",
       "city": "Tracy",
-      "state": "",
+      "state": "CA",
       "lat": 37.739281,
       "lng": -121.421704,
       "storeCount": 1
@@ -61857,7 +61849,7 @@
     {
       "postalCode": "95376-3736",
       "city": "Tracy",
-      "state": "",
+      "state": "CA",
       "lat": 37.738984,
       "lng": -121.450564,
       "storeCount": 1
@@ -61865,7 +61857,7 @@
     {
       "postalCode": "95377",
       "city": "Tracy",
-      "state": "",
+      "state": "CA",
       "lat": 37.709571,
       "lng": -121.434069,
       "storeCount": 1
@@ -61873,7 +61865,7 @@
     {
       "postalCode": "95380",
       "city": "Turlock",
-      "state": "",
+      "state": "CA",
       "lat": 37.52021,
       "lng": -120.880628,
       "storeCount": 1
@@ -61881,7 +61873,7 @@
     {
       "postalCode": "95380-9434",
       "city": "Turlock",
-      "state": "",
+      "state": "CA",
       "lat": 37.492281,
       "lng": -120.872054,
       "storeCount": 1
@@ -61889,7 +61881,7 @@
     {
       "postalCode": "95382",
       "city": "Turlock",
-      "state": "",
+      "state": "CA",
       "lat": 37.515145,
       "lng": -120.848486,
       "storeCount": 1
@@ -61897,7 +61889,7 @@
     {
       "postalCode": "95386",
       "city": "Waterford",
-      "state": "",
+      "state": "CA",
       "lat": 37.638532,
       "lng": -120.769949,
       "storeCount": 1
@@ -61905,7 +61897,7 @@
     {
       "postalCode": "95387",
       "city": "Westley",
-      "state": "",
+      "state": "CA",
       "lat": 37.540737,
       "lng": -121.266509,
       "storeCount": 1
@@ -65473,6 +65465,14 @@
       "storeCount": 2
     },
     {
+      "slug": "alameda-ca",
+      "city": "Alameda",
+      "state": "CA",
+      "lat": 37.763497,
+      "lng": -122.264053,
+      "storeCount": 2
+    },
+    {
       "slug": "alamo-tx",
       "city": "Alamo",
       "state": "TX",
@@ -65487,6 +65487,14 @@
       "lat": 32.914107,
       "lng": -105.963113,
       "storeCount": 2
+    },
+    {
+      "slug": "alamosa-co",
+      "city": "Alamosa",
+      "state": "CO",
+      "lat": 37.475429,
+      "lng": -105.894045,
+      "storeCount": 1
     },
     {
       "slug": "albany-ga",
@@ -65705,6 +65713,14 @@
       "storeCount": 6
     },
     {
+      "slug": "andover-ks",
+      "city": "Andover",
+      "state": "KS",
+      "lat": 37.693558,
+      "lng": -97.136163,
+      "storeCount": 1
+    },
+    {
       "slug": "andrews-sc",
       "city": "Andrews",
       "state": "SC",
@@ -65849,6 +65865,14 @@
       "storeCount": 1
     },
     {
+      "slug": "arkansas-city-ks",
+      "city": "Arkansas City",
+      "state": "KS",
+      "lat": 37.085057,
+      "lng": -97.03967,
+      "storeCount": 1
+    },
+    {
       "slug": "arlington-tn",
       "city": "Arlington",
       "state": "TN",
@@ -65926,6 +65950,14 @@
       "state": "AL",
       "lat": 33.275605,
       "lng": -85.825595,
+      "storeCount": 1
+    },
+    {
+      "slug": "ashland-ca",
+      "city": "Ashland",
+      "state": "CA",
+      "lat": 37.693394,
+      "lng": -122.110744,
       "storeCount": 1
     },
     {
@@ -66009,6 +66041,14 @@
       "storeCount": 1
     },
     {
+      "slug": "atwater-ca",
+      "city": "Atwater",
+      "state": "CA",
+      "lat": 37.35213,
+      "lng": -120.605272,
+      "storeCount": 2
+    },
+    {
       "slug": "aubrey-tx",
       "city": "Aubrey",
       "state": "TX",
@@ -66039,6 +66079,14 @@
       "lat": 33.452902,
       "lng": -82.057147,
       "storeCount": 10
+    },
+    {
+      "slug": "augusta-ks",
+      "city": "Augusta",
+      "state": "KS",
+      "lat": 37.679853,
+      "lng": -96.984165,
+      "storeCount": 1
     },
     {
       "slug": "austell-ga",
@@ -66377,6 +66425,14 @@
       "storeCount": 1
     },
     {
+      "slug": "belle-plaine-ks",
+      "city": "Belle Plaine",
+      "state": "KS",
+      "lat": 37.367372,
+      "lng": -97.322312,
+      "storeCount": 1
+    },
+    {
       "slug": "bellemont-az",
       "city": "Bellemont",
       "state": "AZ",
@@ -66398,6 +66454,14 @@
       "state": "TN",
       "lat": 35.744402,
       "lng": -89.098054,
+      "storeCount": 1
+    },
+    {
+      "slug": "belmont-ca",
+      "city": "Belmont",
+      "state": "CA",
+      "lat": 37.524906,
+      "lng": -122.281845,
       "storeCount": 1
     },
     {
@@ -66550,6 +66614,14 @@
       "state": "NC",
       "lat": 35.358489,
       "lng": -79.797726,
+      "storeCount": 1
+    },
+    {
+      "slug": "bishop-ca",
+      "city": "Bishop",
+      "state": "CA",
+      "lat": 37.365234,
+      "lng": -118.39502,
       "storeCount": 1
     },
     {
@@ -66828,9 +66900,9 @@
       "slug": "bradenton-fl",
       "city": "Bradenton",
       "state": "FL",
-      "lat": 27.462506,
-      "lng": -82.513678,
-      "storeCount": 11
+      "lat": 27.461237,
+      "lng": -82.527886,
+      "storeCount": 10
     },
     {
       "slug": "brandon-ms",
@@ -66894,6 +66966,14 @@
       "state": "GA",
       "lat": 33.687691,
       "lng": -85.152336,
+      "storeCount": 1
+    },
+    {
+      "slug": "brentwood-ca",
+      "city": "Brentwood",
+      "state": "CA",
+      "lat": 37.925691,
+      "lng": -121.736362,
       "storeCount": 1
     },
     {
@@ -67497,6 +67577,14 @@
       "storeCount": 1
     },
     {
+      "slug": "castro-valley-ca",
+      "city": "Castro Valley",
+      "state": "CA",
+      "lat": 37.690605,
+      "lng": -122.076332,
+      "storeCount": 2
+    },
+    {
       "slug": "castroville-tx",
       "city": "Castroville",
       "state": "TX",
@@ -67527,6 +67615,14 @@
       "lat": 33.799843,
       "lng": -111.965543,
       "storeCount": 1
+    },
+    {
+      "slug": "cedar-city-ut",
+      "city": "Cedar City",
+      "state": "UT",
+      "lat": 37.67073,
+      "lng": -113.074282,
+      "storeCount": 2
     },
     {
       "slug": "cedar-hill-tx",
@@ -67574,6 +67670,14 @@
       "state": "AL",
       "lat": 34.159739,
       "lng": -85.668273,
+      "storeCount": 1
+    },
+    {
+      "slug": "ceres-ca",
+      "city": "Ceres",
+      "state": "CA",
+      "lat": 37.608764,
+      "lng": -120.938393,
       "storeCount": 1
     },
     {
@@ -68345,6 +68449,14 @@
       "storeCount": 3
     },
     {
+      "slug": "cortez-co",
+      "city": "Cortez",
+      "state": "CO",
+      "lat": 37.349253,
+      "lng": -108.567972,
+      "storeCount": 1
+    },
+    {
       "slug": "costa-mesa-ca",
       "city": "Costa Mesa",
       "state": "CA",
@@ -68497,6 +68609,14 @@
       "storeCount": 8
     },
     {
+      "slug": "cupertino-ca",
+      "city": "Cupertino",
+      "state": "CA",
+      "lat": 37.337227,
+      "lng": -122.040985,
+      "storeCount": 1
+    },
+    {
       "slug": "currituck-nc",
       "city": "Currituck",
       "state": "NC",
@@ -68609,11 +68729,27 @@
       "storeCount": 4
     },
     {
+      "slug": "daly-city-ca",
+      "city": "Daly City",
+      "state": "CA",
+      "lat": 37.689181,
+      "lng": -122.452194,
+      "storeCount": 3
+    },
+    {
       "slug": "dana-point-ca",
       "city": "Dana Point",
       "state": "CA",
       "lat": 33.465313,
       "lng": -117.689796,
+      "storeCount": 1
+    },
+    {
+      "slug": "danville-ca",
+      "city": "Danville",
+      "state": "CA",
+      "lat": 37.798991,
+      "lng": -121.922941,
       "storeCount": 1
     },
     {
@@ -68857,6 +68993,14 @@
       "storeCount": 1
     },
     {
+      "slug": "derby-ks",
+      "city": "Derby",
+      "state": "KS",
+      "lat": 37.550661,
+      "lng": -97.257875,
+      "storeCount": 2
+    },
+    {
       "slug": "desoto-tx",
       "city": "Desoto",
       "state": "TX",
@@ -68921,6 +69065,14 @@
       "storeCount": 2
     },
     {
+      "slug": "discovery-bay-ca",
+      "city": "Discovery Bay",
+      "state": "CA",
+      "lat": 37.889664,
+      "lng": -121.620674,
+      "storeCount": 1
+    },
+    {
       "slug": "dobson-nc",
       "city": "Dobson",
       "state": "NC",
@@ -68935,6 +69087,14 @@
       "lat": 34.051653,
       "lng": -86.86875,
       "storeCount": 1
+    },
+    {
+      "slug": "dodge-city-ks",
+      "city": "Dodge City",
+      "state": "KS",
+      "lat": 37.765905,
+      "lng": -100.020314,
+      "storeCount": 2
     },
     {
       "slug": "donaldsonville-la",
@@ -69033,6 +69193,14 @@
       "storeCount": 2
     },
     {
+      "slug": "dublin-ca",
+      "city": "Dublin",
+      "state": "CA",
+      "lat": 37.706203,
+      "lng": -121.924286,
+      "storeCount": 1
+    },
+    {
       "slug": "dublin-ga",
       "city": "Dublin",
       "state": "GA",
@@ -69094,6 +69262,14 @@
       "state": "NC",
       "lat": 35.305197,
       "lng": -78.61133,
+      "storeCount": 2
+    },
+    {
+      "slug": "durango-co",
+      "city": "Durango",
+      "state": "CO",
+      "lat": 37.249995,
+      "lng": -107.86157,
       "storeCount": 2
     },
     {
@@ -69159,6 +69335,14 @@
       "lat": 29.644963,
       "lng": -81.60551,
       "storeCount": 1
+    },
+    {
+      "slug": "east-palo-alto-ca",
+      "city": "East Palo Alto",
+      "state": "CA",
+      "lat": 37.466054,
+      "lng": -122.138959,
+      "storeCount": 2
     },
     {
       "slug": "east-point-ga",
@@ -69255,6 +69439,14 @@
       "lat": 33.218907,
       "lng": -92.676364,
       "storeCount": 2
+    },
+    {
+      "slug": "el-dorado-ks",
+      "city": "El Dorado",
+      "state": "KS",
+      "lat": 37.817727,
+      "lng": -96.876941,
+      "storeCount": 1
     },
     {
       "slug": "el-mirage-az",
@@ -69454,6 +69646,14 @@
       "state": "LA",
       "lat": 30.53408,
       "lng": -91.407477,
+      "storeCount": 1
+    },
+    {
+      "slug": "escalon-ca",
+      "city": "Escalon",
+      "state": "CA",
+      "lat": 37.790193,
+      "lng": -120.996015,
       "storeCount": 1
     },
     {
@@ -70001,6 +70201,14 @@
       "storeCount": 19
     },
     {
+      "slug": "foster-city-ca",
+      "city": "Foster City",
+      "state": "CA",
+      "lat": 37.563316,
+      "lng": -122.271698,
+      "storeCount": 1
+    },
+    {
       "slug": "fountain-hills-az",
       "city": "Fountain Hills",
       "state": "AZ",
@@ -70087,6 +70295,14 @@
       "lat": 30.487845,
       "lng": -86.123092,
       "storeCount": 1
+    },
+    {
+      "slug": "fremont-ca",
+      "city": "Fremont",
+      "state": "CA",
+      "lat": 37.540375,
+      "lng": -121.979051,
+      "storeCount": 6
     },
     {
       "slug": "fresno-ca",
@@ -70438,6 +70654,14 @@
       "state": "AZ",
       "lat": 33.39323,
       "lng": -110.767656,
+      "storeCount": 1
+    },
+    {
+      "slug": "goddard-ks",
+      "city": "Goddard",
+      "state": "KS",
+      "lat": 37.663631,
+      "lng": -97.572344,
       "storeCount": 1
     },
     {
@@ -70865,6 +71089,14 @@
       "storeCount": 1
     },
     {
+      "slug": "gustine-ca",
+      "city": "Gustine",
+      "state": "CA",
+      "lat": 37.179845,
+      "lng": -121.007512,
+      "storeCount": 2
+    },
+    {
       "slug": "guymon-ok",
       "city": "Guymon",
       "state": "OK",
@@ -70886,6 +71118,14 @@
       "state": "AL",
       "lat": 34.227335,
       "lng": -87.621923,
+      "storeCount": 1
+    },
+    {
+      "slug": "half-moon-bay-ca",
+      "city": "Half Moon Bay",
+      "state": "CA",
+      "lat": 37.470356,
+      "lng": -122.434441,
       "storeCount": 1
     },
     {
@@ -71121,12 +71361,28 @@
       "storeCount": 1
     },
     {
+      "slug": "haysville-ks",
+      "city": "Haysville",
+      "state": "KS",
+      "lat": 37.566768,
+      "lng": -97.351501,
+      "storeCount": 1
+    },
+    {
       "slug": "hayti-mo",
       "city": "Hayti",
       "state": "MO",
       "lat": 36.229358,
       "lng": -89.726271,
       "storeCount": 1
+    },
+    {
+      "slug": "hayward-ca",
+      "city": "Hayward",
+      "state": "CA",
+      "lat": 37.648982,
+      "lng": -122.089462,
+      "storeCount": 6
     },
     {
       "slug": "hazlehurst-ga",
@@ -71342,6 +71598,14 @@
       "state": "VA",
       "lat": 36.74394,
       "lng": -80.775986,
+      "storeCount": 1
+    },
+    {
+      "slug": "hilmar-ca",
+      "city": "Hilmar",
+      "state": "CA",
+      "lat": 37.40402,
+      "lng": -120.849405,
       "storeCount": 1
     },
     {
@@ -72441,6 +72705,14 @@
       "storeCount": 1
     },
     {
+      "slug": "lafayette-ca",
+      "city": "Lafayette",
+      "state": "CA",
+      "lat": 37.892375,
+      "lng": -122.113998,
+      "storeCount": 1
+    },
+    {
       "slug": "lafayette-la",
       "city": "Lafayette",
       "state": "LA",
@@ -72745,6 +73017,14 @@
       "storeCount": 48
     },
     {
+      "slug": "lathrop-ca",
+      "city": "Lathrop",
+      "state": "CA",
+      "lat": 37.811403,
+      "lng": -121.291176,
+      "storeCount": 1
+    },
+    {
       "slug": "latta-sc",
       "city": "Latta",
       "state": "SC",
@@ -72980,9 +73260,9 @@
       "slug": "lexington-nc",
       "city": "Lexington",
       "state": "NC",
-      "lat": 35.836471,
-      "lng": -80.254247,
-      "storeCount": 1
+      "lat": 35.806773,
+      "lng": -80.256696,
+      "storeCount": 2
     },
     {
       "slug": "lexington-tn",
@@ -72990,6 +73270,14 @@
       "state": "TN",
       "lat": 35.657769,
       "lng": -88.414417,
+      "storeCount": 1
+    },
+    {
+      "slug": "liberal-ks",
+      "city": "Liberal",
+      "state": "KS",
+      "lat": 37.058181,
+      "lng": -100.922922,
       "storeCount": 1
     },
     {
@@ -73137,11 +73425,27 @@
       "storeCount": 1
     },
     {
+      "slug": "livermore-ca",
+      "city": "Livermore",
+      "state": "CA",
+      "lat": 37.697706,
+      "lng": -121.74809,
+      "storeCount": 3
+    },
+    {
       "slug": "livingston-al",
       "city": "Livingston",
       "state": "AL",
       "lat": 32.625159,
       "lng": -88.206297,
+      "storeCount": 1
+    },
+    {
+      "slug": "livingston-ca",
+      "city": "Livingston",
+      "state": "CA",
+      "lat": 37.388992,
+      "lng": -120.737693,
       "storeCount": 1
     },
     {
@@ -73271,6 +73575,22 @@
       "lat": 33.986269,
       "lng": -118.456181,
       "storeCount": 2
+    },
+    {
+      "slug": "los-banos-ca",
+      "city": "Los Banos",
+      "state": "CA",
+      "lat": 37.057045,
+      "lng": -120.856928,
+      "storeCount": 2
+    },
+    {
+      "slug": "los-gatos-ca",
+      "city": "Los Gatos",
+      "state": "CA",
+      "lat": 37.243828,
+      "lng": -121.959808,
+      "storeCount": 1
     },
     {
       "slug": "los-lunas-nm",
@@ -73537,6 +73857,14 @@
       "storeCount": 1
     },
     {
+      "slug": "maize-ks",
+      "city": "Maize",
+      "state": "KS",
+      "lat": 37.752825,
+      "lng": -97.463366,
+      "storeCount": 1
+    },
+    {
       "slug": "malakoff-tx",
       "city": "Malakoff",
       "state": "TX",
@@ -73615,6 +73943,14 @@
       "lat": 31.10386,
       "lng": -92.061388,
       "storeCount": 1
+    },
+    {
+      "slug": "manteca-ca",
+      "city": "Manteca",
+      "state": "CA",
+      "lat": 37.801773,
+      "lng": -121.229077,
+      "storeCount": 4
     },
     {
       "slug": "manteo-nc",
@@ -74001,12 +74337,28 @@
       "storeCount": 2
     },
     {
+      "slug": "menlo-park-ca",
+      "city": "Menlo Park",
+      "state": "CA",
+      "lat": 37.453926,
+      "lng": -122.183139,
+      "storeCount": 1
+    },
+    {
       "slug": "meraux-la",
       "city": "Meraux",
       "state": "LA",
       "lat": 29.934721,
       "lng": -89.92232,
       "storeCount": 1
+    },
+    {
+      "slug": "merced-ca",
+      "city": "Merced",
+      "state": "CA",
+      "lat": 37.295687,
+      "lng": -120.463414,
+      "storeCount": 4
     },
     {
       "slug": "mercedes-tx",
@@ -74161,6 +74513,14 @@
       "storeCount": 1
     },
     {
+      "slug": "millbrae-ca",
+      "city": "Millbrae",
+      "state": "CA",
+      "lat": 37.606554,
+      "lng": -122.398421,
+      "storeCount": 1
+    },
+    {
       "slug": "millbrook-al",
       "city": "Millbrook",
       "state": "AL",
@@ -74183,6 +74543,14 @@
       "lat": 35.340506,
       "lng": -89.911593,
       "storeCount": 1
+    },
+    {
+      "slug": "milpitas-ca",
+      "city": "Milpitas",
+      "state": "CA",
+      "lat": 37.429919,
+      "lng": -121.900678,
+      "storeCount": 5
     },
     {
       "slug": "milton-fl",
@@ -74279,6 +74647,14 @@
       "lat": 30.673553,
       "lng": -88.156858,
       "storeCount": 16
+    },
+    {
+      "slug": "modesto-ca",
+      "city": "Modesto",
+      "state": "CA",
+      "lat": 37.65201,
+      "lng": -120.992167,
+      "storeCount": 14
     },
     {
       "slug": "monahans-tx",
@@ -74473,6 +74849,14 @@
       "storeCount": 2
     },
     {
+      "slug": "morgan-hill-ca",
+      "city": "Morgan Hill",
+      "state": "CA",
+      "lat": 37.131713,
+      "lng": -121.642861,
+      "storeCount": 3
+    },
+    {
       "slug": "morganton-nc",
       "city": "Morganton",
       "state": "NC",
@@ -74663,6 +75047,14 @@
       "lat": 35.864333,
       "lng": -92.10916,
       "storeCount": 1
+    },
+    {
+      "slug": "mountain-view-ca",
+      "city": "Mountain View",
+      "state": "CA",
+      "lat": 37.405406,
+      "lng": -122.095007,
+      "storeCount": 2
     },
     {
       "slug": "mulberry-fl",
@@ -74921,6 +75313,14 @@
       "storeCount": 1
     },
     {
+      "slug": "newark-ca",
+      "city": "Newark",
+      "state": "CA",
+      "lat": 37.537638,
+      "lng": -122.02598,
+      "storeCount": 2
+    },
+    {
       "slug": "newberry-fl",
       "city": "Newberry",
       "state": "FL",
@@ -75169,12 +75569,36 @@
       "storeCount": 1
     },
     {
+      "slug": "oakdale-ca",
+      "city": "Oakdale",
+      "state": "CA",
+      "lat": 37.771355,
+      "lng": -120.835898,
+      "storeCount": 1
+    },
+    {
       "slug": "oakdale-la",
       "city": "Oakdale",
       "state": "LA",
       "lat": 30.814269,
       "lng": -92.66545,
       "storeCount": 1
+    },
+    {
+      "slug": "oakhurst-ca",
+      "city": "Oakhurst",
+      "state": "CA",
+      "lat": 37.332005,
+      "lng": -119.654974,
+      "storeCount": 1
+    },
+    {
+      "slug": "oakland-ca",
+      "city": "Oakland",
+      "state": "CA",
+      "lat": 37.776095,
+      "lng": -122.217472,
+      "storeCount": 8
     },
     {
       "slug": "oakland-park-fl",
@@ -75497,6 +75921,22 @@
       "storeCount": 2
     },
     {
+      "slug": "pacifica-ca",
+      "city": "Pacifica",
+      "state": "CA",
+      "lat": 37.623305,
+      "lng": -122.496678,
+      "storeCount": 2
+    },
+    {
+      "slug": "pagosa-springs-co",
+      "city": "Pagosa Springs",
+      "state": "CO",
+      "lat": 37.256661,
+      "lng": -107.074283,
+      "storeCount": 1
+    },
+    {
       "slug": "pahrump-nv",
       "city": "Pahrump",
       "state": "NV",
@@ -75598,6 +76038,14 @@
       "state": "TX",
       "lat": 26.257531,
       "lng": -98.315599,
+      "storeCount": 1
+    },
+    {
+      "slug": "palo-alto-ca",
+      "city": "Palo Alto",
+      "state": "CA",
+      "lat": 37.44293,
+      "lng": -122.171203,
       "storeCount": 1
     },
     {
@@ -75703,6 +76151,14 @@
       "lat": 35.602759,
       "lng": -120.688335,
       "storeCount": 2
+    },
+    {
+      "slug": "patterson-ca",
+      "city": "Patterson",
+      "state": "CA",
+      "lat": 37.464824,
+      "lng": -121.141562,
+      "storeCount": 1
     },
     {
       "slug": "pauls-valley-ok",
@@ -76137,6 +76593,14 @@
       "storeCount": 1
     },
     {
+      "slug": "pleasanton-ca",
+      "city": "Pleasanton",
+      "state": "CA",
+      "lat": 37.685263,
+      "lng": -121.864813,
+      "storeCount": 2
+    },
+    {
       "slug": "plymouth-nc",
       "city": "Plymouth",
       "state": "NC",
@@ -76319,6 +76783,14 @@
       "lat": 30.302667,
       "lng": -90.966187,
       "storeCount": 2
+    },
+    {
+      "slug": "pratt-ks",
+      "city": "Pratt",
+      "state": "KS",
+      "lat": 37.645195,
+      "lng": -98.71549,
+      "storeCount": 1
     },
     {
       "slug": "prattville-al",
@@ -76521,6 +76993,14 @@
       "storeCount": 1
     },
     {
+      "slug": "redwood-city-ca",
+      "city": "Redwood City",
+      "state": "CA",
+      "lat": 37.473428,
+      "lng": -122.223944,
+      "storeCount": 2
+    },
+    {
       "slug": "reedley-ca",
       "city": "Reedley",
       "state": "CA",
@@ -76662,6 +77142,22 @@
       "state": "TN",
       "lat": 35.761877,
       "lng": -89.544862,
+      "storeCount": 1
+    },
+    {
+      "slug": "ripon-ca",
+      "city": "Ripon",
+      "state": "CA",
+      "lat": 37.753736,
+      "lng": -121.138683,
+      "storeCount": 1
+    },
+    {
+      "slug": "riverbank-ca",
+      "city": "Riverbank",
+      "state": "CA",
+      "lat": 37.733041,
+      "lng": -120.959323,
       "storeCount": 1
     },
     {
@@ -76977,6 +77473,14 @@
       "storeCount": 1
     },
     {
+      "slug": "saint-george-ut",
+      "city": "Saint George",
+      "state": "UT",
+      "lat": 37.122378,
+      "lng": -113.624195,
+      "storeCount": 1
+    },
+    {
       "slug": "saint-martinville-la",
       "city": "Saint Martinville",
       "state": "LA",
@@ -76999,6 +77503,14 @@
       "lat": 27.800073,
       "lng": -82.675261,
       "storeCount": 8
+    },
+    {
+      "slug": "salida-ca",
+      "city": "Salida",
+      "state": "CA",
+      "lat": 37.700806,
+      "lng": -121.073973,
+      "storeCount": 1
     },
     {
       "slug": "salinas-ca",
@@ -77065,6 +77577,14 @@
       "storeCount": 1
     },
     {
+      "slug": "san-carlos-ca",
+      "city": "San Carlos",
+      "state": "CA",
+      "lat": 37.511166,
+      "lng": -122.265778,
+      "storeCount": 1
+    },
+    {
       "slug": "san-clemente-ca",
       "city": "San Clemente",
       "state": "CA",
@@ -77105,6 +77625,14 @@
       "storeCount": 2
     },
     {
+      "slug": "san-francisco-ca",
+      "city": "San Francisco",
+      "state": "CA",
+      "lat": 37.718314,
+      "lng": -122.450001,
+      "storeCount": 2
+    },
+    {
       "slug": "san-gabriel-ca",
       "city": "San Gabriel",
       "state": "CA",
@@ -77121,6 +77649,14 @@
       "storeCount": 3
     },
     {
+      "slug": "san-jose-ca",
+      "city": "San Jose",
+      "state": "CA",
+      "lat": 37.30492,
+      "lng": -121.868501,
+      "storeCount": 26
+    },
+    {
       "slug": "san-juan-capistrano-ca",
       "city": "San Juan Capistrano",
       "state": "CA",
@@ -77135,6 +77671,14 @@
       "lat": 26.210529,
       "lng": -98.157433,
       "storeCount": 2
+    },
+    {
+      "slug": "san-leandro-ca",
+      "city": "San Leandro",
+      "state": "CA",
+      "lat": 37.708909,
+      "lng": -122.151617,
+      "storeCount": 4
     },
     {
       "slug": "san-luis-az",
@@ -77169,11 +77713,27 @@
       "storeCount": 4
     },
     {
+      "slug": "san-mateo-ca",
+      "city": "San Mateo",
+      "state": "CA",
+      "lat": 37.553954,
+      "lng": -122.316364,
+      "storeCount": 1
+    },
+    {
       "slug": "san-pedro-ca",
       "city": "San Pedro",
       "state": "CA",
       "lat": 33.746164,
       "lng": -118.300682,
+      "storeCount": 2
+    },
+    {
+      "slug": "san-ramon-ca",
+      "city": "San Ramon",
+      "state": "CA",
+      "lat": 37.749479,
+      "lng": -121.959868,
       "storeCount": 2
     },
     {
@@ -77265,6 +77825,14 @@
       "storeCount": 3
     },
     {
+      "slug": "santa-clara-ca",
+      "city": "Santa Clara",
+      "state": "CA",
+      "lat": 37.350176,
+      "lng": -121.96957,
+      "storeCount": 4
+    },
+    {
       "slug": "santa-clarita-ca",
       "city": "Santa Clarita",
       "state": "CA",
@@ -77343,6 +77911,14 @@
       "lat": 27.331083,
       "lng": -82.499994,
       "storeCount": 12
+    },
+    {
+      "slug": "saratoga-ca",
+      "city": "Saratoga",
+      "state": "CA",
+      "lat": 37.29185,
+      "lng": -121.996793,
+      "storeCount": 1
     },
     {
       "slug": "sardis-ms",
@@ -77961,6 +78537,14 @@
       "storeCount": 1
     },
     {
+      "slug": "south-san-francisco-ca",
+      "city": "South San Francisco",
+      "state": "CA",
+      "lat": 37.645259,
+      "lng": -122.428971,
+      "storeCount": 3
+    },
+    {
       "slug": "south-tucson-az",
       "city": "South Tucson",
       "state": "AZ",
@@ -78343,6 +78927,14 @@
       "lat": 34.259434,
       "lng": -118.306351,
       "storeCount": 1
+    },
+    {
+      "slug": "sunnyvale-ca",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "lat": 37.380639,
+      "lng": -122.017125,
+      "storeCount": 3
     },
     {
       "slug": "surf-city-nc",
@@ -78753,6 +79345,14 @@
       "storeCount": 1
     },
     {
+      "slug": "tracy-ca",
+      "city": "Tracy",
+      "state": "CA",
+      "lat": 37.729279,
+      "lng": -121.435446,
+      "storeCount": 3
+    },
+    {
       "slug": "trenton-fl",
       "city": "Trenton",
       "state": "FL",
@@ -78889,6 +79489,14 @@
       "storeCount": 5
     },
     {
+      "slug": "turlock-ca",
+      "city": "Turlock",
+      "state": "CA",
+      "lat": 37.509212,
+      "lng": -120.867056,
+      "storeCount": 3
+    },
+    {
       "slug": "tuscaloosa-al",
       "city": "Tuscaloosa",
       "state": "AL",
@@ -78951,6 +79559,22 @@
       "lat": 31.131113,
       "lng": -90.146047,
       "storeCount": 1
+    },
+    {
+      "slug": "ulysses-ks",
+      "city": "Ulysses",
+      "state": "KS",
+      "lat": 37.576103,
+      "lng": -101.358468,
+      "storeCount": 1
+    },
+    {
+      "slug": "union-city-ca",
+      "city": "Union City",
+      "state": "CA",
+      "lat": 37.597471,
+      "lng": -122.04365,
+      "storeCount": 2
     },
     {
       "slug": "union-city-ga",
@@ -79345,6 +79969,14 @@
       "storeCount": 1
     },
     {
+      "slug": "waterford-ca",
+      "city": "Waterford",
+      "state": "CA",
+      "lat": 37.638532,
+      "lng": -120.769949,
+      "storeCount": 1
+    },
+    {
       "slug": "watsonville-ca",
       "city": "Watsonville",
       "state": "CA",
@@ -79455,6 +80087,14 @@
       "lat": 26.650094,
       "lng": -80.236112,
       "storeCount": 2
+    },
+    {
+      "slug": "wellington-ks",
+      "city": "Wellington",
+      "state": "KS",
+      "lat": 37.27472,
+      "lng": -97.375631,
+      "storeCount": 1
     },
     {
       "slug": "weslaco-tx",
@@ -79609,6 +80249,14 @@
       "storeCount": 1
     },
     {
+      "slug": "westley-ca",
+      "city": "Westley",
+      "state": "CA",
+      "lat": 37.540737,
+      "lng": -121.266509,
+      "storeCount": 1
+    },
+    {
       "slug": "westminster-ca",
       "city": "Westminster",
       "state": "CA",
@@ -79719,6 +80367,14 @@
       "lat": 35.46183,
       "lng": -83.315271,
       "storeCount": 1
+    },
+    {
+      "slug": "wichita-ks",
+      "city": "Wichita",
+      "state": "KS",
+      "lat": 37.686859,
+      "lng": -97.326084,
+      "storeCount": 23
     },
     {
       "slug": "wiggins-ms",
@@ -79886,6 +80542,14 @@
       "state": "AL",
       "lat": 33.93602,
       "lng": -87.835909,
+      "storeCount": 1
+    },
+    {
+      "slug": "winfield-ks",
+      "city": "Winfield",
+      "state": "KS",
+      "lat": 37.227612,
+      "lng": -96.995585,
       "storeCount": 1
     },
     {

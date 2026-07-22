@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-07-21T11:17:39.903Z",
+  "generatedAt": "2026-07-22T11:18:52.596Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -11130,8 +11130,8 @@
       "postalCode": "23434",
       "city": "Suffolk",
       "state": "VA",
-      "lat": 36.749671,
-      "lng": -76.601738,
+      "lat": 36.749457,
+      "lng": -76.601627,
       "storeCount": 3
     },
     {
@@ -40881,7 +40881,7 @@
     {
       "postalCode": "63010",
       "city": "Arnold",
-      "state": "MO",
+      "state": "",
       "lat": 38.431702,
       "lng": -90.383308,
       "storeCount": 2
@@ -40897,7 +40897,7 @@
     {
       "postalCode": "63012",
       "city": "Barnhart",
-      "state": "MO",
+      "state": "",
       "lat": 38.349418,
       "lng": -90.405676,
       "storeCount": 1
@@ -40913,7 +40913,7 @@
     {
       "postalCode": "63017-3112",
       "city": "Chesterfield",
-      "state": "MO",
+      "state": "",
       "lat": 38.68012,
       "lng": -90.501009,
       "storeCount": 1
@@ -40937,7 +40937,7 @@
     {
       "postalCode": "63026",
       "city": "Fenton",
-      "state": "MO",
+      "state": "",
       "lat": 38.515314,
       "lng": -90.469105,
       "storeCount": 3
@@ -40961,7 +40961,7 @@
     {
       "postalCode": "63043",
       "city": "Maryland Heights",
-      "state": "MO",
+      "state": "",
       "lat": 38.714223,
       "lng": -90.456695,
       "storeCount": 1
@@ -40985,7 +40985,7 @@
     {
       "postalCode": "63050",
       "city": "Hillsboro",
-      "state": "MO",
+      "state": "",
       "lat": 38.248089,
       "lng": -90.558028,
       "storeCount": 1
@@ -41041,7 +41041,7 @@
     {
       "postalCode": "63080",
       "city": "Sullivan",
-      "state": "MO",
+      "state": "",
       "lat": 38.218593,
       "lng": -91.162562,
       "storeCount": 1
@@ -41057,7 +41057,7 @@
     {
       "postalCode": "63088",
       "city": "Valley Park",
-      "state": "MO",
+      "state": "",
       "lat": 38.56686,
       "lng": -90.476976,
       "storeCount": 1
@@ -41137,7 +41137,7 @@
     {
       "postalCode": "63122",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.577091,
       "lng": -90.406013,
       "storeCount": 1
@@ -41161,7 +41161,7 @@
     {
       "postalCode": "63126",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.55704,
       "lng": -90.393754,
       "storeCount": 1
@@ -41169,7 +41169,7 @@
     {
       "postalCode": "63128",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.49399,
       "lng": -90.380927,
       "storeCount": 1
@@ -41193,7 +41193,7 @@
     {
       "postalCode": "63131",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.602058,
       "lng": -90.438545,
       "storeCount": 1
@@ -41233,7 +41233,7 @@
     {
       "postalCode": "63141",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.671734,
       "lng": -90.437091,
       "storeCount": 1
@@ -41249,7 +41249,7 @@
     {
       "postalCode": "63146",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.700298,
       "lng": -90.443806,
       "storeCount": 1
@@ -41273,7 +41273,7 @@
     {
       "postalCode": "63303",
       "city": "Saint Charles",
-      "state": "MO",
+      "state": "",
       "lat": 38.755979,
       "lng": -90.546532,
       "storeCount": 3
@@ -41329,7 +41329,7 @@
     {
       "postalCode": "63376",
       "city": "Saint Peters",
-      "state": "MO",
+      "state": "",
       "lat": 38.791166,
       "lng": -90.613545,
       "storeCount": 4
@@ -41337,7 +41337,7 @@
     {
       "postalCode": "63383-1369",
       "city": "Warrenton",
-      "state": "MO",
+      "state": "",
       "lat": 38.823141,
       "lng": -91.139001,
       "storeCount": 1
@@ -41353,7 +41353,7 @@
     {
       "postalCode": "63390",
       "city": "Wright City",
-      "state": "MO",
+      "state": "",
       "lat": 38.829406,
       "lng": -91.042214,
       "storeCount": 1
@@ -60922,9 +60922,9 @@
       "postalCode": "94533",
       "city": "Fairfield",
       "state": "CA",
-      "lat": 38.254894,
-      "lng": -122.074679,
-      "storeCount": 3
+      "lat": 38.271263,
+      "lng": -122.048896,
+      "storeCount": 2
     },
     {
       "postalCode": "94533-2102",
@@ -60940,6 +60940,14 @@
       "state": "CA",
       "lat": 38.258816,
       "lng": -122.067384,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "94534",
+      "city": "Fairfield",
+      "state": "CA",
+      "lat": 38.222157,
+      "lng": -122.126244,
       "storeCount": 1
     },
     {
@@ -65977,14 +65985,6 @@
       "storeCount": 14
     },
     {
-      "slug": "arnold-mo",
-      "city": "Arnold",
-      "state": "MO",
-      "lat": 38.431702,
-      "lng": -90.383308,
-      "storeCount": 2
-    },
-    {
       "slug": "artesia-ca",
       "city": "Artesia",
       "state": "CA",
@@ -66324,9 +66324,9 @@
       "slug": "ballwin-mo",
       "city": "Ballwin",
       "state": "MO",
-      "lat": 38.593536,
-      "lng": -90.523043,
-      "storeCount": 2
+      "lat": 38.592411,
+      "lng": -90.553795,
+      "storeCount": 1
     },
     {
       "slug": "bamberg-sc",
@@ -66358,14 +66358,6 @@
       "state": "KY",
       "lat": 36.857727,
       "lng": -83.870406,
-      "storeCount": 1
-    },
-    {
-      "slug": "barnhart-mo",
-      "city": "Barnhart",
-      "state": "MO",
-      "lat": 38.349418,
-      "lng": -90.405676,
       "storeCount": 1
     },
     {
@@ -68188,9 +68180,9 @@
       "slug": "chesterfield-mo",
       "city": "Chesterfield",
       "state": "MO",
-      "lat": 38.654332,
-      "lng": -90.550353,
-      "storeCount": 4
+      "lat": 38.65557,
+      "lng": -90.591962,
+      "storeCount": 2
     },
     {
       "slug": "chesterfield-va",
@@ -70505,14 +70497,6 @@
       "storeCount": 9
     },
     {
-      "slug": "fenton-mo",
-      "city": "Fenton",
-      "state": "MO",
-      "lat": 38.515314,
-      "lng": -90.469105,
-      "storeCount": 3
-    },
-    {
       "slug": "fern-park-fl",
       "city": "Fern Park",
       "state": "FL",
@@ -72438,14 +72422,6 @@
       "state": "CA",
       "lat": 34.137752,
       "lng": -117.195024,
-      "storeCount": 1
-    },
-    {
-      "slug": "hillsboro-mo",
-      "city": "Hillsboro",
-      "state": "MO",
-      "lat": 38.248089,
-      "lng": -90.558028,
       "storeCount": 1
     },
     {
@@ -75321,14 +75297,6 @@
       "storeCount": 2
     },
     {
-      "slug": "maryland-heights-mo",
-      "city": "Maryland Heights",
-      "state": "MO",
-      "lat": 38.714223,
-      "lng": -90.456695,
-      "storeCount": 1
-    },
-    {
       "slug": "maryville-tn",
       "city": "Maryville",
       "state": "TN",
@@ -76916,9 +76884,9 @@
       "slug": "o-fallon-mo",
       "city": "O Fallon",
       "state": "MO",
-      "lat": 38.784516,
-      "lng": -90.717566,
-      "storeCount": 6
+      "lat": 38.740037,
+      "lng": -90.700269,
+      "storeCount": 2
     },
     {
       "slug": "oak-grove-ky",
@@ -79225,14 +79193,6 @@
       "storeCount": 1
     },
     {
-      "slug": "saint-charles-mo",
-      "city": "Saint Charles",
-      "state": "MO",
-      "lat": 38.755979,
-      "lng": -90.546532,
-      "storeCount": 3
-    },
-    {
       "slug": "saint-clair-mo",
       "city": "Saint Clair",
       "state": "MO",
@@ -79265,14 +79225,6 @@
       "storeCount": 1
     },
     {
-      "slug": "saint-louis-mo",
-      "city": "Saint Louis",
-      "state": "MO",
-      "lat": 38.600368,
-      "lng": -90.416689,
-      "storeCount": 6
-    },
-    {
       "slug": "saint-martinville-la",
       "city": "Saint Martinville",
       "state": "LA",
@@ -79292,9 +79244,9 @@
       "slug": "saint-peters-mo",
       "city": "Saint Peters",
       "state": "MO",
-      "lat": 38.780847,
-      "lng": -90.617723,
-      "storeCount": 5
+      "lat": 38.739573,
+      "lng": -90.634437,
+      "storeCount": 1
     },
     {
       "slug": "saint-petersburg-fl",
@@ -80796,8 +80748,8 @@
       "slug": "suffolk-va",
       "city": "Suffolk",
       "state": "VA",
-      "lat": 36.749671,
-      "lng": -76.601738,
+      "lat": 36.749457,
+      "lng": -76.601627,
       "storeCount": 3
     },
     {
@@ -80822,14 +80774,6 @@
       "state": "CA",
       "lat": 38.244177,
       "lng": -122.019982,
-      "storeCount": 1
-    },
-    {
-      "slug": "sullivan-mo",
-      "city": "Sullivan",
-      "state": "MO",
-      "lat": 38.218593,
-      "lng": -91.162562,
       "storeCount": 1
     },
     {
@@ -81681,14 +81625,6 @@
       "storeCount": 1
     },
     {
-      "slug": "valley-park-mo",
-      "city": "Valley Park",
-      "state": "MO",
-      "lat": 38.56686,
-      "lng": -90.476976,
-      "storeCount": 1
-    },
-    {
       "slug": "van-alstyne-tx",
       "city": "Van Alstyne",
       "state": "TX",
@@ -81993,14 +81929,6 @@
       "storeCount": 1
     },
     {
-      "slug": "warrenton-mo",
-      "city": "Warrenton",
-      "state": "MO",
-      "lat": 38.823141,
-      "lng": -91.139001,
-      "storeCount": 1
-    },
-    {
       "slug": "warrior-al",
       "city": "Warrior",
       "state": "AL",
@@ -82204,9 +82132,9 @@
       "slug": "wentzville-mo",
       "city": "Wentzville",
       "state": "MO",
-      "lat": 38.815963,
-      "lng": -90.859275,
-      "storeCount": 2
+      "lat": 38.80998,
+      "lng": -90.86511,
+      "storeCount": 1
     },
     {
       "slug": "weslaco-tx",
@@ -82822,14 +82750,6 @@
       "state": "OK",
       "lat": 36.434136,
       "lng": -99.415912,
-      "storeCount": 1
-    },
-    {
-      "slug": "wright-city-mo",
-      "city": "Wright City",
-      "state": "MO",
-      "lat": 38.829406,
-      "lng": -91.042214,
       "storeCount": 1
     },
     {

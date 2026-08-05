@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-04T11:33:15.754Z",
+  "generatedAt": "2026-08-05T11:28:06.221Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -1905,7 +1905,7 @@
     {
       "postalCode": "04743",
       "city": "Fort Kent",
-      "state": "",
+      "state": "ME",
       "lat": 47.256997,
       "lng": -68.589601,
       "storeCount": 1
@@ -20359,6 +20359,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "35120",
+      "city": "Odenville",
+      "state": "AL",
+      "lat": 33.677309,
+      "lng": -86.405584,
+      "storeCount": 1
+    },
+    {
       "postalCode": "35124",
       "city": "Pelham",
       "state": "AL",
@@ -32871,6 +32879,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "49333",
+      "city": "Middleville",
+      "state": "MI",
+      "lat": 42.71941,
+      "lng": -85.472102,
+      "storeCount": 1
+    },
+    {
       "postalCode": "49337",
       "city": "Newaygo",
       "state": "MI",
@@ -33337,7 +33353,7 @@
     {
       "postalCode": "49931",
       "city": "Houghton",
-      "state": "",
+      "state": "MI",
       "lat": 47.110366,
       "lng": -88.590754,
       "storeCount": 1
@@ -36281,7 +36297,7 @@
     {
       "postalCode": "55719",
       "city": "Chisholm",
-      "state": "",
+      "state": "MN",
       "lat": 47.482197,
       "lng": -92.894396,
       "storeCount": 1
@@ -36297,7 +36313,7 @@
     {
       "postalCode": "55744-5044",
       "city": "Grand Rapids",
-      "state": "",
+      "state": "MN",
       "lat": 47.21809,
       "lng": -93.52933,
       "storeCount": 1
@@ -36305,7 +36321,7 @@
     {
       "postalCode": "55746",
       "city": "Hibbing",
-      "state": "",
+      "state": "MN",
       "lat": 47.400019,
       "lng": -92.923678,
       "storeCount": 1
@@ -36321,7 +36337,7 @@
     {
       "postalCode": "55792",
       "city": "Virginia",
-      "state": "",
+      "state": "MN",
       "lat": 47.511301,
       "lng": -92.551568,
       "storeCount": 1
@@ -36681,7 +36697,7 @@
     {
       "postalCode": "56601",
       "city": "Bemidji",
-      "state": "",
+      "state": "MN",
       "lat": 47.464501,
       "lng": -94.872898,
       "storeCount": 1
@@ -36689,7 +36705,7 @@
     {
       "postalCode": "56601-4123",
       "city": "Bemidji",
-      "state": "",
+      "state": "MN",
       "lat": 47.492622,
       "lng": -94.898003,
       "storeCount": 1
@@ -36697,7 +36713,7 @@
     {
       "postalCode": "56649",
       "city": "International Falls",
-      "state": "",
+      "state": "MN",
       "lat": 48.587704,
       "lng": -93.403273,
       "storeCount": 1
@@ -36705,7 +36721,7 @@
     {
       "postalCode": "56701-0403",
       "city": "Thief River Falls",
-      "state": "",
+      "state": "MN",
       "lat": 48.11417,
       "lng": -96.156119,
       "storeCount": 1
@@ -36713,7 +36729,7 @@
     {
       "postalCode": "56716",
       "city": "Crookston",
-      "state": "",
+      "state": "MN",
       "lat": 47.78958,
       "lng": -96.612098,
       "storeCount": 1
@@ -36721,7 +36737,7 @@
     {
       "postalCode": "56721-1603",
       "city": "East Grand Forks",
-      "state": "",
+      "state": "MN",
       "lat": 47.937083,
       "lng": -97.019222,
       "storeCount": 1
@@ -36993,7 +37009,7 @@
     {
       "postalCode": "58201",
       "city": "Grand Forks",
-      "state": "",
+      "state": "ND",
       "lat": 47.882523,
       "lng": -97.046308,
       "storeCount": 1
@@ -37001,7 +37017,7 @@
     {
       "postalCode": "58201-5430",
       "city": "Grand Forks",
-      "state": "",
+      "state": "ND",
       "lat": 47.910125,
       "lng": -97.044522,
       "storeCount": 1
@@ -37009,7 +37025,7 @@
     {
       "postalCode": "58201-6024",
       "city": "Grand Forks",
-      "state": "",
+      "state": "ND",
       "lat": 47.890163,
       "lng": -97.07042,
       "storeCount": 1
@@ -37017,7 +37033,7 @@
     {
       "postalCode": "58301",
       "city": "Devils Lake",
-      "state": "",
+      "state": "ND",
       "lat": 48.10559,
       "lng": -98.866271,
       "storeCount": 1
@@ -37081,7 +37097,7 @@
     {
       "postalCode": "58701",
       "city": "Minot",
-      "state": "",
+      "state": "ND",
       "lat": 48.230251,
       "lng": -101.302936,
       "storeCount": 3
@@ -37089,7 +37105,7 @@
     {
       "postalCode": "58701-6903",
       "city": "Minot",
-      "state": "",
+      "state": "ND",
       "lat": 48.208678,
       "lng": -101.312762,
       "storeCount": 1
@@ -37097,7 +37113,7 @@
     {
       "postalCode": "58784",
       "city": "Stanley",
-      "state": "",
+      "state": "ND",
       "lat": 48.306489,
       "lng": -102.401483,
       "storeCount": 1
@@ -37105,7 +37121,7 @@
     {
       "postalCode": "58801-3410",
       "city": "Williston",
-      "state": "",
+      "state": "ND",
       "lat": 48.166193,
       "lng": -103.625152,
       "storeCount": 1
@@ -37113,7 +37129,7 @@
     {
       "postalCode": "58854",
       "city": "Watford City",
-      "state": "",
+      "state": "ND",
       "lat": 47.790531,
       "lng": -103.282424,
       "storeCount": 1
@@ -37177,7 +37193,7 @@
     {
       "postalCode": "59201",
       "city": "Wolf Point",
-      "state": "",
+      "state": "MT",
       "lat": 48.093997,
       "lng": -105.640918,
       "storeCount": 1
@@ -37185,7 +37201,7 @@
     {
       "postalCode": "59230",
       "city": "Glasgow",
-      "state": "",
+      "state": "MT",
       "lat": 48.196145,
       "lng": -106.635279,
       "storeCount": 1
@@ -37193,7 +37209,7 @@
     {
       "postalCode": "59270-5519",
       "city": "Sidney",
-      "state": "",
+      "state": "MT",
       "lat": 47.702066,
       "lng": -104.165845,
       "storeCount": 1
@@ -37209,7 +37225,7 @@
     {
       "postalCode": "59404",
       "city": "Great Falls",
-      "state": "",
+      "state": "MT",
       "lat": 47.503855,
       "lng": -111.323125,
       "storeCount": 2
@@ -37217,7 +37233,7 @@
     {
       "postalCode": "59405",
       "city": "Great Falls",
-      "state": "",
+      "state": "MT",
       "lat": 47.494479,
       "lng": -111.277213,
       "storeCount": 1
@@ -37225,7 +37241,7 @@
     {
       "postalCode": "59427-2829",
       "city": "Cut Bank",
-      "state": "",
+      "state": "MT",
       "lat": 48.639858,
       "lng": -112.339857,
       "storeCount": 1
@@ -37233,7 +37249,7 @@
     {
       "postalCode": "59501-3409",
       "city": "Havre",
-      "state": "",
+      "state": "MT",
       "lat": 48.555026,
       "lng": -109.689773,
       "storeCount": 1
@@ -37353,7 +37369,7 @@
     {
       "postalCode": "59860-9729",
       "city": "Polson",
-      "state": "",
+      "state": "MT",
       "lat": 47.692278,
       "lng": -114.128259,
       "storeCount": 1
@@ -37361,7 +37377,7 @@
     {
       "postalCode": "59864",
       "city": "Ronan",
-      "state": "",
+      "state": "MT",
       "lat": 47.518848,
       "lng": -114.09623,
       "storeCount": 1
@@ -37369,7 +37385,7 @@
     {
       "postalCode": "59901",
       "city": "Kalispell",
-      "state": "",
+      "state": "MT",
       "lat": 48.225552,
       "lng": -114.30392,
       "storeCount": 2
@@ -37377,7 +37393,7 @@
     {
       "postalCode": "59901-3410",
       "city": "Kalispell",
-      "state": "",
+      "state": "MT",
       "lat": 48.199949,
       "lng": -114.332432,
       "storeCount": 1
@@ -37385,7 +37401,7 @@
     {
       "postalCode": "59923-2109",
       "city": "Libby",
-      "state": "",
+      "state": "MT",
       "lat": 48.386698,
       "lng": -115.55174,
       "storeCount": 1
@@ -37393,7 +37409,7 @@
     {
       "postalCode": "59937-8238",
       "city": "Whitefish",
-      "state": "",
+      "state": "MT",
       "lat": 48.395983,
       "lng": -114.334713,
       "storeCount": 1
@@ -53937,7 +53953,7 @@
     {
       "postalCode": "83814",
       "city": "Coeur D Alene",
-      "state": "",
+      "state": "ID",
       "lat": 47.707946,
       "lng": -116.794767,
       "storeCount": 3
@@ -53945,7 +53961,7 @@
     {
       "postalCode": "83837",
       "city": "Kellogg",
-      "state": "",
+      "state": "ID",
       "lat": 47.547418,
       "lng": -116.133468,
       "storeCount": 1
@@ -53961,7 +53977,7 @@
     {
       "postalCode": "83852-9748",
       "city": "Ponderay",
-      "state": "",
+      "state": "ID",
       "lat": 48.300865,
       "lng": -116.545522,
       "storeCount": 1
@@ -53969,7 +53985,7 @@
     {
       "postalCode": "83854",
       "city": "Post Falls",
-      "state": "",
+      "state": "ID",
       "lat": 47.7177,
       "lng": -116.937965,
       "storeCount": 3
@@ -53977,7 +53993,7 @@
     {
       "postalCode": "83858",
       "city": "Rathdrum",
-      "state": "",
+      "state": "ID",
       "lat": 47.816936,
       "lng": -116.882318,
       "storeCount": 1
@@ -64393,7 +64409,7 @@
     {
       "postalCode": "98221-2139",
       "city": "Anacortes",
-      "state": "",
+      "state": "WA",
       "lat": 48.511301,
       "lng": -122.612157,
       "storeCount": 1
@@ -64401,7 +64417,7 @@
     {
       "postalCode": "98223",
       "city": "Arlington",
-      "state": "",
+      "state": "WA",
       "lat": 48.181315,
       "lng": -122.127602,
       "storeCount": 1
@@ -64409,7 +64425,7 @@
     {
       "postalCode": "98223-8758",
       "city": "Arlington",
-      "state": "",
+      "state": "WA",
       "lat": 48.152988,
       "lng": -122.181788,
       "storeCount": 1
@@ -64417,7 +64433,7 @@
     {
       "postalCode": "98225",
       "city": "Bellingham",
-      "state": "",
+      "state": "WA",
       "lat": 48.734355,
       "lng": -122.470529,
       "storeCount": 1
@@ -64425,7 +64441,7 @@
     {
       "postalCode": "98225-4237",
       "city": "Bellingham",
-      "state": "",
+      "state": "WA",
       "lat": 48.755522,
       "lng": -122.463039,
       "storeCount": 1
@@ -64433,7 +64449,7 @@
     {
       "postalCode": "98226",
       "city": "Bellingham",
-      "state": "",
+      "state": "WA",
       "lat": 48.788896,
       "lng": -122.443254,
       "storeCount": 1
@@ -64441,7 +64457,7 @@
     {
       "postalCode": "98226-5560",
       "city": "Bellingham",
-      "state": "",
+      "state": "WA",
       "lat": 48.78394,
       "lng": -122.487172,
       "storeCount": 1
@@ -64449,7 +64465,7 @@
     {
       "postalCode": "98233-3207",
       "city": "Burlington",
-      "state": "",
+      "state": "WA",
       "lat": 48.448479,
       "lng": -122.335995,
       "storeCount": 1
@@ -64457,7 +64473,7 @@
     {
       "postalCode": "98233-3441",
       "city": "Burlington",
-      "state": "",
+      "state": "WA",
       "lat": 48.46847,
       "lng": -122.34368,
       "storeCount": 1
@@ -64465,7 +64481,7 @@
     {
       "postalCode": "98248",
       "city": "Ferndale",
-      "state": "",
+      "state": "WA",
       "lat": 48.848559,
       "lng": -122.573189,
       "storeCount": 1
@@ -64473,7 +64489,7 @@
     {
       "postalCode": "98252",
       "city": "Granite Falls",
-      "state": "",
+      "state": "WA",
       "lat": 48.082745,
       "lng": -121.975046,
       "storeCount": 1
@@ -64489,7 +64505,7 @@
     {
       "postalCode": "98273-5866",
       "city": "Mount Vernon",
-      "state": "",
+      "state": "WA",
       "lat": 48.435408,
       "lng": -122.312558,
       "storeCount": 1
@@ -64497,7 +64513,7 @@
     {
       "postalCode": "98277",
       "city": "Oak Harbor",
-      "state": "",
+      "state": "WA",
       "lat": 48.305229,
       "lng": -122.644137,
       "storeCount": 1
@@ -64505,7 +64521,7 @@
     {
       "postalCode": "98284",
       "city": "Sedro Woolley",
-      "state": "",
+      "state": "WA",
       "lat": 48.501653,
       "lng": -122.257746,
       "storeCount": 1
@@ -64521,7 +64537,7 @@
     {
       "postalCode": "98292-9387",
       "city": "Stanwood",
-      "state": "",
+      "state": "WA",
       "lat": 48.239217,
       "lng": -122.329571,
       "storeCount": 1
@@ -64641,7 +64657,7 @@
     {
       "postalCode": "98368",
       "city": "Port Townsend",
-      "state": "",
+      "state": "WA",
       "lat": 48.108273,
       "lng": -122.78042,
       "storeCount": 1
@@ -64681,7 +64697,7 @@
     {
       "postalCode": "98382-3602",
       "city": "Sequim",
-      "state": "",
+      "state": "WA",
       "lat": 48.079383,
       "lng": -123.119019,
       "storeCount": 1
@@ -65009,7 +65025,7 @@
     {
       "postalCode": "98812",
       "city": "Brewster",
-      "state": "",
+      "state": "WA",
       "lat": 48.101582,
       "lng": -119.785766,
       "storeCount": 1
@@ -65041,7 +65057,7 @@
     {
       "postalCode": "98841-9473",
       "city": "Omak",
-      "state": "",
+      "state": "WA",
       "lat": 48.417106,
       "lng": -119.507485,
       "storeCount": 1
@@ -65169,7 +65185,7 @@
     {
       "postalCode": "99019",
       "city": "Liberty Lake",
-      "state": "",
+      "state": "WA",
       "lat": 47.669728,
       "lng": -117.105118,
       "storeCount": 1
@@ -65177,7 +65193,7 @@
     {
       "postalCode": "99021",
       "city": "Mead",
-      "state": "",
+      "state": "WA",
       "lat": 47.785715,
       "lng": -117.353085,
       "storeCount": 1
@@ -65185,7 +65201,7 @@
     {
       "postalCode": "99037",
       "city": "Veradale",
-      "state": "",
+      "state": "WA",
       "lat": 47.664952,
       "lng": -117.197445,
       "storeCount": 1
@@ -65193,7 +65209,7 @@
     {
       "postalCode": "99114-9503",
       "city": "Colville",
-      "state": "",
+      "state": "WA",
       "lat": 48.533961,
       "lng": -117.904297,
       "storeCount": 1
@@ -65201,7 +65217,7 @@
     {
       "postalCode": "99156",
       "city": "Newport",
-      "state": "",
+      "state": "WA",
       "lat": 48.184191,
       "lng": -117.040146,
       "storeCount": 1
@@ -65225,7 +65241,7 @@
     {
       "postalCode": "99202",
       "city": "Spokane",
-      "state": "",
+      "state": "WA",
       "lat": 47.65691,
       "lng": -117.346133,
       "storeCount": 1
@@ -65265,7 +65281,7 @@
     {
       "postalCode": "99206",
       "city": "Spokane Valley",
-      "state": "",
+      "state": "WA",
       "lat": 47.656625,
       "lng": -117.263794,
       "storeCount": 1
@@ -65273,7 +65289,7 @@
     {
       "postalCode": "99207",
       "city": "Spokane",
-      "state": "",
+      "state": "WA",
       "lat": 47.672434,
       "lng": -117.396933,
       "storeCount": 1
@@ -65281,7 +65297,7 @@
     {
       "postalCode": "99207-1503",
       "city": "Spokane",
-      "state": "",
+      "state": "WA",
       "lat": 47.698552,
       "lng": -117.410481,
       "storeCount": 1
@@ -65297,7 +65313,7 @@
     {
       "postalCode": "99212",
       "city": "Spokane",
-      "state": "",
+      "state": "WA",
       "lat": 47.741789,
       "lng": -117.410035,
       "storeCount": 1
@@ -65305,7 +65321,7 @@
     {
       "postalCode": "99212-2337",
       "city": "Spokane",
-      "state": "",
+      "state": "WA",
       "lat": 47.677586,
       "lng": -117.282127,
       "storeCount": 1
@@ -65313,7 +65329,7 @@
     {
       "postalCode": "99216",
       "city": "Spokane Valley",
-      "state": "",
+      "state": "WA",
       "lat": 47.67311,
       "lng": -117.210099,
       "storeCount": 2
@@ -65321,7 +65337,7 @@
     {
       "postalCode": "99217",
       "city": "Spokane",
-      "state": "",
+      "state": "WA",
       "lat": 47.688407,
       "lng": -117.364768,
       "storeCount": 1
@@ -65329,7 +65345,7 @@
     {
       "postalCode": "99218",
       "city": "Spokane",
-      "state": "",
+      "state": "WA",
       "lat": 47.773143,
       "lng": -117.401774,
       "storeCount": 1
@@ -65337,7 +65353,7 @@
     {
       "postalCode": "99223",
       "city": "Spokane",
-      "state": "",
+      "state": "WA",
       "lat": 47.628537,
       "lng": -117.368076,
       "storeCount": 1
@@ -66193,6 +66209,14 @@
       "storeCount": 1
     },
     {
+      "slug": "anacortes-wa",
+      "city": "Anacortes",
+      "state": "WA",
+      "lat": 48.511301,
+      "lng": -122.612157,
+      "storeCount": 1
+    },
+    {
       "slug": "anaheim-ca",
       "city": "Anaheim",
       "state": "CA",
@@ -66591,6 +66615,14 @@
       "lat": 38.874266,
       "lng": -77.08962,
       "storeCount": 9
+    },
+    {
+      "slug": "arlington-wa",
+      "city": "Arlington",
+      "state": "WA",
+      "lat": 48.167152,
+      "lng": -122.154695,
+      "storeCount": 2
     },
     {
       "slug": "arnold-mo",
@@ -67993,6 +68025,14 @@
       "storeCount": 3
     },
     {
+      "slug": "bellingham-wa",
+      "city": "Bellingham",
+      "state": "WA",
+      "lat": 48.765678,
+      "lng": -122.465998,
+      "storeCount": 4
+    },
+    {
       "slug": "bells-tn",
       "city": "Bells",
       "state": "TN",
@@ -68071,6 +68111,14 @@
       "lat": 42.247608,
       "lng": -88.842867,
       "storeCount": 3
+    },
+    {
+      "slug": "bemidji-mn",
+      "city": "Bemidji",
+      "state": "MN",
+      "lat": 47.478561,
+      "lng": -94.885451,
+      "storeCount": 2
     },
     {
       "slug": "benbrook-tx",
@@ -69313,6 +69361,14 @@
       "storeCount": 1
     },
     {
+      "slug": "brewster-wa",
+      "city": "Brewster",
+      "state": "WA",
+      "lat": 48.101582,
+      "lng": -119.785766,
+      "storeCount": 1
+    },
+    {
       "slug": "brewton-al",
       "city": "Brewton",
       "state": "AL",
@@ -69975,6 +70031,14 @@
       "lat": 40.071819,
       "lng": -74.853068,
       "storeCount": 1
+    },
+    {
+      "slug": "burlington-wa",
+      "city": "Burlington",
+      "state": "WA",
+      "lat": 48.458475,
+      "lng": -122.339838,
+      "storeCount": 2
     },
     {
       "slug": "burlington-wi",
@@ -71905,6 +71969,14 @@
       "storeCount": 1
     },
     {
+      "slug": "chisholm-mn",
+      "city": "Chisholm",
+      "state": "MN",
+      "lat": 47.482197,
+      "lng": -92.894396,
+      "storeCount": 1
+    },
+    {
       "slug": "choctaw-ok",
       "city": "Choctaw",
       "state": "OK",
@@ -72601,6 +72673,22 @@
       "storeCount": 1
     },
     {
+      "slug": "coeur-d-alene-id",
+      "city": "Coeur D Alene",
+      "state": "ID",
+      "lat": 47.697128,
+      "lng": -116.796217,
+      "storeCount": 2
+    },
+    {
+      "slug": "coeur-dalene-id",
+      "city": "Coeur D'Alene",
+      "state": "ID",
+      "lat": 47.729581,
+      "lng": -116.791867,
+      "storeCount": 1
+    },
+    {
       "slug": "colby-ks",
       "city": "Colby",
       "state": "KS",
@@ -72870,6 +72958,14 @@
       "state": "WI",
       "lat": 43.346443,
       "lng": -89.030587,
+      "storeCount": 1
+    },
+    {
+      "slug": "colville-wa",
+      "city": "Colville",
+      "state": "WA",
+      "lat": 48.533961,
+      "lng": -117.904297,
       "storeCount": 1
     },
     {
@@ -73521,6 +73617,14 @@
       "storeCount": 2
     },
     {
+      "slug": "crookston-mn",
+      "city": "Crookston",
+      "state": "MN",
+      "lat": 47.78958,
+      "lng": -96.612098,
+      "storeCount": 1
+    },
+    {
       "slug": "crosby-tx",
       "city": "Crosby",
       "state": "TX",
@@ -73646,6 +73750,14 @@
       "state": "NC",
       "lat": 36.450251,
       "lng": -76.018852,
+      "storeCount": 1
+    },
+    {
+      "slug": "cut-bank-mt",
+      "city": "Cut Bank",
+      "state": "MT",
+      "lat": 48.639858,
+      "lng": -112.339857,
       "storeCount": 1
     },
     {
@@ -74449,6 +74561,14 @@
       "storeCount": 23
     },
     {
+      "slug": "devils-lake-nd",
+      "city": "Devils Lake",
+      "state": "ND",
+      "lat": 48.10559,
+      "lng": -98.866271,
+      "storeCount": 1
+    },
+    {
       "slug": "devine-tx",
       "city": "Devine",
       "state": "TX",
@@ -75190,6 +75310,14 @@
       "state": "MA",
       "lat": 41.567291,
       "lng": -70.594702,
+      "storeCount": 1
+    },
+    {
+      "slug": "east-grand-forks-mn",
+      "city": "East Grand Forks",
+      "state": "MN",
+      "lat": 47.937083,
+      "lng": -97.019222,
       "storeCount": 1
     },
     {
@@ -77017,6 +77145,14 @@
       "storeCount": 1
     },
     {
+      "slug": "ferndale-wa",
+      "city": "Ferndale",
+      "state": "WA",
+      "lat": 48.848559,
+      "lng": -122.573189,
+      "storeCount": 1
+    },
+    {
       "slug": "fernley-nv",
       "city": "Fernley",
       "state": "NV",
@@ -77470,6 +77606,14 @@
       "state": "OK",
       "lat": 35.785285,
       "lng": -95.23898,
+      "storeCount": 1
+    },
+    {
+      "slug": "fort-kent-me",
+      "city": "Fort Kent",
+      "state": "ME",
+      "lat": 47.256997,
+      "lng": -68.589601,
       "storeCount": 1
     },
     {
@@ -78697,6 +78841,14 @@
       "storeCount": 1
     },
     {
+      "slug": "glasgow-mt",
+      "city": "Glasgow",
+      "state": "MT",
+      "lat": 48.196145,
+      "lng": -106.635279,
+      "storeCount": 1
+    },
+    {
       "slug": "glassboro-nj",
       "city": "Glassboro",
       "state": "NJ",
@@ -79113,6 +79265,14 @@
       "storeCount": 1
     },
     {
+      "slug": "grand-forks-nd",
+      "city": "Grand Forks",
+      "state": "ND",
+      "lat": 47.89427,
+      "lng": -97.05375,
+      "storeCount": 3
+    },
+    {
       "slug": "grand-ledge-mi",
       "city": "Grand Ledge",
       "state": "MI",
@@ -79135,6 +79295,14 @@
       "lat": 42.847459,
       "lng": -85.651236,
       "storeCount": 2
+    },
+    {
+      "slug": "grand-rapids-mn",
+      "city": "Grand Rapids",
+      "state": "MN",
+      "lat": 47.21809,
+      "lng": -93.52933,
+      "storeCount": 1
     },
     {
       "slug": "grandview-wa",
@@ -79175,6 +79343,14 @@
       "lat": 38.712228,
       "lng": -90.133481,
       "storeCount": 2
+    },
+    {
+      "slug": "granite-falls-wa",
+      "city": "Granite Falls",
+      "state": "WA",
+      "lat": 48.082745,
+      "lng": -121.975046,
+      "storeCount": 1
     },
     {
       "slug": "graniteville-sc",
@@ -79295,6 +79471,14 @@
       "lat": 38.361349,
       "lng": -98.784129,
       "storeCount": 1
+    },
+    {
+      "slug": "great-falls-mt",
+      "city": "Great Falls",
+      "state": "MT",
+      "lat": 47.500729,
+      "lng": -111.307821,
+      "storeCount": 3
     },
     {
       "slug": "great-lakes-il",
@@ -80569,6 +80753,14 @@
       "storeCount": 1
     },
     {
+      "slug": "havre-mt",
+      "city": "Havre",
+      "state": "MT",
+      "lat": 48.555026,
+      "lng": -109.689773,
+      "storeCount": 1
+    },
+    {
       "slug": "hawaiian-gardens-ca",
       "city": "Hawaiian Gardens",
       "state": "CA",
@@ -80974,6 +81166,14 @@
       "state": "KS",
       "lat": 39.842535,
       "lng": -95.526639,
+      "storeCount": 1
+    },
+    {
+      "slug": "hibbing-mn",
+      "city": "Hibbing",
+      "state": "MN",
+      "lat": 47.400019,
+      "lng": -92.923678,
       "storeCount": 1
     },
     {
@@ -81617,6 +81817,14 @@
       "storeCount": 1
     },
     {
+      "slug": "houghton-mi",
+      "city": "Houghton",
+      "state": "MI",
+      "lat": 47.110366,
+      "lng": -88.590754,
+      "storeCount": 1
+    },
+    {
       "slug": "houlton-me",
       "city": "Houlton",
       "state": "ME",
@@ -82126,6 +82334,14 @@
       "state": "FL",
       "lat": 29.628262,
       "lng": -81.887636,
+      "storeCount": 1
+    },
+    {
+      "slug": "international-falls-mn",
+      "city": "International Falls",
+      "state": "MN",
+      "lat": 48.587704,
+      "lng": -93.403273,
       "storeCount": 1
     },
     {
@@ -82897,6 +83113,14 @@
       "storeCount": 8
     },
     {
+      "slug": "kalispell-mt",
+      "city": "Kalispell",
+      "state": "MT",
+      "lat": 48.217018,
+      "lng": -114.313424,
+      "storeCount": 3
+    },
+    {
       "slug": "kalkaska-mi",
       "city": "Kalkaska",
       "state": "MI",
@@ -82998,6 +83222,14 @@
       "state": "UT",
       "lat": 40.653412,
       "lng": -111.984314,
+      "storeCount": 1
+    },
+    {
+      "slug": "kellogg-id",
+      "city": "Kellogg",
+      "state": "ID",
+      "lat": 47.547418,
+      "lng": -116.133468,
       "storeCount": 1
     },
     {
@@ -84969,6 +85201,14 @@
       "storeCount": 1
     },
     {
+      "slug": "libby-mt",
+      "city": "Libby",
+      "state": "MT",
+      "lat": 48.386698,
+      "lng": -115.55174,
+      "storeCount": 1
+    },
+    {
       "slug": "liberal-ks",
       "city": "Liberal",
       "state": "KS",
@@ -84990,6 +85230,14 @@
       "state": "KY",
       "lat": 37.323941,
       "lng": -84.92509,
+      "storeCount": 1
+    },
+    {
+      "slug": "liberty-lake-wa",
+      "city": "Liberty Lake",
+      "state": "WA",
+      "lat": 47.669728,
+      "lng": -117.105118,
       "storeCount": 1
     },
     {
@@ -87489,6 +87737,14 @@
       "storeCount": 1
     },
     {
+      "slug": "mead-wa",
+      "city": "Mead",
+      "state": "WA",
+      "lat": 47.785715,
+      "lng": -117.353085,
+      "storeCount": 1
+    },
+    {
       "slug": "meadowview-va",
       "city": "Meadowview",
       "state": "VA",
@@ -88105,6 +88361,14 @@
       "storeCount": 2
     },
     {
+      "slug": "middleville-mi",
+      "city": "Middleville",
+      "state": "MI",
+      "lat": 42.71941,
+      "lng": -85.472102,
+      "storeCount": 1
+    },
+    {
       "slug": "midfield-al",
       "city": "Midfield",
       "state": "AL",
@@ -88503,6 +88767,14 @@
       "lat": 41.455436,
       "lng": -88.270712,
       "storeCount": 1
+    },
+    {
+      "slug": "minot-nd",
+      "city": "Minot",
+      "state": "ND",
+      "lat": 48.224858,
+      "lng": -101.305393,
+      "storeCount": 4
     },
     {
       "slug": "minster-oh",
@@ -89550,6 +89822,14 @@
       "state": "TX",
       "lat": 33.159691,
       "lng": -95.235759,
+      "storeCount": 1
+    },
+    {
+      "slug": "mount-vernon-wa",
+      "city": "Mount Vernon",
+      "state": "WA",
+      "lat": 48.435408,
+      "lng": -122.312558,
       "storeCount": 1
     },
     {
@@ -90641,6 +90921,14 @@
       "storeCount": 1
     },
     {
+      "slug": "newport-wa",
+      "city": "Newport",
+      "state": "WA",
+      "lat": 48.184191,
+      "lng": -117.040146,
+      "storeCount": 1
+    },
+    {
       "slug": "newton-falls-oh",
       "city": "Newton Falls",
       "state": "OH",
@@ -91409,6 +91697,14 @@
       "storeCount": 1
     },
     {
+      "slug": "oak-harbor-wa",
+      "city": "Oak Harbor",
+      "state": "WA",
+      "lat": 48.305229,
+      "lng": -122.644137,
+      "storeCount": 1
+    },
+    {
       "slug": "oak-lawn-il",
       "city": "Oak Lawn",
       "state": "IL",
@@ -91649,6 +91945,14 @@
       "storeCount": 1
     },
     {
+      "slug": "odenville-al",
+      "city": "Odenville",
+      "state": "AL",
+      "lat": 33.677309,
+      "lng": -86.405584,
+      "storeCount": 1
+    },
+    {
       "slug": "odessa-fl",
       "city": "Odessa",
       "state": "FL",
@@ -91855,6 +92159,14 @@
       "lat": 41.254271,
       "lng": -96.075765,
       "storeCount": 23
+    },
+    {
+      "slug": "omak-wa",
+      "city": "Omak",
+      "state": "WA",
+      "lat": 48.417106,
+      "lng": -119.507485,
+      "storeCount": 1
     },
     {
       "slug": "onalaska-tx",
@@ -93977,6 +94289,14 @@
       "storeCount": 1
     },
     {
+      "slug": "polson-mt",
+      "city": "Polson",
+      "state": "MT",
+      "lat": 47.692278,
+      "lng": -114.128259,
+      "storeCount": 1
+    },
+    {
       "slug": "pomona-ca",
       "city": "Pomona",
       "state": "CA",
@@ -94014,6 +94334,14 @@
       "state": "LA",
       "lat": 30.438135,
       "lng": -90.45361,
+      "storeCount": 1
+    },
+    {
+      "slug": "ponderay-id",
+      "city": "Ponderay",
+      "state": "ID",
+      "lat": 48.300865,
+      "lng": -116.545522,
       "storeCount": 1
     },
     {
@@ -94137,6 +94465,14 @@
       "storeCount": 2
     },
     {
+      "slug": "port-townsend-wa",
+      "city": "Port Townsend",
+      "state": "WA",
+      "lat": 48.108273,
+      "lng": -122.78042,
+      "storeCount": 1
+    },
+    {
       "slug": "port-washington-wi",
       "city": "Port Washington",
       "state": "WI",
@@ -94247,6 +94583,14 @@
       "lat": 38.764029,
       "lng": -82.974432,
       "storeCount": 2
+    },
+    {
+      "slug": "post-falls-id",
+      "city": "Post Falls",
+      "state": "ID",
+      "lat": 47.7177,
+      "lng": -116.937965,
+      "storeCount": 3
     },
     {
       "slug": "potosi-mo",
@@ -94862,6 +95206,14 @@
       "state": "SD",
       "lat": 44.095735,
       "lng": -103.150143,
+      "storeCount": 1
+    },
+    {
+      "slug": "rathdrum-id",
+      "city": "Rathdrum",
+      "state": "ID",
+      "lat": 47.816936,
+      "lng": -116.882318,
       "storeCount": 1
     },
     {
@@ -95991,6 +96343,14 @@
       "lat": 42.220878,
       "lng": -83.331326,
       "storeCount": 4
+    },
+    {
+      "slug": "ronan-mt",
+      "city": "Ronan",
+      "state": "MT",
+      "lat": 47.518848,
+      "lng": -114.09623,
+      "storeCount": 1
     },
     {
       "slug": "ronceverte-wv",
@@ -97681,6 +98041,14 @@
       "storeCount": 1
     },
     {
+      "slug": "sedro-woolley-wa",
+      "city": "Sedro Woolley",
+      "state": "WA",
+      "lat": 48.501653,
+      "lng": -122.257746,
+      "storeCount": 1
+    },
+    {
       "slug": "seekonk-ma",
       "city": "Seekonk",
       "state": "MA",
@@ -97806,6 +98174,14 @@
       "state": "GA",
       "lat": 33.293462,
       "lng": -84.543361,
+      "storeCount": 1
+    },
+    {
+      "slug": "sequim-wa",
+      "city": "Sequim",
+      "state": "WA",
+      "lat": 48.079383,
+      "lng": -123.119019,
       "storeCount": 1
     },
     {
@@ -98222,6 +98598,14 @@
       "state": "NJ",
       "lat": 39.737819,
       "lng": -75.001416,
+      "storeCount": 1
+    },
+    {
+      "slug": "sidney-mt",
+      "city": "Sidney",
+      "state": "MT",
+      "lat": 47.702066,
+      "lng": -104.165845,
       "storeCount": 1
     },
     {
@@ -99073,12 +99457,20 @@
       "storeCount": 1
     },
     {
+      "slug": "spokane-valley-wa",
+      "city": "Spokane Valley",
+      "state": "WA",
+      "lat": 47.65673,
+      "lng": -117.243918,
+      "storeCount": 2
+    },
+    {
       "slug": "spokane-wa",
       "city": "Spokane",
       "state": "WA",
-      "lat": 47.66127,
-      "lng": -117.451126,
-      "storeCount": 6
+      "lat": 47.681892,
+      "lng": -117.394308,
+      "storeCount": 16
     },
     {
       "slug": "spooner-wi",
@@ -99377,6 +99769,14 @@
       "storeCount": 1
     },
     {
+      "slug": "stanley-nd",
+      "city": "Stanley",
+      "state": "ND",
+      "lat": 48.306489,
+      "lng": -102.401483,
+      "storeCount": 1
+    },
+    {
       "slug": "stanton-ca",
       "city": "Stanton",
       "state": "CA",
@@ -99398,6 +99798,14 @@
       "state": "MI",
       "lat": 43.293066,
       "lng": -85.078036,
+      "storeCount": 1
+    },
+    {
+      "slug": "stanwood-wa",
+      "city": "Stanwood",
+      "state": "WA",
+      "lat": 48.239217,
+      "lng": -122.329571,
       "storeCount": 1
     },
     {
@@ -100575,6 +100983,14 @@
       "lat": 29.795506,
       "lng": -90.8246,
       "storeCount": 3
+    },
+    {
+      "slug": "thief-river-falls-mn",
+      "city": "Thief River Falls",
+      "state": "MN",
+      "lat": 48.11417,
+      "lng": -96.156119,
+      "storeCount": 1
     },
     {
       "slug": "thomaston-me",
@@ -101761,6 +102177,14 @@
       "storeCount": 1
     },
     {
+      "slug": "veradale-wa",
+      "city": "Veradale",
+      "state": "WA",
+      "lat": 47.664952,
+      "lng": -117.197445,
+      "storeCount": 1
+    },
+    {
       "slug": "vermilion-oh",
       "city": "Vermilion",
       "state": "OH",
@@ -101991,6 +102415,14 @@
       "lat": 36.819021,
       "lng": -76.113159,
       "storeCount": 15
+    },
+    {
+      "slug": "virginia-mn",
+      "city": "Virginia",
+      "state": "MN",
+      "lat": 47.511301,
+      "lng": -92.551568,
+      "storeCount": 1
     },
     {
       "slug": "viroqua-wi",
@@ -102702,6 +103134,14 @@
       "state": "NY",
       "lat": 42.727643,
       "lng": -73.700823,
+      "storeCount": 1
+    },
+    {
+      "slug": "watford-city-nd",
+      "city": "Watford City",
+      "state": "ND",
+      "lat": 47.790531,
+      "lng": -103.282424,
       "storeCount": 1
     },
     {
@@ -103881,6 +104321,14 @@
       "storeCount": 1
     },
     {
+      "slug": "whitefish-mt",
+      "city": "Whitefish",
+      "state": "MT",
+      "lat": 48.395983,
+      "lng": -114.334713,
+      "storeCount": 1
+    },
+    {
       "slug": "whitehall-mi",
       "city": "Whitehall",
       "state": "MI",
@@ -104214,6 +104662,14 @@
       "state": "FL",
       "lat": 29.385774,
       "lng": -82.456351,
+      "storeCount": 1
+    },
+    {
+      "slug": "williston-nd",
+      "city": "Williston",
+      "state": "ND",
+      "lat": 48.166193,
+      "lng": -103.625152,
       "storeCount": 1
     },
     {
@@ -104670,6 +105126,14 @@
       "state": "NY",
       "lat": 43.208264,
       "lng": -76.813064,
+      "storeCount": 1
+    },
+    {
+      "slug": "wolf-point-mt",
+      "city": "Wolf Point",
+      "state": "MT",
+      "lat": 48.093997,
+      "lng": -105.640918,
       "storeCount": 1
     },
     {

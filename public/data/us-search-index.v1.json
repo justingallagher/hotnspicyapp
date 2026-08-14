@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-13T10:20:39.902Z",
+  "generatedAt": "2026-08-14T10:15:32.920Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -11929,7 +11929,7 @@
     {
       "postalCode": "25530",
       "city": "Kenova",
-      "state": "WV",
+      "state": "",
       "lat": 38.397296,
       "lng": -82.56612,
       "storeCount": 1
@@ -11969,7 +11969,7 @@
     {
       "postalCode": "25701",
       "city": "Huntington",
-      "state": "WV",
+      "state": "",
       "lat": 38.392324,
       "lng": -82.428542,
       "storeCount": 4
@@ -11977,7 +11977,7 @@
     {
       "postalCode": "25703",
       "city": "Huntington",
-      "state": "WV",
+      "state": "",
       "lat": 38.42376,
       "lng": -82.420495,
       "storeCount": 1
@@ -18625,7 +18625,7 @@
     {
       "postalCode": "33334",
       "city": "Fort Lauderdale",
-      "state": "",
+      "state": "FL",
       "lat": 26.188694,
       "lng": -80.128907,
       "storeCount": 1
@@ -23273,7 +23273,7 @@
     {
       "postalCode": "38851",
       "city": "Houston",
-      "state": "",
+      "state": "MS",
       "lat": 33.899115,
       "lng": -88.999692,
       "storeCount": 1
@@ -23873,7 +23873,7 @@
     {
       "postalCode": "40014",
       "city": "Crestwood",
-      "state": "KY",
+      "state": "",
       "lat": 38.329716,
       "lng": -85.465187,
       "storeCount": 1
@@ -23881,7 +23881,7 @@
     {
       "postalCode": "40019",
       "city": "Eminence",
-      "state": "KY",
+      "state": "",
       "lat": 38.370342,
       "lng": -85.17952,
       "storeCount": 1
@@ -23889,7 +23889,7 @@
     {
       "postalCode": "40031",
       "city": "Lagrange",
-      "state": "KY",
+      "state": "",
       "lat": 38.391209,
       "lng": -85.402011,
       "storeCount": 2
@@ -23905,7 +23905,7 @@
     {
       "postalCode": "40055",
       "city": "Pendleton",
-      "state": "KY",
+      "state": "",
       "lat": 38.45751,
       "lng": -85.299392,
       "storeCount": 1
@@ -23913,7 +23913,7 @@
     {
       "postalCode": "40059",
       "city": "Prospect",
-      "state": "KY",
+      "state": "",
       "lat": 38.339158,
       "lng": -85.620578,
       "storeCount": 1
@@ -23921,7 +23921,7 @@
     {
       "postalCode": "40065",
       "city": "Shelbyville",
-      "state": "KY",
+      "state": "",
       "lat": 38.205858,
       "lng": -85.236304,
       "storeCount": 2
@@ -23937,7 +23937,7 @@
     {
       "postalCode": "40076",
       "city": "Waddy",
-      "state": "KY",
+      "state": "",
       "lat": 38.151414,
       "lng": -85.069615,
       "storeCount": 1
@@ -23969,7 +23969,7 @@
     {
       "postalCode": "40202-1113",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.253542,
       "lng": -85.74525,
       "storeCount": 1
@@ -23977,7 +23977,7 @@
     {
       "postalCode": "40202-2111",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.246243,
       "lng": -85.755441,
       "storeCount": 1
@@ -23985,7 +23985,7 @@
     {
       "postalCode": "40203",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.267331,
       "lng": -85.783496,
       "storeCount": 1
@@ -23993,7 +23993,7 @@
     {
       "postalCode": "40203-2056",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.247196,
       "lng": -85.772104,
       "storeCount": 1
@@ -24001,7 +24001,7 @@
     {
       "postalCode": "40204-1303",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.236689,
       "lng": -85.717166,
       "storeCount": 1
@@ -24009,7 +24009,7 @@
     {
       "postalCode": "40205",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.223477,
       "lng": -85.684679,
       "storeCount": 1
@@ -24017,7 +24017,7 @@
     {
       "postalCode": "40206",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.25811,
       "lng": -85.702759,
       "storeCount": 1
@@ -24025,7 +24025,7 @@
     {
       "postalCode": "40207",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.246695,
       "lng": -85.633856,
       "storeCount": 3
@@ -24033,7 +24033,7 @@
     {
       "postalCode": "40208",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.21499,
       "lng": -85.754754,
       "storeCount": 1
@@ -24041,7 +24041,7 @@
     {
       "postalCode": "40211",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.248955,
       "lng": -85.797974,
       "storeCount": 1
@@ -24049,7 +24049,7 @@
     {
       "postalCode": "40213-1359",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.197822,
       "lng": -85.732251,
       "storeCount": 1
@@ -24057,7 +24057,7 @@
     {
       "postalCode": "40213-3521",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.157593,
       "lng": -85.708375,
       "storeCount": 1
@@ -24065,7 +24065,7 @@
     {
       "postalCode": "40214-2207",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.174383,
       "lng": -85.766998,
       "storeCount": 1
@@ -24073,7 +24073,7 @@
     {
       "postalCode": "40214-4371",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.144809,
       "lng": -85.7772,
       "storeCount": 1
@@ -24081,7 +24081,7 @@
     {
       "postalCode": "40215-2661",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.200438,
       "lng": -85.783017,
       "storeCount": 1
@@ -24089,7 +24089,7 @@
     {
       "postalCode": "40216-2606",
       "city": "Shively",
-      "state": "KY",
+      "state": "",
       "lat": 38.177351,
       "lng": -85.821008,
       "storeCount": 1
@@ -24097,7 +24097,7 @@
     {
       "postalCode": "40216-4501",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.195419,
       "lng": -85.841691,
       "storeCount": 1
@@ -24105,7 +24105,7 @@
     {
       "postalCode": "40216-5202",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.214444,
       "lng": -85.796634,
       "storeCount": 1
@@ -24113,7 +24113,7 @@
     {
       "postalCode": "40217",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.211422,
       "lng": -85.720918,
       "storeCount": 1
@@ -24129,7 +24129,7 @@
     {
       "postalCode": "40219",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.132909,
       "lng": -85.68425,
       "storeCount": 1
@@ -24137,7 +24137,7 @@
     {
       "postalCode": "40219-1304",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.168409,
       "lng": -85.706865,
       "storeCount": 1
@@ -24145,7 +24145,7 @@
     {
       "postalCode": "40219-3548",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.136342,
       "lng": -85.712012,
       "storeCount": 1
@@ -24153,7 +24153,7 @@
     {
       "postalCode": "40220",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.198968,
       "lng": -85.617599,
       "storeCount": 2
@@ -24161,7 +24161,7 @@
     {
       "postalCode": "40220-1463",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.219061,
       "lng": -85.628789,
       "storeCount": 1
@@ -24169,7 +24169,7 @@
     {
       "postalCode": "40222",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.228318,
       "lng": -85.578271,
       "storeCount": 1
@@ -24177,7 +24177,7 @@
     {
       "postalCode": "40222-6438",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.282809,
       "lng": -85.62899,
       "storeCount": 1
@@ -24185,7 +24185,7 @@
     {
       "postalCode": "40223",
       "city": "Lyndon",
-      "state": "KY",
+      "state": "",
       "lat": 38.264042,
       "lng": -85.568377,
       "storeCount": 1
@@ -24193,7 +24193,7 @@
     {
       "postalCode": "40228",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.138772,
       "lng": -85.637326,
       "storeCount": 2
@@ -24201,7 +24201,7 @@
     {
       "postalCode": "40241",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.299833,
       "lng": -85.572238,
       "storeCount": 2
@@ -24209,7 +24209,7 @@
     {
       "postalCode": "40243-1472",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.246836,
       "lng": -85.526312,
       "storeCount": 1
@@ -24217,7 +24217,7 @@
     {
       "postalCode": "40245",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.290231,
       "lng": -85.511031,
       "storeCount": 1
@@ -24225,7 +24225,7 @@
     {
       "postalCode": "40258",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.148392,
       "lng": -85.853513,
       "storeCount": 2
@@ -24233,7 +24233,7 @@
     {
       "postalCode": "40258-1002",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.127988,
       "lng": -85.850455,
       "storeCount": 1
@@ -24241,7 +24241,7 @@
     {
       "postalCode": "40272",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.084844,
       "lng": -85.879482,
       "storeCount": 1
@@ -24249,7 +24249,7 @@
     {
       "postalCode": "40272-3953",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.103304,
       "lng": -85.868934,
       "storeCount": 1
@@ -24257,7 +24257,7 @@
     {
       "postalCode": "40291",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.134322,
       "lng": -85.580163,
       "storeCount": 1
@@ -24265,7 +24265,7 @@
     {
       "postalCode": "40291-1912",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.163287,
       "lng": -85.597376,
       "storeCount": 1
@@ -24273,7 +24273,7 @@
     {
       "postalCode": "40299",
       "city": "Louisville",
-      "state": "KY",
+      "state": "",
       "lat": 38.197927,
       "lng": -85.540647,
       "storeCount": 3
@@ -24281,7 +24281,7 @@
     {
       "postalCode": "40324",
       "city": "Georgetown",
-      "state": "KY",
+      "state": "",
       "lat": 38.230091,
       "lng": -84.558053,
       "storeCount": 2
@@ -24289,7 +24289,7 @@
     {
       "postalCode": "40324-9729",
       "city": "Georgetown",
-      "state": "KY",
+      "state": "",
       "lat": 38.227479,
       "lng": -84.536083,
       "storeCount": 1
@@ -24313,7 +24313,7 @@
     {
       "postalCode": "40342",
       "city": "Lawrenceburg",
-      "state": "KY",
+      "state": "",
       "lat": 38.068446,
       "lng": -84.918734,
       "storeCount": 1
@@ -24321,7 +24321,7 @@
     {
       "postalCode": "40347",
       "city": "Midway",
-      "state": "KY",
+      "state": "",
       "lat": 38.157878,
       "lng": -84.676491,
       "storeCount": 1
@@ -24329,7 +24329,7 @@
     {
       "postalCode": "40351",
       "city": "Morehead",
-      "state": "KY",
+      "state": "",
       "lat": 38.194395,
       "lng": -83.479895,
       "storeCount": 1
@@ -24337,7 +24337,7 @@
     {
       "postalCode": "40353",
       "city": "Mount Sterling",
-      "state": "KY",
+      "state": "",
       "lat": 38.080381,
       "lng": -83.924108,
       "storeCount": 2
@@ -24353,7 +24353,7 @@
     {
       "postalCode": "40359",
       "city": "Owenton",
-      "state": "KY",
+      "state": "",
       "lat": 38.527657,
       "lng": -84.831379,
       "storeCount": 1
@@ -24361,7 +24361,7 @@
     {
       "postalCode": "40360",
       "city": "Owingsville",
-      "state": "KY",
+      "state": "",
       "lat": 38.129141,
       "lng": -83.75325,
       "storeCount": 1
@@ -24369,7 +24369,7 @@
     {
       "postalCode": "40361-1019",
       "city": "Paris",
-      "state": "KY",
+      "state": "",
       "lat": 38.192412,
       "lng": -84.27707,
       "storeCount": 1
@@ -24433,7 +24433,7 @@
     {
       "postalCode": "40601-3634",
       "city": "Frankfort",
-      "state": "KY",
+      "state": "",
       "lat": 38.19804,
       "lng": -84.830089,
       "storeCount": 1
@@ -24441,7 +24441,7 @@
     {
       "postalCode": "40601-4314",
       "city": "Frankfort",
-      "state": "KY",
+      "state": "",
       "lat": 38.170336,
       "lng": -84.898072,
       "storeCount": 1
@@ -24497,7 +24497,7 @@
     {
       "postalCode": "41008",
       "city": "Carrollton",
-      "state": "KY",
+      "state": "",
       "lat": 38.65089,
       "lng": -85.125071,
       "storeCount": 1
@@ -24505,7 +24505,7 @@
     {
       "postalCode": "41030",
       "city": "Crittenden",
-      "state": "KY",
+      "state": "",
       "lat": 38.786688,
       "lng": -84.604725,
       "storeCount": 1
@@ -24513,7 +24513,7 @@
     {
       "postalCode": "41031",
       "city": "Cynthiana",
-      "state": "KY",
+      "state": "",
       "lat": 38.379594,
       "lng": -84.308638,
       "storeCount": 1
@@ -24521,7 +24521,7 @@
     {
       "postalCode": "41035",
       "city": "Dry Ridge",
-      "state": "KY",
+      "state": "",
       "lat": 38.683255,
       "lng": -84.600204,
       "storeCount": 1
@@ -24529,7 +24529,7 @@
     {
       "postalCode": "41040",
       "city": "Falmouth",
-      "state": "KY",
+      "state": "",
       "lat": 38.677761,
       "lng": -84.344023,
       "storeCount": 1
@@ -24537,7 +24537,7 @@
     {
       "postalCode": "41041",
       "city": "Flemingsburg",
-      "state": "KY",
+      "state": "",
       "lat": 38.420759,
       "lng": -83.754148,
       "storeCount": 1
@@ -24545,7 +24545,7 @@
     {
       "postalCode": "41056",
       "city": "Maysville",
-      "state": "KY",
+      "state": "",
       "lat": 38.643056,
       "lng": -83.778827,
       "storeCount": 1
@@ -24553,7 +24553,7 @@
     {
       "postalCode": "41083",
       "city": "Sanders",
-      "state": "KY",
+      "state": "",
       "lat": 38.693575,
       "lng": -84.938684,
       "storeCount": 1
@@ -24561,7 +24561,7 @@
     {
       "postalCode": "41094",
       "city": "Walton",
-      "state": "KY",
+      "state": "",
       "lat": 38.858595,
       "lng": -84.618628,
       "storeCount": 1
@@ -24569,7 +24569,7 @@
     {
       "postalCode": "41101",
       "city": "Ashland",
-      "state": "KY",
+      "state": "",
       "lat": 38.460741,
       "lng": -82.674872,
       "storeCount": 2
@@ -24577,7 +24577,7 @@
     {
       "postalCode": "41101-7192",
       "city": "Ashland",
-      "state": "KY",
+      "state": "",
       "lat": 38.495628,
       "lng": -82.672361,
       "storeCount": 1
@@ -24585,7 +24585,7 @@
     {
       "postalCode": "41101-7838",
       "city": "Ashland",
-      "state": "KY",
+      "state": "",
       "lat": 38.472071,
       "lng": -82.627199,
       "storeCount": 1
@@ -24593,7 +24593,7 @@
     {
       "postalCode": "41102",
       "city": "Ashland",
-      "state": "KY",
+      "state": "",
       "lat": 38.371836,
       "lng": -82.704238,
       "storeCount": 1
@@ -24601,7 +24601,7 @@
     {
       "postalCode": "41129",
       "city": "Catlettsburg",
-      "state": "KY",
+      "state": "",
       "lat": 38.402533,
       "lng": -82.601424,
       "storeCount": 1
@@ -24609,7 +24609,7 @@
     {
       "postalCode": "41139",
       "city": "Flatwoods",
-      "state": "KY",
+      "state": "",
       "lat": 38.520125,
       "lng": -82.720626,
       "storeCount": 1
@@ -24617,7 +24617,7 @@
     {
       "postalCode": "41143",
       "city": "Grayson",
-      "state": "KY",
+      "state": "",
       "lat": 38.340996,
       "lng": -82.943618,
       "storeCount": 1
@@ -24625,7 +24625,7 @@
     {
       "postalCode": "41144-1222",
       "city": "Greenup",
-      "state": "KY",
+      "state": "",
       "lat": 38.567736,
       "lng": -82.827589,
       "storeCount": 1
@@ -24633,7 +24633,7 @@
     {
       "postalCode": "41164",
       "city": "Olive Hill",
-      "state": "KY",
+      "state": "",
       "lat": 38.304244,
       "lng": -83.161726,
       "storeCount": 1
@@ -24649,7 +24649,7 @@
     {
       "postalCode": "41179",
       "city": "Vanceburg",
-      "state": "KY",
+      "state": "",
       "lat": 38.59181,
       "lng": -83.3266,
       "storeCount": 1
@@ -24657,7 +24657,7 @@
     {
       "postalCode": "41230",
       "city": "Louisa",
-      "state": "KY",
+      "state": "",
       "lat": 38.125412,
       "lng": -82.627443,
       "storeCount": 1
@@ -27585,7 +27585,7 @@
     {
       "postalCode": "45121-9590",
       "city": "Georgetown",
-      "state": "OH",
+      "state": "",
       "lat": 38.862138,
       "lng": -83.886897,
       "storeCount": 1
@@ -28185,7 +28185,7 @@
     {
       "postalCode": "45662",
       "city": "Portsmouth",
-      "state": "OH",
+      "state": "",
       "lat": 38.764029,
       "lng": -82.974432,
       "storeCount": 2
@@ -28193,7 +28193,7 @@
     {
       "postalCode": "45669",
       "city": "Proctorville",
-      "state": "OH",
+      "state": "",
       "lat": 38.438617,
       "lng": -82.387681,
       "storeCount": 1
@@ -28201,7 +28201,7 @@
     {
       "postalCode": "45680",
       "city": "South Point",
-      "state": "OH",
+      "state": "",
       "lat": 38.419428,
       "lng": -82.506776,
       "storeCount": 1
@@ -28217,7 +28217,7 @@
     {
       "postalCode": "45693-9397",
       "city": "West Union",
-      "state": "OH",
+      "state": "",
       "lat": 38.782937,
       "lng": -83.562452,
       "storeCount": 1
@@ -28225,7 +28225,7 @@
     {
       "postalCode": "45694",
       "city": "Wheelersburg",
-      "state": "OH",
+      "state": "",
       "lat": 38.717341,
       "lng": -82.856914,
       "storeCount": 1
@@ -29801,7 +29801,7 @@
     {
       "postalCode": "47111",
       "city": "Charlestown",
-      "state": "IN",
+      "state": "",
       "lat": 38.453099,
       "lng": -85.671264,
       "storeCount": 1
@@ -29809,7 +29809,7 @@
     {
       "postalCode": "47112",
       "city": "Corydon",
-      "state": "IN",
+      "state": "",
       "lat": 38.23069,
       "lng": -86.132218,
       "storeCount": 1
@@ -29817,7 +29817,7 @@
     {
       "postalCode": "47119",
       "city": "Floyds Knobs",
-      "state": "IN",
+      "state": "",
       "lat": 38.314964,
       "lng": -85.897123,
       "storeCount": 1
@@ -29825,7 +29825,7 @@
     {
       "postalCode": "47122-9123",
       "city": "Georgetown",
-      "state": "IN",
+      "state": "",
       "lat": 38.289964,
       "lng": -85.914036,
       "storeCount": 1
@@ -29833,7 +29833,7 @@
     {
       "postalCode": "47129-1706",
       "city": "Clarksville",
-      "state": "IN",
+      "state": "",
       "lat": 38.309233,
       "lng": -85.769586,
       "storeCount": 1
@@ -29841,7 +29841,7 @@
     {
       "postalCode": "47130",
       "city": "Jeffersonville",
-      "state": "IN",
+      "state": "",
       "lat": 38.321389,
       "lng": -85.73034,
       "storeCount": 3
@@ -29849,7 +29849,7 @@
     {
       "postalCode": "47130-5902",
       "city": "Jeffersonville",
-      "state": "IN",
+      "state": "",
       "lat": 38.322936,
       "lng": -85.712075,
       "storeCount": 1
@@ -29857,7 +29857,7 @@
     {
       "postalCode": "47143",
       "city": "Memphis",
-      "state": "IN",
+      "state": "",
       "lat": 38.490941,
       "lng": -85.770092,
       "storeCount": 1
@@ -29865,7 +29865,7 @@
     {
       "postalCode": "47150-2536",
       "city": "New Albany",
-      "state": "IN",
+      "state": "",
       "lat": 38.31618,
       "lng": -85.80502,
       "storeCount": 1
@@ -29873,7 +29873,7 @@
     {
       "postalCode": "47150-4922",
       "city": "New Albany",
-      "state": "IN",
+      "state": "",
       "lat": 38.302987,
       "lng": -85.838212,
       "storeCount": 1
@@ -29881,7 +29881,7 @@
     {
       "postalCode": "47150-7270",
       "city": "New Albany",
-      "state": "IN",
+      "state": "",
       "lat": 38.339388,
       "lng": -85.816244,
       "storeCount": 1
@@ -29889,7 +29889,7 @@
     {
       "postalCode": "47167-1039",
       "city": "Salem",
-      "state": "IN",
+      "state": "",
       "lat": 38.599218,
       "lng": -86.101028,
       "storeCount": 1
@@ -29897,7 +29897,7 @@
     {
       "postalCode": "47170",
       "city": "Scottsburg",
-      "state": "IN",
+      "state": "",
       "lat": 38.685588,
       "lng": -85.79215,
       "storeCount": 1
@@ -29905,7 +29905,7 @@
     {
       "postalCode": "47172-1061",
       "city": "Sellersburg",
-      "state": "IN",
+      "state": "",
       "lat": 38.391406,
       "lng": -85.765733,
       "storeCount": 1
@@ -29937,7 +29937,7 @@
     {
       "postalCode": "47220",
       "city": "Brownstown",
-      "state": "IN",
+      "state": "",
       "lat": 38.88159,
       "lng": -86.039868,
       "storeCount": 1
@@ -29953,7 +29953,7 @@
     {
       "postalCode": "47243",
       "city": "Hanover",
-      "state": "IN",
+      "state": "",
       "lat": 38.7234,
       "lng": -85.467923,
       "storeCount": 1
@@ -30065,7 +30065,7 @@
     {
       "postalCode": "47446-9665",
       "city": "Mitchell",
-      "state": "IN",
+      "state": "",
       "lat": 38.724724,
       "lng": -86.478688,
       "storeCount": 1
@@ -30089,7 +30089,7 @@
     {
       "postalCode": "47469-9415",
       "city": "West Baden Springs",
-      "state": "IN",
+      "state": "",
       "lat": 38.562283,
       "lng": -86.613309,
       "storeCount": 1
@@ -30097,7 +30097,7 @@
     {
       "postalCode": "47501-3760",
       "city": "Washington",
-      "state": "IN",
+      "state": "",
       "lat": 38.652544,
       "lng": -87.158076,
       "storeCount": 1
@@ -30105,7 +30105,7 @@
     {
       "postalCode": "47512",
       "city": "Bicknell",
-      "state": "IN",
+      "state": "",
       "lat": 38.779928,
       "lng": -87.314075,
       "storeCount": 1
@@ -30113,7 +30113,7 @@
     {
       "postalCode": "47532",
       "city": "Ferdinand",
-      "state": "IN",
+      "state": "",
       "lat": 38.208689,
       "lng": -86.866578,
       "storeCount": 1
@@ -30121,7 +30121,7 @@
     {
       "postalCode": "47542",
       "city": "Huntingburg",
-      "state": "IN",
+      "state": "",
       "lat": 38.298542,
       "lng": -86.955934,
       "storeCount": 1
@@ -30129,7 +30129,7 @@
     {
       "postalCode": "47546",
       "city": "Jasper",
-      "state": "IN",
+      "state": "",
       "lat": 38.428059,
       "lng": -86.937365,
       "storeCount": 1
@@ -30137,7 +30137,7 @@
     {
       "postalCode": "47547",
       "city": "Jasper",
-      "state": "IN",
+      "state": "",
       "lat": 38.39004,
       "lng": -86.94049,
       "storeCount": 1
@@ -30145,7 +30145,7 @@
     {
       "postalCode": "47553",
       "city": "Loogootee",
-      "state": "IN",
+      "state": "",
       "lat": 38.674761,
       "lng": -86.912588,
       "storeCount": 1
@@ -30153,7 +30153,7 @@
     {
       "postalCode": "47591-2404",
       "city": "Vincennes",
-      "state": "IN",
+      "state": "",
       "lat": 38.689097,
       "lng": -87.506719,
       "storeCount": 1
@@ -30161,7 +30161,7 @@
     {
       "postalCode": "47591-6338",
       "city": "Vincennes",
-      "state": "IN",
+      "state": "",
       "lat": 38.66513,
       "lng": -87.511166,
       "storeCount": 1
@@ -30177,7 +30177,7 @@
     {
       "postalCode": "47670-1084",
       "city": "Princeton",
-      "state": "IN",
+      "state": "",
       "lat": 38.354779,
       "lng": -87.592073,
       "storeCount": 1
@@ -30185,7 +30185,7 @@
     {
       "postalCode": "47725",
       "city": "Evansville",
-      "state": "IN",
+      "state": "",
       "lat": 38.158076,
       "lng": -87.551809,
       "storeCount": 1
@@ -40209,7 +40209,7 @@
     {
       "postalCode": "62002",
       "city": "Alton",
-      "state": "IL",
+      "state": "",
       "lat": 38.889219,
       "lng": -90.174326,
       "storeCount": 1
@@ -40217,7 +40217,7 @@
     {
       "postalCode": "62010",
       "city": "Bethalto",
-      "state": "IL",
+      "state": "",
       "lat": 38.901253,
       "lng": -90.057612,
       "storeCount": 1
@@ -40225,7 +40225,7 @@
     {
       "postalCode": "62024",
       "city": "East Alton",
-      "state": "IL",
+      "state": "",
       "lat": 38.882791,
       "lng": -90.120674,
       "storeCount": 1
@@ -40233,7 +40233,7 @@
     {
       "postalCode": "62025",
       "city": "Edwardsville",
-      "state": "IL",
+      "state": "",
       "lat": 38.787804,
       "lng": -89.980415,
       "storeCount": 1
@@ -40241,7 +40241,7 @@
     {
       "postalCode": "62025-2537",
       "city": "Edwardsville",
-      "state": "IL",
+      "state": "",
       "lat": 38.793083,
       "lng": -89.950714,
       "storeCount": 1
@@ -40249,7 +40249,7 @@
     {
       "postalCode": "62040",
       "city": "Pontoon Beach",
-      "state": "IL",
+      "state": "",
       "lat": 38.749863,
       "lng": -90.071674,
       "storeCount": 1
@@ -40257,7 +40257,7 @@
     {
       "postalCode": "62040-3831",
       "city": "Granite City",
-      "state": "IL",
+      "state": "",
       "lat": 38.723599,
       "lng": -90.121434,
       "storeCount": 1
@@ -40265,7 +40265,7 @@
     {
       "postalCode": "62040-4618",
       "city": "Granite City",
-      "state": "IL",
+      "state": "",
       "lat": 38.700857,
       "lng": -90.145529,
       "storeCount": 1
@@ -40273,7 +40273,7 @@
     {
       "postalCode": "62046",
       "city": "Hamel",
-      "state": "IL",
+      "state": "",
       "lat": 38.890021,
       "lng": -89.834815,
       "storeCount": 1
@@ -40289,7 +40289,7 @@
     {
       "postalCode": "62095",
       "city": "Wood River",
-      "state": "IL",
+      "state": "",
       "lat": 38.864878,
       "lng": -90.07749,
       "storeCount": 1
@@ -40297,7 +40297,7 @@
     {
       "postalCode": "62205",
       "city": "East St Louis",
-      "state": "IL",
+      "state": "",
       "lat": 38.616074,
       "lng": -90.128191,
       "storeCount": 1
@@ -40305,7 +40305,7 @@
     {
       "postalCode": "62206",
       "city": "East Saint Louis",
-      "state": "IL",
+      "state": "",
       "lat": 38.562944,
       "lng": -90.177504,
       "storeCount": 1
@@ -40313,7 +40313,7 @@
     {
       "postalCode": "62208",
       "city": "Fairview Heights",
-      "state": "IL",
+      "state": "",
       "lat": 38.591174,
       "lng": -89.984255,
       "storeCount": 1
@@ -40321,7 +40321,7 @@
     {
       "postalCode": "62220",
       "city": "Belleville",
-      "state": "IL",
+      "state": "",
       "lat": 38.502964,
       "lng": -89.982147,
       "storeCount": 1
@@ -40329,7 +40329,7 @@
     {
       "postalCode": "62221",
       "city": "Belleville",
-      "state": "IL",
+      "state": "",
       "lat": 38.54376,
       "lng": -89.939511,
       "storeCount": 2
@@ -40337,7 +40337,7 @@
     {
       "postalCode": "62223",
       "city": "Belleville",
-      "state": "IL",
+      "state": "",
       "lat": 38.544727,
       "lng": -90.051891,
       "storeCount": 1
@@ -40345,7 +40345,7 @@
     {
       "postalCode": "62226",
       "city": "Swansea",
-      "state": "IL",
+      "state": "",
       "lat": 38.542084,
       "lng": -89.984309,
       "storeCount": 1
@@ -40353,7 +40353,7 @@
     {
       "postalCode": "62230",
       "city": "Breese",
-      "state": "IL",
+      "state": "",
       "lat": 38.620013,
       "lng": -89.52646,
       "storeCount": 1
@@ -40361,7 +40361,7 @@
     {
       "postalCode": "62231",
       "city": "Carlyle",
-      "state": "IL",
+      "state": "",
       "lat": 38.627392,
       "lng": -89.371908,
       "storeCount": 1
@@ -40369,7 +40369,7 @@
     {
       "postalCode": "62232",
       "city": "Caseyville",
-      "state": "IL",
+      "state": "",
       "lat": 38.613164,
       "lng": -90.045836,
       "storeCount": 1
@@ -40385,7 +40385,7 @@
     {
       "postalCode": "62234",
       "city": "Collinsville",
-      "state": "IL",
+      "state": "",
       "lat": 38.679085,
       "lng": -90.011198,
       "storeCount": 1
@@ -40393,7 +40393,7 @@
     {
       "postalCode": "62234-4411",
       "city": "Collinsville",
-      "state": "IL",
+      "state": "",
       "lat": 38.691357,
       "lng": -89.976936,
       "storeCount": 1
@@ -40401,7 +40401,7 @@
     {
       "postalCode": "62236-9803",
       "city": "Columbia",
-      "state": "IL",
+      "state": "",
       "lat": 38.446811,
       "lng": -90.218432,
       "storeCount": 1
@@ -40409,7 +40409,7 @@
     {
       "postalCode": "62243",
       "city": "Freeburg",
-      "state": "IL",
+      "state": "",
       "lat": 38.437312,
       "lng": -89.915088,
       "storeCount": 1
@@ -40417,7 +40417,7 @@
     {
       "postalCode": "62249-1114",
       "city": "Highland",
-      "state": "IL",
+      "state": "",
       "lat": 38.754122,
       "lng": -89.68074,
       "storeCount": 1
@@ -40425,7 +40425,7 @@
     {
       "postalCode": "62254",
       "city": "Lebanon",
-      "state": "IL",
+      "state": "",
       "lat": 38.596908,
       "lng": -89.808372,
       "storeCount": 1
@@ -40433,7 +40433,7 @@
     {
       "postalCode": "62258",
       "city": "Mascoutah",
-      "state": "IL",
+      "state": "",
       "lat": 38.496948,
       "lng": -89.794093,
       "storeCount": 1
@@ -40441,7 +40441,7 @@
     {
       "postalCode": "62263-0267",
       "city": "Nashville",
-      "state": "IL",
+      "state": "",
       "lat": 38.385696,
       "lng": -89.371749,
       "storeCount": 1
@@ -40449,7 +40449,7 @@
     {
       "postalCode": "62265",
       "city": "New Baden",
-      "state": "IL",
+      "state": "",
       "lat": 38.534877,
       "lng": -89.72094,
       "storeCount": 1
@@ -40457,7 +40457,7 @@
     {
       "postalCode": "62269",
       "city": "O Fallon",
-      "state": "IL",
+      "state": "",
       "lat": 38.588774,
       "lng": -89.932187,
       "storeCount": 2
@@ -40465,7 +40465,7 @@
     {
       "postalCode": "62278",
       "city": "Red Bud",
-      "state": "IL",
+      "state": "",
       "lat": 38.19895,
       "lng": -89.993409,
       "storeCount": 1
@@ -40473,7 +40473,7 @@
     {
       "postalCode": "62286",
       "city": "Sparta",
-      "state": "IL",
+      "state": "",
       "lat": 38.138898,
       "lng": -89.70304,
       "storeCount": 1
@@ -40481,7 +40481,7 @@
     {
       "postalCode": "62294-1375",
       "city": "Troy",
-      "state": "IL",
+      "state": "",
       "lat": 38.731879,
       "lng": -89.906081,
       "storeCount": 1
@@ -40489,7 +40489,7 @@
     {
       "postalCode": "62298",
       "city": "Waterloo",
-      "state": "IL",
+      "state": "",
       "lat": 38.354138,
       "lng": -90.153876,
       "storeCount": 1
@@ -40521,7 +40521,7 @@
     {
       "postalCode": "62439",
       "city": "Lawrenceville",
-      "state": "IL",
+      "state": "",
       "lat": 38.726941,
       "lng": -87.700372,
       "storeCount": 1
@@ -40537,7 +40537,7 @@
     {
       "postalCode": "62450-2619",
       "city": "Olney",
-      "state": "IL",
+      "state": "",
       "lat": 38.730898,
       "lng": -88.079318,
       "storeCount": 1
@@ -40713,7 +40713,7 @@
     {
       "postalCode": "62801-3327",
       "city": "Centralia",
-      "state": "IL",
+      "state": "",
       "lat": 38.526405,
       "lng": -89.12487,
       "storeCount": 1
@@ -40721,7 +40721,7 @@
     {
       "postalCode": "62806",
       "city": "Albion",
-      "state": "IL",
+      "state": "",
       "lat": 38.377347,
       "lng": -88.059757,
       "storeCount": 1
@@ -40729,7 +40729,7 @@
     {
       "postalCode": "62837-2326",
       "city": "Fairfield",
-      "state": "IL",
+      "state": "",
       "lat": 38.379374,
       "lng": -88.377109,
       "storeCount": 1
@@ -40737,7 +40737,7 @@
     {
       "postalCode": "62839",
       "city": "Flora",
-      "state": "IL",
+      "state": "",
       "lat": 38.679365,
       "lng": -88.490314,
       "storeCount": 1
@@ -40745,7 +40745,7 @@
     {
       "postalCode": "62846",
       "city": "Ina",
-      "state": "IL",
+      "state": "",
       "lat": 38.155516,
       "lng": -88.910872,
       "storeCount": 1
@@ -40753,7 +40753,7 @@
     {
       "postalCode": "62863",
       "city": "Mount Carmel",
-      "state": "IL",
+      "state": "",
       "lat": 38.415741,
       "lng": -87.763553,
       "storeCount": 1
@@ -40761,7 +40761,7 @@
     {
       "postalCode": "62864",
       "city": "Mount Vernon",
-      "state": "IL",
+      "state": "",
       "lat": 38.314129,
       "lng": -88.956147,
       "storeCount": 1
@@ -40769,7 +40769,7 @@
     {
       "postalCode": "62864-2301",
       "city": "Mount Vernon",
-      "state": "IL",
+      "state": "",
       "lat": 38.315523,
       "lng": -88.926468,
       "storeCount": 1
@@ -40777,7 +40777,7 @@
     {
       "postalCode": "62881",
       "city": "Salem",
-      "state": "IL",
+      "state": "",
       "lat": 38.625297,
       "lng": -88.9652,
       "storeCount": 1
@@ -40889,7 +40889,7 @@
     {
       "postalCode": "63005",
       "city": "Chesterfield",
-      "state": "MO",
+      "state": "",
       "lat": 38.667596,
       "lng": -90.616912,
       "storeCount": 1
@@ -40897,7 +40897,7 @@
     {
       "postalCode": "63010",
       "city": "Arnold",
-      "state": "MO",
+      "state": "",
       "lat": 38.431702,
       "lng": -90.383308,
       "storeCount": 2
@@ -40905,7 +40905,7 @@
     {
       "postalCode": "63011",
       "city": "Ellisville",
-      "state": "MO",
+      "state": "",
       "lat": 38.59335,
       "lng": -90.544163,
       "storeCount": 3
@@ -40913,7 +40913,7 @@
     {
       "postalCode": "63012",
       "city": "Barnhart",
-      "state": "MO",
+      "state": "",
       "lat": 38.349418,
       "lng": -90.405676,
       "storeCount": 1
@@ -40921,7 +40921,7 @@
     {
       "postalCode": "63017",
       "city": "Chesterfield",
-      "state": "MO",
+      "state": "",
       "lat": 38.634806,
       "lng": -90.541746,
       "storeCount": 2
@@ -40929,7 +40929,7 @@
     {
       "postalCode": "63017-3112",
       "city": "Chesterfield",
-      "state": "MO",
+      "state": "",
       "lat": 38.68012,
       "lng": -90.501009,
       "storeCount": 1
@@ -40937,7 +40937,7 @@
     {
       "postalCode": "63020",
       "city": "De Soto",
-      "state": "MO",
+      "state": "",
       "lat": 38.14432,
       "lng": -90.58058,
       "storeCount": 1
@@ -40953,7 +40953,7 @@
     {
       "postalCode": "63026",
       "city": "Fenton",
-      "state": "MO",
+      "state": "",
       "lat": 38.515314,
       "lng": -90.469105,
       "storeCount": 3
@@ -40961,7 +40961,7 @@
     {
       "postalCode": "63033",
       "city": "Florissant",
-      "state": "MO",
+      "state": "",
       "lat": 38.803604,
       "lng": -90.264385,
       "storeCount": 2
@@ -40969,7 +40969,7 @@
     {
       "postalCode": "63042",
       "city": "Hazelwood",
-      "state": "MO",
+      "state": "",
       "lat": 38.773857,
       "lng": -90.335791,
       "storeCount": 1
@@ -40977,7 +40977,7 @@
     {
       "postalCode": "63043",
       "city": "Maryland Heights",
-      "state": "MO",
+      "state": "",
       "lat": 38.714223,
       "lng": -90.456695,
       "storeCount": 1
@@ -40985,7 +40985,7 @@
     {
       "postalCode": "63045",
       "city": "Earth City",
-      "state": "MO",
+      "state": "",
       "lat": 38.761888,
       "lng": -90.454873,
       "storeCount": 1
@@ -40993,7 +40993,7 @@
     {
       "postalCode": "63049",
       "city": "High Ridge",
-      "state": "MO",
+      "state": "",
       "lat": 38.463335,
       "lng": -90.524168,
       "storeCount": 1
@@ -41001,7 +41001,7 @@
     {
       "postalCode": "63050",
       "city": "Hillsboro",
-      "state": "MO",
+      "state": "",
       "lat": 38.248089,
       "lng": -90.558028,
       "storeCount": 1
@@ -41009,7 +41009,7 @@
     {
       "postalCode": "63051",
       "city": "Byrnes Mill",
-      "state": "MO",
+      "state": "",
       "lat": 38.41267,
       "lng": -90.58325,
       "storeCount": 1
@@ -41033,7 +41033,7 @@
     {
       "postalCode": "63070-1314",
       "city": "Pevely",
-      "state": "MO",
+      "state": "",
       "lat": 38.287601,
       "lng": -90.404482,
       "storeCount": 1
@@ -41041,7 +41041,7 @@
     {
       "postalCode": "63074",
       "city": "Saint Ann",
-      "state": "MO",
+      "state": "",
       "lat": 38.73349,
       "lng": -90.390918,
       "storeCount": 1
@@ -41057,7 +41057,7 @@
     {
       "postalCode": "63080",
       "city": "Sullivan",
-      "state": "MO",
+      "state": "",
       "lat": 38.218593,
       "lng": -91.162562,
       "storeCount": 1
@@ -41073,7 +41073,7 @@
     {
       "postalCode": "63088",
       "city": "Valley Park",
-      "state": "MO",
+      "state": "",
       "lat": 38.56686,
       "lng": -90.476976,
       "storeCount": 1
@@ -41089,7 +41089,7 @@
     {
       "postalCode": "63101",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.636908,
       "lng": -90.195483,
       "storeCount": 1
@@ -41097,7 +41097,7 @@
     {
       "postalCode": "63104",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.612495,
       "lng": -90.221972,
       "storeCount": 1
@@ -41105,7 +41105,7 @@
     {
       "postalCode": "63108",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.639053,
       "lng": -90.243767,
       "storeCount": 1
@@ -41113,7 +41113,7 @@
     {
       "postalCode": "63109",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.589597,
       "lng": -90.284908,
       "storeCount": 2
@@ -41121,7 +41121,7 @@
     {
       "postalCode": "63114",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.698194,
       "lng": -90.353918,
       "storeCount": 2
@@ -41129,7 +41129,7 @@
     {
       "postalCode": "63115",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.676173,
       "lng": -90.250699,
       "storeCount": 1
@@ -41137,7 +41137,7 @@
     {
       "postalCode": "63119",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.587142,
       "lng": -90.32871,
       "storeCount": 2
@@ -41145,7 +41145,7 @@
     {
       "postalCode": "63121",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.700575,
       "lng": -90.290743,
       "storeCount": 1
@@ -41153,7 +41153,7 @@
     {
       "postalCode": "63122",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.577091,
       "lng": -90.406013,
       "storeCount": 1
@@ -41161,7 +41161,7 @@
     {
       "postalCode": "63123",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.521984,
       "lng": -90.346413,
       "storeCount": 1
@@ -41169,7 +41169,7 @@
     {
       "postalCode": "63125",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.54598,
       "lng": -90.287693,
       "storeCount": 1
@@ -41177,7 +41177,7 @@
     {
       "postalCode": "63126",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.55704,
       "lng": -90.393754,
       "storeCount": 1
@@ -41185,7 +41185,7 @@
     {
       "postalCode": "63128",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.49399,
       "lng": -90.380927,
       "storeCount": 1
@@ -41193,7 +41193,7 @@
     {
       "postalCode": "63129",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.486258,
       "lng": -90.319455,
       "storeCount": 2
@@ -41201,7 +41201,7 @@
     {
       "postalCode": "63130",
       "city": "University City",
-      "state": "MO",
+      "state": "",
       "lat": 38.673931,
       "lng": -90.347048,
       "storeCount": 1
@@ -41209,7 +41209,7 @@
     {
       "postalCode": "63131",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.602058,
       "lng": -90.438545,
       "storeCount": 1
@@ -41217,7 +41217,7 @@
     {
       "postalCode": "63132",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.682781,
       "lng": -90.383187,
       "storeCount": 2
@@ -41225,7 +41225,7 @@
     {
       "postalCode": "63136",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.747812,
       "lng": -90.262452,
       "storeCount": 2
@@ -41233,7 +41233,7 @@
     {
       "postalCode": "63138",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.772799,
       "lng": -90.220695,
       "storeCount": 1
@@ -41241,7 +41241,7 @@
     {
       "postalCode": "63139",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.624458,
       "lng": -90.287483,
       "storeCount": 1
@@ -41249,7 +41249,7 @@
     {
       "postalCode": "63141",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.671734,
       "lng": -90.437091,
       "storeCount": 1
@@ -41257,7 +41257,7 @@
     {
       "postalCode": "63144",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.626693,
       "lng": -90.335484,
       "storeCount": 1
@@ -41265,7 +41265,7 @@
     {
       "postalCode": "63146",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.700298,
       "lng": -90.443806,
       "storeCount": 1
@@ -41273,7 +41273,7 @@
     {
       "postalCode": "63147",
       "city": "Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.685236,
       "lng": -90.217882,
       "storeCount": 1
@@ -41281,7 +41281,7 @@
     {
       "postalCode": "63301",
       "city": "Saint Charles",
-      "state": "MO",
+      "state": "",
       "lat": 38.795974,
       "lng": -90.502713,
       "storeCount": 2
@@ -41289,7 +41289,7 @@
     {
       "postalCode": "63303",
       "city": "Saint Charles",
-      "state": "MO",
+      "state": "",
       "lat": 38.755979,
       "lng": -90.546532,
       "storeCount": 3
@@ -41297,7 +41297,7 @@
     {
       "postalCode": "63304",
       "city": "Saint Peters",
-      "state": "MO",
+      "state": "",
       "lat": 38.739573,
       "lng": -90.634437,
       "storeCount": 1
@@ -41313,7 +41313,7 @@
     {
       "postalCode": "63348",
       "city": "Foristell",
-      "state": "MO",
+      "state": "",
       "lat": 38.815016,
       "lng": -90.952542,
       "storeCount": 1
@@ -41321,7 +41321,7 @@
     {
       "postalCode": "63366",
       "city": "O Fallon",
-      "state": "MO",
+      "state": "",
       "lat": 38.797213,
       "lng": -90.721146,
       "storeCount": 5
@@ -41329,7 +41329,7 @@
     {
       "postalCode": "63367",
       "city": "Lake Saint Louis",
-      "state": "MO",
+      "state": "",
       "lat": 38.76891,
       "lng": -90.782521,
       "storeCount": 1
@@ -41337,7 +41337,7 @@
     {
       "postalCode": "63368",
       "city": "O Fallon",
-      "state": "MO",
+      "state": "",
       "lat": 38.721029,
       "lng": -90.699666,
       "storeCount": 1
@@ -41345,7 +41345,7 @@
     {
       "postalCode": "63376",
       "city": "Saint Peters",
-      "state": "MO",
+      "state": "",
       "lat": 38.791166,
       "lng": -90.613545,
       "storeCount": 4
@@ -41353,7 +41353,7 @@
     {
       "postalCode": "63383-1369",
       "city": "Warrenton",
-      "state": "MO",
+      "state": "",
       "lat": 38.823141,
       "lng": -91.139001,
       "storeCount": 1
@@ -41361,7 +41361,7 @@
     {
       "postalCode": "63385",
       "city": "Wentzville",
-      "state": "MO",
+      "state": "",
       "lat": 38.815963,
       "lng": -90.859275,
       "storeCount": 2
@@ -41369,7 +41369,7 @@
     {
       "postalCode": "63390",
       "city": "Wright City",
-      "state": "MO",
+      "state": "",
       "lat": 38.829406,
       "lng": -91.042214,
       "storeCount": 1
@@ -41537,7 +41537,7 @@
     {
       "postalCode": "63957-0245",
       "city": "Piedmont",
-      "state": "",
+      "state": "MO",
       "lat": 37.145145,
       "lng": -90.700053,
       "storeCount": 1
@@ -52177,7 +52177,7 @@
     {
       "postalCode": "79912",
       "city": "El Paso",
-      "state": "",
+      "state": "TX",
       "lat": 31.836163,
       "lng": -106.565288,
       "storeCount": 1
@@ -57649,7 +57649,7 @@
     {
       "postalCode": "91042",
       "city": "Tujunga",
-      "state": "",
+      "state": "CA",
       "lat": 34.244872,
       "lng": -118.274215,
       "storeCount": 1
@@ -59521,7 +59521,7 @@
     {
       "postalCode": "92865",
       "city": "Orange",
-      "state": "",
+      "state": "CA",
       "lat": 33.828655,
       "lng": -117.835571,
       "storeCount": 1
@@ -65641,14 +65641,6 @@
       "storeCount": 1
     },
     {
-      "slug": "albion-il",
-      "city": "Albion",
-      "state": "IL",
-      "lat": 38.377347,
-      "lng": -88.059757,
-      "storeCount": 1
-    },
-    {
       "slug": "albuquerque-nm",
       "city": "Albuquerque",
       "state": "NM",
@@ -65742,14 +65734,6 @@
       "state": "CA",
       "lat": 34.182667,
       "lng": -118.16008,
-      "storeCount": 1
-    },
-    {
-      "slug": "alton-il",
-      "city": "Alton",
-      "state": "IL",
-      "lat": 38.889219,
-      "lng": -90.174326,
       "storeCount": 1
     },
     {
@@ -66049,14 +66033,6 @@
       "storeCount": 14
     },
     {
-      "slug": "arnold-mo",
-      "city": "Arnold",
-      "state": "MO",
-      "lat": 38.431702,
-      "lng": -90.383308,
-      "storeCount": 2
-    },
-    {
       "slug": "artesia-ca",
       "city": "Artesia",
       "state": "CA",
@@ -66135,14 +66111,6 @@
       "lat": 36.273104,
       "lng": -87.062253,
       "storeCount": 1
-    },
-    {
-      "slug": "ashland-ky",
-      "city": "Ashland",
-      "state": "KY",
-      "lat": 38.452203,
-      "lng": -82.670709,
-      "storeCount": 5
     },
     {
       "slug": "ashland-mo",
@@ -66401,14 +66369,6 @@
       "storeCount": 1
     },
     {
-      "slug": "ballwin-mo",
-      "city": "Ballwin",
-      "state": "MO",
-      "lat": 38.593536,
-      "lng": -90.523043,
-      "storeCount": 2
-    },
-    {
       "slug": "bamberg-sc",
       "city": "Bamberg",
       "state": "SC",
@@ -66438,14 +66398,6 @@
       "state": "KY",
       "lat": 36.857727,
       "lng": -83.870406,
-      "storeCount": 1
-    },
-    {
-      "slug": "barnhart-mo",
-      "city": "Barnhart",
-      "state": "MO",
-      "lat": 38.349418,
-      "lng": -90.405676,
       "storeCount": 1
     },
     {
@@ -66697,14 +66649,6 @@
       "storeCount": 1
     },
     {
-      "slug": "belleville-il",
-      "city": "Belleville",
-      "state": "IL",
-      "lat": 38.533803,
-      "lng": -89.978265,
-      "storeCount": 4
-    },
-    {
       "slug": "bellflower-ca",
       "city": "Bellflower",
       "state": "CA",
@@ -66825,14 +66769,6 @@
       "storeCount": 3
     },
     {
-      "slug": "bethalto-il",
-      "city": "Bethalto",
-      "state": "IL",
-      "lat": 38.901253,
-      "lng": -90.057612,
-      "storeCount": 1
-    },
-    {
       "slug": "bethany-ok",
       "city": "Bethany",
       "state": "OK",
@@ -66854,14 +66790,6 @@
       "state": "TX",
       "lat": 31.524516,
       "lng": -97.141531,
-      "storeCount": 1
-    },
-    {
-      "slug": "bicknell-in",
-      "city": "Bicknell",
-      "state": "IN",
-      "lat": 38.779928,
-      "lng": -87.314075,
       "storeCount": 1
     },
     {
@@ -67289,14 +67217,6 @@
       "storeCount": 1
     },
     {
-      "slug": "breese-il",
-      "city": "Breese",
-      "state": "IL",
-      "lat": 38.620013,
-      "lng": -89.52646,
-      "storeCount": 1
-    },
-    {
       "slug": "bremen-ga",
       "city": "Bremen",
       "state": "GA",
@@ -67398,14 +67318,6 @@
       "state": "TX",
       "lat": 33.181822,
       "lng": -102.273683,
-      "storeCount": 1
-    },
-    {
-      "slug": "brownstown-in",
-      "city": "Brownstown",
-      "state": "IN",
-      "lat": 38.88159,
-      "lng": -86.039868,
       "storeCount": 1
     },
     {
@@ -67590,14 +67502,6 @@
       "state": "CA",
       "lat": 35.403215,
       "lng": -119.400594,
-      "storeCount": 1
-    },
-    {
-      "slug": "byrnes-mill-mo",
-      "city": "Byrnes Mill",
-      "state": "MO",
-      "lat": 38.41267,
-      "lng": -90.58325,
       "storeCount": 1
     },
     {
@@ -67889,14 +67793,6 @@
       "storeCount": 3
     },
     {
-      "slug": "carlyle-il",
-      "city": "Carlyle",
-      "state": "IL",
-      "lat": 38.627392,
-      "lng": -89.371908,
-      "storeCount": 1
-    },
-    {
       "slug": "carmichael-ca",
       "city": "Carmichael",
       "state": "CA",
@@ -67927,14 +67823,6 @@
       "lat": 33.581927,
       "lng": -85.07099,
       "storeCount": 4
-    },
-    {
-      "slug": "carrollton-ky",
-      "city": "Carrollton",
-      "state": "KY",
-      "lat": 38.65089,
-      "lng": -85.125071,
-      "storeCount": 1
     },
     {
       "slug": "carrollton-tx",
@@ -68009,14 +67897,6 @@
       "storeCount": 2
     },
     {
-      "slug": "caseyville-il",
-      "city": "Caseyville",
-      "state": "IL",
-      "lat": 38.613164,
-      "lng": -90.045836,
-      "storeCount": 1
-    },
-    {
       "slug": "casselberry-fl",
       "city": "Casselberry",
       "state": "FL",
@@ -68062,14 +67942,6 @@
       "state": "AZ",
       "lat": 32.494239,
       "lng": -110.926274,
-      "storeCount": 1
-    },
-    {
-      "slug": "catlettsburg-ky",
-      "city": "Catlettsburg",
-      "state": "KY",
-      "lat": 38.402533,
-      "lng": -82.601424,
       "storeCount": 1
     },
     {
@@ -68150,14 +68022,6 @@
       "state": "KY",
       "lat": 37.289507,
       "lng": -87.119365,
-      "storeCount": 1
-    },
-    {
-      "slug": "centralia-il",
-      "city": "Centralia",
-      "state": "IL",
-      "lat": 38.526405,
-      "lng": -89.12487,
       "storeCount": 1
     },
     {
@@ -68246,14 +68110,6 @@
       "state": "TN",
       "lat": 35.2908,
       "lng": -84.817595,
-      "storeCount": 1
-    },
-    {
-      "slug": "charlestown-in",
-      "city": "Charlestown",
-      "state": "IN",
-      "lat": 38.453099,
-      "lng": -85.671264,
       "storeCount": 1
     },
     {
@@ -68351,14 +68207,6 @@
       "lat": 37.35777,
       "lng": -77.419443,
       "storeCount": 3
-    },
-    {
-      "slug": "chesterfield-mo",
-      "city": "Chesterfield",
-      "state": "MO",
-      "lat": 38.654332,
-      "lng": -90.550353,
-      "storeCount": 4
     },
     {
       "slug": "chesterfield-va",
@@ -68502,14 +68350,6 @@
       "state": "AR",
       "lat": 35.45478,
       "lng": -93.465452,
-      "storeCount": 1
-    },
-    {
-      "slug": "clarksville-in",
-      "city": "Clarksville",
-      "state": "IN",
-      "lat": 38.309233,
-      "lng": -85.769586,
       "storeCount": 1
     },
     {
@@ -68793,14 +68633,6 @@
       "storeCount": 1
     },
     {
-      "slug": "collinsville-il",
-      "city": "Collinsville",
-      "state": "IL",
-      "lat": 38.685221,
-      "lng": -89.994067,
-      "storeCount": 2
-    },
-    {
       "slug": "collinsville-ok",
       "city": "Collinsville",
       "state": "OK",
@@ -68823,14 +68655,6 @@
       "lat": 38.854878,
       "lng": -104.775801,
       "storeCount": 17
-    },
-    {
-      "slug": "columbia-il",
-      "city": "Columbia",
-      "state": "IL",
-      "lat": 38.446811,
-      "lng": -90.218432,
-      "storeCount": 1
     },
     {
       "slug": "columbia-la",
@@ -69065,14 +68889,6 @@
       "storeCount": 1
     },
     {
-      "slug": "corydon-in",
-      "city": "Corydon",
-      "state": "IN",
-      "lat": 38.23069,
-      "lng": -86.132218,
-      "storeCount": 1
-    },
-    {
       "slug": "costa-mesa-ca",
       "city": "Costa Mesa",
       "state": "CA",
@@ -69177,22 +68993,6 @@
       "storeCount": 3
     },
     {
-      "slug": "crestwood-ky",
-      "city": "Crestwood",
-      "state": "KY",
-      "lat": 38.329716,
-      "lng": -85.465187,
-      "storeCount": 1
-    },
-    {
-      "slug": "crittenden-ky",
-      "city": "Crittenden",
-      "state": "KY",
-      "lat": 38.786688,
-      "lng": -84.604725,
-      "storeCount": 1
-    },
-    {
       "slug": "crockett-tx",
       "city": "Crockett",
       "state": "TX",
@@ -69287,14 +69087,6 @@
       "lat": 25.578626,
       "lng": -80.351765,
       "storeCount": 2
-    },
-    {
-      "slug": "cynthiana-ky",
-      "city": "Cynthiana",
-      "state": "KY",
-      "lat": 38.379594,
-      "lng": -84.308638,
-      "storeCount": 1
     },
     {
       "slug": "cypress-ca",
@@ -69503,14 +69295,6 @@
       "lat": 29.20389,
       "lng": -81.064275,
       "storeCount": 5
-    },
-    {
-      "slug": "de-soto-mo",
-      "city": "De Soto",
-      "state": "MO",
-      "lat": 38.14432,
-      "lng": -90.58058,
-      "storeCount": 1
     },
     {
       "slug": "decatur-al",
@@ -69889,14 +69673,6 @@
       "storeCount": 1
     },
     {
-      "slug": "dry-ridge-ky",
-      "city": "Dry Ridge",
-      "state": "KY",
-      "lat": 38.683255,
-      "lng": -84.600204,
-      "storeCount": 1
-    },
-    {
       "slug": "duarte-ca",
       "city": "Duarte",
       "state": "CA",
@@ -70017,27 +69793,11 @@
       "storeCount": 1
     },
     {
-      "slug": "earth-city-mo",
-      "city": "Earth City",
-      "state": "MO",
-      "lat": 38.761888,
-      "lng": -90.454873,
-      "storeCount": 1
-    },
-    {
       "slug": "easley-sc",
       "city": "Easley",
       "state": "SC",
       "lat": 34.82638,
       "lng": -82.569254,
-      "storeCount": 1
-    },
-    {
-      "slug": "east-alton-il",
-      "city": "East Alton",
-      "state": "IL",
-      "lat": 38.882791,
-      "lng": -90.120674,
       "storeCount": 1
     },
     {
@@ -70087,22 +69847,6 @@
       "lat": 33.664954,
       "lng": -84.446458,
       "storeCount": 3
-    },
-    {
-      "slug": "east-saint-louis-il",
-      "city": "East Saint Louis",
-      "state": "IL",
-      "lat": 38.562944,
-      "lng": -90.177504,
-      "storeCount": 1
-    },
-    {
-      "slug": "east-st-louis-il",
-      "city": "East St Louis",
-      "state": "IL",
-      "lat": 38.616074,
-      "lng": -90.128191,
-      "storeCount": 1
     },
     {
       "slug": "eastland-tx",
@@ -70167,14 +69911,6 @@
       "lat": 35.65443,
       "lng": -97.478676,
       "storeCount": 8
-    },
-    {
-      "slug": "edwardsville-il",
-      "city": "Edwardsville",
-      "state": "IL",
-      "lat": 38.790444,
-      "lng": -89.965564,
-      "storeCount": 2
     },
     {
       "slug": "el-cajon-ca",
@@ -70260,9 +69996,9 @@
       "slug": "el-paso-tx",
       "city": "El Paso",
       "state": "TX",
-      "lat": 31.748417,
-      "lng": -106.33578,
-      "storeCount": 20
+      "lat": 31.752596,
+      "lng": -106.346709,
+      "storeCount": 21
     },
     {
       "slug": "el-reno-ok",
@@ -70385,14 +70121,6 @@
       "storeCount": 2
     },
     {
-      "slug": "ellisville-mo",
-      "city": "Ellisville",
-      "state": "MO",
-      "lat": 38.592977,
-      "lng": -90.586402,
-      "storeCount": 1
-    },
-    {
       "slug": "ellisville-ms",
       "city": "Ellisville",
       "state": "MS",
@@ -70422,14 +70150,6 @@
       "state": "GA",
       "lat": 34.119006,
       "lng": -84.743488,
-      "storeCount": 1
-    },
-    {
-      "slug": "eminence-ky",
-      "city": "Eminence",
-      "state": "KY",
-      "lat": 38.370342,
-      "lng": -85.17952,
       "storeCount": 1
     },
     {
@@ -70585,14 +70305,6 @@
       "storeCount": 2
     },
     {
-      "slug": "evansville-in",
-      "city": "Evansville",
-      "state": "IN",
-      "lat": 38.158076,
-      "lng": -87.551809,
-      "storeCount": 1
-    },
-    {
       "slug": "evergreen-al",
       "city": "Evergreen",
       "state": "AL",
@@ -70657,14 +70369,6 @@
       "storeCount": 5
     },
     {
-      "slug": "fairfield-il",
-      "city": "Fairfield",
-      "state": "IL",
-      "lat": 38.379374,
-      "lng": -88.377109,
-      "storeCount": 1
-    },
-    {
       "slug": "fairfield-tx",
       "city": "Fairfield",
       "state": "TX",
@@ -70697,14 +70401,6 @@
       "storeCount": 1
     },
     {
-      "slug": "fairview-heights-il",
-      "city": "Fairview Heights",
-      "state": "IL",
-      "lat": 38.591174,
-      "lng": -89.984255,
-      "storeCount": 1
-    },
-    {
       "slug": "falfurrias-tx",
       "city": "Falfurrias",
       "state": "TX",
@@ -70726,14 +70422,6 @@
       "state": "CA",
       "lat": 33.371479,
       "lng": -117.252086,
-      "storeCount": 1
-    },
-    {
-      "slug": "falmouth-ky",
-      "city": "Falmouth",
-      "state": "KY",
-      "lat": 38.677761,
-      "lng": -84.344023,
       "storeCount": 1
     },
     {
@@ -70825,22 +70513,6 @@
       "storeCount": 9
     },
     {
-      "slug": "fenton-mo",
-      "city": "Fenton",
-      "state": "MO",
-      "lat": 38.515314,
-      "lng": -90.469105,
-      "storeCount": 3
-    },
-    {
-      "slug": "ferdinand-in",
-      "city": "Ferdinand",
-      "state": "IN",
-      "lat": 38.208689,
-      "lng": -86.866578,
-      "storeCount": 1
-    },
-    {
       "slug": "fern-park-fl",
       "city": "Fern Park",
       "state": "FL",
@@ -70921,35 +70593,11 @@
       "storeCount": 1
     },
     {
-      "slug": "flatwoods-ky",
-      "city": "Flatwoods",
-      "state": "KY",
-      "lat": 38.520125,
-      "lng": -82.720626,
-      "storeCount": 1
-    },
-    {
-      "slug": "flemingsburg-ky",
-      "city": "Flemingsburg",
-      "state": "KY",
-      "lat": 38.420759,
-      "lng": -83.754148,
-      "storeCount": 1
-    },
-    {
       "slug": "fletcher-nc",
       "city": "Fletcher",
       "state": "NC",
       "lat": 35.443826,
       "lng": -82.533673,
-      "storeCount": 1
-    },
-    {
-      "slug": "flora-il",
-      "city": "Flora",
-      "state": "IL",
-      "lat": 38.679365,
-      "lng": -88.490314,
       "storeCount": 1
     },
     {
@@ -70977,14 +70625,6 @@
       "storeCount": 1
     },
     {
-      "slug": "florissant-mo",
-      "city": "Florissant",
-      "state": "MO",
-      "lat": 38.803604,
-      "lng": -90.264385,
-      "storeCount": 2
-    },
-    {
       "slug": "flowery-branch-ga",
       "city": "Flowery Branch",
       "state": "GA",
@@ -70998,14 +70638,6 @@
       "state": "MS",
       "lat": 32.341479,
       "lng": -90.06154,
-      "storeCount": 1
-    },
-    {
-      "slug": "floyds-knobs-in",
-      "city": "Floyds Knobs",
-      "state": "IN",
-      "lat": 38.314964,
-      "lng": -85.897123,
       "storeCount": 1
     },
     {
@@ -71081,14 +70713,6 @@
       "storeCount": 2
     },
     {
-      "slug": "foristell-mo",
-      "city": "Foristell",
-      "state": "MO",
-      "lat": 38.815016,
-      "lng": -90.952542,
-      "storeCount": 1
-    },
-    {
       "slug": "forney-tx",
       "city": "Forney",
       "state": "TX",
@@ -71116,9 +70740,9 @@
       "slug": "fort-lauderdale-fl",
       "city": "Fort Lauderdale",
       "state": "FL",
-      "lat": 26.166536,
-      "lng": -80.136736,
-      "storeCount": 8
+      "lat": 26.168998,
+      "lng": -80.135867,
+      "storeCount": 9
     },
     {
       "slug": "fort-meade-fl",
@@ -71265,14 +70889,6 @@
       "storeCount": 1
     },
     {
-      "slug": "frankfort-ky",
-      "city": "Frankfort",
-      "state": "KY",
-      "lat": 38.184188,
-      "lng": -84.864081,
-      "storeCount": 2
-    },
-    {
       "slug": "franklin-ky",
       "city": "Franklin",
       "state": "KY",
@@ -71318,14 +70934,6 @@
       "state": "MO",
       "lat": 37.559645,
       "lng": -90.315909,
-      "storeCount": 1
-    },
-    {
-      "slug": "freeburg-il",
-      "city": "Freeburg",
-      "state": "IL",
-      "lat": 38.437312,
-      "lng": -89.915088,
       "storeCount": 1
     },
     {
@@ -71617,30 +71225,6 @@
       "storeCount": 1
     },
     {
-      "slug": "georgetown-in",
-      "city": "Georgetown",
-      "state": "IN",
-      "lat": 38.289964,
-      "lng": -85.914036,
-      "storeCount": 1
-    },
-    {
-      "slug": "georgetown-ky",
-      "city": "Georgetown",
-      "state": "KY",
-      "lat": 38.22922,
-      "lng": -84.55073,
-      "storeCount": 3
-    },
-    {
-      "slug": "georgetown-oh",
-      "city": "Georgetown",
-      "state": "OH",
-      "lat": 38.862138,
-      "lng": -83.886897,
-      "storeCount": 1
-    },
-    {
       "slug": "georgetown-sc",
       "city": "Georgetown",
       "state": "SC",
@@ -71905,14 +71489,6 @@
       "storeCount": 1
     },
     {
-      "slug": "granite-city-il",
-      "city": "Granite City",
-      "state": "IL",
-      "lat": 38.712228,
-      "lng": -90.133481,
-      "storeCount": 2
-    },
-    {
       "slug": "graniteville-sc",
       "city": "Graniteville",
       "state": "SC",
@@ -71958,14 +71534,6 @@
       "state": "GA",
       "lat": 33.898403,
       "lng": -83.961369,
-      "storeCount": 1
-    },
-    {
-      "slug": "grayson-ky",
-      "city": "Grayson",
-      "state": "KY",
-      "lat": 38.340996,
-      "lng": -82.943618,
       "storeCount": 1
     },
     {
@@ -72046,14 +71614,6 @@
       "state": "KY",
       "lat": 37.273235,
       "lng": -85.495644,
-      "storeCount": 1
-    },
-    {
-      "slug": "greenup-ky",
-      "city": "Greenup",
-      "state": "KY",
-      "lat": 38.567736,
-      "lng": -82.827589,
       "storeCount": 1
     },
     {
@@ -72329,14 +71889,6 @@
       "storeCount": 1
     },
     {
-      "slug": "hamel-il",
-      "city": "Hamel",
-      "state": "IL",
-      "lat": 38.890021,
-      "lng": -89.834815,
-      "storeCount": 1
-    },
-    {
       "slug": "hamilton-al",
       "city": "Hamilton",
       "state": "AL",
@@ -72391,14 +71943,6 @@
       "lat": 36.331282,
       "lng": -119.660135,
       "storeCount": 3
-    },
-    {
-      "slug": "hanover-in",
-      "city": "Hanover",
-      "state": "IN",
-      "lat": 38.7234,
-      "lng": -85.467923,
-      "storeCount": 1
     },
     {
       "slug": "hanson-ky",
@@ -72641,14 +72185,6 @@
       "storeCount": 2
     },
     {
-      "slug": "hazelwood-mo",
-      "city": "Hazelwood",
-      "state": "MO",
-      "lat": 38.773857,
-      "lng": -90.335791,
-      "storeCount": 1
-    },
-    {
       "slug": "hazlehurst-ga",
       "city": "Hazlehurst",
       "state": "GA",
@@ -72873,14 +72409,6 @@
       "storeCount": 1
     },
     {
-      "slug": "high-ridge-mo",
-      "city": "High Ridge",
-      "state": "MO",
-      "lat": 38.463335,
-      "lng": -90.524168,
-      "storeCount": 1
-    },
-    {
       "slug": "high-springs-fl",
       "city": "High Springs",
       "state": "FL",
@@ -72897,27 +72425,11 @@
       "storeCount": 1
     },
     {
-      "slug": "highland-il",
-      "city": "Highland",
-      "state": "IL",
-      "lat": 38.754122,
-      "lng": -89.68074,
-      "storeCount": 1
-    },
-    {
       "slug": "hilliard-fl",
       "city": "Hilliard",
       "state": "FL",
       "lat": 30.690572,
       "lng": -81.917801,
-      "storeCount": 1
-    },
-    {
-      "slug": "hillsboro-mo",
-      "city": "Hillsboro",
-      "state": "MO",
-      "lat": 38.248089,
-      "lng": -90.558028,
       "storeCount": 1
     },
     {
@@ -73193,6 +72705,14 @@
       "storeCount": 1
     },
     {
+      "slug": "houston-ms",
+      "city": "Houston",
+      "state": "MS",
+      "lat": 33.899115,
+      "lng": -88.999692,
+      "storeCount": 1
+    },
+    {
       "slug": "houston-tx",
       "city": "Houston",
       "state": "TX",
@@ -73241,14 +72761,6 @@
       "storeCount": 3
     },
     {
-      "slug": "huntingburg-in",
-      "city": "Huntingburg",
-      "state": "IN",
-      "lat": 38.298542,
-      "lng": -86.955934,
-      "storeCount": 1
-    },
-    {
       "slug": "huntington-beach-ca",
       "city": "Huntington Beach",
       "state": "CA",
@@ -73263,14 +72775,6 @@
       "lat": 31.281961,
       "lng": -94.586177,
       "storeCount": 1
-    },
-    {
-      "slug": "huntington-wv",
-      "city": "Huntington",
-      "state": "WV",
-      "lat": 38.398611,
-      "lng": -82.426933,
-      "storeCount": 5
     },
     {
       "slug": "huntsville-al",
@@ -73366,14 +72870,6 @@
       "state": "CA",
       "lat": 32.583441,
       "lng": -117.109675,
-      "storeCount": 1
-    },
-    {
-      "slug": "ina-il",
-      "city": "Ina",
-      "state": "IL",
-      "lat": 38.155516,
-      "lng": -88.910872,
       "storeCount": 1
     },
     {
@@ -73601,14 +73097,6 @@
       "storeCount": 1
     },
     {
-      "slug": "jasper-in",
-      "city": "Jasper",
-      "state": "IN",
-      "lat": 38.409049,
-      "lng": -86.938928,
-      "storeCount": 2
-    },
-    {
       "slug": "jasper-tx",
       "city": "Jasper",
       "state": "TX",
@@ -73647,14 +73135,6 @@
       "lat": 34.151706,
       "lng": -83.642761,
       "storeCount": 1
-    },
-    {
-      "slug": "jeffersonville-in",
-      "city": "Jeffersonville",
-      "state": "IN",
-      "lat": 38.321776,
-      "lng": -85.725774,
-      "storeCount": 4
     },
     {
       "slug": "jellico-tn",
@@ -73854,14 +73334,6 @@
       "state": "MO",
       "lat": 36.236088,
       "lng": -90.0334,
-      "storeCount": 1
-    },
-    {
-      "slug": "kenova-wv",
-      "city": "Kenova",
-      "state": "WV",
-      "lat": 38.397296,
-      "lng": -82.56612,
       "storeCount": 1
     },
     {
@@ -74249,14 +73721,6 @@
       "storeCount": 1
     },
     {
-      "slug": "lagrange-ky",
-      "city": "Lagrange",
-      "state": "KY",
-      "lat": 38.391209,
-      "lng": -85.402011,
-      "storeCount": 2
-    },
-    {
       "slug": "laguna-hills-ca",
       "city": "Laguna Hills",
       "state": "CA",
@@ -74366,14 +73830,6 @@
       "state": "GA",
       "lat": 30.679914,
       "lng": -83.225334,
-      "storeCount": 1
-    },
-    {
-      "slug": "lake-saint-louis-mo",
-      "city": "Lake Saint Louis",
-      "state": "MO",
-      "lat": 38.76891,
-      "lng": -90.782521,
       "storeCount": 1
     },
     {
@@ -74649,14 +74105,6 @@
       "storeCount": 1
     },
     {
-      "slug": "lawrenceburg-ky",
-      "city": "Lawrenceburg",
-      "state": "KY",
-      "lat": 38.068446,
-      "lng": -84.918734,
-      "storeCount": 1
-    },
-    {
       "slug": "lawrenceburg-tn",
       "city": "Lawrenceburg",
       "state": "TN",
@@ -74671,14 +74119,6 @@
       "lat": 33.92365,
       "lng": -84.045117,
       "storeCount": 2
-    },
-    {
-      "slug": "lawrenceville-il",
-      "city": "Lawrenceville",
-      "state": "IL",
-      "lat": 38.726941,
-      "lng": -87.700372,
-      "storeCount": 1
     },
     {
       "slug": "lawton-ok",
@@ -74703,14 +74143,6 @@
       "lat": 30.568982,
       "lng": -97.859336,
       "storeCount": 2
-    },
-    {
-      "slug": "lebanon-il",
-      "city": "Lebanon",
-      "state": "IL",
-      "lat": 38.596908,
-      "lng": -89.808372,
-      "storeCount": 1
     },
     {
       "slug": "lebanon-junction-ky",
@@ -75193,14 +74625,6 @@
       "storeCount": 1
     },
     {
-      "slug": "loogootee-in",
-      "city": "Loogootee",
-      "state": "IN",
-      "lat": 38.674761,
-      "lng": -86.912588,
-      "storeCount": 1
-    },
-    {
       "slug": "lordsburg-nm",
       "city": "Lordsburg",
       "state": "NM",
@@ -75265,28 +74689,12 @@
       "storeCount": 1
     },
     {
-      "slug": "louisa-ky",
-      "city": "Louisa",
-      "state": "KY",
-      "lat": 38.125412,
-      "lng": -82.627443,
-      "storeCount": 1
-    },
-    {
       "slug": "louisburg-ks",
       "city": "Louisburg",
       "state": "KS",
       "lat": 38.620248,
       "lng": -94.691943,
       "storeCount": 1
-    },
-    {
-      "slug": "louisville-ky",
-      "city": "Louisville",
-      "state": "KY",
-      "lat": 38.202666,
-      "lng": -85.692693,
-      "storeCount": 44
     },
     {
       "slug": "louisville-ms",
@@ -75407,14 +74815,6 @@
       "lat": 37.374229,
       "lng": -79.198521,
       "storeCount": 5
-    },
-    {
-      "slug": "lyndon-ky",
-      "city": "Lyndon",
-      "state": "KY",
-      "lat": 38.264042,
-      "lng": -85.568377,
-      "storeCount": 1
     },
     {
       "slug": "lynn-haven-fl",
@@ -75897,28 +75297,12 @@
       "storeCount": 2
     },
     {
-      "slug": "maryland-heights-mo",
-      "city": "Maryland Heights",
-      "state": "MO",
-      "lat": 38.714223,
-      "lng": -90.456695,
-      "storeCount": 1
-    },
-    {
       "slug": "maryville-tn",
       "city": "Maryville",
       "state": "TN",
       "lat": 35.757336,
       "lng": -83.984383,
       "storeCount": 3
-    },
-    {
-      "slug": "mascoutah-il",
-      "city": "Mascoutah",
-      "state": "IL",
-      "lat": 38.496948,
-      "lng": -89.794093,
-      "storeCount": 1
     },
     {
       "slug": "mason-tn",
@@ -75990,14 +75374,6 @@
       "state": "NC",
       "lat": 36.417689,
       "lng": -79.934129,
-      "storeCount": 1
-    },
-    {
-      "slug": "maysville-ky",
-      "city": "Maysville",
-      "state": "KY",
-      "lat": 38.643056,
-      "lng": -83.778827,
       "storeCount": 1
     },
     {
@@ -76134,14 +75510,6 @@
       "state": "TX",
       "lat": 33.28434,
       "lng": -96.560953,
-      "storeCount": 1
-    },
-    {
-      "slug": "memphis-in",
-      "city": "Memphis",
-      "state": "IN",
-      "lat": 38.490941,
-      "lng": -85.770092,
       "storeCount": 1
     },
     {
@@ -76345,14 +75713,6 @@
       "storeCount": 3
     },
     {
-      "slug": "midway-ky",
-      "city": "Midway",
-      "state": "KY",
-      "lat": 38.157878,
-      "lng": -84.676491,
-      "storeCount": 1
-    },
-    {
       "slug": "midwest-city-ok",
       "city": "Midwest City",
       "state": "OK",
@@ -76495,14 +75855,6 @@
       "lat": 29.549745,
       "lng": -95.534406,
       "storeCount": 4
-    },
-    {
-      "slug": "mitchell-in",
-      "city": "Mitchell",
-      "state": "IN",
-      "lat": 38.724724,
-      "lng": -86.478688,
-      "storeCount": 1
     },
     {
       "slug": "moab-ut",
@@ -76721,14 +76073,6 @@
       "storeCount": 1
     },
     {
-      "slug": "morehead-ky",
-      "city": "Morehead",
-      "state": "KY",
-      "lat": 38.194395,
-      "lng": -83.479895,
-      "storeCount": 1
-    },
-    {
       "slug": "morgan-city-la",
       "city": "Morgan City",
       "state": "LA",
@@ -76857,14 +76201,6 @@
       "storeCount": 3
     },
     {
-      "slug": "mount-carmel-il",
-      "city": "Mount Carmel",
-      "state": "IL",
-      "lat": 38.415741,
-      "lng": -87.763553,
-      "storeCount": 1
-    },
-    {
       "slug": "mount-dora-fl",
       "city": "Mount Dora",
       "state": "FL",
@@ -76921,28 +76257,12 @@
       "storeCount": 2
     },
     {
-      "slug": "mount-sterling-ky",
-      "city": "Mount Sterling",
-      "state": "KY",
-      "lat": 38.080381,
-      "lng": -83.924108,
-      "storeCount": 2
-    },
-    {
       "slug": "mount-vernon-al",
       "city": "Mount Vernon",
       "state": "AL",
       "lat": 31.127191,
       "lng": -88.009123,
       "storeCount": 1
-    },
-    {
-      "slug": "mount-vernon-il",
-      "city": "Mount Vernon",
-      "state": "IL",
-      "lat": 38.314826,
-      "lng": -88.941307,
-      "storeCount": 2
     },
     {
       "slug": "mount-vernon-in",
@@ -77153,14 +76473,6 @@
       "storeCount": 1
     },
     {
-      "slug": "nashville-il",
-      "city": "Nashville",
-      "state": "IL",
-      "lat": 38.385696,
-      "lng": -89.371749,
-      "storeCount": 1
-    },
-    {
       "slug": "nashville-tn",
       "city": "Nashville",
       "state": "TN",
@@ -77233,27 +76545,11 @@
       "storeCount": 1
     },
     {
-      "slug": "new-albany-in",
-      "city": "New Albany",
-      "state": "IN",
-      "lat": 38.319518,
-      "lng": -85.819825,
-      "storeCount": 3
-    },
-    {
       "slug": "new-albany-ms",
       "city": "New Albany",
       "state": "MS",
       "lat": 34.499483,
       "lng": -89.027515,
-      "storeCount": 1
-    },
-    {
-      "slug": "new-baden-il",
-      "city": "New Baden",
-      "state": "IL",
-      "lat": 38.534877,
-      "lng": -89.72094,
       "storeCount": 1
     },
     {
@@ -77585,22 +76881,6 @@
       "storeCount": 3
     },
     {
-      "slug": "o-fallon-il",
-      "city": "O Fallon",
-      "state": "IL",
-      "lat": 38.588774,
-      "lng": -89.932187,
-      "storeCount": 2
-    },
-    {
-      "slug": "o-fallon-mo",
-      "city": "O Fallon",
-      "state": "MO",
-      "lat": 38.784516,
-      "lng": -90.717566,
-      "storeCount": 6
-    },
-    {
       "slug": "oak-grove-ky",
       "city": "Oak Grove",
       "state": "KY",
@@ -77801,30 +77081,6 @@
       "storeCount": 1
     },
     {
-      "slug": "olive-hill-ky",
-      "city": "Olive Hill",
-      "state": "KY",
-      "lat": 38.304244,
-      "lng": -83.161726,
-      "storeCount": 1
-    },
-    {
-      "slug": "olivette-mo",
-      "city": "Olivette",
-      "state": "MO",
-      "lat": 38.673648,
-      "lng": -90.376421,
-      "storeCount": 1
-    },
-    {
-      "slug": "olney-il",
-      "city": "Olney",
-      "state": "IL",
-      "lat": 38.730898,
-      "lng": -88.079318,
-      "storeCount": 1
-    },
-    {
       "slug": "onalaska-tx",
       "city": "Onalaska",
       "state": "TX",
@@ -77884,9 +77140,9 @@
       "slug": "orange-ca",
       "city": "Orange",
       "state": "CA",
-      "lat": 33.795562,
-      "lng": -117.842441,
-      "storeCount": 4
+      "lat": 33.802181,
+      "lng": -117.841067,
+      "storeCount": 5
     },
     {
       "slug": "orange-park-fl",
@@ -78022,22 +77278,6 @@
       "state": "MO",
       "lat": 38.344732,
       "lng": -91.493952,
-      "storeCount": 1
-    },
-    {
-      "slug": "owenton-ky",
-      "city": "Owenton",
-      "state": "KY",
-      "lat": 38.527657,
-      "lng": -84.831379,
-      "storeCount": 1
-    },
-    {
-      "slug": "owingsville-ky",
-      "city": "Owingsville",
-      "state": "KY",
-      "lat": 38.129141,
-      "lng": -83.75325,
       "storeCount": 1
     },
     {
@@ -78297,14 +77537,6 @@
       "storeCount": 1
     },
     {
-      "slug": "paris-ky",
-      "city": "Paris",
-      "state": "KY",
-      "lat": 38.192412,
-      "lng": -84.27707,
-      "storeCount": 1
-    },
-    {
       "slug": "paris-tn",
       "city": "Paris",
       "state": "TN",
@@ -78521,14 +77753,6 @@
       "storeCount": 1
     },
     {
-      "slug": "pendleton-ky",
-      "city": "Pendleton",
-      "state": "KY",
-      "lat": 38.45751,
-      "lng": -85.299392,
-      "storeCount": 1
-    },
-    {
       "slug": "pennington-gap-va",
       "city": "Pennington Gap",
       "state": "VA",
@@ -78609,14 +77833,6 @@
       "storeCount": 2
     },
     {
-      "slug": "pevely-mo",
-      "city": "Pevely",
-      "state": "MO",
-      "lat": 38.287601,
-      "lng": -90.404482,
-      "storeCount": 1
-    },
-    {
       "slug": "pflugerville-tx",
       "city": "Pflugerville",
       "state": "TX",
@@ -78670,6 +77886,14 @@
       "state": "SC",
       "lat": 34.884895,
       "lng": -82.704625,
+      "storeCount": 1
+    },
+    {
+      "slug": "piedmont-mo",
+      "city": "Piedmont",
+      "state": "MO",
+      "lat": 37.145145,
+      "lng": -90.700053,
       "storeCount": 1
     },
     {
@@ -78969,14 +78193,6 @@
       "storeCount": 1
     },
     {
-      "slug": "pontoon-beach-il",
-      "city": "Pontoon Beach",
-      "state": "IL",
-      "lat": 38.749863,
-      "lng": -90.071674,
-      "storeCount": 1
-    },
-    {
       "slug": "pontotoc-ms",
       "city": "Pontotoc",
       "state": "MS",
@@ -79081,14 +78297,6 @@
       "storeCount": 1
     },
     {
-      "slug": "portsmouth-oh",
-      "city": "Portsmouth",
-      "state": "OH",
-      "lat": 38.764029,
-      "lng": -82.974432,
-      "storeCount": 2
-    },
-    {
       "slug": "potosi-mo",
       "city": "Potosi",
       "state": "MO",
@@ -79169,14 +78377,6 @@
       "storeCount": 1
     },
     {
-      "slug": "princeton-in",
-      "city": "Princeton",
-      "state": "IN",
-      "lat": 38.354779,
-      "lng": -87.592073,
-      "storeCount": 1
-    },
-    {
       "slug": "princeton-ky",
       "city": "Princeton",
       "state": "KY",
@@ -79191,22 +78391,6 @@
       "lat": 37.361874,
       "lng": -81.080061,
       "storeCount": 2
-    },
-    {
-      "slug": "proctorville-oh",
-      "city": "Proctorville",
-      "state": "OH",
-      "lat": 38.438617,
-      "lng": -82.387681,
-      "storeCount": 1
-    },
-    {
-      "slug": "prospect-ky",
-      "city": "Prospect",
-      "state": "KY",
-      "lat": 38.339158,
-      "lng": -85.620578,
-      "storeCount": 1
     },
     {
       "slug": "prosper-tx",
@@ -79406,14 +78590,6 @@
       "state": "AL",
       "lat": 34.437854,
       "lng": -88.136499,
-      "storeCount": 1
-    },
-    {
-      "slug": "red-bud-il",
-      "city": "Red Bud",
-      "state": "IL",
-      "lat": 38.19895,
-      "lng": -89.993409,
       "storeCount": 1
     },
     {
@@ -80017,22 +79193,6 @@
       "storeCount": 1
     },
     {
-      "slug": "saint-ann-mo",
-      "city": "Saint Ann",
-      "state": "MO",
-      "lat": 38.73349,
-      "lng": -90.390918,
-      "storeCount": 1
-    },
-    {
-      "slug": "saint-charles-mo",
-      "city": "Saint Charles",
-      "state": "MO",
-      "lat": 38.771977,
-      "lng": -90.529004,
-      "storeCount": 5
-    },
-    {
       "slug": "saint-clair-mo",
       "city": "Saint Clair",
       "state": "MO",
@@ -80065,14 +79225,6 @@
       "storeCount": 1
     },
     {
-      "slug": "saint-louis-mo",
-      "city": "Saint Louis",
-      "state": "MO",
-      "lat": 38.626946,
-      "lng": -90.317403,
-      "storeCount": 28
-    },
-    {
       "slug": "saint-martinville-la",
       "city": "Saint Martinville",
       "state": "LA",
@@ -80089,14 +79241,6 @@
       "storeCount": 1
     },
     {
-      "slug": "saint-peters-mo",
-      "city": "Saint Peters",
-      "state": "MO",
-      "lat": 38.780847,
-      "lng": -90.617723,
-      "storeCount": 5
-    },
-    {
       "slug": "saint-petersburg-fl",
       "city": "Saint Petersburg",
       "state": "FL",
@@ -80110,22 +79254,6 @@
       "state": "MO",
       "lat": 37.822438,
       "lng": -92.139393,
-      "storeCount": 1
-    },
-    {
-      "slug": "salem-il",
-      "city": "Salem",
-      "state": "IL",
-      "lat": 38.625297,
-      "lng": -88.9652,
-      "storeCount": 1
-    },
-    {
-      "slug": "salem-in",
-      "city": "Salem",
-      "state": "IN",
-      "lat": 38.599218,
-      "lng": -86.101028,
       "storeCount": 1
     },
     {
@@ -80433,14 +79561,6 @@
       "storeCount": 1
     },
     {
-      "slug": "sanders-ky",
-      "city": "Sanders",
-      "state": "KY",
-      "lat": 38.693575,
-      "lng": -84.938684,
-      "storeCount": 1
-    },
-    {
       "slug": "sandersville-ms",
       "city": "Sandersville",
       "state": "MS",
@@ -80665,14 +79785,6 @@
       "storeCount": 1
     },
     {
-      "slug": "scottsburg-in",
-      "city": "Scottsburg",
-      "state": "IN",
-      "lat": 38.685588,
-      "lng": -85.79215,
-      "storeCount": 1
-    },
-    {
       "slug": "scottsdale-az",
       "city": "Scottsdale",
       "state": "AZ",
@@ -80775,14 +79887,6 @@
       "lat": 29.592791,
       "lng": -97.986942,
       "storeCount": 3
-    },
-    {
-      "slug": "sellersburg-in",
-      "city": "Sellersburg",
-      "state": "IN",
-      "lat": 38.391406,
-      "lng": -85.765733,
-      "storeCount": 1
     },
     {
       "slug": "selma-al",
@@ -80945,14 +80049,6 @@
       "storeCount": 1
     },
     {
-      "slug": "shelbyville-ky",
-      "city": "Shelbyville",
-      "state": "KY",
-      "lat": 38.205858,
-      "lng": -85.236304,
-      "storeCount": 2
-    },
-    {
       "slug": "shelbyville-tn",
       "city": "Shelbyville",
       "state": "TN",
@@ -80990,14 +80086,6 @@
       "state": "NM",
       "lat": 36.77638,
       "lng": -108.696102,
-      "storeCount": 1
-    },
-    {
-      "slug": "shively-ky",
-      "city": "Shively",
-      "state": "KY",
-      "lat": 38.177351,
-      "lng": -85.821008,
       "storeCount": 1
     },
     {
@@ -81297,14 +80385,6 @@
       "storeCount": 1
     },
     {
-      "slug": "south-point-oh",
-      "city": "South Point",
-      "state": "OH",
-      "lat": 38.419428,
-      "lng": -82.506776,
-      "storeCount": 1
-    },
-    {
       "slug": "south-san-francisco-ca",
       "city": "South San Francisco",
       "state": "CA",
@@ -81342,14 +80422,6 @@
       "state": "AL",
       "lat": 33.923723,
       "lng": -86.0232,
-      "storeCount": 1
-    },
-    {
-      "slug": "sparta-il",
-      "city": "Sparta",
-      "state": "IL",
-      "lat": 38.138898,
-      "lng": -89.70304,
       "storeCount": 1
     },
     {
@@ -81697,14 +80769,6 @@
       "storeCount": 1
     },
     {
-      "slug": "sullivan-mo",
-      "city": "Sullivan",
-      "state": "MO",
-      "lat": 38.218593,
-      "lng": -91.162562,
-      "storeCount": 1
-    },
-    {
       "slug": "sulphur-ok",
       "city": "Sulphur",
       "state": "OK",
@@ -81814,14 +80878,6 @@
       "state": "NC",
       "lat": 34.69767,
       "lng": -77.140743,
-      "storeCount": 1
-    },
-    {
-      "slug": "swansea-il",
-      "city": "Swansea",
-      "state": "IL",
-      "lat": 38.542084,
-      "lng": -89.984309,
       "storeCount": 1
     },
     {
@@ -82265,14 +81321,6 @@
       "storeCount": 1
     },
     {
-      "slug": "troy-il",
-      "city": "Troy",
-      "state": "IL",
-      "lat": 38.731879,
-      "lng": -89.906081,
-      "storeCount": 1
-    },
-    {
       "slug": "troy-nc",
       "city": "Troy",
       "state": "NC",
@@ -82318,6 +81366,14 @@
       "state": "NM",
       "lat": 35.15433,
       "lng": -103.724535,
+      "storeCount": 1
+    },
+    {
+      "slug": "tujunga-ca",
+      "city": "Tujunga",
+      "state": "CA",
+      "lat": 34.244872,
+      "lng": -118.274215,
       "storeCount": 1
     },
     {
@@ -82505,14 +81561,6 @@
       "storeCount": 1
     },
     {
-      "slug": "university-city-mo",
-      "city": "University City",
-      "state": "MO",
-      "lat": 38.673931,
-      "lng": -90.347048,
-      "storeCount": 1
-    },
-    {
       "slug": "upland-ca",
       "city": "Upland",
       "state": "CA",
@@ -82569,14 +81617,6 @@
       "storeCount": 1
     },
     {
-      "slug": "valley-park-mo",
-      "city": "Valley Park",
-      "state": "MO",
-      "lat": 38.56686,
-      "lng": -90.476976,
-      "storeCount": 1
-    },
-    {
       "slug": "van-alstyne-tx",
       "city": "Van Alstyne",
       "state": "TX",
@@ -82606,14 +81646,6 @@
       "state": "TX",
       "lat": 32.510285,
       "lng": -95.643638,
-      "storeCount": 1
-    },
-    {
-      "slug": "vanceburg-ky",
-      "city": "Vanceburg",
-      "state": "KY",
-      "lat": 38.59181,
-      "lng": -83.3266,
       "storeCount": 1
     },
     {
@@ -82745,14 +81777,6 @@
       "storeCount": 1
     },
     {
-      "slug": "vincennes-in",
-      "city": "Vincennes",
-      "state": "IN",
-      "lat": 38.677113,
-      "lng": -87.508943,
-      "storeCount": 2
-    },
-    {
       "slug": "vinita-ok",
       "city": "Vinita",
       "state": "OK",
@@ -82807,14 +81831,6 @@
       "lat": 31.550109,
       "lng": -97.184358,
       "storeCount": 6
-    },
-    {
-      "slug": "waddy-ky",
-      "city": "Waddy",
-      "state": "KY",
-      "lat": 38.151414,
-      "lng": -85.069615,
-      "storeCount": 1
     },
     {
       "slug": "waldron-ar",
@@ -82873,14 +81889,6 @@
       "storeCount": 1
     },
     {
-      "slug": "walton-ky",
-      "city": "Walton",
-      "state": "KY",
-      "lat": 38.858595,
-      "lng": -84.618628,
-      "storeCount": 1
-    },
-    {
       "slug": "warner-ok",
       "city": "Warner",
       "state": "OK",
@@ -82921,14 +81929,6 @@
       "storeCount": 1
     },
     {
-      "slug": "warrenton-mo",
-      "city": "Warrenton",
-      "state": "MO",
-      "lat": 38.823141,
-      "lng": -91.139001,
-      "storeCount": 1
-    },
-    {
       "slug": "warrior-al",
       "city": "Warrior",
       "state": "AL",
@@ -82961,14 +81961,6 @@
       "storeCount": 1
     },
     {
-      "slug": "washington-in",
-      "city": "Washington",
-      "state": "IN",
-      "lat": 38.652544,
-      "lng": -87.158076,
-      "storeCount": 1
-    },
-    {
       "slug": "washington-mo",
       "city": "Washington",
       "state": "MO",
@@ -82998,14 +81990,6 @@
       "state": "CA",
       "lat": 37.638532,
       "lng": -120.769949,
-      "storeCount": 1
-    },
-    {
-      "slug": "waterloo-il",
-      "city": "Waterloo",
-      "state": "IL",
-      "lat": 38.354138,
-      "lng": -90.153876,
       "storeCount": 1
     },
     {
@@ -83137,14 +82121,6 @@
       "storeCount": 1
     },
     {
-      "slug": "wentzville-mo",
-      "city": "Wentzville",
-      "state": "MO",
-      "lat": 38.815963,
-      "lng": -90.859275,
-      "storeCount": 2
-    },
-    {
       "slug": "weslaco-tx",
       "city": "Weslaco",
       "state": "TX",
@@ -83159,14 +82135,6 @@
       "lat": 28.225761,
       "lng": -82.272143,
       "storeCount": 2
-    },
-    {
-      "slug": "west-baden-springs-in",
-      "city": "West Baden Springs",
-      "state": "IN",
-      "lat": 38.562283,
-      "lng": -86.613309,
-      "storeCount": 1
     },
     {
       "slug": "west-columbia-tx",
@@ -83305,14 +82273,6 @@
       "storeCount": 1
     },
     {
-      "slug": "west-union-oh",
-      "city": "West Union",
-      "state": "OH",
-      "lat": 38.782937,
-      "lng": -83.562452,
-      "storeCount": 1
-    },
-    {
       "slug": "west-union-sc",
       "city": "West Union",
       "state": "SC",
@@ -83366,14 +82326,6 @@
       "state": "TX",
       "lat": 29.322617,
       "lng": -96.097786,
-      "storeCount": 1
-    },
-    {
-      "slug": "wheelersburg-oh",
-      "city": "Wheelersburg",
-      "state": "OH",
-      "lat": 38.717341,
-      "lng": -82.856914,
       "storeCount": 1
     },
     {
@@ -83745,14 +82697,6 @@
       "storeCount": 1
     },
     {
-      "slug": "wood-river-il",
-      "city": "Wood River",
-      "state": "IL",
-      "lat": 38.864878,
-      "lng": -90.07749,
-      "storeCount": 1
-    },
-    {
       "slug": "woodbury-tn",
       "city": "Woodbury",
       "state": "TN",
@@ -83790,14 +82734,6 @@
       "state": "OK",
       "lat": 36.434136,
       "lng": -99.415912,
-      "storeCount": 1
-    },
-    {
-      "slug": "wright-city-mo",
-      "city": "Wright City",
-      "state": "MO",
-      "lat": 38.829406,
-      "lng": -91.042214,
       "storeCount": 1
     },
     {

@@ -1,4 +1,4 @@
-import { memo, useMemo } from 'react';
+import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { Coordinate, HotSpicyAvailabilityStore } from '../types/contracts';
 import { buildAppleMapsUrl, buildGoogleMapsUrl, formatMiles, haversineMiles } from '../lib/location';
 
@@ -15,6 +15,8 @@ interface ResultCardProps {
   onSelectStore: (storeId: string) => void;
   store: HotSpicyAvailabilityStore;
 }
+
+const RESULTS_PAGE_SIZE = 50;
 
 const ResultCard = memo(function ResultCard({
   distance,
@@ -57,6 +59,8 @@ export default function ResultsList({
   selectedStoreId,
   onSelectStore
 }: ResultsListProps) {
+  const [visibleCount, setVisibleCount] = useState(RESULTS_PAGE_SIZE);
+  const loadMoreRef = useRef<HTMLButtonElement | null>(null);
   const sortedStores = useMemo(() => {
     const storesWithDistance = stores.map((store) => ({
       store,
@@ -75,6 +79,39 @@ export default function ResultsList({
     });
   }, [origin, stores]);
 
+  const loadMore = useCallback(() => {
+    setVisibleCount((currentCount) => (
+      Math.min(currentCount + RESULTS_PAGE_SIZE, sortedStores.length)
+    ));
+  }, [sortedStores.length]);
+
+  useEffect(() => {
+    setVisibleCount(RESULTS_PAGE_SIZE);
+  }, [origin, stores]);
+
+  const hasMore = visibleCount < sortedStores.length;
+
+  useEffect(() => {
+    const loadMoreElement = loadMoreRef.current;
+
+    if (!hasMore || !loadMoreElement || typeof IntersectionObserver === 'undefined') {
+      return;
+    }
+
+    const observer = new IntersectionObserver(([entry]) => {
+      if (entry.isIntersecting) {
+        loadMore();
+      }
+    }, {
+      rootMargin: '300px 0px'
+    });
+
+    observer.observe(loadMoreElement);
+    return () => observer.disconnect();
+  }, [hasMore, loadMore]);
+
+  const visibleStores = sortedStores.slice(0, visibleCount);
+
   return (
     <section className="panel results-panel">
       <div className="panel-header">
@@ -90,7 +127,7 @@ export default function ResultsList({
         </div>
       ) : (
         <div className="results-list">
-          {sortedStores.map(({ store, distance }) => (
+          {visibleStores.map(({ store, distance }) => (
             <ResultCard
               key={store.storeId}
               distance={distance}
@@ -99,6 +136,16 @@ export default function ResultsList({
               store={store}
             />
           ))}
+          {hasMore && (
+            <button
+              className="ghost-button results-load-more"
+              onClick={loadMore}
+              ref={loadMoreRef}
+              type="button"
+            >
+              Show 50 more locations ({visibleStores.length} of {sortedStores.length} shown)
+            </button>
+          )}
         </div>
       )}
     </section>

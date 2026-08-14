@@ -241,6 +241,11 @@ h2 {
   font-size: 0.92rem;
 }
 
+.results-load-more {
+  justify-self: center;
+  margin: 4px 0;
+}
+
 .empty-state {
   color: var(--muted);
   padding: 18px;

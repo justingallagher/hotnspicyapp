@@ -10,13 +10,38 @@ interface MapViewProps {
   onSelectStore: (storeId: string) => void;
 }
 
-function createStoreIcon(selected: boolean) {
-  return L.divIcon({
-    className: 'store-marker-wrapper',
-    html: `<span class="store-marker ${selected ? 'selected' : ''}"></span>`,
-    iconSize: [18, 18],
-    iconAnchor: [9, 9]
-  });
+const DEFAULT_MARKER_STYLE: L.CircleMarkerOptions = {
+  radius: 7,
+  fillColor: '#d83a1f',
+  fillOpacity: 0.9,
+  color: '#ffffff',
+  opacity: 1,
+  weight: 2
+};
+
+const SELECTED_MARKER_STYLE: L.CircleMarkerOptions = {
+  radius: 9,
+  fillColor: '#8c160b',
+  fillOpacity: 1,
+  color: '#fff2a8',
+  opacity: 1,
+  weight: 3
+};
+
+function escapeHtml(value: string) {
+  const entities: Record<string, string> = {
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    "'": '&#39;',
+    '"': '&quot;'
+  };
+
+  return value.replace(/[&<>'"]/g, (character) => entities[character]);
+}
+
+function popupContent(store: HotSpicyAvailabilityStore) {
+  return `<strong>${escapeHtml(store.name)}</strong><br />${escapeHtml(store.address)}<br />${escapeHtml(store.city)}, ${escapeHtml(store.state)} ${escapeHtml(store.postalCode)}`;
 }
 
 export default function MapView({
@@ -28,15 +53,24 @@ export default function MapView({
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<L.Map | null>(null);
   const markerLayerRef = useRef<L.LayerGroup | null>(null);
+  const markersByStoreIdRef = useRef(new Map<string, L.CircleMarker>());
+  const selectedStoreIdRef = useRef<string | null>(null);
+  const initialCenterRef = useRef(center);
+  const latestCenterRef = useRef(center);
+  const onSelectStoreRef = useRef(onSelectStore);
+
+  latestCenterRef.current = center;
+  onSelectStoreRef.current = onSelectStore;
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) {
       return;
     }
 
+    const initialCenter = initialCenterRef.current;
     const map = L.map(containerRef.current, {
       zoomControl: false
-    }).setView([center.lat, center.lng], 10);
+    }).setView([initialCenter.lat, initialCenter.lng], 10);
 
     L.control.zoom({ position: 'bottomright' }).addTo(map);
 
@@ -44,26 +78,22 @@ export default function MapView({
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
-    const markerLayer = L.layerGroup();
+    const markerLayer = L.layerGroup().addTo(map);
 
-    markerLayer.addTo(map);
     mapRef.current = map;
     markerLayerRef.current = markerLayer;
 
     return () => {
       markerLayer.clearLayers();
+      markersByStoreIdRef.current.clear();
       map.remove();
       mapRef.current = null;
       markerLayerRef.current = null;
     };
-  }, [center.lat, center.lng]);
+  }, []);
 
   useEffect(() => {
-    if (!mapRef.current) {
-      return;
-    }
-
-    mapRef.current.setView([center.lat, center.lng], mapRef.current.getZoom(), {
+    mapRef.current?.setView([center.lat, center.lng], mapRef.current.getZoom(), {
       animate: true
     });
   }, [center.lat, center.lng]);
@@ -77,27 +107,46 @@ export default function MapView({
     }
 
     markerLayer.clearLayers();
+    markersByStoreIdRef.current.clear();
+
+    // Canvas keeps thousands of points out of the DOM while preserving a marker
+    // and click target for every store.
+    const renderer = L.canvas({ padding: 0.5 });
 
     stores.forEach((store) => {
-      const marker = L.marker([store.lat, store.lng], {
-        icon: createStoreIcon(store.storeId === selectedStoreId)
+      const marker = L.circleMarker([store.lat, store.lng], {
+        ...(store.storeId === selectedStoreId
+          ? SELECTED_MARKER_STYLE
+          : DEFAULT_MARKER_STYLE),
+        renderer
       });
 
-      marker.bindPopup(
-        `<strong>${store.name}</strong><br />${store.address}<br />${store.city}, ${store.state} ${store.postalCode}`
-      );
-
-      marker.on('click', () => {
-        onSelectStore(store.storeId);
-      });
-
-      markerLayer.addLayer(marker);
+      marker.bindPopup(popupContent(store));
+      marker.on('click', () => onSelectStoreRef.current(store.storeId));
+      marker.addTo(markerLayer);
+      markersByStoreIdRef.current.set(store.storeId, marker);
     });
 
+    selectedStoreIdRef.current = selectedStoreId;
+
     if (stores.length === 0) {
-      map.setView([center.lat, center.lng], 10);
+      const latestCenter = latestCenterRef.current;
+      map.setView([latestCenter.lat, latestCenter.lng], 10);
     }
-  }, [center.lat, center.lng, onSelectStore, selectedStoreId, stores]);
+  }, [stores]);
+
+  useEffect(() => {
+    const markers = markersByStoreIdRef.current;
+    const previousMarker = selectedStoreIdRef.current
+      ? markers.get(selectedStoreIdRef.current)
+      : undefined;
+    const selectedMarker = selectedStoreId ? markers.get(selectedStoreId) : undefined;
+
+    previousMarker?.setStyle(DEFAULT_MARKER_STYLE);
+    selectedMarker?.setStyle(SELECTED_MARKER_STYLE);
+    selectedMarker?.bringToFront();
+    selectedStoreIdRef.current = selectedStoreId;
+  }, [selectedStoreId]);
 
   return (
     <section className="panel map-panel">

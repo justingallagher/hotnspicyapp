@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import MapView from './components/MapView';
 import ResultsList from './components/ResultsList';
 import SearchPanel from './components/SearchPanel';
@@ -138,7 +138,7 @@ export default function App() {
     );
   }
 
-  function handleSelectStore(storeId: string) {
+  const handleSelectStore = useCallback((storeId: string) => {
     setSelectedStoreId(storeId);
 
     const store = stores.find((candidate) => candidate.storeId === storeId);
@@ -151,7 +151,7 @@ export default function App() {
       lng: store.lng
     });
     setActiveCenterLabel(`${store.city}, ${store.state}`);
-  }
+  }, [stores]);
 
   if (status === 'loading') {
     return (

@@ -198,6 +198,8 @@ h2 {
   background: rgba(255, 255, 255, 0.78);
   border: 1px solid rgba(124, 71, 36, 0.12);
   border-radius: 20px;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 190px;
   overflow: hidden;
 }
 
@@ -313,4 +315,3 @@ h2 {
     grid-template-columns: 1fr;
   }
 }
-

@@ -85,13 +85,14 @@ If `BASIC_TOKEN_US` is not configured, the deploy workflow still builds and depl
 
 The refresh script:
 
-1. Mints a short-lived bearer token from `BASIC_TOKEN_US`.
+1. Mints a short-lived bearer token from `BASIC_TOKEN_US`, renews it after 10 minutes, and refreshes and retries once after a 401 response.
 2. Sweeps the authenticated US restaurant-location endpoint over a configurable U.S. grid.
    The default `LOCATOR_SWEEP_STEP` is `1`, which keeps discovery from over-sampling only around coarse grid centers.
 3. Deduplicates stores into a single catalog.
 4. Reads store outage data from the authenticated US restaurant detail endpoint.
 5. Marks Hot 'n Spicy availability by checking whether the configured product codes are absent from `catalog.outageProductCodes`.
-5. Writes:
+6. Aborts without publishing partial data after three consecutive unrecovered authentication failures when at least three checks remain.
+7. Writes:
    - `public/data/hot-n-spicy-mcchicken.v1.json`
    - `public/data/us-search-index.v1.json`
 

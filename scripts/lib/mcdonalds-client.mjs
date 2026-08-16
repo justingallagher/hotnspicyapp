@@ -21,11 +21,20 @@ export function decodeClientIdFromBasicToken(basicToken) {
   return clientId;
 }
 
+export class HttpError extends Error {
+  constructor(response, url) {
+    super(`Request failed (${response.status}) for ${url}`);
+    this.name = 'HttpError';
+    this.status = response.status;
+    this.url = String(url);
+  }
+}
+
 export async function fetchJson(url, options = {}) {
   const response = await fetch(url, options);
 
   if (!response.ok) {
-    throw new Error(`Request failed (${response.status}) for ${url}`);
+    throw new HttpError(response, url);
   }
 
   return response.json();

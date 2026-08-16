@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import {
   buildAvailabilityDataset,
   decodeClientIdFromBasicToken,
+  fetchJson,
   getAvailableMenuProductCodes,
   getOutageProductCodes,
   hasTargetItemFromMenuProducts,
@@ -11,6 +12,18 @@ import {
   normalizeUsRestaurantDetailsStoreFields,
   normalizeUsStoreSearchResponse
 } from '../scripts/lib/mcdonalds-client.mjs';
+
+test('fetchJson exposes the response status when a request fails', async (context) => {
+  context.mock.method(globalThis, 'fetch', async () => ({
+    ok: false,
+    status: 401
+  }));
+
+  await assert.rejects(
+    fetchJson('https://example.test/resource'),
+    (error) => error.status === 401
+  );
+});
 
 test('decodeClientIdFromBasicToken extracts the client id from the basic token', () => {
   const token = Buffer.from('my-client-id:super-secret').toString('base64');

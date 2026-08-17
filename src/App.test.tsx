@@ -3,7 +3,9 @@ import { beforeEach, describe, expect, it, vi } from 'vitest';
 import App from './App';
 
 vi.mock('./components/MapView', () => ({
-  default: () => <div data-testid="map-view">Map</div>
+  default: ({ center }: { center: { lat: number; lng: number } }) => (
+    <div data-testid="map-view" data-lat={center.lat} data-lng={center.lng}>Map</div>
+  )
 }));
 
 const availabilityDataset = {
@@ -107,6 +109,7 @@ describe('App', () => {
     expect(screen.getByText(/Location access was denied/i)).toBeInTheDocument();
     expect(screen.getByLabelText(/ZIP code or City, State/i)).toBeInTheDocument();
     expect(screen.getByText(/1 locations in stock/i)).toBeInTheDocument();
-    expect(screen.getByTestId('map-view')).toBeInTheDocument();
+    expect(screen.getByTestId('map-view')).toHaveAttribute('data-lat', '41.883671');
+    expect(screen.getByTestId('map-view')).toHaveAttribute('data-lng', '-87.653809');
   });
 });

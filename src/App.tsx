@@ -11,8 +11,8 @@ import type {
 } from './types/contracts';
 
 const DEFAULT_CENTER: Coordinate = {
-  lat: 39.8283,
-  lng: -98.5795
+  lat: 41.883671,
+  lng: -87.653809
 };
 
 function locationStatusCopy(

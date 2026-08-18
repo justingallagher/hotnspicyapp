@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-17T09:56:12.215Z",
+  "generatedAt": "2026-08-18T09:47:51.805Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -14610,9 +14610,9 @@
       "postalCode": "29526",
       "city": "Conway",
       "state": "SC",
-      "lat": 33.812731,
-      "lng": -79.043111,
-      "storeCount": 2
+      "lat": 33.80041,
+      "lng": -79.023659,
+      "storeCount": 3
     },
     {
       "postalCode": "29532",
@@ -49546,9 +49546,9 @@
       "postalCode": "77449",
       "city": "Katy",
       "state": "TX",
-      "lat": 29.832396,
-      "lng": -95.732081,
-      "storeCount": 4
+      "lat": 29.832196,
+      "lng": -95.730059,
+      "storeCount": 5
     },
     {
       "postalCode": "77449-3348",
@@ -73076,9 +73076,9 @@
       "slug": "conway-sc",
       "city": "Conway",
       "state": "SC",
-      "lat": 33.812731,
-      "lng": -79.043111,
-      "storeCount": 2
+      "lat": 33.80041,
+      "lng": -79.023659,
+      "storeCount": 3
     },
     {
       "slug": "conyers-ga",
@@ -83172,9 +83172,9 @@
       "slug": "katy-tx",
       "city": "Katy",
       "state": "TX",
-      "lat": 29.776614,
-      "lng": -95.774384,
-      "storeCount": 16
+      "lat": 29.779837,
+      "lng": -95.771301,
+      "storeCount": 17
     },
     {
       "slug": "kaufman-tx",

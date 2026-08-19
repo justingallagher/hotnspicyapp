@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-18T09:47:51.805Z",
+  "generatedAt": "2026-08-19T09:48:11.662Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -39594,9 +39594,9 @@
       "postalCode": "61101",
       "city": "Rockford",
       "state": "IL",
-      "lat": 42.287966,
-      "lng": -89.115469,
-      "storeCount": 1
+      "lat": 42.301459,
+      "lng": -89.113928,
+      "storeCount": 2
     },
     {
       "postalCode": "61103",
@@ -56906,9 +56906,9 @@
       "postalCode": "89119",
       "city": "Las Vegas",
       "state": "NV",
-      "lat": 36.108002,
-      "lng": -115.128525,
-      "storeCount": 2
+      "lat": 36.105496,
+      "lng": -115.130958,
+      "storeCount": 3
     },
     {
       "postalCode": "89121",
@@ -84588,9 +84588,9 @@
       "slug": "las-vegas-nv",
       "city": "Las Vegas",
       "state": "NV",
-      "lat": 36.175947,
-      "lng": -115.171077,
-      "storeCount": 48
+      "lat": 36.174407,
+      "lng": -115.170357,
+      "storeCount": 49
     },
     {
       "slug": "latham-ny",
@@ -96108,9 +96108,9 @@
       "slug": "rockford-il",
       "city": "Rockford",
       "state": "IL",
-      "lat": 42.268478,
-      "lng": -89.046799,
-      "storeCount": 13
+      "lat": 42.271798,
+      "lng": -89.051484,
+      "storeCount": 14
     },
     {
       "slug": "rockingham-nc",

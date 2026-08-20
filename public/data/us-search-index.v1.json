@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-19T09:48:11.662Z",
+  "generatedAt": "2026-08-20T09:48:52.808Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -8049,7 +8049,7 @@
     {
       "postalCode": "18042",
       "city": "Easton",
-      "state": "",
+      "state": "PA",
       "lat": 40.687829,
       "lng": -75.23102,
       "storeCount": 2
@@ -15233,7 +15233,7 @@
     {
       "postalCode": "30052",
       "city": "Loganville",
-      "state": "",
+      "state": "GA",
       "lat": 33.834634,
       "lng": -83.890793,
       "storeCount": 1
@@ -75524,9 +75524,9 @@
       "slug": "easton-pa",
       "city": "Easton",
       "state": "PA",
-      "lat": 40.705483,
-      "lng": -75.252546,
-      "storeCount": 3
+      "lat": 40.70089,
+      "lng": -75.24173,
+      "storeCount": 4
     },
     {
       "slug": "eastpointe-mi",
@@ -85775,6 +85775,14 @@
       "lat": 40.754478,
       "lng": -86.352299,
       "storeCount": 2
+    },
+    {
+      "slug": "loganville-ga",
+      "city": "Loganville",
+      "state": "GA",
+      "lat": 33.834634,
+      "lng": -83.890793,
+      "storeCount": 1
     },
     {
       "slug": "lolo-mt",

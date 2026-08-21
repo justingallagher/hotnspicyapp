@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-20T09:48:52.808Z",
+  "generatedAt": "2026-08-21T09:51:09.664Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -18088,7 +18088,7 @@
     },
     {
       "postalCode": "32830",
-      "city": "Lake Buena Vista",
+      "city": "Orlando",
       "state": "FL",
       "lat": 28.348866,
       "lng": -81.576837,
@@ -54538,9 +54538,9 @@
       "postalCode": "84405",
       "city": "Riverdale",
       "state": "UT",
-      "lat": 41.176679,
-      "lng": -111.999938,
-      "storeCount": 2
+      "lat": 41.177321,
+      "lng": -112.001355,
+      "storeCount": 1
     },
     {
       "postalCode": "84414",
@@ -84065,14 +84065,6 @@
       "storeCount": 2
     },
     {
-      "slug": "lake-buena-vista-fl",
-      "city": "Lake Buena Vista",
-      "state": "FL",
-      "lat": 28.348866,
-      "lng": -81.576837,
-      "storeCount": 1
-    },
-    {
       "slug": "lake-charles-la",
       "city": "Lake Charles",
       "state": "LA",
@@ -92372,9 +92364,9 @@
       "slug": "orlando-fl",
       "city": "Orlando",
       "state": "FL",
-      "lat": 28.490238,
-      "lng": -81.367071,
-      "storeCount": 56
+      "lat": 28.487758,
+      "lng": -81.370751,
+      "storeCount": 57
     },
     {
       "slug": "ormond-beach-fl",
@@ -95924,9 +95916,9 @@
       "slug": "riverdale-ut",
       "city": "Riverdale",
       "state": "UT",
-      "lat": 41.176679,
-      "lng": -111.999938,
-      "storeCount": 2
+      "lat": 41.177321,
+      "lng": -112.001355,
+      "storeCount": 1
     },
     {
       "slug": "riverhead-ny",

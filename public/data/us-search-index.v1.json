@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-22T09:41:00.107Z",
+  "generatedAt": "2026-08-23T09:42:01.033Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -55770,9 +55770,9 @@
       "postalCode": "85388",
       "city": "Surprise",
       "state": "AZ",
-      "lat": 33.61054,
-      "lng": -112.422628,
-      "storeCount": 4
+      "lat": 33.609901,
+      "lng": -112.423281,
+      "storeCount": 3
     },
     {
       "postalCode": "85395",
@@ -100420,9 +100420,9 @@
       "slug": "surprise-az",
       "city": "Surprise",
       "state": "AZ",
-      "lat": 33.623973,
-      "lng": -112.391152,
-      "storeCount": 9
+      "lat": 33.625412,
+      "lng": -112.387462,
+      "storeCount": 8
     },
     {
       "slug": "susanville-ca",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-23T09:42:01.033Z",
+  "generatedAt": "2026-08-24T10:02:48.126Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -19450,9 +19450,9 @@
       "postalCode": "34104",
       "city": "Naples",
       "state": "FL",
-      "lat": 26.155437,
-      "lng": -81.688179,
-      "storeCount": 1
+      "lat": 26.155099,
+      "lng": -81.719743,
+      "storeCount": 2
     },
     {
       "postalCode": "34109",
@@ -90132,9 +90132,9 @@
       "slug": "naples-fl",
       "city": "Naples",
       "state": "FL",
-      "lat": 26.220592,
-      "lng": -81.728252,
-      "storeCount": 10
+      "lat": 26.214608,
+      "lng": -81.730348,
+      "storeCount": 11
     },
     {
       "slug": "napoleon-oh",

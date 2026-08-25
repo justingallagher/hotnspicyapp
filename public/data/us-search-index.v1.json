@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-24T10:02:48.126Z",
+  "generatedAt": "2026-08-25T09:50:15.488Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -49634,9 +49634,9 @@
       "postalCode": "77479",
       "city": "Sugar Land",
       "state": "TX",
-      "lat": 29.60144,
-      "lng": -95.6322,
-      "storeCount": 1
+      "lat": 29.595997,
+      "lng": -95.653782,
+      "storeCount": 2
     },
     {
       "postalCode": "77486",
@@ -100212,9 +100212,9 @@
       "slug": "sugar-land-tx",
       "city": "Sugar Land",
       "state": "TX",
-      "lat": 29.616787,
-      "lng": -95.629824,
-      "storeCount": 5
+      "lat": 29.612415,
+      "lng": -95.637414,
+      "storeCount": 6
     },
     {
       "slug": "sugarcreek-oh",

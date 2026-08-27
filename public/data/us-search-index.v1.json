@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-26T09:56:26.781Z",
+  "generatedAt": "2026-08-27T19:50:12.237Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -1602,9 +1602,9 @@
       "postalCode": "03820",
       "city": "Dover",
       "state": "NH",
-      "lat": 43.219787,
-      "lng": -70.885818,
-      "storeCount": 1
+      "lat": 43.193124,
+      "lng": -70.888949,
+      "storeCount": 2
     },
     {
       "postalCode": "03842",
@@ -74836,9 +74836,9 @@
       "slug": "dover-nh",
       "city": "Dover",
       "state": "NH",
-      "lat": 43.219787,
-      "lng": -70.885818,
-      "storeCount": 1
+      "lat": 43.193124,
+      "lng": -70.888949,
+      "storeCount": 2
     },
     {
       "slug": "dover-oh",

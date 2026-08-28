@@ -3,7 +3,8 @@ name: Refresh Live Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 9 * * *'
+    - cron: '0 14 * * *'
+      timezone: 'America/New_York'
 
 permissions:
   contents: write

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-27T19:50:12.237Z",
+  "generatedAt": "2026-08-29T01:29:05.934Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -18378,17 +18378,9 @@
       "postalCode": "33126",
       "city": "Miami",
       "state": "FL",
-      "lat": 25.779265,
-      "lng": -80.256514,
-      "storeCount": 1
-    },
-    {
-      "postalCode": "33127",
-      "city": "Miami",
-      "state": "FL",
-      "lat": 25.777626,
-      "lng": -80.286927,
-      "storeCount": 1
+      "lat": 25.778446,
+      "lng": -80.271721,
+      "storeCount": 2
     },
     {
       "postalCode": "33130",

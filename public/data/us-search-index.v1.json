@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-08-29T01:29:05.934Z",
+  "generatedAt": "2026-08-29T20:29:21.330Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -17649,10 +17649,10 @@
     {
       "postalCode": "32608",
       "city": "Gainesville",
-      "state": "FL",
-      "lat": 29.611452,
-      "lng": -82.377875,
-      "storeCount": 2
+      "state": "",
+      "lat": 29.61739,
+      "lng": -82.392546,
+      "storeCount": 3
     },
     {
       "postalCode": "32609",

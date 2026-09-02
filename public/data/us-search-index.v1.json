@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-01T20:38:44.530Z",
+  "generatedAt": "2026-09-02T20:35:21.784Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -18617,7 +18617,7 @@
     {
       "postalCode": "33334",
       "city": "Fort Lauderdale",
-      "state": "FL",
+      "state": "",
       "lat": 26.188694,
       "lng": -80.128907,
       "storeCount": 1
@@ -22489,7 +22489,7 @@
     {
       "postalCode": "37919",
       "city": "Knoxville",
-      "state": "TN",
+      "state": "",
       "lat": 35.931447,
       "lng": -84.023464,
       "storeCount": 1
@@ -28161,7 +28161,7 @@
     {
       "postalCode": "45638",
       "city": "Ironton",
-      "state": "OH",
+      "state": "",
       "lat": 38.541181,
       "lng": -82.674985,
       "storeCount": 1
@@ -31401,7 +31401,7 @@
     {
       "postalCode": "48313-1334",
       "city": "Sterling Heights",
-      "state": "MI",
+      "state": "",
       "lat": 42.618202,
       "lng": -82.990883,
       "storeCount": 1
@@ -33265,7 +33265,7 @@
     {
       "postalCode": "49783",
       "city": "Sault Sainte Marie",
-      "state": "MI",
+      "state": "",
       "lat": 46.474431,
       "lng": -84.358625,
       "storeCount": 1
@@ -46922,9 +46922,9 @@
       "postalCode": "75070",
       "city": "Mckinney",
       "state": "TX",
-      "lat": 33.184599,
-      "lng": -96.652228,
-      "storeCount": 2
+      "lat": 33.173485,
+      "lng": -96.672985,
+      "storeCount": 3
     },
     {
       "postalCode": "75071",
@@ -50065,7 +50065,7 @@
     {
       "postalCode": "77701-1115",
       "city": "Beaumont",
-      "state": "TX",
+      "state": "",
       "lat": 30.09536,
       "lng": -94.11137,
       "storeCount": 1
@@ -52903,6 +52903,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "80443",
+      "city": "Frisco",
+      "state": "CO",
+      "lat": 39.589741,
+      "lng": -106.094449,
+      "storeCount": 1
+    },
+    {
       "postalCode": "80446",
       "city": "Granby",
       "state": "CO",
@@ -54218,9 +54226,9 @@
       "postalCode": "84074",
       "city": "Tooele",
       "state": "UT",
-      "lat": 40.549472,
-      "lng": -112.297694,
-      "storeCount": 1
+      "lat": 40.561613,
+      "lng": -112.296553,
+      "storeCount": 2
     },
     {
       "postalCode": "84074-9463",
@@ -66364,9 +66372,9 @@
       "slug": "annandale-va",
       "city": "Annandale",
       "state": "VA",
-      "lat": 38.82264,
-      "lng": -77.196393,
-      "storeCount": 2
+      "lat": 38.812311,
+      "lng": -77.184997,
+      "storeCount": 1
     },
     {
       "slug": "anniston-al",
@@ -67684,9 +67692,9 @@
       "slug": "beaumont-tx",
       "city": "Beaumont",
       "state": "TX",
-      "lat": 30.117455,
-      "lng": -94.144899,
-      "storeCount": 3
+      "lat": 30.128502,
+      "lng": -94.161664,
+      "storeCount": 2
     },
     {
       "slug": "beaver-dam-ky",
@@ -67948,9 +67956,9 @@
       "slug": "belle-vernon-pa",
       "city": "Belle Vernon",
       "state": "PA",
-      "lat": 40.135688,
-      "lng": -79.852548,
-      "storeCount": 2
+      "lat": 40.137239,
+      "lng": -79.843432,
+      "storeCount": 1
     },
     {
       "slug": "belle-wv",
@@ -77620,9 +77628,9 @@
       "slug": "fort-lauderdale-fl",
       "city": "Fort Lauderdale",
       "state": "FL",
-      "lat": 26.168998,
-      "lng": -80.135867,
-      "storeCount": 9
+      "lat": 26.166536,
+      "lng": -80.136736,
+      "storeCount": 8
     },
     {
       "slug": "fort-lupton-co",
@@ -78143,6 +78151,14 @@
       "lat": 29.530534,
       "lng": -95.183847,
       "storeCount": 3
+    },
+    {
+      "slug": "frisco-co",
+      "city": "Frisco",
+      "state": "CO",
+      "lat": 39.589741,
+      "lng": -106.094449,
+      "storeCount": 1
     },
     {
       "slug": "frisco-tx",
@@ -82401,14 +82417,6 @@
       "storeCount": 1
     },
     {
-      "slug": "ironton-oh",
-      "city": "Ironton",
-      "state": "OH",
-      "lat": 38.541181,
-      "lng": -82.674985,
-      "storeCount": 1
-    },
-    {
       "slug": "ironwood-mi",
       "city": "Ironwood",
       "state": "MI",
@@ -83708,9 +83716,9 @@
       "slug": "knoxville-tn",
       "city": "Knoxville",
       "state": "TN",
-      "lat": 35.928837,
-      "lng": -84.032288,
-      "storeCount": 8
+      "lat": 35.928464,
+      "lng": -84.033549,
+      "storeCount": 7
     },
     {
       "slug": "kokomo-in",
@@ -87692,9 +87700,9 @@
       "slug": "mckinney-tx",
       "city": "Mckinney",
       "state": "TX",
-      "lat": 33.203418,
-      "lng": -96.677683,
-      "storeCount": 9
+      "lat": 33.198202,
+      "lng": -96.681365,
+      "storeCount": 10
     },
     {
       "slug": "mclean-il",
@@ -97737,14 +97745,6 @@
       "storeCount": 1
     },
     {
-      "slug": "sault-sainte-marie-mi",
-      "city": "Sault Sainte Marie",
-      "state": "MI",
-      "lat": 46.474431,
-      "lng": -84.358625,
-      "storeCount": 1
-    },
-    {
       "slug": "savage-mn",
       "city": "Savage",
       "state": "MN",
@@ -99916,9 +99916,9 @@
       "slug": "sterling-heights-mi",
       "city": "Sterling Heights",
       "state": "MI",
-      "lat": 42.590115,
-      "lng": -83.040004,
-      "storeCount": 6
+      "lat": 42.584498,
+      "lng": -83.049829,
+      "storeCount": 5
     },
     {
       "slug": "sterling-il",
@@ -101220,9 +101220,9 @@
       "slug": "tooele-ut",
       "city": "Tooele",
       "state": "UT",
-      "lat": 40.549472,
-      "lng": -112.297694,
-      "storeCount": 1
+      "lat": 40.561613,
+      "lng": -112.296553,
+      "storeCount": 2
     },
     {
       "slug": "topeka-ks",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-03T20:34:32.739Z",
+  "generatedAt": "2026-09-04T20:21:12.633Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -6754,9 +6754,9 @@
       "postalCode": "15012",
       "city": "Belle Vernon",
       "state": "PA",
-      "lat": 40.135688,
-      "lng": -79.852548,
-      "storeCount": 2
+      "lat": 40.137239,
+      "lng": -79.843432,
+      "storeCount": 1
     },
     {
       "postalCode": "15017",

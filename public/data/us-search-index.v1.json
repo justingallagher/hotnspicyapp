@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-05T19:59:55.762Z",
+  "generatedAt": "2026-09-06T20:03:54.645Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -17649,10 +17649,10 @@
     {
       "postalCode": "32608",
       "city": "Gainesville",
-      "state": "",
-      "lat": 29.61739,
-      "lng": -82.392546,
-      "storeCount": 3
+      "state": "FL",
+      "lat": 29.611452,
+      "lng": -82.377875,
+      "storeCount": 2
     },
     {
       "postalCode": "32609",
@@ -48777,7 +48777,7 @@
     {
       "postalCode": "76705",
       "city": "Lacy Lakeview",
-      "state": "",
+      "state": "TX",
       "lat": 31.605193,
       "lng": -97.107574,
       "storeCount": 1
@@ -83926,6 +83926,14 @@
       "state": "NH",
       "lat": 43.559601,
       "lng": -71.453071,
+      "storeCount": 1
+    },
+    {
+      "slug": "lacy-lakeview-tx",
+      "city": "Lacy Lakeview",
+      "state": "TX",
+      "lat": 31.605193,
+      "lng": -97.107574,
       "storeCount": 1
     },
     {

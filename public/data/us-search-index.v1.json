@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-06T20:03:54.645Z",
+  "generatedAt": "2026-09-07T21:10:41.272Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -51399,6 +51399,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "78705",
+      "city": "Austin",
+      "state": "TX",
+      "lat": 30.28657,
+      "lng": -97.741918,
+      "storeCount": 1
+    },
+    {
       "postalCode": "78714",
       "city": "Austin",
       "state": "TX",
@@ -57276,6 +57284,14 @@
       "state": "CA",
       "lat": 33.93066,
       "lng": -117.994186,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "90620",
+      "city": "Buena Park",
+      "state": "CA",
+      "lat": 33.832168,
+      "lng": -118.024797,
       "storeCount": 1
     },
     {
@@ -67084,9 +67100,9 @@
       "slug": "austin-tx",
       "city": "Austin",
       "state": "TX",
-      "lat": 30.325675,
-      "lng": -97.738942,
-      "storeCount": 34
+      "lat": 30.324557,
+      "lng": -97.739027,
+      "storeCount": 35
     },
     {
       "slug": "austinburg-oh",
@@ -69868,9 +69884,9 @@
       "slug": "buena-park-ca",
       "city": "Buena Park",
       "state": "CA",
-      "lat": 33.8601,
-      "lng": -118.0025,
-      "storeCount": 3
+      "lat": 33.853117,
+      "lng": -118.008074,
+      "storeCount": 4
     },
     {
       "slug": "buffalo-grove-il",

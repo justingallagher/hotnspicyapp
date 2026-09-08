@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-07T21:10:41.272Z",
+  "generatedAt": "2026-09-08T20:47:06.989Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -51642,9 +51642,9 @@
       "postalCode": "78852",
       "city": "Eagle Pass",
       "state": "TX",
-      "lat": 28.712949,
-      "lng": -100.484927,
-      "storeCount": 2
+      "lat": 28.698611,
+      "lng": -100.475157,
+      "storeCount": 3
     },
     {
       "postalCode": "78852-4419",
@@ -75220,9 +75220,9 @@
       "slug": "eagle-pass-tx",
       "city": "Eagle Pass",
       "state": "TX",
-      "lat": 28.711466,
-      "lng": -100.485119,
-      "storeCount": 3
+      "lat": 28.701083,
+      "lng": -100.477744,
+      "storeCount": 4
     },
     {
       "slug": "eagle-rock-ca",

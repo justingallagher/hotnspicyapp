@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-08T20:47:06.989Z",
+  "generatedAt": "2026-09-09T20:31:26.329Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -50594,9 +50594,9 @@
       "postalCode": "78222",
       "city": "San Antonio",
       "state": "TX",
-      "lat": 29.397798,
-      "lng": -98.387424,
-      "storeCount": 1
+      "lat": 29.386547,
+      "lng": -98.396333,
+      "storeCount": 2
     },
     {
       "postalCode": "78223",
@@ -51396,14 +51396,6 @@
       "state": "TX",
       "lat": 30.237517,
       "lng": -97.752039,
-      "storeCount": 1
-    },
-    {
-      "postalCode": "78705",
-      "city": "Austin",
-      "state": "TX",
-      "lat": 30.28657,
-      "lng": -97.741918,
       "storeCount": 1
     },
     {
@@ -67100,9 +67092,9 @@
       "slug": "austin-tx",
       "city": "Austin",
       "state": "TX",
-      "lat": 30.324557,
-      "lng": -97.739027,
-      "storeCount": 35
+      "lat": 30.325675,
+      "lng": -97.738942,
+      "storeCount": 34
     },
     {
       "slug": "austinburg-oh",
@@ -97220,9 +97212,9 @@
       "slug": "san-antonio-tx",
       "city": "San Antonio",
       "state": "TX",
-      "lat": 29.472461,
-      "lng": -98.54886,
-      "storeCount": 85
+      "lat": 29.471331,
+      "lng": -98.54719,
+      "storeCount": 86
     },
     {
       "slug": "san-benito-tx",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-10T20:29:00.457Z",
+  "generatedAt": "2026-09-11T20:32:47.749Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -54226,8 +54226,8 @@
       "postalCode": "84074",
       "city": "Tooele",
       "state": "UT",
-      "lat": 40.561613,
-      "lng": -112.296553,
+      "lat": 40.562696,
+      "lng": -112.296483,
       "storeCount": 2
     },
     {
@@ -58938,8 +58938,8 @@
       "postalCode": "92543",
       "city": "Hemet",
       "state": "CA",
-      "lat": 33.729604,
-      "lng": -116.972562,
+      "lat": 33.729676,
+      "lng": -116.973419,
       "storeCount": 1
     },
     {
@@ -64368,7 +64368,7 @@
     },
     {
       "postalCode": "98155-1143",
-      "city": "Seattle",
+      "city": "Shoreline",
       "state": "WA",
       "lat": 47.77579,
       "lng": -122.312002,
@@ -81004,8 +81004,8 @@
       "slug": "hemet-ca",
       "city": "Hemet",
       "state": "CA",
-      "lat": 33.737553,
-      "lng": -116.982848,
+      "lat": 33.737571,
+      "lng": -116.983062,
       "storeCount": 4
     },
     {
@@ -97996,9 +97996,9 @@
       "slug": "seattle-wa",
       "city": "Seattle",
       "state": "WA",
-      "lat": 47.598515,
-      "lng": -122.332399,
-      "storeCount": 16
+      "lat": 47.586697,
+      "lng": -122.333759,
+      "storeCount": 15
     },
     {
       "slug": "seaville-nj",
@@ -98556,9 +98556,9 @@
       "slug": "shoreline-wa",
       "city": "Shoreline",
       "state": "WA",
-      "lat": 47.736424,
-      "lng": -122.319367,
-      "storeCount": 2
+      "lat": 47.749546,
+      "lng": -122.316912,
+      "storeCount": 3
     },
     {
       "slug": "shorewood-il",
@@ -101228,8 +101228,8 @@
       "slug": "tooele-ut",
       "city": "Tooele",
       "state": "UT",
-      "lat": 40.561613,
-      "lng": -112.296553,
+      "lat": 40.562696,
+      "lng": -112.296483,
       "storeCount": 2
     },
     {

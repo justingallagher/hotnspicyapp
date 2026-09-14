@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-13T20:24:36.854Z",
+  "generatedAt": "2026-09-14T21:33:59.808Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -48506,9 +48506,9 @@
       "postalCode": "76208",
       "city": "Denton",
       "state": "TX",
-      "lat": 33.256681,
-      "lng": -97.109396,
-      "storeCount": 1
+      "lat": 33.23609,
+      "lng": -97.099693,
+      "storeCount": 2
     },
     {
       "postalCode": "76210",
@@ -74460,9 +74460,9 @@
       "slug": "denton-tx",
       "city": "Denton",
       "state": "TX",
-      "lat": 33.2034,
-      "lng": -97.12235,
-      "storeCount": 7
+      "lat": 33.204913,
+      "lng": -97.118305,
+      "storeCount": 8
     },
     {
       "slug": "denver-co",

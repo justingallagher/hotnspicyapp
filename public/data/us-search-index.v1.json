@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-14T21:33:59.808Z",
+  "generatedAt": "2026-09-15T20:55:33.650Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -1394,9 +1394,9 @@
       "postalCode": "03055",
       "city": "Milford",
       "state": "NH",
-      "lat": 42.823624,
-      "lng": -71.622513,
-      "storeCount": 1
+      "lat": 42.832511,
+      "lng": -71.670302,
+      "storeCount": 2
     },
     {
       "postalCode": "03060",
@@ -12386,9 +12386,9 @@
       "postalCode": "27284",
       "city": "Kernersville",
       "state": "NC",
-      "lat": 36.099252,
-      "lng": -80.076224,
-      "storeCount": 2
+      "lat": 36.111222,
+      "lng": -80.068453,
+      "storeCount": 3
     },
     {
       "postalCode": "27288",
@@ -83380,9 +83380,9 @@
       "slug": "kernersville-nc",
       "city": "Kernersville",
       "state": "NC",
-      "lat": 36.099252,
-      "lng": -80.076224,
-      "storeCount": 2
+      "lat": 36.111222,
+      "lng": -80.068453,
+      "storeCount": 3
     },
     {
       "slug": "kettering-oh",
@@ -88532,9 +88532,9 @@
       "slug": "milford-nh",
       "city": "Milford",
       "state": "NH",
-      "lat": 42.823624,
-      "lng": -71.622513,
-      "storeCount": 1
+      "lat": 42.832511,
+      "lng": -71.670302,
+      "storeCount": 2
     },
     {
       "slug": "milford-oh",

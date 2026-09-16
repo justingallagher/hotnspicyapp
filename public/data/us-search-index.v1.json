@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-15T20:55:33.650Z",
+  "generatedAt": "2026-09-16T20:56:22.721Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -47738,9 +47738,9 @@
       "postalCode": "75605",
       "city": "Longview",
       "state": "TX",
-      "lat": 32.548869,
-      "lng": -94.727036,
-      "storeCount": 1
+      "lat": 32.554384,
+      "lng": -94.763559,
+      "storeCount": 2
     },
     {
       "postalCode": "75644",
@@ -48271,6 +48271,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "76060",
+      "city": "Kennedale",
+      "state": "TX",
+      "lat": 32.664858,
+      "lng": -97.239738,
+      "storeCount": 1
+    },
+    {
       "postalCode": "76063",
       "city": "Mansfield",
       "state": "TX",
@@ -48464,11 +48472,11 @@
     },
     {
       "postalCode": "76140",
-      "city": "Fort Worth",
+      "city": "Everman",
       "state": "TX",
-      "lat": 32.644381,
-      "lng": -97.281893,
-      "storeCount": 4
+      "lat": 32.637556,
+      "lng": -97.295945,
+      "storeCount": 3
     },
     {
       "postalCode": "76155",
@@ -77764,9 +77772,9 @@
       "slug": "fort-worth-tx",
       "city": "Fort Worth",
       "state": "TX",
-      "lat": 32.698104,
-      "lng": -97.325612,
-      "storeCount": 20
+      "lat": 32.699854,
+      "lng": -97.330131,
+      "storeCount": 19
     },
     {
       "slug": "fortuna-ca",
@@ -83281,6 +83289,14 @@
       "storeCount": 1
     },
     {
+      "slug": "kennedale-tx",
+      "city": "Kennedale",
+      "state": "TX",
+      "lat": 32.664858,
+      "lng": -97.239738,
+      "storeCount": 1
+    },
+    {
       "slug": "kennett-mo",
       "city": "Kennett",
       "state": "MO",
@@ -85900,9 +85916,9 @@
       "slug": "longview-tx",
       "city": "Longview",
       "state": "TX",
-      "lat": 32.51159,
-      "lng": -94.742361,
-      "storeCount": 5
+      "lat": 32.519642,
+      "lng": -94.751981,
+      "storeCount": 6
     },
     {
       "slug": "longview-wa",

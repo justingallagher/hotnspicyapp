@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-16T20:56:22.721Z",
+  "generatedAt": "2026-09-17T20:59:35.420Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -11697,7 +11697,7 @@
     {
       "postalCode": "24656",
       "city": "Vansant",
-      "state": "",
+      "state": "VA",
       "lat": 37.23538,
       "lng": -82.104041,
       "storeCount": 1
@@ -46922,9 +46922,9 @@
       "postalCode": "75070",
       "city": "Mckinney",
       "state": "TX",
-      "lat": 33.184599,
-      "lng": -96.652228,
-      "storeCount": 2
+      "lat": 33.173485,
+      "lng": -96.672985,
+      "storeCount": 3
     },
     {
       "postalCode": "75071",
@@ -87724,9 +87724,9 @@
       "slug": "mckinney-tx",
       "city": "Mckinney",
       "state": "TX",
-      "lat": 33.203418,
-      "lng": -96.677683,
-      "storeCount": 9
+      "lat": 33.198202,
+      "lng": -96.681365,
+      "storeCount": 10
     },
     {
       "slug": "mclean-il",
@@ -102167,6 +102167,14 @@
       "lat": 45.657824,
       "lng": -122.593127,
       "storeCount": 9
+    },
+    {
+      "slug": "vansant-va",
+      "city": "Vansant",
+      "state": "VA",
+      "lat": 37.23538,
+      "lng": -82.104041,
+      "storeCount": 1
     },
     {
       "slug": "varnell-ga",

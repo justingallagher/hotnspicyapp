@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-21T21:45:01.979Z",
+  "generatedAt": "2026-09-22T20:57:07.520Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -45319,6 +45319,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "72736",
+      "city": "Gravette",
+      "state": "AR",
+      "lat": 36.417465,
+      "lng": -94.453421,
+      "storeCount": 1
+    },
+    {
       "postalCode": "72740",
       "city": "Huntsville",
       "state": "AR",
@@ -46922,9 +46930,9 @@
       "postalCode": "75070",
       "city": "Mckinney",
       "state": "TX",
-      "lat": 33.173485,
-      "lng": -96.672985,
-      "storeCount": 3
+      "lat": 33.184599,
+      "lng": -96.652228,
+      "storeCount": 2
     },
     {
       "postalCode": "75071",
@@ -51404,6 +51412,14 @@
       "state": "TX",
       "lat": 30.237517,
       "lng": -97.752039,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "78705",
+      "city": "Austin",
+      "state": "TX",
+      "lat": 30.28657,
+      "lng": -97.741918,
       "storeCount": 1
     },
     {
@@ -67100,9 +67116,9 @@
       "slug": "austin-tx",
       "city": "Austin",
       "state": "TX",
-      "lat": 30.325675,
-      "lng": -97.738942,
-      "storeCount": 34
+      "lat": 30.324557,
+      "lng": -97.739027,
+      "storeCount": 35
     },
     {
       "slug": "austinburg-oh",
@@ -79449,6 +79465,14 @@
       "storeCount": 1
     },
     {
+      "slug": "gravette-ar",
+      "city": "Gravette",
+      "state": "AR",
+      "lat": 36.417465,
+      "lng": -94.453421,
+      "storeCount": 1
+    },
+    {
       "slug": "gray-la",
       "city": "Gray",
       "state": "LA",
@@ -87724,9 +87748,9 @@
       "slug": "mckinney-tx",
       "city": "Mckinney",
       "state": "TX",
-      "lat": 33.198202,
-      "lng": -96.681365,
-      "storeCount": 10
+      "lat": 33.203418,
+      "lng": -96.677683,
+      "storeCount": 9
     },
     {
       "slug": "mclean-il",
@@ -98404,9 +98428,9 @@
       "slug": "shelby-nc",
       "city": "Shelby",
       "state": "NC",
-      "lat": 35.277426,
-      "lng": -81.539415,
-      "storeCount": 1
+      "lat": 35.272934,
+      "lng": -81.512311,
+      "storeCount": 2
     },
     {
       "slug": "shelby-oh",

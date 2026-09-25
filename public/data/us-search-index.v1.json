@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-24T21:12:33.279Z",
+  "generatedAt": "2026-09-25T21:09:55.527Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -63130,9 +63130,9 @@
       "postalCode": "97062",
       "city": "Tualatin",
       "state": "OR",
-      "lat": 45.381714,
-      "lng": -122.755199,
-      "storeCount": 2
+      "lat": 45.380982,
+      "lng": -122.763871,
+      "storeCount": 1
     },
     {
       "postalCode": "97065",
@@ -101540,9 +101540,9 @@
       "slug": "tualatin-or",
       "city": "Tualatin",
       "state": "OR",
-      "lat": 45.381714,
-      "lng": -122.755199,
-      "storeCount": 2
+      "lat": 45.380982,
+      "lng": -122.763871,
+      "storeCount": 1
     },
     {
       "slug": "tucker-ga",

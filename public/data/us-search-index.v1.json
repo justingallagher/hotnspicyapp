@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-27T20:58:32.817Z",
+  "generatedAt": "2026-09-28T22:58:55.465Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -44994,9 +44994,9 @@
       "postalCode": "72143",
       "city": "Searcy",
       "state": "AR",
-      "lat": 35.243316,
-      "lng": -91.735798,
-      "storeCount": 1
+      "lat": 35.245096,
+      "lng": -91.75478,
+      "storeCount": 2
     },
     {
       "postalCode": "72143-6202",
@@ -65172,6 +65172,14 @@
       "state": "WA",
       "lat": 46.647165,
       "lng": -120.529998,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "98944",
+      "city": "Sunnyside",
+      "state": "WA",
+      "lat": 46.307794,
+      "lng": -120.020379,
       "storeCount": 1
     },
     {
@@ -98020,9 +98028,9 @@
       "slug": "searcy-ar",
       "city": "Searcy",
       "state": "AR",
-      "lat": 35.24655,
-      "lng": -91.710912,
-      "storeCount": 2
+      "lat": 35.246658,
+      "lng": -91.731862,
+      "storeCount": 3
     },
     {
       "slug": "seaside-ca",
@@ -100428,9 +100436,9 @@
       "slug": "sunnyside-wa",
       "city": "Sunnyside",
       "state": "WA",
-      "lat": 46.322464,
-      "lng": -119.991068,
-      "storeCount": 1
+      "lat": 46.315129,
+      "lng": -120.005724,
+      "storeCount": 2
     },
     {
       "slug": "sunnyvale-ca",

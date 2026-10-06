@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-04T20:55:30.457Z",
+  "generatedAt": "2026-10-05T23:47:55.132Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -37674,9 +37674,9 @@
       "postalCode": "60060",
       "city": "Mundelein",
       "state": "IL",
-      "lat": 42.248082,
-      "lng": -88.008411,
-      "storeCount": 2
+      "lat": 42.259197,
+      "lng": -88.020423,
+      "storeCount": 3
     },
     {
       "postalCode": "60060-2203",
@@ -89980,9 +89980,9 @@
       "slug": "mundelein-il",
       "city": "Mundelein",
       "state": "IL",
-      "lat": 42.25391,
-      "lng": -88.006802,
-      "storeCount": 3
+      "lat": 42.26079,
+      "lng": -88.016213,
+      "storeCount": 4
     },
     {
       "slug": "munfordville-ky",

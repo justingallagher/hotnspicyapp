@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-06T22:23:43.736Z",
+  "generatedAt": "2026-10-07T22:48:48.773Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -15428,6 +15428,14 @@
       "state": "GA",
       "lat": 33.91114,
       "lng": -84.8022,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "30134",
+      "city": "Douglasville",
+      "state": "GA",
+      "lat": 33.816993,
+      "lng": -84.812591,
       "storeCount": 1
     },
     {
@@ -57434,9 +57442,9 @@
       "postalCode": "90706",
       "city": "Bellflower",
       "state": "CA",
-      "lat": 33.873793,
-      "lng": -118.134331,
-      "storeCount": 2
+      "lat": 33.878842,
+      "lng": -118.127301,
+      "storeCount": 3
     },
     {
       "postalCode": "90706-5150",
@@ -68068,9 +68076,9 @@
       "slug": "bellflower-ca",
       "city": "Bellflower",
       "state": "CA",
-      "lat": 33.878311,
-      "lng": -118.137006,
-      "storeCount": 3
+      "lat": 33.880968,
+      "lng": -118.131065,
+      "storeCount": 4
     },
     {
       "slug": "bellingham-wa",
@@ -74852,9 +74860,9 @@
       "slug": "douglasville-ga",
       "city": "Douglasville",
       "state": "GA",
-      "lat": 33.735383,
-      "lng": -84.743534,
-      "storeCount": 3
+      "lat": 33.755786,
+      "lng": -84.760798,
+      "storeCount": 4
     },
     {
       "slug": "dover-de",

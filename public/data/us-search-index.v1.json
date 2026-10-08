@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-07T22:48:48.773Z",
+  "generatedAt": "2026-10-08T22:59:30.988Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -28036,6 +28036,14 @@
       "state": "OH",
       "lat": 39.688107,
       "lng": -84.132665,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "45430",
+      "city": "Dayton",
+      "state": "OH",
+      "lat": 39.696547,
+      "lng": -84.101779,
       "storeCount": 1
     },
     {
@@ -74132,9 +74140,9 @@
       "slug": "dayton-oh",
       "city": "Dayton",
       "state": "OH",
-      "lat": 39.759105,
-      "lng": -84.175828,
-      "storeCount": 16
+      "lat": 39.755425,
+      "lng": -84.171472,
+      "storeCount": 17
     },
     {
       "slug": "dayton-tn",

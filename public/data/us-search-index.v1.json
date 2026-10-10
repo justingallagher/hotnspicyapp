@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-08T22:59:30.988Z",
+  "generatedAt": "2026-10-10T21:14:09.810Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -15428,14 +15428,6 @@
       "state": "GA",
       "lat": 33.91114,
       "lng": -84.8022,
-      "storeCount": 1
-    },
-    {
-      "postalCode": "30134",
-      "city": "Douglasville",
-      "state": "GA",
-      "lat": 33.816993,
-      "lng": -84.812591,
       "storeCount": 1
     },
     {
@@ -74868,9 +74860,9 @@
       "slug": "douglasville-ga",
       "city": "Douglasville",
       "state": "GA",
-      "lat": 33.755786,
-      "lng": -84.760798,
-      "storeCount": 4
+      "lat": 33.735383,
+      "lng": -84.743534,
+      "storeCount": 3
     },
     {
       "slug": "dover-de",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-10T21:14:09.810Z",
+  "generatedAt": "2026-10-11T21:34:03.724Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -15428,6 +15428,14 @@
       "state": "GA",
       "lat": 33.91114,
       "lng": -84.8022,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "30134",
+      "city": "Douglasville",
+      "state": "GA",
+      "lat": 33.816993,
+      "lng": -84.812591,
       "storeCount": 1
     },
     {
@@ -66713,14 +66721,6 @@
       "storeCount": 1
     },
     {
-      "slug": "asbury-park-nj",
-      "city": "Asbury Park",
-      "state": "NJ",
-      "lat": 40.228401,
-      "lng": -74.009163,
-      "storeCount": 1
-    },
-    {
       "slug": "ash-flat-ar",
       "city": "Ash Flat",
       "state": "AR",
@@ -74860,9 +74860,9 @@
       "slug": "douglasville-ga",
       "city": "Douglasville",
       "state": "GA",
-      "lat": 33.735383,
-      "lng": -84.743534,
-      "storeCount": 3
+      "lat": 33.755786,
+      "lng": -84.760798,
+      "storeCount": 4
     },
     {
       "slug": "dover-de",

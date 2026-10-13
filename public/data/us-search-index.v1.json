@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-11T21:34:03.724Z",
+  "generatedAt": "2026-10-13T00:12:45.966Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -46946,9 +46946,9 @@
       "postalCode": "75070",
       "city": "Mckinney",
       "state": "TX",
-      "lat": 33.184599,
-      "lng": -96.652228,
-      "storeCount": 2
+      "lat": 33.173485,
+      "lng": -96.672985,
+      "storeCount": 3
     },
     {
       "postalCode": "75071",
@@ -87764,9 +87764,9 @@
       "slug": "mckinney-tx",
       "city": "Mckinney",
       "state": "TX",
-      "lat": 33.203418,
-      "lng": -96.677683,
-      "storeCount": 9
+      "lat": 33.198202,
+      "lng": -96.681365,
+      "storeCount": 10
     },
     {
       "slug": "mclean-il",

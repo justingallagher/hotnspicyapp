@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-13T00:12:45.966Z",
+  "generatedAt": "2026-10-13T22:20:45.715Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -3426,9 +3426,9 @@
       "postalCode": "08055",
       "city": "Medford",
       "state": "NJ",
-      "lat": 39.873651,
-      "lng": -74.812072,
-      "storeCount": 1
+      "lat": 39.887984,
+      "lng": -74.823195,
+      "storeCount": 2
     },
     {
       "postalCode": "08059",
@@ -18052,6 +18052,14 @@
       "state": "FL",
       "lat": 28.537369,
       "lng": -81.28521,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "32824",
+      "city": "Orlando",
+      "state": "FL",
+      "lat": 28.356047,
+      "lng": -81.309523,
       "storeCount": 1
     },
     {
@@ -87868,9 +87876,9 @@
       "slug": "medford-nj",
       "city": "Medford",
       "state": "NJ",
-      "lat": 39.873651,
-      "lng": -74.812072,
-      "storeCount": 1
+      "lat": 39.887984,
+      "lng": -74.823195,
+      "storeCount": 2
     },
     {
       "slug": "medford-ny",
@@ -92428,9 +92436,9 @@
       "slug": "orlando-fl",
       "city": "Orlando",
       "state": "FL",
-      "lat": 28.487758,
-      "lng": -81.370751,
-      "storeCount": 57
+      "lat": 28.485487,
+      "lng": -81.369695,
+      "storeCount": 58
     },
     {
       "slug": "ormond-beach-fl",

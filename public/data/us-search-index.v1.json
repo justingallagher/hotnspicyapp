@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-13T22:20:45.715Z",
+  "generatedAt": "2026-10-14T21:19:41.766Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -641,7 +641,7 @@
     {
       "postalCode": "01905",
       "city": "Lynn",
-      "state": "",
+      "state": "MA",
       "lat": 42.45212,
       "lng": -70.96018,
       "storeCount": 2
@@ -26735,6 +26735,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "44138",
+      "city": "Olmsted Twp",
+      "state": "OH",
+      "lat": 41.372888,
+      "lng": -81.94396,
+      "storeCount": 1
+    },
+    {
       "postalCode": "44142",
       "city": "Brook Park",
       "state": "OH",
@@ -32884,6 +32892,14 @@
       "state": "MI",
       "lat": 43.220339,
       "lng": -85.567653,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "49323",
+      "city": "Dorr",
+      "state": "MI",
+      "lat": 42.725298,
+      "lng": -85.705708,
       "storeCount": 1
     },
     {
@@ -74833,6 +74849,14 @@
       "storeCount": 3
     },
     {
+      "slug": "dorr-mi",
+      "city": "Dorr",
+      "state": "MI",
+      "lat": 42.725298,
+      "lng": -85.705708,
+      "storeCount": 1
+    },
+    {
       "slug": "dothan-al",
       "city": "Dothan",
       "state": "AL",
@@ -86372,9 +86396,9 @@
       "slug": "lynn-ma",
       "city": "Lynn",
       "state": "MA",
-      "lat": 42.462858,
-      "lng": -70.958414,
-      "storeCount": 2
+      "lat": 42.46041,
+      "lng": -70.958795,
+      "storeCount": 3
     },
     {
       "slug": "lynnwood-wa",
@@ -92214,6 +92238,14 @@
       "state": "MO",
       "lat": 38.673648,
       "lng": -90.376421,
+      "storeCount": 1
+    },
+    {
+      "slug": "olmsted-twp-oh",
+      "city": "Olmsted Twp",
+      "state": "OH",
+      "lat": 41.372888,
+      "lng": -81.94396,
       "storeCount": 1
     },
     {

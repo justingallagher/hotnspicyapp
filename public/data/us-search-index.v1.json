@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-14T21:19:41.766Z",
+  "generatedAt": "2026-10-15T20:59:46.796Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -3946,9 +3946,9 @@
       "postalCode": "10001",
       "city": "Manhattan",
       "state": "NY",
-      "lat": 40.749957,
-      "lng": -73.991028,
-      "storeCount": 4
+      "lat": 40.749761,
+      "lng": -73.991129,
+      "storeCount": 3
     },
     {
       "postalCode": "10002",
@@ -5069,6 +5069,14 @@
       "lat": 40.713345,
       "lng": -73.592484,
       "storeCount": 2
+    },
+    {
+      "postalCode": "11554",
+      "city": "East Meadow",
+      "state": "NY",
+      "lat": 40.72541,
+      "lng": -73.548363,
+      "storeCount": 1
     },
     {
       "postalCode": "11559",
@@ -47616,7 +47624,7 @@
     },
     {
       "postalCode": "75261",
-      "city": "Dallas",
+      "city": "Dfw Airport",
       "state": "TX",
       "lat": 32.901455,
       "lng": -97.038874,
@@ -66745,6 +66753,14 @@
       "storeCount": 1
     },
     {
+      "slug": "asbury-park-nj",
+      "city": "Asbury Park",
+      "state": "NJ",
+      "lat": 40.228401,
+      "lng": -74.009163,
+      "storeCount": 1
+    },
+    {
       "slug": "ash-flat-ar",
       "city": "Ash Flat",
       "state": "AR",
@@ -73948,9 +73964,9 @@
       "slug": "dallas-tx",
       "city": "Dallas",
       "state": "TX",
-      "lat": 32.804171,
-      "lng": -96.808121,
-      "storeCount": 56
+      "lat": 32.802482,
+      "lng": -96.803978,
+      "storeCount": 55
     },
     {
       "slug": "dalton-ga",
@@ -74678,6 +74694,14 @@
       "state": "MO",
       "lat": 36.803355,
       "lng": -89.971671,
+      "storeCount": 1
+    },
+    {
+      "slug": "dfw-airport-tx",
+      "city": "Dfw Airport",
+      "state": "TX",
+      "lat": 32.8971,
+      "lng": -97.036,
       "storeCount": 1
     },
     {
@@ -75470,6 +75494,14 @@
       "state": "CT",
       "lat": 41.367647,
       "lng": -72.209608,
+      "storeCount": 1
+    },
+    {
+      "slug": "east-meadow-ny",
+      "city": "East Meadow",
+      "state": "NY",
+      "lat": 40.72541,
+      "lng": -73.548363,
       "storeCount": 1
     },
     {
@@ -90820,9 +90852,9 @@
       "slug": "new-york-ny",
       "city": "New York",
       "state": "NY",
-      "lat": 40.763131,
-      "lng": -73.96571,
-      "storeCount": 44
+      "lat": 40.763424,
+      "lng": -73.965128,
+      "storeCount": 43
     },
     {
       "slug": "newark-ca",

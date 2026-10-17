@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-16T20:34:17.064Z",
+  "generatedAt": "2026-10-17T20:13:16.629Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -19848,7 +19848,7 @@
     },
     {
       "postalCode": "34638",
-      "city": "Land O? Lakes",
+      "city": "Land O Lakes",
       "state": "FL",
       "lat": 28.273305,
       "lng": -82.480625,
@@ -84594,7 +84594,7 @@
     },
     {
       "slug": "land-o-lakes-fl",
-      "city": "Land O? Lakes",
+      "city": "Land O Lakes",
       "state": "FL",
       "lat": 28.273305,
       "lng": -82.480625,

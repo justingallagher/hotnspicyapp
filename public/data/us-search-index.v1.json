@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-17T20:13:16.629Z",
+  "generatedAt": "2026-10-18T20:10:16.470Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -3426,9 +3426,9 @@
       "postalCode": "08055",
       "city": "Medford",
       "state": "NJ",
-      "lat": 39.873651,
-      "lng": -74.812072,
-      "storeCount": 1
+      "lat": 39.887984,
+      "lng": -74.823195,
+      "storeCount": 2
     },
     {
       "postalCode": "08059",
@@ -87924,9 +87924,9 @@
       "slug": "medford-nj",
       "city": "Medford",
       "state": "NJ",
-      "lat": 39.873651,
-      "lng": -74.812072,
-      "storeCount": 1
+      "lat": 39.887984,
+      "lng": -74.823195,
+      "storeCount": 2
     },
     {
       "slug": "medford-ny",

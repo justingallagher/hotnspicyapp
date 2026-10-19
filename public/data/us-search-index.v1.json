@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-18T20:10:16.470Z",
+  "generatedAt": "2026-10-19T22:02:54.662Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -42113,7 +42113,7 @@
     {
       "postalCode": "65536-3638",
       "city": "Lebanon",
-      "state": "MO",
+      "state": "",
       "lat": 37.67431,
       "lng": -92.65491,
       "storeCount": 1
@@ -84972,9 +84972,9 @@
       "slug": "lebanon-mo",
       "city": "Lebanon",
       "state": "MO",
-      "lat": 37.65945,
-      "lng": -92.661721,
-      "storeCount": 2
+      "lat": 37.64459,
+      "lng": -92.668532,
+      "storeCount": 1
     },
     {
       "slug": "lebanon-oh",

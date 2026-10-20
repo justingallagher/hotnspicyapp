@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-19T22:02:54.662Z",
+  "generatedAt": "2026-10-20T21:18:53.964Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -61217,7 +61217,7 @@
     {
       "postalCode": "94560-1220",
       "city": "Newark",
-      "state": "CA",
+      "state": "",
       "lat": 37.549561,
       "lng": -122.04644,
       "storeCount": 1
@@ -90852,9 +90852,9 @@
       "slug": "newark-ca",
       "city": "Newark",
       "state": "CA",
-      "lat": 37.537638,
-      "lng": -122.02598,
-      "storeCount": 2
+      "lat": 37.525716,
+      "lng": -122.00552,
+      "storeCount": 1
     },
     {
       "slug": "newark-de",

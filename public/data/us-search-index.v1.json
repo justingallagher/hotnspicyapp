@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-20T21:18:53.964Z",
+  "generatedAt": "2026-10-21T21:18:50.809Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -11146,9 +11146,9 @@
       "postalCode": "23451",
       "city": "Virginia Beach",
       "state": "VA",
-      "lat": 36.846746,
-      "lng": -76.008672,
-      "storeCount": 2
+      "lat": 36.829424,
+      "lng": -76.003748,
+      "storeCount": 3
     },
     {
       "postalCode": "23452",
@@ -19297,7 +19297,7 @@
     {
       "postalCode": "33873",
       "city": "Wauchula",
-      "state": "",
+      "state": "FL",
       "lat": 27.536831,
       "lng": -81.808963,
       "storeCount": 1
@@ -21417,7 +21417,7 @@
     {
       "postalCode": "36610-1249",
       "city": "Prichard",
-      "state": "AL",
+      "state": "",
       "lat": 30.745234,
       "lng": -88.111779,
       "storeCount": 1
@@ -36921,7 +36921,7 @@
     {
       "postalCode": "57401-2708",
       "city": "Aberdeen",
-      "state": "",
+      "state": "SD",
       "lat": 45.469987,
       "lng": -98.491434,
       "storeCount": 1
@@ -42113,7 +42113,7 @@
     {
       "postalCode": "65536-3638",
       "city": "Lebanon",
-      "state": "",
+      "state": "MO",
       "lat": 37.67431,
       "lng": -92.65491,
       "storeCount": 1
@@ -62079,6 +62079,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "95388",
+      "city": "Winton",
+      "state": "CA",
+      "lat": 37.381381,
+      "lng": -120.613143,
+      "storeCount": 1
+    },
+    {
       "postalCode": "95401-4018",
       "city": "Santa Rosa",
       "state": "CA",
@@ -65588,9 +65596,9 @@
       "slug": "aberdeen-sd",
       "city": "Aberdeen",
       "state": "SD",
-      "lat": 45.45978,
-      "lng": -98.463756,
-      "storeCount": 1
+      "lat": 45.464883,
+      "lng": -98.477595,
+      "storeCount": 2
     },
     {
       "slug": "abilene-tx",
@@ -84972,9 +84980,9 @@
       "slug": "lebanon-mo",
       "city": "Lebanon",
       "state": "MO",
-      "lat": 37.64459,
-      "lng": -92.668532,
-      "storeCount": 1
+      "lat": 37.65945,
+      "lng": -92.661721,
+      "storeCount": 2
     },
     {
       "slug": "lebanon-oh",
@@ -94889,14 +94897,6 @@
       "storeCount": 1
     },
     {
-      "slug": "prichard-al",
-      "city": "Prichard",
-      "state": "AL",
-      "lat": 30.745234,
-      "lng": -88.111779,
-      "storeCount": 1
-    },
-    {
       "slug": "prince-frederick-md",
       "city": "Prince Frederick",
       "state": "MD",
@@ -102548,9 +102548,9 @@
       "slug": "virginia-beach-va",
       "city": "Virginia Beach",
       "state": "VA",
-      "lat": 36.819021,
-      "lng": -76.113159,
-      "storeCount": 15
+      "lat": 36.817506,
+      "lng": -76.105705,
+      "storeCount": 16
     },
     {
       "slug": "virginia-mn",
@@ -103295,6 +103295,14 @@
       "lat": 36.918892,
       "lng": -121.766325,
       "storeCount": 3
+    },
+    {
+      "slug": "wauchula-fl",
+      "city": "Wauchula",
+      "state": "FL",
+      "lat": 27.536831,
+      "lng": -81.808963,
+      "storeCount": 1
     },
     {
       "slug": "wauconda-il",
@@ -105214,6 +105222,14 @@
       "state": "NC",
       "lat": 35.550909,
       "lng": -77.404978,
+      "storeCount": 1
+    },
+    {
+      "slug": "winton-ca",
+      "city": "Winton",
+      "state": "CA",
+      "lat": 37.381381,
+      "lng": -120.613143,
       "storeCount": 1
     },
     {

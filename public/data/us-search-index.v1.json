@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-21T21:18:50.809Z",
+  "generatedAt": "2026-10-22T21:14:47.264Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -11146,9 +11146,9 @@
       "postalCode": "23451",
       "city": "Virginia Beach",
       "state": "VA",
-      "lat": 36.829424,
-      "lng": -76.003748,
-      "storeCount": 3
+      "lat": 36.846746,
+      "lng": -76.008672,
+      "storeCount": 2
     },
     {
       "postalCode": "23452",
@@ -24137,7 +24137,7 @@
     {
       "postalCode": "40218-4602",
       "city": "Louisville",
-      "state": "",
+      "state": "KY",
       "lat": 38.206423,
       "lng": -85.667963,
       "storeCount": 1
@@ -38569,7 +38569,7 @@
     {
       "postalCode": "60461",
       "city": "Olympia Fields",
-      "state": "",
+      "state": "IL",
       "lat": 41.505805,
       "lng": -87.676211,
       "storeCount": 1
@@ -42113,7 +42113,7 @@
     {
       "postalCode": "65536-3638",
       "city": "Lebanon",
-      "state": "MO",
+      "state": "",
       "lat": 37.67431,
       "lng": -92.65491,
       "storeCount": 1
@@ -61217,7 +61217,7 @@
     {
       "postalCode": "94560-1220",
       "city": "Newark",
-      "state": "",
+      "state": "CA",
       "lat": 37.549561,
       "lng": -122.04644,
       "storeCount": 1
@@ -66758,6 +66758,14 @@
       "state": "CA",
       "lat": 35.209422,
       "lng": -118.832948,
+      "storeCount": 1
+    },
+    {
+      "slug": "asbury-park-nj",
+      "city": "Asbury Park",
+      "state": "NJ",
+      "lat": 40.228401,
+      "lng": -74.009163,
       "storeCount": 1
     },
     {
@@ -84980,9 +84988,9 @@
       "slug": "lebanon-mo",
       "city": "Lebanon",
       "state": "MO",
-      "lat": 37.65945,
-      "lng": -92.661721,
-      "storeCount": 2
+      "lat": 37.64459,
+      "lng": -92.668532,
+      "storeCount": 1
     },
     {
       "slug": "lebanon-oh",
@@ -86172,9 +86180,9 @@
       "slug": "louisville-ky",
       "city": "Louisville",
       "state": "KY",
-      "lat": 38.202666,
-      "lng": -85.692693,
-      "storeCount": 44
+      "lat": 38.20275,
+      "lng": -85.692144,
+      "storeCount": 45
     },
     {
       "slug": "louisville-ms",
@@ -90860,9 +90868,9 @@
       "slug": "newark-ca",
       "city": "Newark",
       "state": "CA",
-      "lat": 37.525716,
-      "lng": -122.00552,
-      "storeCount": 1
+      "lat": 37.537638,
+      "lng": -122.02598,
+      "storeCount": 2
     },
     {
       "slug": "newark-de",
@@ -92294,6 +92302,14 @@
       "state": "MD",
       "lat": 39.151656,
       "lng": -77.067299,
+      "storeCount": 1
+    },
+    {
+      "slug": "olympia-fields-il",
+      "city": "Olympia Fields",
+      "state": "IL",
+      "lat": 41.505805,
+      "lng": -87.676211,
       "storeCount": 1
     },
     {
@@ -102548,9 +102564,9 @@
       "slug": "virginia-beach-va",
       "city": "Virginia Beach",
       "state": "VA",
-      "lat": 36.817506,
-      "lng": -76.105705,
-      "storeCount": 16
+      "lat": 36.819021,
+      "lng": -76.113159,
+      "storeCount": 15
     },
     {
       "slug": "virginia-mn",

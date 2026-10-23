@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-22T21:14:47.264Z",
+  "generatedAt": "2026-10-23T21:03:39.909Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -21417,7 +21417,7 @@
     {
       "postalCode": "36610-1249",
       "city": "Prichard",
-      "state": "",
+      "state": "AL",
       "lat": 30.745234,
       "lng": -88.111779,
       "storeCount": 1
@@ -61217,7 +61217,7 @@
     {
       "postalCode": "94560-1220",
       "city": "Newark",
-      "state": "CA",
+      "state": "",
       "lat": 37.549561,
       "lng": -122.04644,
       "storeCount": 1
@@ -66758,14 +66758,6 @@
       "state": "CA",
       "lat": 35.209422,
       "lng": -118.832948,
-      "storeCount": 1
-    },
-    {
-      "slug": "asbury-park-nj",
-      "city": "Asbury Park",
-      "state": "NJ",
-      "lat": 40.228401,
-      "lng": -74.009163,
       "storeCount": 1
     },
     {
@@ -90868,9 +90860,9 @@
       "slug": "newark-ca",
       "city": "Newark",
       "state": "CA",
-      "lat": 37.537638,
-      "lng": -122.02598,
-      "storeCount": 2
+      "lat": 37.525716,
+      "lng": -122.00552,
+      "storeCount": 1
     },
     {
       "slug": "newark-de",
@@ -94910,6 +94902,14 @@
       "state": "UT",
       "lat": 39.599961,
       "lng": -110.803101,
+      "storeCount": 1
+    },
+    {
+      "slug": "prichard-al",
+      "city": "Prichard",
+      "state": "AL",
+      "lat": 30.745234,
+      "lng": -88.111779,
       "storeCount": 1
     },
     {

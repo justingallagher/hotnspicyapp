@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-23T21:03:39.909Z",
+  "generatedAt": "2026-10-24T20:19:22.115Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -21415,14 +21415,6 @@
       "storeCount": 1
     },
     {
-      "postalCode": "36610-1249",
-      "city": "Prichard",
-      "state": "AL",
-      "lat": 30.745234,
-      "lng": -88.111779,
-      "storeCount": 1
-    },
-    {
       "postalCode": "36617",
       "city": "Mobile",
       "state": "AL",
@@ -42113,7 +42105,7 @@
     {
       "postalCode": "65536-3638",
       "city": "Lebanon",
-      "state": "",
+      "state": "MO",
       "lat": 37.67431,
       "lng": -92.65491,
       "storeCount": 1
@@ -84980,9 +84972,9 @@
       "slug": "lebanon-mo",
       "city": "Lebanon",
       "state": "MO",
-      "lat": 37.64459,
-      "lng": -92.668532,
-      "storeCount": 1
+      "lat": 37.65945,
+      "lng": -92.661721,
+      "storeCount": 2
     },
     {
       "slug": "lebanon-oh",
@@ -94902,14 +94894,6 @@
       "state": "UT",
       "lat": 39.599961,
       "lng": -110.803101,
-      "storeCount": 1
-    },
-    {
-      "slug": "prichard-al",
-      "city": "Prichard",
-      "state": "AL",
-      "lat": 30.745234,
-      "lng": -88.111779,
       "storeCount": 1
     },
     {

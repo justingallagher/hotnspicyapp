@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-26T22:21:06.091Z",
+  "generatedAt": "2026-10-27T21:52:11.278Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -50338,9 +50338,9 @@
       "postalCode": "78046",
       "city": "Laredo",
       "state": "TX",
-      "lat": 27.482838,
-      "lng": -99.47229,
-      "storeCount": 5
+      "lat": 27.474548,
+      "lng": -99.470562,
+      "storeCount": 6
     },
     {
       "postalCode": "78052",
@@ -53381,6 +53381,14 @@
       "lat": 38.906081,
       "lng": -104.700138,
       "storeCount": 2
+    },
+    {
+      "postalCode": "80923",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "lat": 38.932112,
+      "lng": -104.740893,
+      "storeCount": 1
     },
     {
       "postalCode": "81001",
@@ -61209,7 +61217,7 @@
     {
       "postalCode": "94560-1220",
       "city": "Newark",
-      "state": "",
+      "state": "CA",
       "lat": 37.549561,
       "lng": -122.04644,
       "storeCount": 1
@@ -72908,9 +72916,9 @@
       "slug": "colorado-springs-co",
       "city": "Colorado Springs",
       "state": "CO",
-      "lat": 38.866064,
-      "lng": -104.779566,
-      "storeCount": 18
+      "lat": 38.86954,
+      "lng": -104.777531,
+      "storeCount": 19
     },
     {
       "slug": "columbia-il",
@@ -84660,9 +84668,9 @@
       "slug": "laredo-tx",
       "city": "Laredo",
       "state": "TX",
-      "lat": 27.540264,
-      "lng": -99.476679,
-      "storeCount": 16
+      "lat": 27.53396,
+      "lng": -99.475811,
+      "storeCount": 17
     },
     {
       "slug": "largo-fl",
@@ -90852,9 +90860,9 @@
       "slug": "newark-ca",
       "city": "Newark",
       "state": "CA",
-      "lat": 37.525716,
-      "lng": -122.00552,
-      "storeCount": 1
+      "lat": 37.537638,
+      "lng": -122.02598,
+      "storeCount": 2
     },
     {
       "slug": "newark-de",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-27T21:52:11.278Z",
+  "generatedAt": "2026-10-28T22:15:32.700Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -11146,9 +11146,9 @@
       "postalCode": "23451",
       "city": "Virginia Beach",
       "state": "VA",
-      "lat": 36.846746,
-      "lng": -76.008672,
-      "storeCount": 2
+      "lat": 36.829424,
+      "lng": -76.003748,
+      "storeCount": 3
     },
     {
       "postalCode": "23452",
@@ -42105,7 +42105,7 @@
     {
       "postalCode": "65536-3638",
       "city": "Lebanon",
-      "state": "MO",
+      "state": "",
       "lat": 37.67431,
       "lng": -92.65491,
       "storeCount": 1
@@ -61217,7 +61217,7 @@
     {
       "postalCode": "94560-1220",
       "city": "Newark",
-      "state": "CA",
+      "state": "",
       "lat": 37.549561,
       "lng": -122.04644,
       "storeCount": 1
@@ -66468,9 +66468,9 @@
       "slug": "annandale-va",
       "city": "Annandale",
       "state": "VA",
-      "lat": 38.812311,
-      "lng": -77.184997,
-      "storeCount": 1
+      "lat": 38.82264,
+      "lng": -77.196393,
+      "storeCount": 2
     },
     {
       "slug": "anniston-al",
@@ -84980,9 +84980,9 @@
       "slug": "lebanon-mo",
       "city": "Lebanon",
       "state": "MO",
-      "lat": 37.65945,
-      "lng": -92.661721,
-      "storeCount": 2
+      "lat": 37.64459,
+      "lng": -92.668532,
+      "storeCount": 1
     },
     {
       "slug": "lebanon-oh",
@@ -88420,9 +88420,9 @@
       "slug": "middlesboro-ky",
       "city": "Middlesboro",
       "state": "KY",
-      "lat": 36.604739,
-      "lng": -83.740488,
-      "storeCount": 1
+      "lat": 36.608868,
+      "lng": -83.722222,
+      "storeCount": 2
     },
     {
       "slug": "middlesex-nj",
@@ -90860,9 +90860,9 @@
       "slug": "newark-ca",
       "city": "Newark",
       "state": "CA",
-      "lat": 37.537638,
-      "lng": -122.02598,
-      "storeCount": 2
+      "lat": 37.525716,
+      "lng": -122.00552,
+      "storeCount": 1
     },
     {
       "slug": "newark-de",
@@ -102556,9 +102556,9 @@
       "slug": "virginia-beach-va",
       "city": "Virginia Beach",
       "state": "VA",
-      "lat": 36.819021,
-      "lng": -76.113159,
-      "storeCount": 15
+      "lat": 36.817506,
+      "lng": -76.105705,
+      "storeCount": 16
     },
     {
       "slug": "virginia-mn",

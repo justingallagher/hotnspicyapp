@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-10-31T21:03:51.937Z",
+  "generatedAt": "2026-11-01T22:35:45.982Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -2130,9 +2130,9 @@
       "postalCode": "06037",
       "city": "Berlin",
       "state": "CT",
-      "lat": 41.643612,
-      "lng": -72.76957,
-      "storeCount": 1
+      "lat": 41.642281,
+      "lng": -72.751203,
+      "storeCount": 2
     },
     {
       "postalCode": "06040",
@@ -19346,9 +19346,9 @@
       "postalCode": "33905",
       "city": "Fort Myers",
       "state": "FL",
-      "lat": 26.688688,
-      "lng": -81.773372,
-      "storeCount": 2
+      "lat": 26.671279,
+      "lng": -81.785328,
+      "storeCount": 3
     },
     {
       "postalCode": "33907",
@@ -21772,6 +21772,14 @@
       "state": "TN",
       "lat": 36.257828,
       "lng": -86.657509,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "37146",
+      "city": "Pleasant View",
+      "state": "TN",
+      "lat": 36.398127,
+      "lng": -87.027519,
       "storeCount": 1
     },
     {
@@ -68332,9 +68340,9 @@
       "slug": "berlin-ct",
       "city": "Berlin",
       "state": "CT",
-      "lat": 41.643612,
-      "lng": -72.76957,
-      "storeCount": 1
+      "lat": 41.642281,
+      "lng": -72.751203,
+      "storeCount": 2
     },
     {
       "slug": "berlin-md",
@@ -77788,9 +77796,9 @@
       "slug": "fort-myers-fl",
       "city": "Fort Myers",
       "state": "FL",
-      "lat": 26.576096,
-      "lng": -81.839817,
-      "storeCount": 16
+      "lat": 26.579647,
+      "lng": -81.838018,
+      "storeCount": 17
     },
     {
       "slug": "fort-payne-al",
@@ -94342,6 +94350,14 @@
       "state": "NY",
       "lat": 41.74432,
       "lng": -73.822525,
+      "storeCount": 1
+    },
+    {
+      "slug": "pleasant-view-tn",
+      "city": "Pleasant View",
+      "state": "TN",
+      "lat": 36.398127,
+      "lng": -87.027519,
       "storeCount": 1
     },
     {

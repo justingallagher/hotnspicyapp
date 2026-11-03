@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-01T22:35:45.982Z",
+  "generatedAt": "2026-11-03T01:27:26.430Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -47626,9 +47626,9 @@
       "postalCode": "75261",
       "city": "Dfw Airport",
       "state": "TX",
-      "lat": 32.901455,
-      "lng": -97.038874,
-      "storeCount": 4
+      "lat": 32.902367,
+      "lng": -97.038565,
+      "storeCount": 5
     },
     {
       "postalCode": "75401-6091",
@@ -69740,9 +69740,9 @@
       "slug": "brooklyn-ny",
       "city": "Brooklyn",
       "state": "NY",
-      "lat": 40.656098,
-      "lng": -73.950235,
-      "storeCount": 46
+      "lat": 40.656619,
+      "lng": -73.950237,
+      "storeCount": 47
     },
     {
       "slug": "brooklyn-oh",
@@ -79540,9 +79540,9 @@
       "slug": "grapevine-tx",
       "city": "Grapevine",
       "state": "TX",
-      "lat": 32.882227,
-      "lng": -97.098026,
-      "storeCount": 1
+      "lat": 32.894122,
+      "lng": -97.067678,
+      "storeCount": 2
     },
     {
       "slug": "grass-valley-ca",

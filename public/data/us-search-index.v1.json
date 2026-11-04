@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-03T01:27:26.430Z",
+  "generatedAt": "2026-11-03T23:52:04.285Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -47626,9 +47626,9 @@
       "postalCode": "75261",
       "city": "Dfw Airport",
       "state": "TX",
-      "lat": 32.902367,
-      "lng": -97.038565,
-      "storeCount": 5
+      "lat": 32.901455,
+      "lng": -97.038874,
+      "storeCount": 4
     },
     {
       "postalCode": "75401-6091",
@@ -51802,9 +51802,9 @@
       "postalCode": "79072",
       "city": "Plainview",
       "state": "TX",
-      "lat": 34.195999,
-      "lng": -101.75315,
-      "storeCount": 1
+      "lat": 34.189944,
+      "lng": -101.734457,
+      "storeCount": 2
     },
     {
       "postalCode": "79072-9769",
@@ -52108,6 +52108,14 @@
       "state": "TX",
       "lat": 32.46259,
       "lng": -99.705483,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "79603",
+      "city": "Abilene",
+      "state": "TX",
+      "lat": 32.491161,
+      "lng": -99.749418,
       "storeCount": 1
     },
     {
@@ -65612,9 +65620,9 @@
       "slug": "abilene-tx",
       "city": "Abilene",
       "state": "TX",
-      "lat": 32.424143,
-      "lng": -99.753754,
-      "storeCount": 5
+      "lat": 32.435312,
+      "lng": -99.753031,
+      "storeCount": 6
     },
     {
       "slug": "abingdon-md",
@@ -79540,9 +79548,9 @@
       "slug": "grapevine-tx",
       "city": "Grapevine",
       "state": "TX",
-      "lat": 32.894122,
-      "lng": -97.067678,
-      "storeCount": 2
+      "lat": 32.882227,
+      "lng": -97.098026,
+      "storeCount": 1
     },
     {
       "slug": "grass-valley-ca",
@@ -94236,9 +94244,9 @@
       "slug": "plainview-tx",
       "city": "Plainview",
       "state": "TX",
-      "lat": 34.192353,
-      "lng": -101.75204,
-      "storeCount": 2
+      "lat": 34.189532,
+      "lng": -101.739948,
+      "storeCount": 3
     },
     {
       "slug": "plainville-ct",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-03T23:52:04.285Z",
+  "generatedAt": "2026-11-05T00:11:04.003Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -36980,6 +36980,14 @@
       "state": "SD",
       "lat": 44.419555,
       "lng": -103.528731,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "58047",
+      "city": "Horace",
+      "state": "ND",
+      "lat": 46.772987,
+      "lng": -96.902728,
       "storeCount": 1
     },
     {
@@ -81894,6 +81902,14 @@
       "state": "SC",
       "lat": 33.945176,
       "lng": -80.874953,
+      "storeCount": 1
+    },
+    {
+      "slug": "horace-nd",
+      "city": "Horace",
+      "state": "ND",
+      "lat": 46.772987,
+      "lng": -96.902728,
       "storeCount": 1
     },
     {

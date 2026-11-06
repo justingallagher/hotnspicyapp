@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-05T00:11:04.003Z",
+  "generatedAt": "2026-11-05T23:56:46.462Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -4066,9 +4066,9 @@
       "postalCode": "10025",
       "city": "New York",
       "state": "NY",
-      "lat": 40.797201,
-      "lng": -73.970094,
-      "storeCount": 2
+      "lat": 40.794389,
+      "lng": -73.972343,
+      "storeCount": 1
     },
     {
       "postalCode": "10027",
@@ -4213,6 +4213,14 @@
       "lat": 40.839906,
       "lng": -73.917439,
       "storeCount": 2
+    },
+    {
+      "postalCode": "10453",
+      "city": "Bronx",
+      "state": "NY",
+      "lat": 40.850258,
+      "lng": -73.916202,
+      "storeCount": 1
     },
     {
       "postalCode": "10454",
@@ -5274,9 +5282,9 @@
       "postalCode": "11763",
       "city": "Medford",
       "state": "NY",
-      "lat": 40.799213,
-      "lng": -73.006027,
-      "storeCount": 1
+      "lat": 40.803787,
+      "lng": -72.980936,
+      "storeCount": 2
     },
     {
       "postalCode": "11764",
@@ -37303,6 +37311,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "59601",
+      "city": "Helena",
+      "state": "MT",
+      "lat": 46.598751,
+      "lng": -112.04176,
+      "storeCount": 1
+    },
+    {
       "postalCode": "59601-0551",
       "city": "Helena",
       "state": "MT",
@@ -47634,9 +47650,9 @@
       "postalCode": "75261",
       "city": "Dfw Airport",
       "state": "TX",
-      "lat": 32.901455,
-      "lng": -97.038874,
-      "storeCount": 4
+      "lat": 32.902367,
+      "lng": -97.038565,
+      "storeCount": 5
     },
     {
       "postalCode": "75401-6091",
@@ -66785,6 +66801,14 @@
       "storeCount": 1
     },
     {
+      "slug": "asbury-park-nj",
+      "city": "Asbury Park",
+      "state": "NJ",
+      "lat": 40.228401,
+      "lng": -74.009163,
+      "storeCount": 1
+    },
+    {
       "slug": "ash-flat-ar",
       "city": "Ash Flat",
       "state": "AR",
@@ -69708,9 +69732,9 @@
       "slug": "bronx-ny",
       "city": "Bronx",
       "state": "NY",
-      "lat": 40.829416,
-      "lng": -73.893748,
-      "storeCount": 21
+      "lat": 40.830363,
+      "lng": -73.894769,
+      "storeCount": 22
     },
     {
       "slug": "brook-park-oh",
@@ -79556,9 +79580,9 @@
       "slug": "grapevine-tx",
       "city": "Grapevine",
       "state": "TX",
-      "lat": 32.882227,
-      "lng": -97.098026,
-      "storeCount": 1
+      "lat": 32.894122,
+      "lng": -97.067678,
+      "storeCount": 2
     },
     {
       "slug": "grass-valley-ca",
@@ -81124,9 +81148,9 @@
       "slug": "helena-mt",
       "city": "Helena",
       "state": "MT",
-      "lat": 46.603421,
-      "lng": -112.013878,
-      "storeCount": 2
+      "lat": 46.601864,
+      "lng": -112.023172,
+      "storeCount": 3
     },
     {
       "slug": "hellertown-pa",
@@ -87972,9 +87996,9 @@
       "slug": "medford-ny",
       "city": "Medford",
       "state": "NY",
-      "lat": 40.799213,
-      "lng": -73.006027,
-      "storeCount": 1
+      "lat": 40.803787,
+      "lng": -72.980936,
+      "storeCount": 2
     },
     {
       "slug": "medford-or",
@@ -90884,9 +90908,9 @@
       "slug": "new-york-ny",
       "city": "New York",
       "state": "NY",
-      "lat": 40.763424,
-      "lng": -73.965128,
-      "storeCount": 43
+      "lat": 40.762553,
+      "lng": -73.965064,
+      "storeCount": 42
     },
     {
       "slug": "newark-ca",

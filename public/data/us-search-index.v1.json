@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-05T23:56:46.462Z",
+  "generatedAt": "2026-11-06T23:39:40.259Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -5282,9 +5282,9 @@
       "postalCode": "11763",
       "city": "Medford",
       "state": "NY",
-      "lat": 40.803787,
-      "lng": -72.980936,
-      "storeCount": 2
+      "lat": 40.799213,
+      "lng": -73.006027,
+      "storeCount": 1
     },
     {
       "postalCode": "11764",
@@ -87996,9 +87996,9 @@
       "slug": "medford-ny",
       "city": "Medford",
       "state": "NY",
-      "lat": 40.803787,
-      "lng": -72.980936,
-      "storeCount": 2
+      "lat": 40.799213,
+      "lng": -73.006027,
+      "storeCount": 1
     },
     {
       "slug": "medford-or",

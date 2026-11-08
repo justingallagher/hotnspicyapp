@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-07T22:29:51.813Z",
+  "generatedAt": "2026-11-08T22:40:22.225Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -37311,14 +37311,6 @@
       "storeCount": 1
     },
     {
-      "postalCode": "59601",
-      "city": "Helena",
-      "state": "MT",
-      "lat": 46.598751,
-      "lng": -112.04176,
-      "storeCount": 1
-    },
-    {
       "postalCode": "59601-0551",
       "city": "Helena",
       "state": "MT",
@@ -40746,9 +40738,9 @@
       "postalCode": "62703",
       "city": "Springfield",
       "state": "IL",
-      "lat": 39.751096,
-      "lng": -89.665516,
-      "storeCount": 3
+      "lat": 39.732926,
+      "lng": -89.673795,
+      "storeCount": 2
     },
     {
       "postalCode": "62703-4501",
@@ -47650,9 +47642,9 @@
       "postalCode": "75261",
       "city": "Dfw Airport",
       "state": "TX",
-      "lat": 32.902367,
-      "lng": -97.038565,
-      "storeCount": 5
+      "lat": 32.90142,
+      "lng": -97.038702,
+      "storeCount": 4
     },
     {
       "postalCode": "75401-6091",
@@ -74012,9 +74004,9 @@
       "slug": "dallas-tx",
       "city": "Dallas",
       "state": "TX",
-      "lat": 32.802482,
-      "lng": -96.803978,
-      "storeCount": 55
+      "lat": 32.800562,
+      "lng": -96.799644,
+      "storeCount": 54
     },
     {
       "slug": "dalton-ga",
@@ -81148,9 +81140,9 @@
       "slug": "helena-mt",
       "city": "Helena",
       "state": "MT",
-      "lat": 46.601864,
-      "lng": -112.023172,
-      "storeCount": 3
+      "lat": 46.603421,
+      "lng": -112.013878,
+      "storeCount": 2
     },
     {
       "slug": "hellertown-pa",
@@ -99804,9 +99796,9 @@
       "slug": "springfield-il",
       "city": "Springfield",
       "state": "IL",
-      "lat": 39.774826,
-      "lng": -89.657701,
-      "storeCount": 11
+      "lat": 39.773565,
+      "lng": -89.658575,
+      "storeCount": 10
     },
     {
       "slug": "springfield-ky",

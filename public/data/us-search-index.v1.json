@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-08T22:40:22.225Z",
+  "generatedAt": "2026-11-10T01:53:42.538Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -12682,9 +12682,9 @@
       "postalCode": "27529",
       "city": "Garner",
       "state": "NC",
-      "lat": 35.677419,
-      "lng": -78.600743,
-      "storeCount": 4
+      "lat": 35.660437,
+      "lng": -78.600343,
+      "storeCount": 5
     },
     {
       "postalCode": "27530",
@@ -47559,6 +47559,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "75237",
+      "city": "Dallas",
+      "state": "TX",
+      "lat": 32.661748,
+      "lng": -96.885135,
+      "storeCount": 1
+    },
+    {
       "postalCode": "75238",
       "city": "Dallas",
       "state": "TX",
@@ -57466,9 +57474,9 @@
       "postalCode": "90650",
       "city": "Norwalk",
       "state": "CA",
-      "lat": 33.887421,
-      "lng": -118.063608,
-      "storeCount": 1
+      "lat": 33.895055,
+      "lng": -118.059748,
+      "storeCount": 2
     },
     {
       "postalCode": "90650-2041",
@@ -74004,9 +74012,9 @@
       "slug": "dallas-tx",
       "city": "Dallas",
       "state": "TX",
-      "lat": 32.800562,
-      "lng": -96.799644,
-      "storeCount": 54
+      "lat": 32.798038,
+      "lng": -96.801198,
+      "storeCount": 55
     },
     {
       "slug": "dalton-ga",
@@ -78628,9 +78636,9 @@
       "slug": "garner-nc",
       "city": "Garner",
       "state": "NC",
-      "lat": 35.677419,
-      "lng": -78.600743,
-      "storeCount": 4
+      "lat": 35.660437,
+      "lng": -78.600343,
+      "storeCount": 5
     },
     {
       "slug": "garrettsville-oh",
@@ -91724,9 +91732,9 @@
       "slug": "norwalk-ca",
       "city": "Norwalk",
       "state": "CA",
-      "lat": 33.902461,
-      "lng": -118.078075,
-      "storeCount": 3
+      "lat": 33.902518,
+      "lng": -118.072528,
+      "storeCount": 4
     },
     {
       "slug": "norwalk-ia",

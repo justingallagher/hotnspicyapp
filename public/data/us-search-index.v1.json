@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-10T23:55:06.200Z",
+  "generatedAt": "2026-11-12T01:19:35.783Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -5282,9 +5282,9 @@
       "postalCode": "11763",
       "city": "Medford",
       "state": "NY",
-      "lat": 40.803787,
-      "lng": -72.980936,
-      "storeCount": 2
+      "lat": 40.799213,
+      "lng": -73.006027,
+      "storeCount": 1
     },
     {
       "postalCode": "11764",
@@ -12682,9 +12682,9 @@
       "postalCode": "27529",
       "city": "Garner",
       "state": "NC",
-      "lat": 35.677419,
-      "lng": -78.600743,
-      "storeCount": 4
+      "lat": 35.660437,
+      "lng": -78.600343,
+      "storeCount": 5
     },
     {
       "postalCode": "27530",
@@ -31449,7 +31449,7 @@
     {
       "postalCode": "48313-1334",
       "city": "Sterling Heights",
-      "state": "",
+      "state": "MI",
       "lat": 42.618202,
       "lng": -82.990883,
       "storeCount": 1
@@ -33321,7 +33321,7 @@
     {
       "postalCode": "49783",
       "city": "Sault Sainte Marie",
-      "state": "",
+      "state": "MI",
       "lat": 46.474431,
       "lng": -84.358625,
       "storeCount": 1
@@ -56039,6 +56039,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "85710-6425",
+      "city": "Tucson",
+      "state": "",
+      "lat": 32.206064,
+      "lng": -110.83887,
+      "storeCount": 1
+    },
+    {
       "postalCode": "85711",
       "city": "Tucson",
       "state": "AZ",
@@ -78644,9 +78652,9 @@
       "slug": "garner-nc",
       "city": "Garner",
       "state": "NC",
-      "lat": 35.677419,
-      "lng": -78.600743,
-      "storeCount": 4
+      "lat": 35.660437,
+      "lng": -78.600343,
+      "storeCount": 5
     },
     {
       "slug": "garrettsville-oh",
@@ -82348,9 +82356,9 @@
       "slug": "hyannis-ma",
       "city": "Hyannis",
       "state": "MA",
-      "lat": 41.652179,
-      "lng": -70.288351,
-      "storeCount": 1
+      "lat": 41.659874,
+      "lng": -70.289937,
+      "storeCount": 2
     },
     {
       "slug": "hyattsville-md",
@@ -88004,9 +88012,9 @@
       "slug": "medford-ny",
       "city": "Medford",
       "state": "NY",
-      "lat": 40.803787,
-      "lng": -72.980936,
-      "storeCount": 2
+      "lat": 40.799213,
+      "lng": -73.006027,
+      "storeCount": 1
     },
     {
       "slug": "medford-or",
@@ -97953,6 +97961,14 @@
       "storeCount": 1
     },
     {
+      "slug": "sault-sainte-marie-mi",
+      "city": "Sault Sainte Marie",
+      "state": "MI",
+      "lat": 46.474431,
+      "lng": -84.358625,
+      "storeCount": 1
+    },
+    {
       "slug": "savage-mn",
       "city": "Savage",
       "state": "MN",
@@ -100124,9 +100140,9 @@
       "slug": "sterling-heights-mi",
       "city": "Sterling Heights",
       "state": "MI",
-      "lat": 42.584498,
-      "lng": -83.049829,
-      "storeCount": 5
+      "lat": 42.590115,
+      "lng": -83.040004,
+      "storeCount": 6
     },
     {
       "slug": "sterling-il",

@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-12T01:19:35.783Z",
+  "generatedAt": "2026-11-12T23:58:24.941Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -45375,6 +45375,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "72713",
+      "city": "Bentonville",
+      "state": "AR",
+      "lat": 36.336702,
+      "lng": -94.255011,
+      "storeCount": 1
+    },
+    {
       "postalCode": "72719",
       "city": "Centerton",
       "state": "AR",
@@ -47564,14 +47572,6 @@
       "state": "TX",
       "lat": 32.670709,
       "lng": -96.860646,
-      "storeCount": 1
-    },
-    {
-      "postalCode": "75237",
-      "city": "Dallas",
-      "state": "TX",
-      "lat": 32.661748,
-      "lng": -96.885135,
       "storeCount": 1
     },
     {
@@ -68348,9 +68348,9 @@
       "slug": "bentonville-ar",
       "city": "Bentonville",
       "state": "AR",
-      "lat": 36.370848,
-      "lng": -94.211593,
-      "storeCount": 4
+      "lat": 36.364019,
+      "lng": -94.220276,
+      "storeCount": 5
     },
     {
       "slug": "benzonia-mi",
@@ -74028,9 +74028,9 @@
       "slug": "dallas-tx",
       "city": "Dallas",
       "state": "TX",
-      "lat": 32.798038,
-      "lng": -96.801198,
-      "storeCount": 55
+      "lat": 32.800562,
+      "lng": -96.799644,
+      "storeCount": 54
     },
     {
       "slug": "dalton-ga",

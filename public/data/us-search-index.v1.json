@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-12T23:58:24.941Z",
+  "generatedAt": "2026-11-14T00:12:58.152Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -12682,9 +12682,9 @@
       "postalCode": "27529",
       "city": "Garner",
       "state": "NC",
-      "lat": 35.660437,
-      "lng": -78.600343,
-      "storeCount": 5
+      "lat": 35.677419,
+      "lng": -78.600743,
+      "storeCount": 4
     },
     {
       "postalCode": "27530",
@@ -40983,6 +40983,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "63016",
+      "city": "Cedar Hill",
+      "state": "MO",
+      "lat": 38.371682,
+      "lng": -90.631951,
+      "storeCount": 1
+    },
+    {
       "postalCode": "63017",
       "city": "Chesterfield",
       "state": "MO",
@@ -45700,14 +45708,6 @@
       "state": "OK",
       "lat": 35.43401,
       "lng": -97.159988,
-      "storeCount": 1
-    },
-    {
-      "postalCode": "73052",
-      "city": "Lindsay",
-      "state": "OK",
-      "lat": 34.834981,
-      "lng": -97.597432,
       "storeCount": 1
     },
     {
@@ -71313,6 +71313,14 @@
       "storeCount": 3
     },
     {
+      "slug": "cedar-hill-mo",
+      "city": "Cedar Hill",
+      "state": "MO",
+      "lat": 38.371682,
+      "lng": -90.631951,
+      "storeCount": 1
+    },
+    {
       "slug": "cedar-hill-tx",
       "city": "Cedar Hill",
       "state": "TX",
@@ -78652,9 +78660,9 @@
       "slug": "garner-nc",
       "city": "Garner",
       "state": "NC",
-      "lat": 35.660437,
-      "lng": -78.600343,
-      "storeCount": 5
+      "lat": 35.677419,
+      "lng": -78.600743,
+      "storeCount": 4
     },
     {
       "slug": "garrettsville-oh",
@@ -85630,14 +85638,6 @@
       "state": "CA",
       "lat": 36.202981,
       "lng": -119.103064,
-      "storeCount": 1
-    },
-    {
-      "slug": "lindsay-ok",
-      "city": "Lindsay",
-      "state": "OK",
-      "lat": 34.834981,
-      "lng": -97.597432,
       "storeCount": 1
     },
     {

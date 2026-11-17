@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-15T23:19:20.323Z",
+  "generatedAt": "2026-11-17T02:18:51.893Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -28455,6 +28455,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "46011",
+      "city": "Anderson",
+      "state": "IN",
+      "lat": 40.101265,
+      "lng": -85.711624,
+      "storeCount": 1
+    },
+    {
       "postalCode": "46012",
       "city": "Anderson",
       "state": "IN",
@@ -45711,6 +45719,14 @@
       "storeCount": 1
     },
     {
+      "postalCode": "73052",
+      "city": "Lindsay",
+      "state": "OK",
+      "lat": 34.836172,
+      "lng": -97.596551,
+      "storeCount": 1
+    },
+    {
       "postalCode": "73064",
       "city": "Mustang",
       "state": "OK",
@@ -47572,6 +47588,14 @@
       "state": "TX",
       "lat": 32.670709,
       "lng": -96.860646,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "75237",
+      "city": "Dallas",
+      "state": "TX",
+      "lat": 32.661748,
+      "lng": -96.885135,
       "storeCount": 1
     },
     {
@@ -66404,9 +66428,9 @@
       "slug": "anderson-in",
       "city": "Anderson",
       "state": "IN",
-      "lat": 40.115587,
-      "lng": -85.668898,
-      "storeCount": 3
+      "lat": 40.112007,
+      "lng": -85.67958,
+      "storeCount": 4
     },
     {
       "slug": "anderson-sc",
@@ -74036,9 +74060,9 @@
       "slug": "dallas-tx",
       "city": "Dallas",
       "state": "TX",
-      "lat": 32.800562,
-      "lng": -96.799644,
-      "storeCount": 54
+      "lat": 32.798038,
+      "lng": -96.801198,
+      "storeCount": 55
     },
     {
       "slug": "dalton-ga",
@@ -85638,6 +85662,14 @@
       "state": "CA",
       "lat": 36.202981,
       "lng": -119.103064,
+      "storeCount": 1
+    },
+    {
+      "slug": "lindsay-ok",
+      "city": "Lindsay",
+      "state": "OK",
+      "lat": 34.836172,
+      "lng": -97.596551,
       "storeCount": 1
     },
     {

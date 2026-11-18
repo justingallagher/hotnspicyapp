@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-17T02:18:51.893Z",
+  "generatedAt": "2026-11-18T01:29:53.905Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -4465,7 +4465,7 @@
     {
       "postalCode": "10956",
       "city": "New City",
-      "state": "",
+      "state": "NY",
       "lat": 41.154118,
       "lng": -73.986038,
       "storeCount": 1
@@ -32153,7 +32153,7 @@
     {
       "postalCode": "48732",
       "city": "Essexville",
-      "state": "",
+      "state": "MI",
       "lat": 43.593837,
       "lng": -83.836439,
       "storeCount": 1
@@ -50530,9 +50530,9 @@
       "postalCode": "78201",
       "city": "San Antonio",
       "state": "TX",
-      "lat": 29.44488,
-      "lng": -98.52684,
-      "storeCount": 1
+      "lat": 29.459491,
+      "lng": -98.521509,
+      "storeCount": 2
     },
     {
       "postalCode": "78201-3231",
@@ -58204,6 +58204,14 @@
       "state": "CA",
       "lat": 34.06683,
       "lng": -118.025665,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "91733",
+      "city": "El Monte",
+      "state": "CA",
+      "lat": 34.067673,
+      "lng": -118.042027,
       "storeCount": 1
     },
     {
@@ -76028,9 +76036,9 @@
       "slug": "el-monte-ca",
       "city": "El Monte",
       "state": "CA",
-      "lat": 34.079606,
-      "lng": -118.035275,
-      "storeCount": 3
+      "lat": 34.076622,
+      "lng": -118.036963,
+      "storeCount": 4
     },
     {
       "slug": "el-paso-de-robles-ca",
@@ -76647,6 +76655,14 @@
       "lat": 39.310503,
       "lng": -76.453825,
       "storeCount": 2
+    },
+    {
+      "slug": "essexville-mi",
+      "city": "Essexville",
+      "state": "MI",
+      "lat": 43.593837,
+      "lng": -83.836439,
+      "storeCount": 1
     },
     {
       "slug": "estero-fl",
@@ -90721,6 +90737,14 @@
       "storeCount": 3
     },
     {
+      "slug": "new-city-ny",
+      "city": "New City",
+      "state": "NY",
+      "lat": 41.154118,
+      "lng": -73.986038,
+      "storeCount": 1
+    },
+    {
       "slug": "new-cumberland-pa",
       "city": "New Cumberland",
       "state": "PA",
@@ -97452,9 +97476,9 @@
       "slug": "san-antonio-tx",
       "city": "San Antonio",
       "state": "TX",
-      "lat": 29.471331,
-      "lng": -98.54719,
-      "storeCount": 86
+      "lat": 29.471363,
+      "lng": -98.546834,
+      "storeCount": 87
     },
     {
       "slug": "san-benito-tx",

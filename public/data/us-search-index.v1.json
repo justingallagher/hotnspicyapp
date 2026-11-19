@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-18T01:29:53.905Z",
+  "generatedAt": "2026-11-19T00:58:10.036Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -23569,7 +23569,7 @@
     {
       "postalCode": "39350",
       "city": "Philadelphia",
-      "state": "",
+      "state": "MS",
       "lat": 32.758211,
       "lng": -89.148288,
       "storeCount": 1
@@ -28209,7 +28209,7 @@
     {
       "postalCode": "45638",
       "city": "Ironton",
-      "state": "",
+      "state": "OH",
       "lat": 38.541181,
       "lng": -82.674985,
       "storeCount": 1
@@ -46306,9 +46306,9 @@
       "postalCode": "74055",
       "city": "Owasso",
       "state": "OK",
-      "lat": 36.294353,
-      "lng": -95.842775,
-      "storeCount": 2
+      "lat": 36.289411,
+      "lng": -95.832388,
+      "storeCount": 3
     },
     {
       "postalCode": "74055-3445",
@@ -82657,6 +82657,14 @@
       "storeCount": 1
     },
     {
+      "slug": "ironton-oh",
+      "city": "Ironton",
+      "state": "OH",
+      "lat": 38.541181,
+      "lng": -82.674985,
+      "storeCount": 1
+    },
+    {
       "slug": "ironwood-mi",
       "city": "Ironwood",
       "state": "MI",
@@ -92812,9 +92820,9 @@
       "slug": "owasso-ok",
       "city": "Owasso",
       "state": "OK",
-      "lat": 36.283971,
-      "lng": -95.84532,
-      "storeCount": 3
+      "lat": 36.28286,
+      "lng": -95.836894,
+      "storeCount": 4
     },
     {
       "slug": "owens-cross-roads-al",
@@ -93943,6 +93951,14 @@
       "lat": 32.483594,
       "lng": -85.045623,
       "storeCount": 4
+    },
+    {
+      "slug": "philadelphia-ms",
+      "city": "Philadelphia",
+      "state": "MS",
+      "lat": 32.758211,
+      "lng": -89.148288,
+      "storeCount": 1
     },
     {
       "slug": "philadelphia-pa",

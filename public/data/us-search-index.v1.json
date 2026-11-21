@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-20T01:03:28.398Z",
+  "generatedAt": "2026-11-21T00:38:26.167Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -37553,7 +37553,7 @@
     {
       "postalCode": "60014-8005",
       "city": "Crystal Lake",
-      "state": "",
+      "state": "IL",
       "lat": 42.225547,
       "lng": -88.311407,
       "storeCount": 1
@@ -47591,14 +47591,6 @@
       "storeCount": 1
     },
     {
-      "postalCode": "75237",
-      "city": "Dallas",
-      "state": "TX",
-      "lat": 32.661748,
-      "lng": -96.885135,
-      "storeCount": 1
-    },
-    {
       "postalCode": "75238",
       "city": "Dallas",
       "state": "TX",
@@ -48340,6 +48332,14 @@
       "state": "TX",
       "lat": 32.251544,
       "lng": -97.727399,
+      "storeCount": 1
+    },
+    {
+      "postalCode": "76048-2814",
+      "city": "Granbury",
+      "state": "",
+      "lat": 32.432178,
+      "lng": -97.793633,
       "storeCount": 1
     },
     {
@@ -61930,9 +61930,9 @@
       "postalCode": "95337",
       "city": "Manteca",
       "state": "CA",
-      "lat": 37.786,
-      "lng": -121.251729,
-      "storeCount": 1
+      "lat": 37.782469,
+      "lng": -121.234002,
+      "storeCount": 2
     },
     {
       "postalCode": "95340",
@@ -73884,9 +73884,9 @@
       "slug": "crystal-lake-il",
       "city": "Crystal Lake",
       "state": "IL",
-      "lat": 42.24808,
-      "lng": -88.317363,
-      "storeCount": 2
+      "lat": 42.240569,
+      "lng": -88.315378,
+      "storeCount": 3
     },
     {
       "slug": "cuba-ny",
@@ -74068,9 +74068,9 @@
       "slug": "dallas-tx",
       "city": "Dallas",
       "state": "TX",
-      "lat": 32.798038,
-      "lng": -96.801198,
-      "storeCount": 55
+      "lat": 32.800562,
+      "lng": -96.799644,
+      "storeCount": 54
     },
     {
       "slug": "dalton-ga",
@@ -87148,9 +87148,9 @@
       "slug": "manteca-ca",
       "city": "Manteca",
       "state": "CA",
-      "lat": 37.801773,
-      "lng": -121.229077,
-      "storeCount": 4
+      "lat": 37.797206,
+      "lng": -121.226516,
+      "storeCount": 5
     },
     {
       "slug": "manteno-il",

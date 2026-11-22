@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-21T00:38:26.167Z",
+  "generatedAt": "2026-11-21T23:42:37.513Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -50607,14 +50607,6 @@
       "storeCount": 1
     },
     {
-      "postalCode": "78212-1813",
-      "city": "San Antonio",
-      "state": "TX",
-      "lat": 29.473907,
-      "lng": -98.507585,
-      "storeCount": 1
-    },
-    {
       "postalCode": "78212-4611",
       "city": "San Antonio",
       "state": "TX",
@@ -97492,9 +97484,9 @@
       "slug": "san-antonio-tx",
       "city": "San Antonio",
       "state": "TX",
-      "lat": 29.471363,
-      "lng": -98.546834,
-      "storeCount": 87
+      "lat": 29.471333,
+      "lng": -98.54729,
+      "storeCount": 86
     },
     {
       "slug": "san-benito-tx",

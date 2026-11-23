@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-21T23:42:37.513Z",
+  "generatedAt": "2026-11-22T23:59:58.258Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -5234,9 +5234,9 @@
       "postalCode": "11727",
       "city": "Coram",
       "state": "NY",
-      "lat": 40.870403,
-      "lng": -72.999023,
-      "storeCount": 1
+      "lat": 40.881251,
+      "lng": -73.007471,
+      "storeCount": 2
     },
     {
       "postalCode": "11738",
@@ -20122,9 +20122,9 @@
       "postalCode": "34952",
       "city": "Fort Pierce",
       "state": "FL",
-      "lat": 27.299003,
-      "lng": -80.31933,
-      "storeCount": 2
+      "lat": 27.292258,
+      "lng": -80.310273,
+      "storeCount": 3
     },
     {
       "postalCode": "34957-4424",
@@ -73348,9 +73348,9 @@
       "slug": "coram-ny",
       "city": "Coram",
       "state": "NY",
-      "lat": 40.870403,
-      "lng": -72.999023,
-      "storeCount": 1
+      "lat": 40.881251,
+      "lng": -73.007471,
+      "storeCount": 2
     },
     {
       "slug": "coraopolis-pa",
@@ -94756,9 +94756,9 @@
       "slug": "port-saint-lucie-fl",
       "city": "Port Saint Lucie",
       "state": "FL",
-      "lat": 27.312891,
-      "lng": -80.337747,
-      "storeCount": 2
+      "lat": 27.301517,
+      "lng": -80.322551,
+      "storeCount": 3
     },
     {
       "slug": "port-townsend-wa",

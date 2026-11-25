@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-24T04:11:23.862Z",
+  "generatedAt": "2026-11-25T02:56:29.188Z",
   "coverage": {
     "country": "US",
     "description": "Static ZIP and city centroids derived from the discovered McDonald's store set."
@@ -48332,14 +48332,6 @@
       "state": "TX",
       "lat": 32.251544,
       "lng": -97.727399,
-      "storeCount": 1
-    },
-    {
-      "postalCode": "76048-2814",
-      "city": "Granbury",
-      "state": "",
-      "lat": 32.432178,
-      "lng": -97.793633,
       "storeCount": 1
     },
     {
